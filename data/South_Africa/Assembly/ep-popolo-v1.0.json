@@ -456,17 +456,36 @@
       "name": "Raesibe Eunice Nyalungu"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kmubu@parliament.gov.za"
+        },
+        {
+          "type": "email",
+          "value": "ksmubu@yahoo.com"
+        }
+      ],
+      "email": "kmubu@parliament.gov.za",
       "gender": "male",
       "given_name": "Kenneth",
+      "honorific_prefix": "Mr",
       "id": "05718eb9-80fa-4958-a09c-cecb99c9ce4c",
       "identifiers": [
+        {
+          "identifier": "831",
+          "scheme": "peoples_assembly"
+        },
         {
           "identifier": "Q6390503",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kenneth-Mubu-MP-IRCOOP.jpg",
+      "image": "https://www.pa.org.za/media_root/cache/3d/cf/3dcf695586d8d4fb067bc9714c75041a.jpg",
       "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/3d/cf/3dcf695586d8d4fb067bc9714c75041a.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kenneth-Mubu-MP-IRCOOP.jpg"
         }
@@ -663,11 +682,22 @@
     },
     {
       "gender": "male",
+      "honorific_prefix": "Mr",
       "id": "09ea0ca1-8d09-46c1-9628-9dae4de812c7",
       "identifiers": [
         {
+          "identifier": "840",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890880",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/d4/78/d478ff45c00b56f44616affd11c1cebf.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/d4/78/d478ff45c00b56f44616affd11c1cebf.jpg"
         }
       ],
       "name": "Joel Sibusiso Ndebele"
@@ -2004,6 +2034,7 @@
       "death_date": "2015-03-15",
       "gender": "male",
       "given_name": "Collins",
+      "honorific_prefix": "Mr",
       "id": "17e49c6d-2e03-47f6-b61f-0ba81e3c0956",
       "identifiers": [
         {
@@ -2011,8 +2042,18 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "576",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q1109753",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/e2/ec/e2ecdcc4b3fd97048aca765d569db234.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/e2/ec/e2ecdcc4b3fd97048aca765d569db234.jpg"
         }
       ],
       "links": [
@@ -2213,6 +2254,7 @@
       "family_name": "Zuma",
       "gender": "male",
       "given_name": "Jacob",
+      "honorific_prefix": "Mr",
       "id": "19f42ebc-4a12-4032-a5b9-05bad8e67c85",
       "identifiers": [
         {
@@ -2280,6 +2322,10 @@
           "scheme": "nyt_topic"
         },
         {
+          "identifier": "1013",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Jacob-Zuma",
           "scheme": "quora"
         },
@@ -2300,8 +2346,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Jacob_Zuma,_2009_World_Economic_Forum_on_Africa-9-2.jpg",
+      "image": "https://www.pa.org.za/media_root/cache/fc/07/fc073f5ab3b6da719552907ff41a24cc.jpg",
       "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/fc/07/fc073f5ab3b6da719552907ff41a24cc.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Jacob_Zuma,_2009_World_Economic_Forum_on_Africa-9-2.jpg"
         }
@@ -4053,12 +4102,30 @@
       "name": "Nthibane Rebecca Mokoto"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mmoonsamy@parliament.gov.za"
+        }
+      ],
+      "email": "mmoonsamy@parliament.gov.za",
       "gender": "female",
+      "honorific_prefix": "Ms",
       "id": "2a8fcde8-4b49-48c3-8441-642a044128a0",
       "identifiers": [
         {
+          "identifier": "6680",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890857",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/b8/5c/b85c8aa86faa93a7b73c2a5d1d271741.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/b8/5c/b85c8aa86faa93a7b73c2a5d1d271741.jpg"
         }
       ],
       "name": "Magdalene Moonsamy"
@@ -4781,12 +4848,30 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sboshielo@parliament.gov.za"
+        }
+      ],
+      "email": "sboshielo@parliament.gov.za",
       "gender": "female",
+      "honorific_prefix": "Ms",
       "id": "304975a5-02ac-4cae-88b7-f1c433d771d6",
       "identifiers": [
         {
+          "identifier": "4316",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890797",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/c2/39/c2391689ba063a2f69ae5b11cb30ff7a.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/c2/39/c2391689ba063a2f69ae5b11cb30ff7a.jpg"
         }
       ],
       "name": "Shela Paulina Boshielo"
@@ -5131,14 +5216,32 @@
     },
     {
       "birth_date": "1960-10-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "moriani-ambrosini@parliament.gov.za"
+        }
+      ],
       "death_date": "2014-08-16",
+      "email": "moriani-ambrosini@parliament.gov.za",
       "gender": "male",
       "given_name": "Mario",
+      "honorific_prefix": "Dr",
       "id": "338db6bd-f90c-44c3-81c7-5c769c3d2ad8",
       "identifiers": [
         {
+          "identifier": "884",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q6764850",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/79/0d/790d9e5e47d1d17e439a38f960ad1506.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/79/0d/790d9e5e47d1d17e439a38f960ad1506.jpg"
         }
       ],
       "links": [
@@ -5849,12 +5952,30 @@
       "name": "Gwede Mantashe"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "klitchfield-tshabalala@parliament.gov.za"
+        }
+      ],
+      "email": "klitchfield-tshabalala@parliament.gov.za",
       "gender": "female",
+      "honorific_prefix": "Ms",
       "id": "3b7816d7-f594-4504-882c-d7582e4abdca",
       "identifiers": [
         {
+          "identifier": "6896",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q18206724",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/dd/f5/ddf5b9e88d0d0010248060f22df1efac.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/dd/f5/ddf5b9e88d0d0010248060f22df1efac.jpg"
         }
       ],
       "links": [
@@ -6389,11 +6510,22 @@
       "name": "Belinda Bozzoli"
     },
     {
+      "honorific_prefix": "Ms",
       "id": "44b74b82-cf40-474e-b525-36e4b83c38fd",
       "identifiers": [
         {
+          "identifier": "4200",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890739",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/ad/56/ad566c1accf9891e203ac01960db86b9.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/ad/56/ad566c1accf9891e203ac01960db86b9.jpg"
         }
       ],
       "name": "Mantsheng Anna Tsopo"
@@ -6726,12 +6858,30 @@
       "name": "Nhlanhla Xaba"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bjoseph@wcpp.gov.za"
+        }
+      ],
+      "email": "bjoseph@wcpp.gov.za",
       "gender": "male",
+      "honorific_prefix": "Mr",
       "id": "48c5c62c-232a-4812-9a61-bb75615f38bf",
       "identifiers": [
         {
+          "identifier": "6743",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890678",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/3d/c1/3dc13d4f02f16ab24b61fbbbc724e704.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/3d/c1/3dc13d4f02f16ab24b61fbbbc724e704.jpg"
         }
       ],
       "name": "Bernard Daniel Joseph"
@@ -7382,6 +7532,7 @@
     {
       "birth_date": "1942-05-22",
       "gender": "male",
+      "honorific_prefix": "Mr",
       "id": "50747a5b-f38c-4d26-96d7-bcb43a2fdb66",
       "identifiers": [
         {
@@ -7401,6 +7552,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "669",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "w63p86r1",
           "scheme": "snac"
         },
@@ -7417,8 +7572,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Pallo_Jordan.jpg",
+      "image": "https://www.pa.org.za/media_root/cache/27/ff/27ff86f25aa7ef85c7fb660e6dc66a36.jpg",
       "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/27/ff/27ff86f25aa7ef85c7fb660e6dc66a36.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Pallo_Jordan.jpg"
         }
@@ -8348,12 +8506,30 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mtshishonga@parliament.gov.za"
+        }
+      ],
+      "email": "mtshishonga@parliament.gov.za",
       "gender": "male",
+      "honorific_prefix": "Mr",
       "id": "5c5bb3a8-4221-453e-b160-e235b9cca4f2",
       "identifiers": [
         {
+          "identifier": "5226",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890751",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/22/30/22300b53c2ec9c61f5d4eb6cfe79aac8.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/22/30/22300b53c2ec9c61f5d4eb6cfe79aac8.jpg"
         }
       ],
       "name": "Michael Malisa Tshishonga"
@@ -8459,12 +8635,30 @@
       "name": "Mcebisi Skwatsha"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "amngxitama@parliament.gov.za"
+        }
+      ],
+      "email": "amngxitama@parliament.gov.za",
       "gender": "male",
+      "honorific_prefix": "Mr",
       "id": "5e0b1fcc-a28f-4e98-9d0f-b0543983ed86",
       "identifiers": [
         {
+          "identifier": "6683",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890848",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/d7/94/d794217081db8b6197ff08b5699ae5c1.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/d7/94/d794217081db8b6197ff08b5699ae5c1.jpg"
         }
       ],
       "name": "John Andile Mngxitama"
@@ -8809,12 +9003,34 @@
       "name": "Sahlulele Luzipo"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lgreyling@parliament.gov.za"
+        },
+        {
+          "type": "email",
+          "value": "lanceg@id.org.za"
+        }
+      ],
+      "email": "lgreyling@parliament.gov.za",
       "gender": "male",
+      "honorific_prefix": "Mr",
       "id": "621350a8-89c6-4a71-8943-efad7db1d826",
       "identifiers": [
         {
+          "identifier": "646",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890812",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/2f/1a/2f1a1fdb6c7c35152afa8234b80291c4.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/2f/1a/2f1a1fdb6c7c35152afa8234b80291c4.jpg"
         }
       ],
       "name": "Lance William Greyling"
@@ -9621,7 +9837,19 @@
       "name": "Simphiwe Donatus Bekwa"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jmcgluwa@parliament.gov.za"
+        },
+        {
+          "type": "email",
+          "value": "joem@id.org.za"
+        }
+      ],
+      "email": "jmcgluwa@parliament.gov.za",
       "gender": "male",
+      "honorific_prefix": "Mr",
       "id": "6c793c31-b30b-4769-919a-3f16b16d92dc",
       "identifiers": [
         {
@@ -9629,8 +9857,18 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "774",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890603",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/1d/87/1d8714fcd2f5bd7ed700c0e5108c9829.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/1d/87/1d8714fcd2f5bd7ed700c0e5108c9829.jpg"
         }
       ],
       "name": "Joseph Job McGluwa"
@@ -9677,11 +9915,22 @@
     },
     {
       "gender": "male",
+      "honorific_prefix": "Mr",
       "id": "6e38db8b-db8b-4048-a7c8-8e4fc49f44ea",
       "identifiers": [
         {
+          "identifier": "9653",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q44147245",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/37/22/3722440838606673c72d93c33255dfee.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/37/22/3722440838606673c72d93c33255dfee.jpg"
         }
       ],
       "links": [
@@ -10279,18 +10528,33 @@
       "name": "Pebane George Moteka"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dtg@wol.co.za"
+        }
+      ],
+      "email": "dtg@wol.co.za",
       "family_name": "George",
       "gender": "male",
       "given_name": "Dion",
+      "honorific_prefix": "Dr",
       "id": "78620417-e341-43f9-9259-e8c540718530",
       "identifiers": [
+        {
+          "identifier": "638",
+          "scheme": "peoples_assembly"
+        },
         {
           "identifier": "Q5279277",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dion_George_DA_MP.jpg",
+      "image": "https://www.pa.org.za/media_root/cache/7a/4e/7a4ec5b6c466dd30c4cdce8bad59391f.jpg",
       "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/7a/4e/7a4ec5b6c466dd30c4cdce8bad59391f.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dion_George_DA_MP.jpg"
         }
@@ -10469,15 +10733,23 @@
     {
       "birth_date": "1955-09-25",
       "gender": "female",
+      "honorific_prefix": "Ms",
       "id": "7b6bc757-8abe-4b31-8595-2140d1c57f67",
       "identifiers": [
+        {
+          "identifier": "1007",
+          "scheme": "peoples_assembly"
+        },
         {
           "identifier": "Q6702772",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lulu_Xingwana_2013_crop.jpg",
+      "image": "https://www.pa.org.za/media_root/cache/ac/a2/aca2edda20fdc9fb61db5bd2bd00bc9c.jpg",
       "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/ac/a2/aca2edda20fdc9fb61db5bd2bd00bc9c.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lulu_Xingwana_2013_crop.jpg"
         }
@@ -10510,11 +10782,29 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nmdaka@parliament.gov.za"
+        }
+      ],
+      "email": "nmdaka@parliament.gov.za",
+      "honorific_prefix": "Ms",
       "id": "7c0133aa-26d8-4368-a3bc-1b24a6c1f23b",
       "identifiers": [
         {
+          "identifier": "776",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q16765120",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/2a/46/2a46ae65ad026d0a4e1703638b84e530.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/2a/46/2a46ae65ad026d0a4e1703638b84e530.jpg"
         }
       ],
       "name": "Nomakhaya Mavis Mdaka",
@@ -10706,17 +10996,32 @@
     },
     {
       "birth_date": "1945-08-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "speaker@parliament.gov.za"
+        }
+      ],
+      "email": "speaker@parliament.gov.za",
       "gender": "male",
       "given_name": "Max",
+      "honorific_prefix": "Mr",
       "id": "7f9a782a-38e5-4100-8ab5-66fa02d591a8",
       "identifiers": [
+        {
+          "identifier": "934",
+          "scheme": "peoples_assembly"
+        },
         {
           "identifier": "Q6795248",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Max_Sisulu_(1985).jpg",
+      "image": "https://www.pa.org.za/media_root/cache/ec/30/ec304d105c9b9a5ac455f37a1766ab6c.jpg",
       "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/ec/30/ec304d105c9b9a5ac455f37a1766ab6c.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Max_Sisulu_(1985).jpg"
         }
@@ -14278,11 +14583,22 @@
       "name": "Mzameni Richard Mdakane"
     },
     {
+      "honorific_prefix": "Mr",
       "id": "ac3f2d0c-1966-4041-9c6e-b7bd761d51e4",
       "identifiers": [
         {
+          "identifier": "6675",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890891",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/23/fe/23fe965b89d410cf3a55e89d266f5318.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/23/fe/23fe965b89d410cf3a55e89d266f5318.jpg"
         }
       ],
       "name": "Ramakaudi Paul Ramakatsa"
@@ -14596,11 +14912,22 @@
       "name": "Thomas Makondo"
     },
     {
+      "honorific_prefix": "Mr",
       "id": "b25e9445-f3e9-41a9-91b0-2961f6bafc73",
       "identifiers": [
         {
+          "identifier": "6897",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890786",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/7b/be/7bbe4ddc4bc56bb2e5deeb3ebdb67a29.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/7b/be/7bbe4ddc4bc56bb2e5deeb3ebdb67a29.jpg"
         }
       ],
       "name": "Diliza Lucky Twala"
@@ -15385,12 +15712,30 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jamesm@jantar.co.za"
+        }
+      ],
+      "email": "jamesm@jantar.co.za",
       "gender": "male",
+      "honorific_prefix": "Mr",
       "id": "be43047d-fbd2-4b69-8b5a-1ad91e3db4db",
       "identifiers": [
         {
+          "identifier": "746",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q7635249",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/c6/cf/c6cff345323242d3557d87bb633d954c.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/c6/cf/c6cff345323242d3557d87bb633d954c.jpg"
         }
       ],
       "links": [
@@ -16539,11 +16884,22 @@
       "name": "Lindiwe Michelle Maseko"
     },
     {
+      "honorific_prefix": "Mr",
       "id": "cd47fc79-4846-485b-8513-294387149e54",
       "identifiers": [
         {
+          "identifier": "4321",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890561",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/c3/73/c373c0c2d4ca4c72e3e5c735b73bfa92.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/c3/73/c373c0c2d4ca4c72e3e5c735b73bfa92.jpg"
         }
       ],
       "name": "Hlakudi Frans Nkoana"
@@ -17295,13 +17651,31 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ampontshane@parliament.gov.za"
+        }
+      ],
+      "email": "ampontshane@parliament.gov.za",
       "gender": "male",
       "given_name": "Alfred",
+      "honorific_prefix": "Mr",
       "id": "d52b06b3-7a97-4fa5-a8e6-5a29d1714f40",
       "identifiers": [
         {
+          "identifier": "825",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q16744410",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/ea/a9/eaa911ce50103e468945a3b5ddc93dfa.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/ea/a9/eaa911ce50103e468945a3b5ddc93dfa.jpg"
         }
       ],
       "name": "Alfred Mkhipheni Mpontshane",
@@ -17348,8 +17722,16 @@
     },
     {
       "birth_date": "1959-09-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nntwanambi@parliament.gov.za"
+        }
+      ],
       "death_date": "2014-07-08",
+      "email": "nntwanambi@parliament.gov.za",
       "gender": "female",
+      "honorific_prefix": "Ms",
       "id": "d5c501fe-65c8-4580-b768-c8a289899fd1",
       "identifiers": [
         {
@@ -17357,8 +17739,18 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1059",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q17466747",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/04/dd/04ddd3017b831a5ce86818ed7c6178ba.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/04/dd/04ddd3017b831a5ce86818ed7c6178ba.jpg"
         }
       ],
       "links": [
@@ -17682,11 +18074,22 @@
     },
     {
       "gender": "female",
+      "honorific_prefix": "Ms",
       "id": "dad867e5-d383-48ad-ae91-3ada889bddc1",
       "identifiers": [
         {
+          "identifier": "869",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q16744483",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/1d/57/1d5781a6940a41f4033aef2431633dcb.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/1d/57/1d5781a6940a41f4033aef2431633dcb.jpg"
         }
       ],
       "name": "Bongi Maria Ntuli",
@@ -18296,12 +18699,30 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ybotha@parliament.gov.za"
+        }
+      ],
+      "email": "ybotha@parliament.gov.za",
       "gender": "female",
+      "honorific_prefix": "Ms",
       "id": "e15b4675-2e1d-462c-b969-2b061f60b246",
       "identifiers": [
         {
+          "identifier": "567",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890722",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/f6/49/f649cf50d3692c707530ff5e5778db04.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/f6/49/f649cf50d3692c707530ff5e5778db04.jpg"
         }
       ],
       "name": "Yolanda Rachel Botha"
@@ -18413,11 +18834,22 @@
       "name": "Andries Nel"
     },
     {
+      "honorific_prefix": "Mr",
       "id": "e2092740-062d-4b3c-a8ca-a263844123a5",
       "identifiers": [
         {
+          "identifier": "4176",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890821",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
         }
       ],
       "name": "Ncediso Goodenough Kodwa"
@@ -18456,11 +18888,29 @@
       "name": "Nomsa Innocencia Tarabella-Marchesi"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jramokhoase@parliament.gov.za"
+        }
+      ],
+      "email": "jramokhoase@parliament.gov.za",
+      "honorific_prefix": "Mr",
       "id": "e29ee895-eabd-4483-a68b-4d7f818f4f76",
       "identifiers": [
         {
+          "identifier": "4270",
+          "scheme": "peoples_assembly"
+        },
+        {
           "identifier": "Q47890578",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/58/a3/58a3a34f0ed5addfc6ad9ff26fdce49d.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/58/a3/58a3a34f0ed5addfc6ad9ff26fdce49d.jpg"
         }
       ],
       "name": "Tete Ramalie Jonas Ezekiel Ramokhoase"
