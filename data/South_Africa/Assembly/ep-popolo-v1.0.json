@@ -147,6 +147,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Anchen_Dreyer"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Anchen_Dreyer"
         }
@@ -608,6 +612,12 @@
           "url": "https://www.pa.org.za/media_root/cache/51/84/5184c2093eaf4d8579946fefd83f3bad.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Dalton_Hlamalani_Khosa"
+        }
+      ],
       "name": "Dalton Hlamalani Khosa"
     },
     {
@@ -743,6 +753,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Patricia_Kopane"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Patricia_Kopane"
         }
@@ -797,6 +811,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Kevin_Mileham"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kevin_Mileham"
@@ -1247,7 +1265,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529856",
+          "identifier": "Q16746670",
           "scheme": "wikidata"
         }
       ],
@@ -1257,7 +1275,20 @@
           "url": "https://www.pa.org.za/media_root/cache/c4/c0/c4c04430cdc869cea5627111870125dc.jpg"
         }
       ],
-      "name": "Tandiwe Elizabeth Kenye"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Tandiwe_Kenye"
+        }
+      ],
+      "name": "Tandiwe Elizabeth Kenye",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tandiwe Kenye",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-11-10",
@@ -1436,6 +1467,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Gavin_Davis"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Gavin_Davis"
@@ -2230,6 +2265,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Geordin_Hill-Lewis"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Geordin_Hill-Lewis"
         }
@@ -2891,6 +2930,12 @@
           "url": "https://www.pa.org.za/media_root/cache/41/f6/41f67ce337027b85b49970f240705888.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Nomalungelo_Gina"
+        }
+      ],
       "name": "Nomalungelo Gina"
     },
     {
@@ -3319,7 +3364,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529919",
+          "identifier": "Q16744307",
           "scheme": "wikidata"
         }
       ],
@@ -3329,7 +3374,20 @@
           "url": "https://www.pa.org.za/media_root/cache/db/07/db07138b689d197fa7f8ea45af258ba9.jpg"
         }
       ],
-      "name": "Nthabiseng Pauline Khunou"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Nthabiseng_Khunou"
+        }
+      ],
+      "name": "Nthabiseng Pauline Khunou",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nthabiseng Khunou",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-03-25",
@@ -3369,6 +3427,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/John_Steenhuisen"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/John_Steenhuisen"
@@ -3570,6 +3632,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Dean_Macpherson"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Dean_Macpherson"
         }
@@ -3649,6 +3715,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Lindiwe_Zulu"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Lindiwe_Zulu"
@@ -3819,6 +3889,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Karen_Jooste"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Karen_Jooste"
@@ -4031,6 +4105,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/c1/46/c146307dbe8251b4eb73072654c3c031.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Ebrahim_Ismail_Ebrahim"
         }
       ],
       "name": "Ebrahim Ismail Ebrahim"
@@ -4420,6 +4500,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Shahid_Esau"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Shahid_Esau"
         }
@@ -4465,6 +4549,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Tarnia_Baker"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Tarnia_Baker"
@@ -4700,6 +4788,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Sej_Motau"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Sej_Motau"
@@ -5115,6 +5207,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Derrick_America"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Derrick_America"
         }
@@ -5150,6 +5246,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/36/c7/36c7a1b52dafcf28a4b063602788b713.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Vatiswa_Bam-Mugwanya"
         }
       ],
       "name": "Vatiswa Bam-Mugwanya"
@@ -5396,6 +5498,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Zakhele_Mbhele"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Zakhele_Mbhele"
         },
@@ -5592,6 +5698,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:James_Selfe"
+        },
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/James_Selfe"
         },
         {
           "note": "Wikipedia (en)",
@@ -5794,6 +5904,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Chris_Hunsinger"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Chris_Hunsinger"
         }
@@ -5884,7 +5998,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529942",
+          "identifier": "Q16746651",
           "scheme": "wikidata"
         }
       ],
@@ -5894,7 +6008,20 @@
           "url": "https://www.pa.org.za/media_root/cache/d1/b1/d1b194db6870ac94b0538340a0318391.jpg"
         }
       ],
-      "name": "Mary-Ann Lindelwa Dunjwa"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mary-Ann_Dunjwa"
+        }
+      ],
+      "name": "Mary-Ann Lindelwa Dunjwa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mary-Ann Dunjwa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-06-21",
@@ -6780,6 +6907,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Makhosi_Khoza"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Makhosi_Khoza"
         }
@@ -6924,6 +7055,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Natasha_Mazzone"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Natasha_Mazzone"
@@ -7517,7 +7652,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529764",
+          "identifier": "Q16744393",
           "scheme": "wikidata"
         }
       ],
@@ -7527,7 +7662,20 @@
           "url": "https://www.pa.org.za/media_root/cache/74/44/7444a2fca6cef212147091360244226c.jpg"
         }
       ],
-      "name": "Ndabakayise Erasmus Gcwabaza"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Ndabakayise_Gcwabaza"
+        }
+      ],
+      "name": "Ndabakayise Erasmus Gcwabaza",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ndabakayise Gcwabaza",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1942-05-22",
@@ -7746,6 +7894,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Erik_Marais"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Erik_Marais"
@@ -8022,6 +8174,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Annelie_Lotriet"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Annelie_Lotriet"
         }
@@ -8089,6 +8245,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/John_Jeffery_(politikus)"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/John_Jeffery_(politician)"
@@ -8162,6 +8322,7 @@
       ],
       "email": "gkoornhof@parliament.gov.za",
       "gender": "male",
+      "given_name": "Gerhardus",
       "honorific_prefix": "Dr",
       "id": "57f3254a-fa28-473a-a7de-0310c5665453",
       "identifiers": [
@@ -8174,7 +8335,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529796",
+          "identifier": "Q16746675",
           "scheme": "wikidata"
         }
       ],
@@ -8184,7 +8345,20 @@
           "url": "https://www.pa.org.za/media_root/cache/91/57/9157e0ec17bed0546babd293beb0d16d.jpg"
         }
       ],
-      "name": "Gerhardus Willem Koornhof"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Gerhardus_Koornhof"
+        }
+      ],
+      "name": "Gerhardus Willem Koornhof",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gerhardus Koornhof",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -8370,6 +8544,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Denise_Robinson"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Denise_Robinson"
         }
@@ -8491,6 +8669,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Phumzile_van_Damme"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Phumzile_van_Damme"
@@ -8717,7 +8899,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47530008",
+          "identifier": "Q16746628",
           "scheme": "wikidata"
         }
       ],
@@ -8727,7 +8909,20 @@
           "url": "https://www.pa.org.za/media_root/cache/c4/1f/c41f0067eb0306f394bcfda4870d48ae.jpg"
         }
       ],
-      "name": "Mnyamezeli Shedrack Booi"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mnyamezeli_Booi"
+        }
+      ],
+      "name": "Mnyamezeli Shedrack Booi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mnyamezeli Booi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -9173,6 +9368,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Stevens_Mokgalapa"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Stevens_Mokgalapa"
@@ -9727,6 +9926,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/James_Lorimer_(Suid-Afrikaanse_politikus)"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/James_Lorimer_(South_African_politician)"
         }
@@ -9795,6 +9998,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/4e/83/4e83d87d3d2e23719977a3f316144e64.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Ndumiso_Capa"
         }
       ],
       "name": "Ndumiso Capa"
@@ -10609,6 +10818,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/David_Maynier"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/David_Maynier"
         }
@@ -10680,6 +10893,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/c4/52/c45241d317f292a8e8df12aaafdd41cc.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mervyn_Alexander_Dirks"
         }
       ],
       "name": "Mervyn Alexander Dirks"
@@ -10891,6 +11110,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Cedric_Frolick"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Cedric_Frolick"
         }
@@ -11096,6 +11319,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Dianne_Kohler_Barnard"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Dianne_Kohler_Barnard"
@@ -11410,6 +11637,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Sandy_Kalyan"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Sandy_Kalyan"
         },
@@ -11461,6 +11692,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/cb/e7/cbe7fde3787a561baa36def0e2475b35.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Dorries_Eunice_Dlakude"
         }
       ],
       "name": "Dorries Eunice Dlakude"
@@ -11530,6 +11767,7 @@
       ],
       "email": "dkekana@parliament.gov.za",
       "gender": "male",
+      "given_name": "Charles",
       "honorific_prefix": "Mr",
       "id": "8601214b-a2a9-4331-9859-c184fee18363",
       "identifiers": [
@@ -11542,7 +11780,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529778",
+          "identifier": "Q16744338",
           "scheme": "wikidata"
         }
       ],
@@ -11552,7 +11790,20 @@
           "url": "https://www.pa.org.za/media_root/cache/b7/c5/b7c5da61afff07ab252c4da1e34a669a.jpg"
         }
       ],
-      "name": "Charles Danny Kekana"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Charles_Kekana"
+        }
+      ],
+      "name": "Charles Danny Kekana",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Charles Kekana",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -11633,6 +11884,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/a0/52/a05256051fb5499ee9b2ca80791d8238.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mmatlala_Grace_Boroto"
         }
       ],
       "name": "Mmatlala Grace Boroto"
@@ -12335,7 +12592,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529996",
+          "identifier": "Q16746676",
           "scheme": "wikidata"
         }
       ],
@@ -12345,11 +12602,17 @@
           "url": "https://www.pa.org.za/media_root/cache/28/a7/28a71d2b9a909053ea0229a3210e1db2.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Zoliswa_Kota-Fredericks"
+        }
+      ],
       "name": "Zoe Kota-Fredericks",
       "other_names": [
         {
           "lang": "en",
-          "name": "Zoliswa Albertina Kota-Fredericks",
+          "name": "Zoliswa Kota-Fredericks",
           "note": "multilingual"
         }
       ]
@@ -12420,6 +12683,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/c2/1b/c21bab298c84f5d4f6c3892f8e92e417.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Freddie_Adams"
         }
       ],
       "name": "Freddie Adams"
@@ -12495,6 +12764,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Manuel_De_Freitas"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Manuel_de_Freitas"
@@ -12783,6 +13056,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/75/9e/759e643eda4157d881edcc4eaf42fe68.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Bongekile_Jabulile_Dlomo"
         }
       ],
       "name": "Bongekile Jabulile Dlomo"
@@ -13756,6 +14035,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mlungisi_Johnson"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Mlungisi_Johnson"
         }
@@ -14074,6 +14357,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Glynnis_Breytenbach"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Glynnis_Breytenbach"
@@ -14827,6 +15114,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Marius_Redelinghuys"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Marius_Redelinghuys"
         }
@@ -15354,11 +15645,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Pinky_Kekana"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Pinky_Kekana"
         }
       ],
-      "name": "Pinky Sharon Kekana"
+      "name": "Pinky Sharon Kekana",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Pinky Kekana",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980",
@@ -16048,6 +16350,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Pieter_van_Dalen"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Pieter_van_Dalen"
         }
@@ -16087,6 +16393,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mcebisi_Jonas"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mcebisi_Jonas"
@@ -16332,6 +16642,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/70/f2/70f2465af5750a98584ae09d7df915f0.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Phumzile_Bhengu-Kombe"
         }
       ],
       "name": "Phumzile Bhengu-Kombe"
@@ -16668,6 +16984,12 @@
           "url": "https://www.pa.org.za/media_root/cache/e4/53/e4533c95a177d477f1330891d821eb0a.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Joyce_Vuyiswa_Basson"
+        }
+      ],
       "name": "Joyce Vuyiswa Basson"
     },
     {
@@ -16703,6 +17025,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Faith_Muthambi"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Faith_Muthambi"
@@ -17275,6 +17601,12 @@
           "url": "https://www.pa.org.za/media_root/cache/c6/4d/c64d6596b5dd0d9deb59eae419d4d73f.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Francois_Beukman"
+        }
+      ],
       "name": "Francois Beukman"
     },
     {
@@ -17331,7 +17663,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529835",
+          "identifier": "Q16744386",
           "scheme": "wikidata"
         }
       ],
@@ -17341,7 +17673,20 @@
           "url": "https://www.pa.org.za/media_root/cache/2b/7b/2b7bc1671775370d8e469110deea33ef.jpg"
         }
       ],
-      "name": "Mosie Antony Cele"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mosie_Cele"
+        }
+      ],
+      "name": "Mosie Antony Cele",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mosie Cele",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -17632,6 +17977,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Yunus_Carrim"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Yunus_Carrim"
@@ -18140,6 +18489,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mike_Waters_(politikus)"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Mike_Waters"
         },
@@ -18338,6 +18691,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Ian_Ollis"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Ian_Ollis"
         },
@@ -18388,6 +18745,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/3c/b1/3cb1ab676cc4a2ce3f275b81bc14c151.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Ezekiel_Kekana"
         }
       ],
       "name": "Ezekiel Kekana"
@@ -18521,6 +18884,12 @@
           "url": "https://www.pa.org.za/media_root/cache/79/51/7951af4d376b7ae4c1be8815010ec2ff.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Zephroma_Sizani_Dubazana"
+        }
+      ],
       "name": "Zephroma Sizani Dubazana",
       "other_names": [
         {
@@ -18579,7 +18948,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529941",
+          "identifier": "Q16746680",
           "scheme": "wikidata"
         }
       ],
@@ -18589,11 +18958,17 @@
           "url": "https://www.pa.org.za/media_root/cache/b4/17/b4178ded8fa09c978bb272e9892bcdc6.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mmamoloko_Kubayi"
+        }
+      ],
       "name": "Mmamoloko Tryphosa Kubayi-Ngubane",
       "other_names": [
         {
           "lang": "en",
-          "name": "Mmamoloko Tryphosa Kubayi",
+          "name": "Mmamoloko Kubayi",
           "note": "multilingual"
         }
       ]
@@ -19386,6 +19761,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Wilmot_James"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Wilmot_James"
         }
@@ -19623,7 +20002,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47530017",
+          "identifier": "Q16746644",
           "scheme": "wikidata"
         }
       ],
@@ -19633,7 +20012,20 @@
           "url": "https://www.pa.org.za/media_root/cache/d3/35/d3350c0a33f6ce48aff358d2d1d34358.jpg"
         }
       ],
-      "name": "Beauty Nomvuzo Dlulane"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Beauty_Dlulane"
+        }
+      ],
+      "name": "Beauty Nomvuzo Dlulane",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Beauty Dlulane",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -19989,11 +20381,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Brandon_Topham"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Brandon_Topham"
         }
       ],
-      "name": "Brandon Rodney Topham"
+      "name": "Brandon Rodney Topham",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Brandon Topham",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1936-09-26",
@@ -20636,6 +21039,12 @@
           "url": "https://www.pa.org.za/media_root/cache/e8/d6/e8d67bb0287f1dd232bc3f5fbe38431a.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Nkhensani_Kate_Bilankulu"
+        }
+      ],
       "name": "Nkhensani Kate Bilankulu"
     },
     {
@@ -20675,7 +21084,14 @@
           "url": "https://af.wikiquote.org/wiki/Sibusiso_Mncwabe"
         }
       ],
-      "name": "Sibusiso Christopher Mncwabe"
+      "name": "Sibusiso Christopher Mncwabe",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Sibusiso Mncwabe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -20743,6 +21159,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/e9/d1/e9d18afc14924d7eb7284f6ec5b2fd6d.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mamonare_Patricia_Chueu"
         }
       ],
       "name": "Mamonare Patricia Chueu"
@@ -21150,6 +21572,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Jeff_Radebe"
         },
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Jeff_Radebe"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Jeff_Radebe"
         },
@@ -21216,6 +21642,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Marian_Shinn"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Marian_Shinn"
@@ -21483,7 +21913,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529857",
+          "identifier": "Q16744306",
           "scheme": "wikidata"
         }
       ],
@@ -21493,7 +21923,20 @@
           "url": "https://www.pa.org.za/media_root/cache/bf/70/bf7076f96672e7b10bfb28ddd72d78f4.jpg"
         }
       ],
-      "name": "Lefu Peter Khoarai"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Lefu_Khoarai"
+        }
+      ],
+      "name": "Lefu Peter Khoarai",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lefu Khoarai",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1990",
@@ -21533,6 +21976,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Yusuf_Cassim"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Yusuf_Cassim"
@@ -21629,6 +22076,12 @@
         {
           "lang": "ja",
           "name": "アフリカ独立会議",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Congreso Independiente Africano",
           "note": "multilingual",
           "source": "wikidata-label"
         }
