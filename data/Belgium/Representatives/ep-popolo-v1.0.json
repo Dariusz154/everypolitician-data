@@ -17829,57 +17829,4045 @@
   "areas": [
     {
       "id": "antwerpen",
+      "identifiers": [
+        {
+          "identifier": "2803136",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "53114",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/0fyfc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "BE01",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "11943066b",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "Q1116",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Antwerpen",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Provincia d'Anvers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "أنتفيرب",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Provincia d'Amberes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "правінцыя Антверпен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Антвэрпэн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Антверпен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "এন্টওয়ার্প",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Província d'Anvers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Provincie Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Antverpy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Provinz Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αμβέρσα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Antwerp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_gb",
+          "name": "Province of Antwerp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Antverpeno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Provincia de Amberes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Antwerpeni provints",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Anberesko probintzia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "استان آنتورپ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Antwerpenin lääni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "province d'Anvers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Provincia de Antwerp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "એન્ટવર્પ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "एंटवर्प (प्रांत )",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Անտվերպեն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Antwerpen-hérað",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "provincia d'Anversa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アントウェルペン州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ანტვერპენის პროვინცია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಆಂಟ್ವರ್ಪ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "안트베르펜 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Antverpia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Provënz Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Antwerpe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Antverpeno provincija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Antverpene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Антверпен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अँटवर्प",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Wilayah Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Antwerp Séng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds_nl",
+          "name": "Antwaarp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Província d'Anvèrs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prowincja Antwerpia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "صوبہ انٹیورپ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Antuérpia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Antuérpia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Anvers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Антверпен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "අන්ට්වර්ප්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Antverpy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Провинција Антверпен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "அன்ட்வெர்ப்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "ఆంట్వర్ప్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "มณฑลแอนต์เวิร์ป",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Anvers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Антверпен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "اینٹورپ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Antwerpn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Province d' Anverse",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zea",
+          "name": "Antwerpen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安特衛普省",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "安特卫普省",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "brussel-hoofdstad",
+      "identifiers": [
+        {
+          "identifier": "2800865",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "Q90870",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Brussel-Hoofdstad",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "بروكسل العاصمة",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Distritu de Bruxeles-Capital",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "адміністрацыйная акруга Брусель-Сталіца",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "адміністрацыйная акруга Брусэль-Сталіца",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Брюксел-Столица",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Arondisamant Brusel-Kêrbenn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Arrondissement Brussel-Hoofdstad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Arrondissement Brusel-hlavní město",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Arrondissement Brüssel-Hauptstadt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Διοικητικό διαμέρισμα των Βρυξελλών",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Arrondissement of Brussels-Capital",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Arondismento Bruselo-Ĉefurbo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Pealinna Brüsseli ringkond",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "شهرستان بروسل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "arrondissement administratif de Bruxelles-Capitale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "arrondissement di Bruxelles-Capitale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ブリュッセル首都圏行政区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Arrondissement Bréissel-Haaptstad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Arrondissement Brussel-Hoofdstad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "arondismentul Bruxelles-Capitala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Брюссель-Столица",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Arrondissement Brussel-Hoofdstad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "округ Брюссель-Столиця",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Brussels-Thủ đô",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "布鲁塞尔首都大区市镇",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "henegouwen",
+      "identifiers": [
+        {
+          "identifier": "2796741",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "157559",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/013x15",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "BE03",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "Regional/Europe/Belgium/Regions/Wallonia/Hainaut/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "Q1129",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Henegouwen",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "هينو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Provincia de Henao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Eno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "правінцыя Эно",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Эно",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Ено",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "হাইনট",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Province du Hainaut",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Henegavsko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Provinz Hennegau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αινώ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hainaut",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Henegovio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Provincia de Henao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Hainauteko probintzia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "استان انو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Hainaut'n lääni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Hennegau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Henegouwen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Provincia de Hainaut",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "હૈનૌટ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אנו",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "हैनौत (प्रांत)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Էնո",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "provincia dell'Hainaut",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エノー州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ენოს პროვინცია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಹೈನಾಟ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "에노 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Hennot",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Henogovia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Provënz Hainaut",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Henegouwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Heno provincija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Eno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Ено",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "एनो",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Hainaut Séng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds_nl",
+          "name": "Hainego",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Henegouwen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Enaut",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Hénau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prowincja Hainaut",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "حینا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Эно",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "හයිනෞට්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Hennegavsko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Провинција Ено",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஹெயினாட்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "హాయినాట్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "มณฑลแอโน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ено",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "ہائنو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Enegouwn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Province do Hinnot",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "埃諾省",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "埃诺省",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "limburg",
+      "identifiers": [
+        {
+          "identifier": "2792347",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "53142",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/0hzmv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "4035747-8",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "BE05",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "place/Limburg-province-Belgium",
+          "scheme": "britannica"
+        },
+        {
+          "identifier": "Q1095",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Limburg",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Limburg, België",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Limburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "ليمبورغ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "ليمبورج , بلجيكا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "правінцыя Лімбург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Лімбург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Лимбург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "লিমবার্গ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Limbourg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Provincie Limburg (lalawigan)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Limburk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Λιμβουργία",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Limburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Limburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Limburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Limburgi provints",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Linburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "استان لمبورگ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Limburgin lääni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Limbourg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Limburch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Provincia de Limburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "લિમ્બર્ગ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "लिम्बर्ग (नीदरलैंड्स)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Լիմբուրգ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Limburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "リンブルフ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ლიმბურგის პროვინცია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಲಿಂಬರ್ಗ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "림뷔르흐 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Limburrsh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Limburgum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Provënz Limburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Belsj Limburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Limburgo provincija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Limburga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Лимбург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "लिमबर्ग",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Limburgu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Limburg Séng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds_nl",
+          "name": "Limbörg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Província de Limborg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Лимбург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prowincja Limburgia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "صوبہ لمبرگ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Limburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Limburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лимбург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "ලිම්බර්ග්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Limbursko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Провинција Лимбург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "லிம்பெர்க்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "లింబర్గ్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "มณฑลลิมเบิร์ก",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Лімбург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "لمبرگ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Belgisch Limburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Province do Limbork",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "林堡省",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "luik",
+      "identifiers": [
+        {
+          "identifier": "2792411",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "1407192",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/013d56",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "4036534-7",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "BE04",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "Regional/Europe/Belgium/Regions/Wallonia/Liège/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "11940624b",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "143892616",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1127",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Luik",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Luik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Provincia de Lidje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "لياج",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Provincia de Lieja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Lej",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "правінцыя Льеж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Льеж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Лиеж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "লিয়েজ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "província de Lieja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Province de Liège",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Lutych",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cv",
+          "name": "Льеж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Provinz Lüttich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_ch",
+          "name": "Provinz Lüttich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Λιέγη",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liège",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Lieĝo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Provincia de Lieja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Liège'i provints",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Liejako probintzia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "استان لیژ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Liègen pronssi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "province de Liège",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Luik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Provincia de Liexa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "લીજ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "लीज",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Լիեժ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Liege",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "provincia di Liegi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "リエージュ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ლიეჟის პროვინცია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಲೀಜ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "리에주 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Lüttish",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Provënz Léck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Luuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Lježo provincija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Ljēža",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Лиеж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "लीज",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Liege",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Liège Séng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Luik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Província de Lièja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prowincja Liège",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "صوبہ لیجے",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Льеж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "ලයිගේ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Lutyšsko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "provinca Liège",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Провинција Лијеж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "லீஜ்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "లియేజ్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "มณฑลลีแยฌ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Льєж",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "لییج",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Luuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Province di Lidje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "列日省",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "luxemburg",
+      "identifiers": [
+        {
+          "identifier": "2791993",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "1412581",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/0hznq",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "BE06",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "place/Luxembourg-province-Belgium",
+          "scheme": "britannica"
+        },
+        {
+          "identifier": "Regional/Europe/Belgium/Regions/Wallonia/Luxembourg/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "Q1126",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Luxemburg",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Provincia de Luxemburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "لوكسمبورغ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "правінцыя Люксембург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Люксэмбург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Люксембург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "লাক্সেমবার্গ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Luksembourg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Província de Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Province du Luxembourg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Lucemburk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cv",
+          "name": "Люксембург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Provinz Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_ch",
+          "name": "Provinz Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Λουξεμβούργο",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Luxembourg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Luksemburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Provincia de Luxemburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Luxembourg'i provints",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Luxenburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کانتون لوکزامبورگ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Luxembourgin lääni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "province de Luxembourg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Lúksemboarch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Provincia de Luxemburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Provinz Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "લક્ઝમબર્ગ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "לוקסמבורג",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "लक्ज़मबर्ग",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Լյուքսեմբուրգ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Luksemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Lúxemborg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "provincia del Lussemburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "リュクサンブール州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ლუქსემბურგის პროვინცია (ბელგია)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಲಕ್ಸೆಂಬರ್ಗ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "뤽상부르 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Luxemburgum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Provënz Lëtzebuerg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Liuksemburgo provincija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Luksemburga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Луксембург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "लक्झेंबर्ग",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Luxembourg Séng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds_nl",
+          "name": "Luxembörg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Provincie Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Província de Luxemborg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prowincja Luksemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "صوبہ لکسمبورگ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Luxemburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Luxemburgo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Люксембург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "ලක්සම්බර්ග්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Luxembourg (provincia)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Провинција Луксембург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "லக்செம்பெர்க்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "లక్సెమ్‌బర్గ్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "มณฑลลักเซมเบิร์ก",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Lüksemburg, Belçika",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Люксембург",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "لکسمبرگ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Luxemburg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Province do Lussimbork",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "盧森堡省",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "卢森堡省",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "namen",
+      "identifiers": [
+        {
+          "identifier": "2790469",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "1311816",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/013x2x",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "BE07",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "place/Namur-province-Belgium",
+          "scheme": "britannica"
+        },
+        {
+          "identifier": "Regional/Europe/Belgium/Regions/Wallonia/Namur/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "119486081",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "Q1125",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Namen",
+      "other_names": [
+        {
+          "lang": "an",
+          "name": "Provincia de Nameur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "نامور",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Provincia de Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Namyur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Provinz Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "правінцыя Намюр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Намюр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Намюр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "নামুর",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Província de Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Province de Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Provinz Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_ch",
+          "name": "Provinz Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ναμύρ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Namuro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Provincia de Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Namuri provints",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Namurreko probintzia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "استان نمور",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Namurin lääni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "province de Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Namen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Provincia de Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "નામુર",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "नामुर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Նամյուր",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "provincia di Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ナミュール州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ნამიურის პროვინცია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ನಾಮುರ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "나무르 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Namür",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Namurcum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Provënz Namouer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Name",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Namiūro provincija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Namīra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "नामुर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Namur Séng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Namen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Província de Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prowincja Namur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "صوبہ نامور",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Намюр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "නමුර්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Namursko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Провинција Намир",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நமுர்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "నాముర్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "มณฑลนามูร์",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Намюр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "نامور",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Noamn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Province di Nameur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "那慕爾省",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "那慕尔省",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "oost-vlaanderen",
+      "identifiers": [
+        {
+          "identifier": "2789733",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "53135",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/013v_g",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "BE08",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "place/East-Flanders",
+          "scheme": "britannica"
+        },
+        {
+          "identifier": "Regional/Europe/Belgium/Regions/Flanders/Oost-Vlaanderen/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "Q1114",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Oost-Vlaanderen",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Oos-Vlaandere",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Flandres Oriental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "فلاندر الشرقية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "فلاندر الشرقيه",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Provincia de Flandes Oriental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Şərqi Flandiriya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Усходняя Фландрыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Усходняя Фляндрыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Източна Фландрия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ইস্ট ফ্লান্ডার্স",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Reter-Flandrez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Flandes Oriental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Provincie Oost-Vlaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Východní Flandry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Dwyrain Fflandrys",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Østflandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Provinz Ostflandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ανατολική Φλάνδρα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "East Flanders",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Orienta Flandrio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Provincia de Flandes Oriental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Ida-Flandria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Ekialdeko Flandria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "استان فلاندری شرقی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Itä-Flanderi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Flandre-Orientale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "East-Flaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Provincia de Flandres oriental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "ઇસ્ટ ફ્લેન્ડર્સ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פלנדריה המזרחית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "पूर्वी फ्लैंडर्स",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Istočna Flandrija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Kelet-Flandria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Արևելյան Ֆլանդրիա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Flandria Timur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Austur-Flæmingjaland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "provincia delle Fiandre Orientali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オースト＝フランデレン州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "აღმოსავლეთი ფლანდრია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಈಸ್ಟ್ ಫ್ಲಾಂಡರ್ಸ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스트플란데런 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Oßßflaandere",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Flandria Orientalis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Provënz Ostflandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Oos-Vlaandere",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Rytų Flandrijos provincija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Austrumflandrija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Источна Фландрија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "पूर्व फ्लांडर्स",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Flanders Timur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Fjandri tal-Lvant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Oost-Vlaanderen Séng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Øst-Flandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds_nl",
+          "name": "Oostfloandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Oost-Vlaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Aust-Flandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Flandra Orientala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Скæсæн Фландри",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prowincja Flandria Wschodnia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "چڑھدا فلینڈرز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Flandres Oriental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Flandres Oriental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Flandra de Est",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Восточная Фландрия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "නැගෙනහිර ෆ්ලන්ඩර්ස්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Východné Flámsko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Источна Фландрија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Östflandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "கிழக்கு பிலான்டெர்ஸ்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "ఈస్ట్ ఫ్లాండర్స్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "จังหวัดฟลานเดอร์ตะวันออก",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Doğu Flandre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Східна Фландрія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "مشرقی فلانڈرز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Oost-Vlaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Ôost-Vloandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Oost-Vlaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Province di Flande levantrece",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Oost-Vlaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zea",
+          "name": "Oôst-Vlaonderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "东弗兰德省",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "vlaams-brabant",
+      "identifiers": [
+        {
+          "identifier": "3333250",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "58004",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/0hz77",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "BE12",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "place/Flemish-Brabant",
+          "scheme": "britannica"
+        },
+        {
+          "identifier": "Q1118",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Vlaams-Brabant",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Vlaams-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Brabant Flamenco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "برابانت فلاماند",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Brabante Flamencu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Фламандскі Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Флямандзкі Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Фламандски Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ফ্লেমিশ ব্র্যাবেন্ট",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Brabant Flandrez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Flamanski Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Brabant Flamenc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Provincie Vlaams-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Vlámský Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Brabant Fflandrysaidd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Vlaams-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Flämisch-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_ch",
+          "name": "Provinz Flämisch-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Φλαμανδική Μπραμπάντ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Flemish Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Flandra Brabanto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Brabante Flamenco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Flaami Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Flandriako Brabante",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "برابانت فلاندر",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Flanderin Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Brabant flamand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Belgien/fe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Flaamsk-Brabân",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Provincia do Brabante flamengo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "ફ્લેમિશ બ્રાબેંટ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ברבנט הפלמית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "फ्लेमिश ब्रबेंट",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Flamanski Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Flamand-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ֆլամանդական Բրաբանտ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Flæmska Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "provincia del Brabante Fiammingo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "フラームス＝ブラバント州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ფლამანდიის ბრაბანტი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಫ್ಲೆಮಿಶ್ ಬ್ರಬಂಟ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "플람스브라반트 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Flämesh Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Brabantia Flandrensis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Provënz Flämesche Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Vlaams-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Flamandų Brabanto provincija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Flāmu Brabante",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Фламански Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "फ्लाम्स ब्राबांत",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Brabant Flanders",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Brabant Fjamming",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Vlaams-Brabant Séng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Flamsk Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds_nl",
+          "name": "Floams Broabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vlaams-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Brabant Flamenc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prowincja Brabancja Flamandzka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "فلیمش برابانت",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Brabante Flamengo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Brabante Flamengo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Brabantul Flamand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Фламандский Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "ෆ්ලෙමිෂ් බ්‍රබන්ට්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Flámsky Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Фламански Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Flamländska Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "பிலெமிஷ் பிரபான்ட்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "ఫ్లెమిష్ బ్రాబంట్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "มณฑลเฟลมิชบราบันต์",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Flaman Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Фламандський Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "فلیمش برابنٹ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Vlaams-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Vlams-Broabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Vlaams-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Province do Braibant flamind",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Vlaams-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "弗拉芒-布拉班特省",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "弗拉芒-布拉班特省",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "佛萊明-布拉邦省",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "waals-brabant",
+      "identifiers": [
+        {
+          "identifier": "3333251",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "78748",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/0kx8x",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "BE10",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "place/Walloon-Brabant",
+          "scheme": "britannica"
+        },
+        {
+          "identifier": "Regional/Europe/Belgium/Regions/Wallonia/Brabant_Wallon/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "135613958",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "Brabant-Wallon",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "Q1122",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Waals-Brabant",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Waals-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Brabant Valón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "برابانت والون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Provincia del Brabante Valón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Vallonskiy Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Валонскі Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Валёнскі Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Валонски Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ওয়াল্লুন ব্রাবান্ট",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Brabant Wallonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Brabant Való",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Province du Brabant Wallon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Valonský Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Brabant Walonaidd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Brabant Wallon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Provinz Wallonisch-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_ch",
+          "name": "Provinz Wallonisch-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Βαλλωνική Βραβάντη",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Walloon Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Valona Brabanto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Provincia del Brabante Valón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Vallooni Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Valoniako Brabante",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "استان اوئلون بربان",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Vallonian Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Brabant wallon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Waalsk-Brabân",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Brabante Valón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "વાલૂન બ્રાબેંત",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ברבנט הוולונית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "वालून ब्रबैंट",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Valonski Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Vallon-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Վալոնյան Բրաբանտ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Brabant Walonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Vallónska Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "provincia del Brabante Vallone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ブラバン・ワロン州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ვალონიის ბრაბანტი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ವಾಲೂನ್ ಬ್ರಬಂಟ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "브라방왈롱 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Wallonesh Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Provënz Wallounesche Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Waals-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Valonų Brabanto provincija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Valoņu Brabante",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "ब्राबांत वालों",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Brabant Walonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Walloon Brabant Séng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vallonsk Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Waals-Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Brabant Valon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prowincja Brabancja Walońska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "ویلون برابانت",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Brabante Valão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Brabante Valão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Brabantul Valon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Валлонский Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Walloon Brabant Province",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "වලුන් බ්‍රබන්ට්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Valónsky Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Provinca  Walloon Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Валонски Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vallonska Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "வலூன் பிரபான்ட்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "వాలూన్ బ్రాబంట్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "มณฑลวัลลูนบราบันต์",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Valon Brabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Валлонський Брабант",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "والون برابنٹ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Woals-Broabant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Brabant wallon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Province do Roman Payis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Brabant wallon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "瓦隆-布拉班特省",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "west-vlaanderen",
+      "identifiers": [
+        {
+          "identifier": "2783770",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "416271",
+          "scheme": "openstreetmap"
+        },
+        {
+          "identifier": "/m/013vsf",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "BE09",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "place/West-Flanders",
+          "scheme": "britannica"
+        },
+        {
+          "identifier": "Regional/Europe/Belgium/Regions/Flanders/West-Vlaanderen/",
+          "scheme": "dmoz"
+        },
+        {
+          "identifier": "122119899",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "West-Vlaanderen",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "Q1113",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "West-Vlaanderen",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Wes-Vlaandere",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Flandres Occidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "فلاندرز الغربية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "فلاندر الغربيه",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Provincia de Flandes Occidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Qərbi Flandiriya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Заходняя Фландрыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be_tarask",
+          "name": "Заходняя Фляндрыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Западна Фландрия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ওয়েস্ট ফ্লান্ডারস",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Proviñs Kornôg-Flandrez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Flandes Occidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Provincie West-Vlaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Západní Flandry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "csb",
+          "name": "Zôpadnô Flandriô",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gorllewin Fflandrys",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Vestflandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Provinz Westflandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Δυτική Φλάνδρα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "West Flanders",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Okcidenta Flandrio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Provincia de Flandes Occidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Lääne-Flandria provints",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Mendebaldeko Flandria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "استان فلاندری غربی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Länsi-Flanderi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Flandre-Occidentale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Prowins Waastflandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "West-Flaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Flandres Occidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "વેસ્ટ ફ્લેન્ડર્સ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מערב פלנדריה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "वेस्ट फ्लैंडर्स",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Zapadna Flandrija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nyugat-Flandria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Արևմտյան Ֆլանդրիա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Flandria Barat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Vestur-Flæmingjaland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "provincia delle Fiandre Occidentali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ウェスト＝フランデレン州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "დასავლეთი ფლანდრია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ವೆಸ್ಟ್ ಫ್ಲಾಂಡರ್ಸ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "베스트플란데런 주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Wäßßflaandere",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Flandria Occidentalis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Provënz Westflandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Wes-Vlaandere",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Vakarų Flandrijos provincija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Rietumflandrija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Западна Фландрија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "पश्चिम फ्लांडर्स",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Flanders Barat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Fjandri tal-Punent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "West-Vlaanderen Séng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vest-Flandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "West-Flannern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds_nl",
+          "name": "Westfloandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "West-Vlaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Flandra Occidentala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Ныгуылæн Фландри",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Prowincja Flandria Zachodnia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pnb",
+          "name": "لیندا فلینڈرز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Flandres Ocidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Flandres Ocidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Flandra de Vest",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Западная Фландрия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Wast Flanders",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "බටහිර ෆ්ලන්ඩර්ස්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Západné Flámsko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Zahodna Flamska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Западна Фландрија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "stq",
+          "name": "Wääst-Flandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Västflandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "மேற்கு பிலான்டெர்ஸ்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "వెస్ట్ ఫ్లాండర్స్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "มณฑลฟลานเดอร์ตะวันตก",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Batı Flandre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Західна Фландрія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "مغربی فلانڈرز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "West-Vlaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "West-Vloandern",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "West-Vlaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Province di Flande coûtchantrece",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "West-Vlaanderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zea",
+          "name": "West-Vlaonderen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西弗兰德省",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     }
   ]
