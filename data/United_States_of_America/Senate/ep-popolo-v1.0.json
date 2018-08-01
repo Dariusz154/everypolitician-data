@@ -11266,7 +11266,7 @@
           "scheme": "wikidata"
         },
         {
-          "identifier": "Chris Murphy (Connecticut politician)",
+          "identifier": "Chris Murphy",
           "scheme": "wikipedia"
         },
         {
@@ -26297,7 +26297,7 @@
           "scheme": "wikidata"
         },
         {
-          "identifier": "John Neely Kennedy",
+          "identifier": "John Kennedy (Louisiana politician)",
           "scheme": "wikipedia"
         }
       ],
@@ -57722,7 +57722,7 @@
           "scheme": "wikidata"
         },
         {
-          "identifier": "Gary Peters (politician)",
+          "identifier": "Gary Peters",
           "scheme": "wikipedia"
         },
         {
@@ -85335,6 +85335,10 @@
           "scheme": "bioguide"
         },
         {
+          "identifier": "kg:/m/03wc2px",
+          "scheme": "google_entity_id"
+        },
+        {
           "identifier": "412743",
           "scheme": "govtrack"
         },
@@ -85345,6 +85349,10 @@
         {
           "identifier": "S395",
           "scheme": "lis"
+        },
+        {
+          "identifier": "N00043298",
+          "scheme": "opensecrets"
         },
         {
           "identifier": "Q5120540",
