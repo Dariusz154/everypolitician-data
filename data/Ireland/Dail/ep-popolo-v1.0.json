@@ -16932,8 +16932,82 @@
     },
     {
       "classification": "party",
-      "id": "Q3545406",
-      "name": "People Before Profit Alliance"
+      "id": "17075364-0d56-4240-8417-9336a3e440fb",
+      "identifiers": [
+        {
+          "identifier": "Q3545406",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.peoplebeforeprofit.ie/"
+        }
+      ],
+      "name": "People Before Profit Alliance",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "People Before Profit Alliance",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ga",
+          "name": "Comhghuaillíocht an Phobail roimh Bhrabús",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Alleanza Popolo Prima del Profitto",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "人民先于利润联盟",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "이익보다는 국민 우선 연합",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "利益の前の国民同盟",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Le Peuple avant le profit",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ur",
+          "name": "پیپل بیفور پرافٹ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ga",
+          "name": "Pobal Roimh Bhrabús",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "人民擺在利益前聯盟",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -18764,7 +18838,7 @@
       "area_id": "02bdbf53-31b7-412c-9e3a-18a8e79d4d02",
       "end_date": "2013-04-25",
       "legislative_period_id": "term/31",
-      "on_behalf_of_id": "Q3545406",
+      "on_behalf_of_id": "17075364-0d56-4240-8417-9336a3e440fb",
       "organization_id": "7556a33d-0e3c-4da7-a96e-65bc11ff47af",
       "person_id": "153e4d8e-9659-49e5-aaaa-441a82c34bef",
       "role": "member"
@@ -19788,7 +19862,7 @@
     {
       "area_id": "f2593658-6416-41fb-a5ea-7e97a82d647e",
       "legislative_period_id": "term/31",
-      "on_behalf_of_id": "Q3545406",
+      "on_behalf_of_id": "17075364-0d56-4240-8417-9336a3e440fb",
       "organization_id": "7556a33d-0e3c-4da7-a96e-65bc11ff47af",
       "person_id": "61883676-197b-42aa-9843-faa0888366d0",
       "role": "member"
