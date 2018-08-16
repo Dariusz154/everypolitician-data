@@ -1,16 +1,6 @@
 {
   "sources": [
     {
-      "file": "morph/official.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "everypolitician-scrapers/morocco-house-of-representatives",
-        "query": "SELECT *, name AS name__en FROM data ORDER BY id"
-      },
-      "source": "http://www.chambredesrepresentants.ma",
-      "type": "membership"
-    },
-    {
       "file": "archive/official-term-9.csv",
       "type": "membership",
       "source": "http://www.chambredesrepresentants.ma"
