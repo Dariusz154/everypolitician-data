@@ -3205,5 +3205,65 @@
         "source": "wikidata-alias"
       }
     ]
+  },
+  "9A74A143-095C-4301-994A-07865C02855F": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5310891"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Dublin Finglas",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gd",
+        "name": "Baile Àtha Cliatha, Fionnghlas",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "7606E3E7-A8F1-4D70-9DA4-8393FFA1320D": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4774514"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Anti H-Block",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ru",
+        "name": "блок \"Анти-Эйч\"",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
+  },
+  "3E52D732-7B2A-4265-95F4-156FF2B9A07E": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q15980502"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Socialist Labour Party (Ireland)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ]
   }
 }
