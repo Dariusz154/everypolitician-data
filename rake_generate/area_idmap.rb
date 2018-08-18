@@ -37,7 +37,11 @@ namespace :generate do
 
       can_map = unmapped & all_areas.keys
       newly_mapped = can_map.map do |id|
-        [id, all_areas[id][:uuid] ||= SecureRandom.uuid]
+        # Reuse any UUID we've previously given this Wikidata ID, otherwise create a new one
+        uuid = all_areas.values.select { |a| a[:uuid] && a[:wikidata] == all_areas[id][:wikidata] }.map { |a| a[:uuid] }.first || SecureRandom.uuid
+        all_areas[id][:uuid] = uuid
+
+        [id, uuid]
       end.to_h
       src.area_mapfile.rewrite(previously_mapped.merge(newly_mapped))
     end
