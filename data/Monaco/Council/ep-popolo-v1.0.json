@@ -4,19 +4,30 @@
   ],
   "persons": [
     {
+      "birth_date": "1969-12-18",
       "contact_details": [
         {
           "type": "email",
           "value": "t.crovetto@conseil-national.mc"
+        },
+        {
+          "type": "twitter",
+          "value": "thierrycrovetto"
         }
       ],
       "email": "t.crovetto@conseil-national.mc",
+      "family_name": "Crovetto",
       "gender": "male",
+      "given_name": "Thierry",
       "id": "030badfd-b11b-4977-bc43-484b8645f027",
       "identifiers": [
         {
           "identifier": "Thierry-CROVETTO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41449507",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/thierry-crovetto.jpg",
@@ -25,22 +36,47 @@
           "url": "http://www.conseil-national.mc/images/les-elus/thierry-crovetto.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Thierry_Crovetto"
+        },
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/tcsf98000/"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/thierrycrovetto"
+        }
+      ],
       "name": "Thierry CROVETTO"
     },
     {
+      "birth_date": "1960-10-18",
       "contact_details": [
         {
           "type": "email",
           "value": "jc.allavena@conseil-national.mc"
+        },
+        {
+          "type": "twitter",
+          "value": "jc_allavena"
         }
       ],
       "email": "jc.allavena@conseil-national.mc",
+      "family_name": "Allavena",
       "gender": "male",
+      "given_name": "Jean-Charles",
       "id": "054bb1e0-7971-48ef-ae58-61e1c2f9c1e4",
       "identifiers": [
         {
           "identifier": "Jean-Charles-ALLAVENA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20630486",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/jean-charles-allavena.jpg",
@@ -49,9 +85,24 @@
           "url": "http://www.conseil-national.mc/images/les-elus/jean-charles-allavena.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jean-Charles_Allavena"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jean-Charles_Allavena"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jc_allavena"
+        }
+      ],
       "name": "Jean-Charles ALLAVENA"
     },
     {
+      "birth_date": "1965-07-22",
       "contact_details": [
         {
           "type": "email",
@@ -60,11 +111,28 @@
       ],
       "email": "s.lavagna@conseil-national.mc",
       "gender": "female",
+      "given_name": "Sophie",
       "id": "0633c42c-6d36-49cf-8427-245ffc12bfe3",
       "identifiers": [
         {
           "identifier": "Sophie-LAVAGNA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0004 3152 4376",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "070967776",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "202026223",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q27554868",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/sophie-lavagna.jpg",
@@ -73,9 +141,20 @@
           "url": "http://www.conseil-national.mc/images/les-elus/sophie-lavagna.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sophie_Lavagna"
+        },
+        {
+          "note": "website",
+          "url": "http://avocatlavagna.blogspot.fr/"
+        }
+      ],
       "name": "Sophie LAVAGNA"
     },
     {
+      "birth_date": "1962-05-27",
       "contact_details": [
         {
           "type": "email",
@@ -83,12 +162,18 @@
         }
       ],
       "email": "jf.robillon@conseil-national.mc",
+      "family_name": "Robillon",
       "gender": "male",
+      "given_name": "Jean-François",
       "id": "1403f449-2ecf-471f-9a40-4fe141a8ac11",
       "identifiers": [
         {
           "identifier": "Jean-Francois-ROBILLON",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16194850",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/jean-francois-robillon.jpg",
@@ -97,9 +182,20 @@
           "url": "http://www.conseil-national.mc/images/les-elus/jean-francois-robillon.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jean-François_Robillon"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jean-François_Robillon"
+        }
+      ],
       "name": "Jean-François ROBILLON"
     },
     {
+      "birth_date": "1961-07-14",
       "contact_details": [
         {
           "type": "email",
@@ -108,17 +204,28 @@
       ],
       "email": "jm.cucchi@conseil-national.mc",
       "gender": "male",
+      "given_name": "Jean-Michel",
       "id": "1ca4231f-195d-46da-aae8-bd13b0403a70",
       "identifiers": [
         {
           "identifier": "Jean-Michel-CUCCHI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41448858",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/jean-michel-cucchi_2.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/jean-michel-cucchi_2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Cucchi"
         }
       ],
       "name": "Jean-Michel CUCCHI"
@@ -209,6 +316,7 @@
       "name": "Fabrice NOTARI"
     },
     {
+      "birth_date": "1962-03-06",
       "contact_details": [
         {
           "type": "email",
@@ -216,18 +324,30 @@
         }
       ],
       "email": "m.burini@conseil-national.mc",
+      "family_name": "Burini",
       "gender": "male",
+      "given_name": "Marc",
       "id": "2e704dfa-f7bd-4930-8550-6e521cc55ba0",
       "identifiers": [
         {
           "identifier": "Marc-BURINI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41449622",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/marc-burini.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/marc-burini.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marc_Burini"
         }
       ],
       "name": "Marc BURINI"
@@ -284,6 +404,7 @@
       "name": "Jean-Pierre LICARI"
     },
     {
+      "birth_date": "1955-01-05",
       "contact_details": [
         {
           "type": "email",
@@ -292,11 +413,16 @@
       ],
       "email": "c.boisson@conseil-national.mc",
       "gender": "male",
+      "given_name": "Claude",
       "id": "4eb0dab7-0f82-4138-86fd-c919a8bfeeb0",
       "identifiers": [
         {
           "identifier": "Claude-BOISSON",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41447455",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/claude-boisson.jpg",
@@ -305,9 +431,16 @@
           "url": "http://www.conseil-national.mc/images/les-elus/claude-boisson.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Claude_Boisson"
+        }
+      ],
       "name": "Claude BOISSON"
     },
     {
+      "birth_date": "1944-03-01",
       "contact_details": [
         {
           "type": "email",
@@ -315,18 +448,58 @@
         }
       ],
       "email": "d.boeri@conseil-national.mc",
+      "family_name": "Boeri",
       "gender": "male",
+      "given_name": "Daniel",
       "id": "58792ffa-85b5-4ece-b1f8-dbd8f7213689",
       "identifiers": [
         {
+          "identifier": "11892530b",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "Daniel-BOERI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0001 0906 8595",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "02673477X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "61542099",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q41447848",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/daniel-boeri.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/daniel-boeri.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Daniel_Boéri"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Daniel_Boeri"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/daniel.boeri"
+        },
+        {
+          "note": "website",
+          "url": "http://danielboeri.com"
         }
       ],
       "name": "Daniel BOERI"
@@ -349,6 +522,7 @@
       "name": "Alexandre BORDERO"
     },
     {
+      "birth_date": "1953-07-10",
       "contact_details": [
         {
           "type": "email",
@@ -357,17 +531,28 @@
       ],
       "email": "p.clerissi@conseil-national.mc",
       "gender": "male",
+      "given_name": "Philippe",
       "id": "6085eb00-212f-405e-b1f0-54dbafdadd71",
       "identifiers": [
         {
           "identifier": "Philippe-CLERISSI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27554925",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/philippe-clerissi.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/philippe-clerissi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Philippe_Clerissi"
         }
       ],
       "name": "Philippe CLERISSI"
@@ -390,6 +575,7 @@
       "name": "Stéphane VALERI"
     },
     {
+      "birth_date": "1967-09-01",
       "contact_details": [
         {
           "type": "email",
@@ -398,17 +584,28 @@
       ],
       "email": "v.rossi@conseil-national.mc",
       "gender": "female",
+      "given_name": "Valérie",
       "id": "6ea1c2ed-3ae5-412b-9ec9-938fb8db35c0",
       "identifiers": [
         {
           "identifier": "Valerie-ROSSI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27570638",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/valerie-rossi.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/valerie-rossi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Valérie_Rossi"
         }
       ],
       "name": "Valérie ROSSI"
@@ -431,19 +628,29 @@
       "name": "Jean-Joseph PASTOR"
     },
     {
+      "birth_date": "1958-12-29",
       "contact_details": [
         {
           "type": "email",
           "value": "c.steiner@conseil-national.mc"
+        },
+        {
+          "type": "twitter",
+          "value": "ChrisSteinerMC"
         }
       ],
       "email": "c.steiner@conseil-national.mc",
       "gender": "male",
+      "given_name": "Christophe",
       "id": "783a2833-98fb-4a4b-8957-c2f00fd49f49",
       "identifiers": [
         {
           "identifier": "Christophe-STEINER",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25999626",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/christophe-steiner.jpg",
@@ -452,9 +659,24 @@
           "url": "http://www.conseil-national.mc/images/les-elus/christophe-steiner.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Christophe_Steiner"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Christophe_Steiner"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ChrisSteinerMC"
+        }
+      ],
       "name": "Christophe STEINER"
     },
     {
+      "birth_date": "1969-02-12",
       "contact_details": [
         {
           "type": "email",
@@ -463,11 +685,16 @@
       ],
       "email": "b.fresko@conseil-national.mc",
       "gender": "female",
+      "given_name": "Béatrice",
       "id": "78b470d0-6ac1-4633-923a-ec6e0de78465",
       "identifiers": [
         {
           "identifier": "Beatrice-FRESKO-ROLFO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27569261",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/beatrice-fresko-rolfo.jpg",
@@ -476,9 +703,16 @@
           "url": "http://www.conseil-national.mc/images/les-elus/beatrice-fresko-rolfo.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Béatrice_Fresko-Rolfo"
+        }
+      ],
       "name": "Béatrice FRESKO-ROLFO"
     },
     {
+      "birth_date": "1954-02-04",
       "contact_details": [
         {
           "type": "email",
@@ -487,11 +721,16 @@
       ],
       "email": "b.pasquier@conseil-national.mc",
       "gender": "male",
+      "given_name": "Bernard",
       "id": "78eff3d1-a27f-4d2a-989f-3ba1c0c98e05",
       "identifiers": [
         {
           "identifier": "Bernard-PASQUIER",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41446633",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/bernard-pasquier.jpg",
@@ -500,9 +739,16 @@
           "url": "http://www.conseil-national.mc/images/les-elus/bernard-pasquier.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bernard_Pasquier"
+        }
+      ],
       "name": "Bernard PASQUIER"
     },
     {
+      "birth_date": "1966-10-21",
       "contact_details": [
         {
           "type": "email",
@@ -510,12 +756,18 @@
         }
       ],
       "email": "c.robino@conseil-national.mc",
+      "family_name": "Robino",
       "gender": "male",
+      "given_name": "Christophe",
       "id": "790ecb6c-1b06-4cc2-bbde-93df5ca2d04e",
       "identifiers": [
         {
           "identifier": "Christophe-ROBINO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41449140",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/christophe-robino.jpg",
@@ -524,9 +776,16 @@
           "url": "http://www.conseil-national.mc/images/les-elus/christophe-robino.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Christophe_Robino"
+        }
+      ],
       "name": "Christophe ROBINO"
     },
     {
+      "birth_date": "1965-10-23",
       "contact_details": [
         {
           "type": "email",
@@ -534,18 +793,30 @@
         }
       ],
       "email": "c.barilaro@conseil-national.mc",
+      "family_name": "Barilaro",
       "gender": "male",
+      "given_name": "Christian",
       "id": "79ddcd71-2532-4f83-97c9-51eb499d469c",
       "identifiers": [
         {
           "identifier": "Christian-BARILARO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41447580",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/christian-barilaro.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/christian-barilaro.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Christian_Barilaro"
         }
       ],
       "name": "Christian BARILARO"
@@ -568,6 +839,7 @@
       "name": "Michèle DITTLOT"
     },
     {
+      "birth_date": "1968-03-25",
       "contact_details": [
         {
           "type": "email",
@@ -576,17 +848,32 @@
       ],
       "email": "lnp@conseil-national.mc",
       "gender": "male",
+      "given_name": "Laurent",
       "id": "95d751a1-ceb8-44a2-a26e-49cc15fcec36",
       "identifiers": [
         {
           "identifier": "Laurent-NOUVION",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16204459",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/laurent-nouvion.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/laurent-nouvion.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Laurent_Nouvion"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Laurent_Nouvion"
         }
       ],
       "name": "Laurent NOUVION"
@@ -626,6 +913,7 @@
       "name": "Jean-Luc NIGIONI"
     },
     {
+      "birth_date": "1965-03-25",
       "contact_details": [
         {
           "type": "email",
@@ -633,18 +921,34 @@
         }
       ],
       "email": "t.poyet@conseil-national.mc",
+      "family_name": "Poyet",
       "gender": "male",
+      "given_name": "Thierry",
       "id": "a5caa3de-352b-4afe-b3cc-7bb25d36dd90",
       "identifiers": [
         {
           "identifier": "Thierry-POYET",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20774333",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/thierry-poyet.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/thierry-poyet.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Thierry_Poyet"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Thierry_Poyet"
         }
       ],
       "name": "Thierry POYET"
@@ -701,6 +1005,7 @@
       "name": "Nicole MANZONE-SAQUET"
     },
     {
+      "birth_date": "1960-01-25",
       "contact_details": [
         {
           "type": "email",
@@ -709,11 +1014,16 @@
       ],
       "email": "jl.grinda@conseil-national.mc",
       "gender": "male",
+      "given_name": "Jean-Louis",
       "id": "b032b05f-e481-49fc-a062-786121367d0a",
       "identifiers": [
         {
           "identifier": "Jean-Louis-GRINDA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3166802",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/jean-louis-grinda.jpg",
@@ -722,9 +1032,27 @@
           "url": "http://www.conseil-national.mc/images/les-elus/jean-louis-grinda.jpg"
         }
       ],
-      "name": "Jean-Louis GRINDA"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jean-Louis_Grinda"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jean-Louis_Grinda"
+        }
+      ],
+      "name": "Jean-Louis GRINDA",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "ジャン＝ルイ・グリンダ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1964-09-17",
       "contact_details": [
         {
           "type": "email",
@@ -732,12 +1060,18 @@
         }
       ],
       "email": "n.amoratti-blanc@conseil-national.mc",
+      "family_name": "Amoratti",
       "gender": "female",
+      "given_name": "Nathalie",
       "id": "b168e57b-f950-4722-9a57-93ba07102654",
       "identifiers": [
         {
           "identifier": "Nathalie-AMORATTI-BLANC",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41448759",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/nathalie-amoratti-blanc.jpg",
@@ -746,7 +1080,20 @@
           "url": "http://www.conseil-national.mc/images/les-elus/nathalie-amoratti-blanc.jpg"
         }
       ],
-      "name": "Nathalie AMORATTI-BLANC"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nathalie_Amoratti-Blanc"
+        }
+      ],
+      "name": "Nathalie AMORATTI-BLANC",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Натали Бланк",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -766,6 +1113,7 @@
       "name": "Pierre LORENZI"
     },
     {
+      "birth_date": "1950-02-04",
       "contact_details": [
         {
           "type": "email",
@@ -773,12 +1121,18 @@
         }
       ],
       "email": "a.ficini@conseil-national.mc",
+      "family_name": "Ficini",
       "gender": "male",
+      "given_name": "Alain",
       "id": "b61c6f06-586a-4c6a-aa83-d58b5b2d4e93",
       "identifiers": [
         {
           "identifier": "Alain-FICINI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41446929",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/alain-ficini.jpg",
@@ -787,9 +1141,16 @@
           "url": "http://www.conseil-national.mc/images/les-elus/alain-ficini.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Alain_Ficini"
+        }
+      ],
       "name": "Alain FICINI"
     },
     {
+      "birth_date": "1969-04-21",
       "contact_details": [
         {
           "type": "email",
@@ -797,12 +1158,18 @@
         }
       ],
       "email": "c.rougaignon-vernin@conseil-national.mc",
+      "family_name": "Rougaignon",
       "gender": "female",
+      "given_name": "Caroline",
       "id": "b7c88562-ce17-43a7-9844-f79d21438fcc",
       "identifiers": [
         {
           "identifier": "Caroline-ROUGAIGNON-VERNIN",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41446132",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/caroline-rougaignon-vernin.jpg",
@@ -811,9 +1178,16 @@
           "url": "http://www.conseil-national.mc/images/les-elus/caroline-rougaignon-vernin.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Caroline_Rougaignon-Vernin"
+        }
+      ],
       "name": "Caroline ROUGAIGNON-VERNIN"
     },
     {
+      "birth_date": "1962-08-06",
       "contact_details": [
         {
           "type": "email",
@@ -822,11 +1196,16 @@
       ],
       "email": "e.elena@conseil-national.mc",
       "gender": "male",
+      "given_name": "Éric",
       "id": "c1272a5a-5439-4500-870d-2293cf7a66e5",
       "identifiers": [
         {
           "identifier": "Eric-ELENA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17651814",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/eric-elena.jpg",
@@ -835,9 +1214,27 @@
           "url": "http://www.conseil-national.mc/images/les-elus/eric-elena.jpg"
         }
       ],
-      "name": "Eric ELENA"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eric_Elena"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Éric_Elena"
+        }
+      ],
+      "name": "Eric ELENA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Éric Elena",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1949-07-19",
       "contact_details": [
         {
           "type": "email",
@@ -846,11 +1243,16 @@
       ],
       "email": "j.rit@conseil-national.mc",
       "gender": "male",
+      "given_name": "Jacques",
       "id": "c344c675-dfe7-401b-af68-768a2d9dd3bf",
       "identifiers": [
         {
           "identifier": "Jacques-RIT",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25999631",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/jacques-rit.jpg",
@@ -859,9 +1261,20 @@
           "url": "http://www.conseil-national.mc/images/les-elus/jacques-rit.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jacques_Rit"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jacques_Rit"
+        }
+      ],
       "name": "Jacques RIT"
     },
     {
+      "birth_date": "1956-10-13",
       "contact_details": [
         {
           "type": "email",
@@ -870,17 +1283,28 @@
       ],
       "email": "p.svara@conseil-national.mc",
       "gender": "male",
+      "given_name": "Pierre",
       "id": "c541384f-8172-4bdf-95f5-eaca8370a821",
       "identifiers": [
         {
           "identifier": "Pierre-SVARA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3387048",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/les-elus/pierre-svara.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/pierre-svara.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pierre_Svara"
         }
       ],
       "name": "Pierre SVARA"
@@ -1405,7 +1829,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.conseil-national.mc/"
+      "http://www.conseil-national.mc/",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
