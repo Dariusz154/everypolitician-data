@@ -2188,9 +2188,15 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "2018",
+      "end_date": "2018-02-10",
       "id": "term/2013",
-      "name": "2013",
+      "identifiers": [
+        {
+          "identifier": "Q56229988",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2013-2018",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "start_date": "2013-02-21"
     }
