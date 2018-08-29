@@ -11883,6 +11883,10 @@
       ]
     },
     {
+      "id": "7f19a40a-0135-486c-8d94-15a40cb69273",
+      "name": "Albert Mammoga Seabi"
+    },
+    {
       "birth_date": "1958-04-14",
       "contact_details": [
         {
@@ -20906,6 +20910,10 @@
       "name": "Imamile Aubin Pikinini"
     },
     {
+      "id": "e90c477a-0313-4711-a85a-f6fa291c7feb",
+      "name": "Phoebe Noxolo Abraham-Ntantiso"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -22230,6 +22238,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "f271f802-6eaa-43e4-acac-a81350c64209",
+      "name": "Nomvuzo Francisca Shabalala"
     },
     {
       "contact_details": [
@@ -27061,6 +27073,14 @@
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "7f19a40a-0135-486c-8d94-15a40cb69273",
+      "role": "member",
+      "start_date": "2018-07-30"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "7f247717-1aed-46a5-84d4-566c296c158f",
       "role": "member"
     },
@@ -28614,6 +28634,14 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "e90c477a-0313-4711-a85a-f6fa291c7feb",
+      "role": "member",
+      "start_date": "2018-08-14"
+    },
+    {
       "area_id": "Q130840",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -28768,6 +28796,14 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "f1d5837a-5552-4b82-88a7-8c1d015d4540",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "f271f802-6eaa-43e4-acac-a81350c64209",
+      "role": "member",
+      "start_date": "2018-07-31"
     },
     {
       "legislative_period_id": "term/26",
