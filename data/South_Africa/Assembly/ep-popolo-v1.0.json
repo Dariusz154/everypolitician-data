@@ -701,10 +701,6 @@
       "name": "Daphne Zukiswa Rantho"
     },
     {
-      "id": "08c3608f-9752-4ad9-9632-fb8b86bb06a4",
-      "name": "Cornelius Petrus Mulder"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -19549,6 +19545,49 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "cmulder@parliament.gov.za"
+        },
+        {
+          "type": "email",
+          "value": "zemfira@mweb.co.za"
+        }
+      ],
+      "email": "cmulder@parliament.gov.za",
+      "gender": "male",
+      "honorific_prefix": "Dr",
+      "id": "d93d31f8-8ca8-4092-acaa-80432ef64142",
+      "identifiers": [
+        {
+          "identifier": "cornelius-petrus-mulder",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "834",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q33077552",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/84/34/8434f2a3f9f234b5b4a84b13ea2399cb.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/84/34/8434f2a3f9f234b5b4a84b13ea2399cb.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cornelius_Petrus_Mulder"
+        }
+      ],
+      "name": "Cornelius Petrus Mulder"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "malebo@presidency.gov.za"
         }
       ],
@@ -25261,13 +25300,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q510163",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "08c3608f-9752-4ad9-9632-fb8b86bb06a4",
-      "role": "member"
-    },
-    {
       "area_id": "Q133083",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
@@ -28319,6 +28351,13 @@
       "person_id": "d8a83886-ed2b-4c9d-84cf-6dfbc4cf526a",
       "role": "member",
       "start_date": "2017-12-01"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q510163",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "d93d31f8-8ca8-4092-acaa-80432ef64142",
+      "role": "member"
     },
     {
       "area_id": "Q132410",
