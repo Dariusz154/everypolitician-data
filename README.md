@@ -12,7 +12,7 @@ This is the data repo for EveryPolitician. It contains the data powering [EveryP
 
 * [what's in the data?](http://docs.everypolitician.org/data_summary.html)
 
-## What to contribute data?
+## Want to contribute data?
 
 * [high-level information about how to contribute](http://everypolitician.org/contribute.html)
 
