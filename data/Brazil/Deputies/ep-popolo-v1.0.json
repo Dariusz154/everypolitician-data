@@ -20405,11 +20405,24 @@
     },
     {
       "gender": "male",
+      "given_name": "Henrique",
       "id": "91ab173f-052f-4512-b16c-d65fc5b9c82a",
+      "identifiers": [
+        {
+          "identifier": "Q10294812",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/68731.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/68731.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Henrique_Oliveira"
         }
       ],
       "name": "HENRIQUE OLIVEIRA"
