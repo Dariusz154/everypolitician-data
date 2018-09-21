@@ -1831,6 +1831,14 @@
     },
     {
       "birth_date": "1987-07-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "https://groenlinks.nl/paul-smeulders"
+        }
+      ],
+      "email": "https://groenlinks.nl/paul-smeulders",
+      "family_name": "Smeulders",
       "gender": "male",
       "given_name": "Paul",
       "id": "1974e9f0-c75b-4909-abca-d43c8ae93d4e",
@@ -1844,13 +1852,26 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/dd72fffc-83f4-4667-bbdf-7677a2a0c210.jpg?itok=HxN_MGOR",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/dd72fffc-83f4-4667-bbdf-7677a2a0c210.jpg?itok=HxN_MGOR"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Paul_Smeulders"
         }
       ],
-      "name": "Paul Smeulders"
+      "name": "Paul Smeulders",
+      "other_names": [
+        {
+          "name": "Paul H M Smeulders",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Smeulders, P.H.M."
     },
     {
       "birth_date": "1965-12-30",
@@ -3291,8 +3312,25 @@
       "name": "Fatma Koşer Kaya"
     },
     {
+      "birth_date": "1989-12-19",
+      "family_name": "Aartsen",
+      "gender": "male",
+      "given_name": "Thierry",
       "id": "2969b674-2563-4c63-9367-68207826b2d1",
-      "name": "Thierry Aartsen"
+      "image": "https://www.houseofrepresentatives.nl",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl"
+        }
+      ],
+      "name": "Thierry Aartsen",
+      "other_names": [
+        {
+          "name": "Thierry A Aartsen",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Aartsen, A.A."
     },
     {
       "birth_date": "1970-06-27",
@@ -5702,12 +5740,18 @@
       "birth_date": "1958-08-21",
       "contact_details": [
         {
+          "type": "email",
+          "value": "j.vdberg@tweedekamer.nl"
+        },
+        {
           "type": "twitter",
           "value": "JobaCDA"
         }
       ],
-      "family_name": "Jansen",
+      "email": "j.vdberg@tweedekamer.nl",
+      "family_name": "Berg",
       "gender": "female",
+      "given_name": "Joba",
       "id": "41352e1d-cd3e-4d31-9b38-f597a940d637",
       "identifiers": [
         {
@@ -5723,8 +5767,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Joba_van_den_Berg_(2017).jpg",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/bc116274-5268-4485-8315-6cfcb654b491.jpg?itok=ebD4uEyz",
       "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/bc116274-5268-4485-8315-6cfcb654b491.jpg?itok=ebD4uEyz"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Joba_van_den_Berg_(2017).jpg"
         },
@@ -5742,7 +5789,14 @@
           "url": "https://twitter.com/JobaCDA"
         }
       ],
-      "name": "Joba van den Berg-Jansen"
+      "name": "Joba van den Berg-Jansen",
+      "other_names": [
+        {
+          "name": "Joba A M J van den Berg",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Berg, J.A.M.J. van den"
     },
     {
       "birth_date": "1981-08-08",
@@ -7559,11 +7613,18 @@
       "birth_date": "1981-06-05",
       "contact_details": [
         {
+          "type": "email",
+          "value": "t.kuzu@tweedekamer.nl"
+        },
+        {
           "type": "twitter",
           "value": "tunahankuzu"
         }
       ],
+      "email": "t.kuzu@tweedekamer.nl",
+      "family_name": "Kuzu",
       "gender": "male",
+      "given_name": "Tunahan",
       "id": "55756b65-f362-46a5-932a-0a308201972a",
       "identifiers": [
         {
@@ -7587,8 +7648,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/27._Tunahan_Kuzu.jpg",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/d9be2928-e430-4086-b699-ba066279729e.jpg?itok=MeY8GClS",
       "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/d9be2928-e430-4086-b699-ba066279729e.jpg?itok=MeY8GClS"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/27._Tunahan_Kuzu.jpg"
         },
@@ -7667,7 +7731,8 @@
           "name": "𐍄𐌿𐌽𐌰𐌷𐌰𐌽 𐌺𐌿𐌶𐌿",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "Kuzu, T."
     },
     {
       "birth_date": "1952-09-01",
@@ -8619,13 +8684,19 @@
       "name": "Otwin van Dijk"
     },
     {
-      "birth_date": "1984-12-19",
+      "birth_date": "1986-01-19",
       "contact_details": [
+        {
+          "type": "email",
+          "value": "c.lacin@tweedekamer.nl"
+        },
         {
           "type": "twitter",
           "value": "CemLacin"
         }
       ],
+      "email": "c.lacin@tweedekamer.nl",
+      "family_name": "Laçin",
       "gender": "male",
       "given_name": "Cem",
       "id": "60f252ac-f617-4d3a-8d70-9f6a94ec3604",
@@ -8643,8 +8714,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/930186527581327362/vIUj24-e.jpg",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/5e1c2f31-14c9-4927-9852-d0242715a431.jpg?itok=de741dSw",
       "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/5e1c2f31-14c9-4927-9852-d0242715a431.jpg?itok=de741dSw"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/930186527581327362/vIUj24-e.jpg"
         }
@@ -8659,7 +8733,8 @@
           "url": "https://twitter.com/CemLacin"
         }
       ],
-      "name": "Cem Laçin"
+      "name": "Cem Laçin",
+      "sort_name": "Laçin, C."
     },
     {
       "birth_date": "1981-11-19",
@@ -8836,11 +8911,18 @@
       "birth_date": "1979-11-17",
       "contact_details": [
         {
+          "type": "email",
+          "value": "z.elyassini@tweedekamer.nl"
+        },
+        {
           "type": "twitter",
           "value": "ZelYassini"
         }
       ],
+      "email": "z.elyassini@tweedekamer.nl",
+      "family_name": "El Yassini",
       "gender": "male",
+      "given_name": "Zohair",
       "id": "66e57f16-32fd-4dd1-84b7-aaa0b6cdc255",
       "identifiers": [
         {
@@ -8856,8 +8938,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/755021243951308800/UmQkBbzQ.jpg",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/4c2d13ff-fb3c-49e5-bd10-ac59b4af1ea2.jpg?itok=B9MeRblS",
       "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/4c2d13ff-fb3c-49e5-bd10-ac59b4af1ea2.jpg?itok=B9MeRblS"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/755021243951308800/UmQkBbzQ.jpg"
         }
@@ -8872,7 +8957,8 @@
           "url": "https://twitter.com/ZelYassini"
         }
       ],
-      "name": "Zohair El Yassini"
+      "name": "Zohair El Yassini",
+      "sort_name": "El Yassini, Z."
     },
     {
       "birth_date": "1957-04-04",
@@ -9090,12 +9176,27 @@
     },
     {
       "birth_date": "1968-03-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "w.renkema@tweedekamer.nl"
+        }
+      ],
+      "email": "w.renkema@tweedekamer.nl",
+      "family_name": "Renkema",
       "gender": "male",
+      "given_name": "Wim-Jan",
       "id": "6e7292cf-64ac-4a61-8287-4b523318c296",
       "identifiers": [
         {
           "identifier": "Q28860437",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/6e9bc13a-e025-4cba-ab6f-d99f22084d63.jpg?itok=fG4jSvdt",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/6e9bc13a-e025-4cba-ab6f-d99f22084d63.jpg?itok=fG4jSvdt"
         }
       ],
       "links": [
@@ -9104,7 +9205,14 @@
           "url": "https://nl.wikipedia.org/wiki/Wim-Jan_Renkema"
         }
       ],
-      "name": "Wim-Jan Renkema"
+      "name": "Wim-Jan Renkema",
+      "other_names": [
+        {
+          "name": "Wim-Jan J T Renkema",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Renkema, W.J.T."
     },
     {
       "birth_date": "1970-07-04",
@@ -9586,6 +9694,13 @@
     },
     {
       "birth_date": "1970-01-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.bromet@tweedekamer.nl"
+        }
+      ],
+      "email": "l.bromet@tweedekamer.nl",
       "family_name": "Bromet",
       "gender": "female",
       "given_name": "Laura",
@@ -9604,15 +9719,31 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/df2e6d47-20ad-4555-9203-c66c5bb26adc.jpg?itok=cGtbRifC",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/df2e6d47-20ad-4555-9203-c66c5bb26adc.jpg?itok=cGtbRifC"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Laura_Bromet"
         }
       ],
-      "name": "Laura Bromet"
+      "name": "Laura Bromet",
+      "sort_name": "Bromet, L."
     },
     {
+      "birth_date": "1967-01-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Tobiasvangent"
+        }
+      ],
+      "email": "Tobiasvangent",
+      "family_name": "Gent",
       "gender": "male",
       "given_name": "Tobias",
       "id": "7689583c-e40a-46f0-b073-cdd818aed97f",
@@ -9622,13 +9753,20 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://www.houseofrepresentatives.nl",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Tobias_van_Gent"
         }
       ],
-      "name": "Tobias van Gent"
+      "name": "Tobias van Gent",
+      "sort_name": "Gent, T. van"
     },
     {
       "birth_date": "1966-07-12",
@@ -9775,8 +9913,32 @@
       "name": "Manon Fokke"
     },
     {
+      "birth_date": "1969-11-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "h.veldman@tweedekamer.nl"
+        }
+      ],
+      "email": "h.veldman@tweedekamer.nl",
+      "family_name": "Veldman",
+      "gender": "male",
+      "given_name": "Hayke",
       "id": "79038d5e-830b-4f0d-8217-aa9362188764",
-      "name": "Hayke Veldman"
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8522d129-b351-4d01-af39-96b9fd783717.jpg?itok=PgEbjM0q",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8522d129-b351-4d01-af39-96b9fd783717.jpg?itok=PgEbjM0q"
+        }
+      ],
+      "name": "Hayke Veldman",
+      "other_names": [
+        {
+          "name": "Hayke S Veldman",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Veldman, H.S."
     },
     {
       "birth_date": "1964-08-25",
@@ -10894,6 +11056,10 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "femkemerelvankooten@tweedekamer.nl"
+        },
+        {
+          "type": "email",
           "value": "femke.merel.arissen@provincie-utrecht.nl"
         },
         {
@@ -10901,9 +11067,10 @@
           "value": "FemkeMerel"
         }
       ],
-      "email": "femke.merel.arissen@provincie-utrecht.nl",
+      "email": "femkemerelvankooten@tweedekamer.nl",
+      "family_name": "Kooten-Arissen",
       "gender": "female",
-      "given_name": "Femke",
+      "given_name": "Femke Merel",
       "id": "83e7caf1-64f6-4f54-bc5a-47821437bfd8",
       "identifiers": [
         {
@@ -10919,8 +11086,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Profielfoto_Femke_Merel_Arissen.jpg",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/e51d8332-1427-4950-823a-8340c3179c79.jpg?itok=7TWcvA6o",
       "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/e51d8332-1427-4950-823a-8340c3179c79.jpg?itok=7TWcvA6o"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Profielfoto_Femke_Merel_Arissen.jpg"
         },
@@ -10945,11 +11115,16 @@
       "name": "Femke Merel Arissen",
       "other_names": [
         {
+          "name": "Femke Merel M van Kooten-Arissen",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
           "name": "Femke Merel van Kooten-Arissen",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "Kooten-Arissen, F.M. van"
     },
     {
       "birth_date": "1968-07-08",
@@ -13581,16 +13756,10 @@
       "birth_date": "1972-11-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "l.dlange@tweedekamer.nl"
-        },
-        {
           "type": "twitter",
           "value": "leendertdelange"
         }
       ],
-      "email": "l.dlange@tweedekamer.nl",
-      "family_name": "Lange",
       "gender": "male",
       "given_name": "Leendert",
       "id": "a07437e1-33b6-4f44-86f0-089c52b05cde",
@@ -13616,11 +13785,8 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/ac00e6e5-ced3-48b3-ad4b-18fda8720f85.jpg?itok=LOBvmCxF",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Leendert_de_lange-1479286734.JPG",
       "images": [
-        {
-          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/ac00e6e5-ced3-48b3-ad4b-18fda8720f85.jpg?itok=LOBvmCxF"
-        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Leendert_de_lange-1479286734.JPG"
         }
@@ -13639,14 +13805,7 @@
           "url": "https://twitter.com/leendertdelange"
         }
       ],
-      "name": "Leendert de Lange",
-      "other_names": [
-        {
-          "name": "Leendert A de Lange",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Lange, L.A. de"
+      "name": "Leendert de Lange"
     },
     {
       "birth_date": "1958-08-20",
@@ -16602,8 +16761,32 @@
       "sort_name": "Rog, M.R.J."
     },
     {
+      "birth_date": "1972-11-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "l.dlange@tweedekamer.nl"
+        }
+      ],
+      "email": "l.dlange@tweedekamer.nl",
+      "family_name": "Lange",
+      "gender": "male",
+      "given_name": "Leendert",
       "id": "cf352846-444c-4951-b9a2-dff0156ab1a5",
-      "name": "Leendert de Lange"
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/ac00e6e5-ced3-48b3-ad4b-18fda8720f85.jpg?itok=LOBvmCxF",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/ac00e6e5-ced3-48b3-ad4b-18fda8720f85.jpg?itok=LOBvmCxF"
+        }
+      ],
+      "name": "Leendert de Lange",
+      "other_names": [
+        {
+          "name": "Leendert A de Lange",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Lange, L.A. de"
     },
     {
       "birth_date": "1956-01-29",
@@ -17098,10 +17281,16 @@
       "birth_date": "1972-04-08",
       "contact_details": [
         {
+          "type": "email",
+          "value": "s.ozturk@tweedekamer.nl"
+        },
+        {
           "type": "twitter",
           "value": "selcukozturknl"
         }
       ],
+      "email": "s.ozturk@tweedekamer.nl",
+      "family_name": "Öztürk",
       "gender": "male",
       "given_name": "Selçuk",
       "id": "d74616c2-9bec-4b4f-9bd5-6794a9ce7cc1",
@@ -17127,8 +17316,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/39._Selçuk_Öztürk.jpg",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/b9f81065-3c6e-4c9a-a75a-fa25abe5669e.jpg?itok=IWNlXLyE",
       "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/b9f81065-3c6e-4c9a-a75a-fa25abe5669e.jpg?itok=IWNlXLyE"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/39._Selçuk_Öztürk.jpg"
         },
@@ -17162,7 +17354,8 @@
           "url": "https://twitter.com/selcukozturknl"
         }
       ],
-      "name": "Selçuk Öztürk"
+      "name": "Selçuk Öztürk",
+      "sort_name": "Öztürk, S."
     },
     {
       "birth_date": "1974-01-08",
@@ -17540,18 +17733,12 @@
       "birth_date": "1969-11-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "h.veldman@tweedekamer.nl"
-        },
-        {
           "type": "twitter",
           "value": "HaykeVeldman"
         }
       ],
-      "email": "h.veldman@tweedekamer.nl",
       "family_name": "Veldman",
       "gender": "male",
-      "given_name": "Hayke",
       "id": "da7c57b9-b13b-453f-b516-40f868cd7fb3",
       "identifiers": [
         {
@@ -17575,11 +17762,8 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8522d129-b351-4d01-af39-96b9fd783717.jpg?itok=PgEbjM0q",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hayke-veldman-1429134379.jpg",
       "images": [
-        {
-          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8522d129-b351-4d01-af39-96b9fd783717.jpg?itok=PgEbjM0q"
-        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hayke-veldman-1429134379.jpg"
         },
@@ -17605,14 +17789,7 @@
           "url": "https://twitter.com/HaykeVeldman"
         }
       ],
-      "name": "Hayke Veldman",
-      "other_names": [
-        {
-          "name": "Hayke S Veldman",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Veldman, H.S."
+      "name": "Hayke Veldman"
     },
     {
       "birth_date": "1977-10-27",
@@ -26629,6 +26806,11 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "1974e9f0-c75b-4909-abca-d43c8ae93d4e",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/smeulders-phm-gl"
+        }
+      ],
       "start_date": "2018-06-07"
     },
     {
@@ -26848,6 +27030,11 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "2969b674-2563-4c63-9367-68207826b2d1",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/aartsen-aa-vvd"
+        }
+      ],
       "start_date": "2018-09-13"
     },
     {
@@ -27217,7 +27404,12 @@
       "on_behalf_of_id": "1fca422a-b267-41aa-abb5-647c39c6b58d",
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "41352e1d-cd3e-4d31-9b38-f597a940d637",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/berg-jamj-van-den-cda"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/2017",
@@ -27557,7 +27749,12 @@
       "on_behalf_of_id": "4ad50677-ed74-4b67-8947-590f47fd9b1e",
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "55756b65-f362-46a5-932a-0a308201972a",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/kuzu-t-denk"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/2012",
@@ -27565,6 +27762,11 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "55756b65-f362-46a5-932a-0a308201972a",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/kuzu-t-denk"
+        }
+      ],
       "start_date": "2014-11-13"
     },
     {
@@ -27572,7 +27774,12 @@
       "on_behalf_of_id": "e673cf82-b223-42df-9a7f-fc0bfb3fb287",
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "55756b65-f362-46a5-932a-0a308201972a",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/kuzu-t-denk"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/2012",
@@ -27747,7 +27954,12 @@
       "on_behalf_of_id": "3086e984-3478-4328-b79a-51f81c332cb5",
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "60f252ac-f617-4d3a-8d70-9f6a94ec3604",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/la%C3%A7in-c-sp"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/2012",
@@ -27781,7 +27993,12 @@
       "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "66e57f16-32fd-4dd1-84b7-aaa0b6cdc255",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/el-yassini-z-vvd"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/2012",
@@ -27845,6 +28062,11 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "6e7292cf-64ac-4a61-8287-4b523318c296",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/renkema-wjt-gl"
+        }
+      ],
       "start_date": "2018-06-13"
     },
     {
@@ -27948,6 +28170,11 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "75e3ca42-0d70-4377-904b-d0f0f88a3e75",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/bromet-l-gl"
+        }
+      ],
       "start_date": "2018-06-07"
     },
     {
@@ -27956,6 +28183,11 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "7689583c-e40a-46f0-b073-cdd818aed97f",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/gent-t-van-vvd"
+        }
+      ],
       "start_date": "2018-09-05"
     },
     {
@@ -27988,6 +28220,11 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "79038d5e-830b-4f0d-8217-aa9362188764",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/veldman-hs-vvd"
+        }
+      ],
       "start_date": "2017-10-31"
     },
     {
@@ -28217,7 +28454,12 @@
       "on_behalf_of_id": "29f1cf86-03d9-477c-8fa5-cc67de7fb5a2",
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "83e7caf1-64f6-4f54-bc5a-47821437bfd8",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/kooten-arissen-fm-van-pvdd"
+        }
+      ]
     },
     {
       "end_date": "2015-03-24",
@@ -28809,11 +29051,6 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "a07437e1-33b6-4f44-86f0-089c52b05cde",
       "role": "member",
-      "sources": [
-        {
-          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/lange-la-de-vvd"
-        }
-      ],
       "start_date": "2015-03-30"
     },
     {
@@ -29342,6 +29579,11 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "cf352846-444c-4951-b9a2-dff0156ab1a5",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/lange-la-de-vvd"
+        }
+      ],
       "start_date": "2017-10-31"
     },
     {
@@ -29463,6 +29705,11 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "d74616c2-9bec-4b4f-9bd5-6794a9ce7cc1",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/%C3%B6zt%C3%BCrk-s-denk"
+        }
+      ],
       "start_date": "2012-11-08"
     },
     {
@@ -29471,6 +29718,11 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "d74616c2-9bec-4b4f-9bd5-6794a9ce7cc1",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/%C3%B6zt%C3%BCrk-s-denk"
+        }
+      ],
       "start_date": "2014-11-13"
     },
     {
@@ -29478,7 +29730,12 @@
       "on_behalf_of_id": "e673cf82-b223-42df-9a7f-fc0bfb3fb287",
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "d74616c2-9bec-4b4f-9bd5-6794a9ce7cc1",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/%C3%B6zt%C3%BCrk-s-denk"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/2012",
@@ -29563,11 +29820,6 @@
       "organization_id": "4056556b-bc6a-498c-8410-0757553b5f52",
       "person_id": "da7c57b9-b13b-453f-b516-40f868cd7fb3",
       "role": "member",
-      "sources": [
-        {
-          "url": "https://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament/veldman-hs-vvd"
-        }
-      ],
       "start_date": "2014-06-25"
     },
     {
