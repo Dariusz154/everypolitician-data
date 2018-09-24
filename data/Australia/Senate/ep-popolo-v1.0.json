@@ -110,13 +110,6 @@
     },
     {
       "birth_date": "1957-06-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.brandis@aph.gov.au"
-        }
-      ],
-      "email": "senator.brandis@aph.gov.au",
       "family_name": "Brandis",
       "gender": "male",
       "given_name": "George",
@@ -233,13 +226,6 @@
     },
     {
       "birth_date": "1953-05-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.milne@aph.gov.au"
-        }
-      ],
-      "email": "senator.milne@aph.gov.au",
       "family_name": "Milne",
       "gender": "female",
       "given_name": "Christine",
@@ -509,13 +495,6 @@
     },
     {
       "birth_date": "1954-06-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.bishop@aph.gov.au"
-        }
-      ],
-      "email": "senator.bishop@aph.gov.au",
       "family_name": "Bishop",
       "gender": "male",
       "given_name": "Mark",
@@ -666,15 +645,10 @@
       "birth_date": "1972-09-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Matt.Thistlethwaite.MP@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "MThistlethwaite"
         }
       ],
-      "email": "Matt.Thistlethwaite.MP@aph.gov.au",
       "family_name": "Thistlethwaite",
       "gender": "male",
       "given_name": "Matt",
@@ -1665,15 +1639,10 @@
       "birth_date": "1961-01-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.wright@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "pennywrites"
         }
       ],
-      "email": "senator.wright@aph.gov.au",
       "family_name": "Wright",
       "gender": "female",
       "given_name": "Penny",
@@ -1899,13 +1868,6 @@
     },
     {
       "birth_date": "1962-03-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.mason@aph.gov.au"
-        }
-      ],
-      "email": "senator.mason@aph.gov.au",
       "family_name": "Mason",
       "gender": "male",
       "given_name": "Brett",
@@ -2204,15 +2166,10 @@
       "birth_date": "1958-03-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.mclucas@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "JanMcLucas"
         }
       ],
-      "email": "senator.mclucas@aph.gov.au",
       "family_name": "McLucas",
       "gender": "female",
       "given_name": "Jan",
@@ -2388,10 +2345,6 @@
       "birth_date": "1981-01-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.wang@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "SenatorZWang"
         },
@@ -2400,7 +2353,6 @@
           "value": "SenatorDioWang"
         }
       ],
-      "email": "senator.wang@aph.gov.au",
       "family_name": "Wang",
       "gender": "male",
       "given_name": "Dio",
@@ -3264,15 +3216,10 @@
       "birth_date": "1983-07-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.dastyari@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "samdastyari"
         }
       ],
-      "email": "senator.dastyari@aph.gov.au",
       "family_name": "Dastyari",
       "gender": "male",
       "given_name": "Sam",
@@ -3703,13 +3650,6 @@
     },
     {
       "birth_date": "1942-10-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Bronwyn.Bishop.MP@aph.gov.au"
-        }
-      ],
-      "email": "Bronwyn.Bishop.MP@aph.gov.au",
       "family_name": "Bishop",
       "gender": "female",
       "given_name": "Bronwyn",
@@ -3908,15 +3848,10 @@
       "birth_date": "1960-10-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.parry@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "ParrySenator"
         }
       ],
-      "email": "senator.parry@aph.gov.au",
       "family_name": "Parry",
       "gender": "male",
       "given_name": "Stephen",
@@ -5600,15 +5535,10 @@
       "birth_date": "1951-05-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.rhiannon@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "leerhiannon"
         }
       ],
-      "email": "senator.rhiannon@aph.gov.au",
       "family_name": "Rhiannon",
       "gender": "female",
       "given_name": "Lee",
@@ -5989,15 +5919,10 @@
       "birth_date": "1954-08-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.mcewen@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "Senator_McEwen"
         }
       ],
-      "email": "senator.mcewen@aph.gov.au",
       "family_name": "McEwen",
       "gender": "female",
       "given_name": "Anne",
@@ -6406,15 +6331,10 @@
       "birth_date": "1984-03-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.simms@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "SimmsRobert"
         }
       ],
-      "email": "senator.simms@aph.gov.au",
       "family_name": "Simms",
       "gender": "male",
       "given_name": "Robert",
@@ -6498,15 +6418,10 @@
       "birth_date": "1964-06-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.culleton@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "SenatorCulleton"
         }
       ],
-      "email": "senator.culleton@aph.gov.au",
       "family_name": "Culleton",
       "gender": "male",
       "given_name": "Rod",
@@ -6741,15 +6656,10 @@
       "birth_date": "1985-12-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.kakoschke-moore@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "SenatorSkye"
         }
       ],
-      "email": "senator.kakoschke-moore@aph.gov.au",
       "family_name": "Kakoschke-Moore",
       "gender": "female",
       "given_name": "Skye",
@@ -6983,13 +6893,6 @@
     },
     {
       "birth_date": "1949-03-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.hogg@aph.gov.au"
-        }
-      ],
-      "email": "senator.hogg@aph.gov.au",
       "family_name": "Hogg",
       "gender": "male",
       "given_name": "John",
@@ -7335,13 +7238,6 @@
     },
     {
       "birth_date": "1954-07-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.stephens@aph.gov.au"
-        }
-      ],
-      "email": "senator.stephens@aph.gov.au",
       "family_name": "Stephens",
       "gender": "female",
       "given_name": "Ursula",
@@ -7393,15 +7289,10 @@
       "birth_date": "1964-08-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.bartlett@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "AndrewBartlett"
         }
       ],
-      "email": "senator.bartlett@aph.gov.au",
       "family_name": "Bartlett",
       "gender": "male",
       "given_name": "Andrew",
@@ -7706,15 +7597,10 @@
       "birth_date": "1952-07-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.day@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "senatorbobday"
         }
       ],
-      "email": "senator.day@aph.gov.au",
       "family_name": "Day",
       "gender": "male",
       "given_name": "Bob",
@@ -8686,13 +8572,6 @@
     },
     {
       "birth_date": "1966-07-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.madigan@aph.gov.au"
-        }
-      ],
-      "email": "senator.madigan@aph.gov.au",
       "family_name": "Madigan",
       "gender": "male",
       "given_name": "John",
@@ -8841,15 +8720,10 @@
       "birth_date": "1962-01-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.edwards@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "SeanC_Edwards"
         }
       ],
-      "email": "senator.edwards@aph.gov.au",
       "family_name": "Edwards",
       "gender": "male",
       "given_name": "Sean",
@@ -9032,13 +8906,6 @@
     },
     {
       "birth_date": "1954-04-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.faulkner@aph.gov.au"
-        }
-      ],
-      "email": "senator.faulkner@aph.gov.au",
       "family_name": "Faulkner",
       "gender": "male",
       "given_name": "John",
@@ -9243,15 +9110,10 @@
       "birth_date": "1970-03-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.katy.gallagher@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "SenKatyG"
         }
       ],
-      "email": "senator.katy.gallagher@aph.gov.au",
       "family_name": "Gallagher",
       "gender": "female",
       "given_name": "Katy",
@@ -9591,10 +9453,6 @@
       "birth_date": "1970-01-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.ludlam@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "Scottludlam"
         },
@@ -9603,7 +9461,6 @@
           "value": "SenatorLudlam"
         }
       ],
-      "email": "senator.ludlam@aph.gov.au",
       "family_name": "Ludlam",
       "gender": "male",
       "given_name": "Scott",
@@ -9738,13 +9595,6 @@
     },
     {
       "birth_date": "1963-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.conroy@aph.gov.au"
-        }
-      ],
-      "email": "senator.conroy@aph.gov.au",
       "family_name": "Conroy",
       "gender": "male",
       "given_name": "Stephen",
@@ -10145,13 +9995,6 @@
     },
     {
       "birth_date": "1967-12-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.lundy@aph.gov.au"
-        }
-      ],
-      "email": "senator.lundy@aph.gov.au",
       "family_name": "Lundy",
       "gender": "female",
       "given_name": "Kate",
@@ -11370,13 +11213,6 @@
     },
     {
       "birth_date": "1941-12-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.eggleston@aph.gov.au"
-        }
-      ],
-      "email": "senator.eggleston@aph.gov.au",
       "family_name": "Eggleston",
       "gender": "male",
       "given_name": "Alan",
@@ -11988,15 +11824,10 @@
       "birth_date": "1955-05-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.roberts@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "SenatorMRoberts"
         }
       ],
-      "email": "senator.roberts@aph.gov.au",
       "family_name": "Roberts",
       "gender": "male",
       "given_name": "Malcolm",
@@ -13125,13 +12956,6 @@
     },
     {
       "birth_date": "1953-11-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.thorp@aph.gov.au"
-        }
-      ],
-      "email": "senator.thorp@aph.gov.au",
       "family_name": "Thorp",
       "gender": "female",
       "given_name": "Lin",
@@ -13791,15 +13615,10 @@
       "birth_date": "1959-01-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.xenophon@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "Nick_Xenophon"
         }
       ],
-      "email": "senator.xenophon@aph.gov.au",
       "family_name": "Xenophon",
       "gender": "male",
       "given_name": "Nick",
@@ -14448,13 +14267,6 @@
     },
     {
       "birth_date": "1955-04-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.bullock@aph.gov.au"
-        }
-      ],
-      "email": "senator.bullock@aph.gov.au",
       "family_name": "Bullock",
       "gender": "male",
       "given_name": "Joe",
@@ -15883,13 +15695,6 @@
     },
     {
       "birth_date": "1940-12-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator.boswell@aph.gov.au"
-        }
-      ],
-      "email": "senator.boswell@aph.gov.au",
       "family_name": "Boswell",
       "gender": "male",
       "given_name": "Ron",
