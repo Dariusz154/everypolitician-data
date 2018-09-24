@@ -5,17 +5,6 @@
   "persons": [
     {
       "birth_date": "1965-07-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zozulja.a@mail.ru"
-        },
-        {
-          "type": "phone",
-          "value": "8 (1642) 2 56 59."
-        }
-      ],
-      "email": "zozulja.a@mail.ru",
       "family_name": "Zazulya",
       "gender": "male",
       "given_name": "Alyaksandr",
@@ -76,17 +65,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "leonenko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 222 63 14"
-        }
-      ],
-      "email": "leonenko@house.gov.by",
       "gender": "female",
       "id": "0b406a35-1e70-4bc7-81d9-84e0fc26efd0",
       "identifiers": [
@@ -123,17 +101,6 @@
     },
     {
       "birth_date": "1958-03-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kovalevich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01645) 2 15 06"
-        }
-      ],
-      "email": "kovalevich@house.gov.by",
       "gender": "male",
       "id": "0cb8bd89-8c06-42e1-b287-9de09d454f43",
       "identifiers": [
@@ -232,17 +199,6 @@
     },
     {
       "birth_date": "1955-09-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shchetko@house.gov.byhttp://192.168.2.3/palata/"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01715) 5 50 45"
-        }
-      ],
-      "email": "shchetko@house.gov.byhttp://192.168.2.3/palata/",
       "gender": "male",
       "id": "0d47c3de-8b66-4cd2-a164-4bf4c2e005f6",
       "identifiers": [
@@ -297,17 +253,6 @@
     },
     {
       "birth_date": "1955-06-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yazubets@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0163) 45 52 41"
-        }
-      ],
-      "email": "yazubets@house.gov.by",
       "gender": "male",
       "id": "124d96c6-f1c7-4886-8f45-2ab10394e9a4",
       "identifiers": [
@@ -326,12 +271,6 @@
     },
     {
       "birth_date": "1958-08-25",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (021) 54 4 42 25"
-        }
-      ],
       "gender": "male",
       "id": "126ae66c-9d2a-4782-9035-8023e663dd83",
       "identifiers": [
@@ -525,13 +464,6 @@
     },
     {
       "birth_date": "1960-07-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "s_kulesh@house.gov.by"
-        }
-      ],
-      "email": "s_kulesh@house.gov.by",
       "gender": "male",
       "id": "19e908ae-a0f4-4122-8886-c4657d4242a8",
       "identifiers": [
@@ -757,13 +689,6 @@
     },
     {
       "birth_date": "1951-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kokash@house.gov.by"
-        }
-      ],
-      "email": "kokash@house.gov.by",
       "gender": "male",
       "id": "1d03c9a2-43f0-473b-adbb-3d0173978c0e",
       "identifiers": [
@@ -782,13 +707,6 @@
     },
     {
       "birth_date": "1957-03-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "konoplich@house.gov.by"
-        }
-      ],
-      "email": "konoplich@house.gov.by",
       "gender": "male",
       "given_name": "Syarhey",
       "id": "1d283ac6-cede-4ee9-a3ca-e619377ada56",
@@ -1009,12 +927,6 @@
     },
     {
       "birth_date": "1976-03-23",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (017) 280 36 22, 8 (017) 245 82 38"
-        }
-      ],
       "gender": "male",
       "id": "216b3bf8-e1df-4b87-aeee-bf81b11242e7",
       "identifiers": [
@@ -1101,17 +1013,6 @@
     },
     {
       "birth_date": "1961-03-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "koltunov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0235) 6 10 06, 8 (02237) 2 41 93, 8 (02236) 5 15 74"
-        }
-      ],
-      "email": "koltunov@house.gov.by",
       "gender": "male",
       "id": "232c7fd1-4d1e-4fc6-ae60-a3b681ab5636",
       "identifiers": [
@@ -1130,17 +1031,6 @@
     },
     {
       "birth_date": "1954-08-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shitko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0212) 36 42 11"
-        }
-      ],
-      "email": "shitko@house.gov.by",
       "gender": "male",
       "id": "234bfbc5-c337-4a99-8cda-3fc14bb10eb8",
       "identifiers": [
@@ -1184,17 +1074,6 @@
     },
     {
       "birth_date": "1973-05-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shamal@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (02251) 47 48 71"
-        }
-      ],
-      "email": "shamal@house.gov.by",
       "gender": "female",
       "id": "25b8268f-1bcf-4445-9058-02230a542529",
       "identifiers": [
@@ -1213,17 +1092,6 @@
     },
     {
       "birth_date": "1954-01-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "boiko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01795) 5 55 87"
-        }
-      ],
-      "email": "boiko@house.gov.by",
       "gender": "male",
       "given_name": "Anatol",
       "id": "2627b3be-1c95-4ab4-bb95-4252a2bd2b9e",
@@ -1430,17 +1298,6 @@
     },
     {
       "birth_date": "1962-02-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valyushitsky@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0162) 23 86 36"
-        }
-      ],
-      "email": "valyushitsky@house.gov.by",
       "family_name": "Valyushytski",
       "gender": "male",
       "given_name": "Viktar",
@@ -1502,13 +1359,6 @@
     },
     {
       "birth_date": "1968-07-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "myakinnik@house.gov.by"
-        }
-      ],
-      "email": "myakinnik@house.gov.by",
       "gender": "male",
       "given_name": "Alyaksandr",
       "id": "2e438a2e-837a-4fd5-bc37-ced16244d6c4",
@@ -1568,12 +1418,6 @@
     },
     {
       "birth_date": "1957-01-01",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (017) 200 97 54"
-        }
-      ],
       "gender": "male",
       "given_name": "Vasil'",
       "id": "2fa57e13-8a9f-43f6-85be-b29e33098868",
@@ -1639,17 +1483,6 @@
     },
     {
       "birth_date": "1962-06-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "beresneva@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0152) 75 75 11, 8 (029) 631 91 15"
-        }
-      ],
-      "email": "beresneva@house.gov.by",
       "gender": "female",
       "given_name": "Alena",
       "id": "30de3658-0178-48ac-a5fa-cb99c94e6f62",
@@ -1745,12 +1578,6 @@
     },
     {
       "birth_date": "1963-09-23",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (02233) 5 93 43"
-        }
-      ],
       "family_name": "Wołkau",
       "gender": "male",
       "given_name": "Mikhail",
@@ -1840,17 +1667,6 @@
     },
     {
       "birth_date": "1954-01-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "orsha_rik@tut.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0216) 21 12 83"
-        }
-      ],
-      "email": "orsha_rik@tut.by",
       "gender": "male",
       "id": "3653432d-0cc7-4de5-8992-e95a401ccdfa",
       "identifiers": [
@@ -1869,17 +1685,6 @@
     },
     {
       "birth_date": "1955-11-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "puzyrevsky@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01641) 2 21 80"
-        }
-      ],
-      "email": "puzyrevsky@house.gov.by",
       "gender": "male",
       "id": "36d4d862-6978-47be-9209-7413cc14cdb9",
       "identifiers": [
@@ -1898,17 +1703,6 @@
     },
     {
       "birth_date": "1963-04-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "starostina@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0222) 42 34 81"
-        }
-      ],
-      "email": "starostina@house.gov.by",
       "family_name": "Starascina",
       "gender": "female",
       "given_name": "Lyudmyla",
@@ -2006,17 +1800,6 @@
     },
     {
       "birth_date": "1952-04-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senkevich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0222) 22 18 77"
-        }
-      ],
-      "email": "senkevich@house.gov.by",
       "gender": "male",
       "id": "3a4d232f-49a4-42e3-91f3-d5030b1d2c1d",
       "identifiers": [
@@ -2143,17 +1926,6 @@
     },
     {
       "birth_date": "1955-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "michail.savanovich@gmail.com"
-        },
-        {
-          "type": "phone",
-          "value": "(017) 204 34 72, (025) 706 64 81"
-        }
-      ],
-      "email": "michail.savanovich@gmail.com",
       "gender": "male",
       "id": "3e337c86-e020-4922-95f3-a5837877afdf",
       "identifiers": [
@@ -2172,17 +1944,6 @@
     },
     {
       "birth_date": "1954-04-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yurkevich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01632) 9 05 48"
-        }
-      ],
-      "email": "yurkevich@house.gov.by",
       "gender": "male",
       "id": "3fa95b00-0c20-4173-affa-e9c0e2d8f42f",
       "identifiers": [
@@ -2201,12 +1962,6 @@
     },
     {
       "birth_date": "1954-10-25",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0165) 31 70 01"
-        }
-      ],
       "gender": "female",
       "given_name": "Zinaida",
       "id": "3fd0d2ed-0744-40cd-a675-67cf138fb261",
@@ -2267,13 +2022,6 @@
     },
     {
       "birth_date": "1956-01-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bokhan@house.gov.by"
-        }
-      ],
-      "email": "bokhan@house.gov.by",
       "gender": "male",
       "given_name": "Syarhey",
       "id": "40a20903-b05d-4b7f-b481-ba2d012a27e5",
@@ -2445,17 +2193,6 @@
     },
     {
       "birth_date": "1963-06-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yaroshevich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01655) 6 01 76"
-        }
-      ],
-      "email": "yaroshevich@house.gov.by",
       "gender": "male",
       "given_name": "Alyaksandr",
       "id": "48ddaeaa-abed-4453-946b-58e57162fadb",
@@ -2552,17 +2289,6 @@
     },
     {
       "birth_date": "1951-05-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "a7novich@mail.ru"
-        },
-        {
-          "type": "phone",
-          "value": "8 (02340) 4 11 67"
-        }
-      ],
-      "email": "a7novich@mail.ru",
       "gender": "male",
       "given_name": "Adam",
       "id": "4a6ccdb7-4f74-4b06-b87c-08d8fcd59d35",
@@ -2936,12 +2662,6 @@
     },
     {
       "birth_date": "1953-11-11",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (01716) 5 56 43, 8 (01718) 5 55 07"
-        }
-      ],
       "gender": "male",
       "id": "4f0c655f-5e5c-4c94-a2d8-642a8bece64c",
       "identifiers": [
@@ -2960,12 +2680,6 @@
     },
     {
       "birth_date": "1954-04-22",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0212) 21 32 89"
-        }
-      ],
       "gender": "male",
       "id": "4fc3b277-3d8a-4310-a393-0f10f69c72e9",
       "identifiers": [
@@ -2984,17 +2698,6 @@
     },
     {
       "birth_date": "1951-12-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pochinok@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0232) 40 53 62."
-        }
-      ],
-      "email": "pochinok@house.gov.by",
       "gender": "male",
       "id": "510f2f4e-aa34-4276-b23b-ddab88beaa8b",
       "identifiers": [
@@ -3056,17 +2759,6 @@
     },
     {
       "birth_date": "1978-08-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kleshchuk@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01795) 2 08 82"
-        }
-      ],
-      "email": "kleshchuk@house.gov.by",
       "gender": "female",
       "given_name": "Inesa",
       "id": "53ee5acf-97ab-4a4e-be44-48f6b2f2e0da",
@@ -3250,17 +2942,6 @@
     },
     {
       "birth_date": "1952-01-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ageey@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 222 41 53"
-        }
-      ],
-      "email": "ageey@house.gov.by",
       "family_name": "Ahiejeu",
       "gender": "male",
       "given_name": "Alyaksandr",
@@ -3349,17 +3030,6 @@
     },
     {
       "birth_date": "1973-03-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "obolensky@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01774) 22 49 42."
-        }
-      ],
-      "email": "obolensky@house.gov.by",
       "family_name": "Abalenski",
       "gender": "male",
       "given_name": "Jauhienij",
@@ -3512,17 +3182,6 @@
     },
     {
       "birth_date": "1947-04-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivanchenko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01770) 5 56 76, 8 (01717) 5 53 65, 8 (017) 222 64 06"
-        }
-      ],
-      "email": "ivanchenko@house.gov.by",
       "gender": "male",
       "id": "6409ecf1-bfb3-442b-a9cc-d89acc9ffd9f",
       "identifiers": [
@@ -3566,13 +3225,6 @@
     },
     {
       "birth_date": "1956-08-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mikhalkova@house.gov.by"
-        }
-      ],
-      "email": "mikhalkova@house.gov.by",
       "gender": "female",
       "id": "65725c45-4bf9-46f9-a1ae-ad44c1d85849",
       "identifiers": [
@@ -3591,17 +3243,6 @@
     },
     {
       "birth_date": "1953-02-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rozganov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0222) 25 75 10"
-        }
-      ],
-      "email": "rozganov@house.gov.by",
       "gender": "male",
       "given_name": "Alyaksandr",
       "id": "65771f23-a25b-4e61-b5d2-d6c7cdc9f14b",
@@ -3651,17 +3292,6 @@
     },
     {
       "birth_date": "1957-04-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stetsko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0163) 42 15 22"
-        }
-      ],
-      "email": "stetsko@house.gov.by",
       "gender": "male",
       "given_name": "Alyaksandr",
       "id": "6863bc47-74a1-4f69-a6e5-9356f7e3008a",
@@ -3988,12 +3618,6 @@
     },
     {
       "birth_date": "1958-09-13",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0162) 42 85 32"
-        }
-      ],
       "family_name": "Bahdanovich",
       "gender": "female",
       "given_name": "Larisa",
@@ -4059,17 +3683,6 @@
     },
     {
       "birth_date": "1953-08-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kravtsov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (02241) 5 17 49, 8 (02241) 5 16 54, 8 (02244) 5 15 52"
-        }
-      ],
-      "email": "kravtsov@house.gov.by",
       "family_name": "Kravtsov",
       "gender": "male",
       "given_name": "Vladimir",
@@ -4121,12 +3734,6 @@
     },
     {
       "birth_date": "1958-05-13",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (01742) 2 06 80, 8 (01794) 5 53 41"
-        }
-      ],
       "gender": "female",
       "id": "8108f50d-29e3-4133-941b-e7f8c7d6ce30",
       "identifiers": [
@@ -4328,12 +3935,6 @@
     },
     {
       "birth_date": "1955-07-07",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0225) 52 88 31, 8 (029) 675 50 96"
-        }
-      ],
       "gender": "male",
       "id": "8dff891e-a57c-4025-bf48-f06933fe013d",
       "identifiers": [
@@ -4377,17 +3978,6 @@
     },
     {
       "birth_date": "1956-01-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "apanasyuk@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (02334) 2 11 20"
-        }
-      ],
-      "email": "apanasyuk@house.gov.by",
       "gender": "male",
       "given_name": "Leonid",
       "id": "8fd9f65c-29ac-497c-9c02-542c647d4a7b",
@@ -4484,12 +4074,6 @@
     },
     {
       "birth_date": "1959-01-02",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0164) 72 30 38"
-        }
-      ],
       "gender": "female",
       "id": "98736e3c-d99f-4161-a2fa-5776684cad0e",
       "identifiers": [
@@ -4508,17 +4092,6 @@
     },
     {
       "birth_date": "1952-12-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "udodov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (02345) 9 52 50"
-        }
-      ],
-      "email": "udodov@house.gov.by",
       "gender": "male",
       "id": "98c175be-8fb2-491f-bc16-bae8775fd9bf",
       "identifiers": [
@@ -4661,17 +4234,6 @@
     },
     {
       "birth_date": "1959-10-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "samoseiko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 222 35 76"
-        }
-      ],
-      "email": "samoseiko@house.gov.by",
       "gender": "male",
       "given_name": "Mikalai",
       "id": "a00cd1e4-5abd-46ee-bf2a-18f732072254",
@@ -4721,17 +4283,6 @@
     },
     {
       "birth_date": "1950-02-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kokhanov@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01511) 4 25 55"
-        }
-      ],
-      "email": "kokhanov@house.gov.by",
       "gender": "male",
       "id": "a14684ce-fd0a-4e2e-b0e7-bd183ac05442",
       "identifiers": [
@@ -4854,17 +4405,6 @@
     },
     {
       "birth_date": "1975-09-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kharitonchik@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (01775) 3 78 42"
-        }
-      ],
-      "email": "kharitonchik@house.gov.by",
       "gender": "male",
       "id": "a8534495-f965-4e96-99f9-9231d2bbd735",
       "identifiers": [
@@ -4883,13 +4423,6 @@
     },
     {
       "birth_date": "1959-08-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zhuravskaya@house.gov.by"
-        }
-      ],
-      "email": "zhuravskaya@house.gov.by",
       "family_name": "Zhurauska",
       "gender": "female",
       "given_name": "Valyantsina",
@@ -5125,13 +4658,6 @@
     },
     {
       "birth_date": "1981-06-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "murashko@house.gov.by"
-        }
-      ],
-      "email": "murashko@house.gov.by",
       "gender": "male",
       "id": "ad354fd3-56d7-4728-b3a4-9ec2da029c1e",
       "identifiers": [
@@ -5211,13 +4737,6 @@
     },
     {
       "birth_date": "1956-05-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ushkevich@house.gov.by"
-        }
-      ],
-      "email": "ushkevich@house.gov.by",
       "gender": "male",
       "id": "b1963f7e-79ae-4312-94f2-ac5f0c12543d",
       "identifiers": [
@@ -5236,12 +4755,6 @@
     },
     {
       "birth_date": "1967-08-30",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0222) 48 43 55"
-        }
-      ],
       "gender": "male",
       "id": "b254643b-f9e6-438e-a9ca-35c939a04930",
       "identifiers": [
@@ -5260,12 +4773,6 @@
     },
     {
       "birth_date": "1953-05-13",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (029) 142 73 29"
-        }
-      ],
       "family_name": "Valyavach",
       "gender": "male",
       "given_name": "Zyhmund",
@@ -5377,17 +4884,6 @@
     },
     {
       "birth_date": "1955-08-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lopatina@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0232) 40 63 52"
-        }
-      ],
-      "email": "lopatina@house.gov.by",
       "gender": "female",
       "id": "b7e9a07a-50fb-477d-bb1e-3ce12e25e23f",
       "identifiers": [
@@ -5406,17 +4902,6 @@
     },
     {
       "birth_date": "1955-07-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "poleichuk@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (029) 329 23 07"
-        }
-      ],
-      "email": "poleichuk@house.gov.by",
       "gender": "male",
       "id": "b850afed-4244-45c2-8d32-cda5424080c3",
       "identifiers": [
@@ -5496,13 +4981,6 @@
     },
     {
       "birth_date": "1962-05-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "palchyk@house.gov.bу"
-        }
-      ],
-      "email": "palchyk@house.gov.bу",
       "gender": "male",
       "id": "bc82157d-db71-40a2-9645-968972d1f5fd",
       "identifiers": [
@@ -5729,17 +5207,6 @@
     },
     {
       "birth_date": "1961-03-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "levitskaya@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 204 30 15"
-        }
-      ],
-      "email": "levitskaya@house.gov.by",
       "gender": "female",
       "id": "cdbca88d-1a12-47ac-93e4-f229a611bbb9",
       "identifiers": [
@@ -5776,12 +5243,6 @@
     },
     {
       "birth_date": "1955-01-26",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0212) 25 34 64"
-        }
-      ],
       "family_name": "Wołkau",
       "gender": "male",
       "given_name": "Mikhail",
@@ -5860,13 +5321,6 @@
     },
     {
       "birth_date": "1966-07-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shostak@house.gov.by"
-        }
-      ],
-      "email": "shostak@house.gov.by",
       "family_name": "Shostak",
       "gender": "male",
       "given_name": "Piotr",
@@ -5960,17 +5414,6 @@
     },
     {
       "birth_date": "1955-08-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kuzmich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 207 15 66"
-        }
-      ],
-      "email": "kuzmich@house.gov.by",
       "gender": "male",
       "id": "d4a0dfbb-47aa-4a6d-8c38-e6eda4603a8c",
       "identifiers": [
@@ -6075,17 +5518,6 @@
     },
     {
       "birth_date": "1956-08-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "busko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 331 02 64"
-        }
-      ],
-      "email": "busko@house.gov.by",
       "family_name": "Buśko",
       "gender": "male",
       "given_name": "Vitaliy",
@@ -6141,17 +5573,6 @@
     },
     {
       "birth_date": "1956-10-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gushcha@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0154) 53 00 60"
-        }
-      ],
-      "email": "gushcha@house.gov.by",
       "gender": "male",
       "id": "da11902a-f976-43a4-9994-c207fb784615",
       "identifiers": [
@@ -6170,17 +5591,6 @@
     },
     {
       "birth_date": "1960-09-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "liskovich@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 0152 77 11 70"
-        }
-      ],
-      "email": "liskovich@house.gov.by",
       "gender": "male",
       "id": "da3f0fad-e946-4e6a-8590-a440566c9851",
       "identifiers": [
@@ -6199,13 +5609,6 @@
     },
     {
       "birth_date": "1961-04-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shilova@house.gov.by"
-        }
-      ],
-      "email": "shilova@house.gov.by",
       "gender": "female",
       "given_name": "Sviatlana",
       "id": "de75f37d-ce09-4c7c-a4bd-8d5610192c5a",
@@ -6266,17 +5669,6 @@
     },
     {
       "birth_date": "1963-11-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vasilenko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0222) 31 05 85"
-        }
-      ],
-      "email": "vasilenko@house.gov.by",
       "family_name": "Vasilenka",
       "gender": "male",
       "given_name": "Uladzimir",
@@ -6342,17 +5734,6 @@
     },
     {
       "birth_date": "1959-01-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cherevach@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 207 71 38"
-        }
-      ],
-      "email": "cherevach@house.gov.by",
       "gender": "male",
       "id": "dfb843e3-ac71-4684-bba1-d1664e99c5aa",
       "identifiers": [
@@ -6396,17 +5777,6 @@
     },
     {
       "birth_date": "1951-01-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zhmailik@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0232) 54 17 53"
-        }
-      ],
-      "email": "zhmailik@house.gov.by",
       "family_name": "Zhmailik",
       "gender": "male",
       "given_name": "Valery",
@@ -6481,12 +5851,6 @@
     },
     {
       "birth_date": "1958-02-19",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (02144) 2 64 58"
-        }
-      ],
       "gender": "male",
       "id": "e752dbc5-48a0-4a79-9062-a9c0452ab453",
       "identifiers": [
@@ -6715,12 +6079,6 @@
     },
     {
       "birth_date": "1962-03-24",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "8 (0225) 43 16 61"
-        }
-      ],
       "gender": "female",
       "id": "ea963c3f-cf8a-4c3a-b602-9ec37e07735c",
       "identifiers": [
@@ -6764,13 +6122,6 @@
     },
     {
       "birth_date": "1971-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kuchinskaya@house.gov.by"
-        }
-      ],
-      "email": "kuchinskaya@house.gov.by",
       "gender": "female",
       "id": "ee2ca4a0-abb9-428a-b1de-bcfc7e9231ed",
       "identifiers": [
@@ -6814,17 +6165,6 @@
     },
     {
       "birth_date": "1962-09-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dudkin@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (017) 243 57 10"
-        }
-      ],
-      "email": "dudkin@house.gov.by",
       "gender": "male",
       "id": "f0dd40cc-e728-484b-b478-e5ce373f4943",
       "identifiers": [
@@ -6843,17 +6183,6 @@
     },
     {
       "birth_date": "1956-07-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fesak@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (0232) 77 64 61"
-        }
-      ],
-      "email": "fesak@house.gov.by",
       "gender": "male",
       "id": "f45aa70b-5bcc-40c8-b27a-7ac7d78e7050",
       "identifiers": [
@@ -6872,17 +6201,6 @@
     },
     {
       "birth_date": "1960-04-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lazovskaya@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8 (029) 396 87 92"
-        }
-      ],
-      "email": "lazovskaya@house.gov.by",
       "gender": "female",
       "id": "f713d946-94d9-4dc1-9aa3-56947e5facb5",
       "identifiers": [
@@ -7104,17 +6422,6 @@
     },
     {
       "birth_date": "1954-03-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mozheiko@house.gov.by"
-        },
-        {
-          "type": "phone",
-          "value": "8-017-222-63-70, 8-029-700-20-41."
-        }
-      ],
-      "email": "mozheiko@house.gov.by",
       "gender": "male",
       "id": "fdf601a4-88a0-4c0a-a3c2-e6976d5c9173",
       "identifiers": [
