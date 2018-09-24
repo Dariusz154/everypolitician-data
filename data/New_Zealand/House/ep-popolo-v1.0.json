@@ -121,15 +121,10 @@
       "birth_date": "1957-06-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "chester.borrows@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "ChesterBorrows"
         }
       ],
-      "email": "chester.borrows@parliament.govt.nz",
       "gender": "male",
       "given_name": "Chester",
       "id": "04c5b13a-a2d0-4737-aa7d-0d51140d7274",
@@ -320,15 +315,10 @@
       "birth_date": "1977-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paul.foster-bell@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "PARFosterBell"
         }
       ],
-      "email": "paul.foster-bell@parliament.govt.nz",
       "gender": "male",
       "given_name": "Paul",
       "id": "09451e3b-f365-4df1-8db7-9a87c75a06cd",
@@ -859,15 +849,10 @@
       "birth_date": "1953",
       "contact_details": [
         {
-          "type": "email",
-          "value": "catherine.delahunty@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "greencatherine"
         }
       ],
-      "email": "catherine.delahunty@parliament.govt.nz",
       "family_name": "Delahunty",
       "gender": "female",
       "given_name": "Catherine",
@@ -1020,13 +1005,6 @@
     },
     {
       "birth_date": "1947-10-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Lindsay.Tisch@parliament.govt.nz"
-        }
-      ],
-      "email": "Lindsay.Tisch@parliament.govt.nz",
       "gender": "male",
       "given_name": "Lindsay",
       "id": "1287bc9d-7c1e-4d17-88e6-338a852b6f6e",
@@ -1713,15 +1691,10 @@
       "birth_date": "1963-04-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "david.cunliffe@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "DavidCunliffeMP"
         }
       ],
-      "email": "david.cunliffe@parliament.govt.nz",
       "gender": "male",
       "given_name": "David",
       "id": "1974bf1c-1787-4ee2-9b18-b2206a8ab39a",
@@ -1874,15 +1847,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jono.naylor@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "jono_naylor"
         }
       ],
-      "email": "Jono.naylor@parliament.govt.nz",
       "gender": "male",
       "id": "1d9a0065-ce43-445e-8ab2-a3d16fa9e131",
       "identifiers": [
@@ -2156,15 +2124,10 @@
       "birth_date": "1970-11-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "peseta.sam.lotu-iiga@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "MaungakiekieSAM"
         }
       ],
-      "email": "peseta.sam.lotu-iiga@parliament.govt.nz",
       "gender": "male",
       "given_name": "Sam",
       "id": "2358632b-90c5-4887-93dc-eaf4f1b59e50",
@@ -2517,15 +2480,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "Mahesh.bindra@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "MaheshBindra"
         }
       ],
-      "email": "Mahesh.bindra@parliament.govt.nz",
       "gender": "male",
       "given_name": "Mahesh",
       "id": "2c3f289d-dcb3-44a7-adae-1159d99ce246",
@@ -3376,15 +3334,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "marama.fox@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "FoxMarama"
         }
       ],
-      "email": "marama.fox@parliament.govt.nz",
       "family_name": "Fox",
       "gender": "female",
       "id": "3bd18a81-2acc-41db-9d9a-a46ff3900dfd",
@@ -4148,15 +4101,10 @@
       "birth_date": "1963-07-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "denise.roche@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "DeniseRocheMP"
         }
       ],
-      "email": "denise.roche@parliament.govt.nz",
       "family_name": "Roche",
       "gender": "female",
       "given_name": "Denise",
@@ -4577,15 +4525,10 @@
       "birth_date": "1947-09-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "annette.king@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "annetterongotai"
         }
       ],
-      "email": "annette.king@parliament.govt.nz",
       "family_name": "King",
       "gender": "female",
       "given_name": "Annette",
@@ -4932,10 +4875,6 @@
       "birth_date": "1954-03-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "peter.dunne@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "PeterDunneMP"
         },
@@ -4944,7 +4883,6 @@
           "value": "honpeterdunne"
         }
       ],
-      "email": "peter.dunne@parliament.govt.nz",
       "gender": "male",
       "given_name": "Peter",
       "id": "4e3fcc71-4f90-42fa-9ba1-636b0e0a4dc1",
@@ -5832,15 +5770,10 @@
       "birth_date": "1967-01-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "richard.prosser@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "richard_prosser"
         }
       ],
-      "email": "richard.prosser@parliament.govt.nz",
       "family_name": "Prosser",
       "gender": "male",
       "given_name": "Richard",
@@ -6048,10 +5981,6 @@
       "birth_date": "1990-06-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "todd.barclay@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "ToddBarclayMP"
         },
@@ -6060,7 +5989,6 @@
           "value": "barclay_todd"
         }
       ],
-      "email": "todd.barclay@parliament.govt.nz",
       "family_name": "Barclay",
       "gender": "male",
       "given_name": "Todd",
@@ -6189,15 +6117,10 @@
       "birth_date": "1976",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Ria.bond@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "RiaBondMP"
         }
       ],
-      "email": "Ria.bond@parliament.govt.nz",
       "family_name": "Bond",
       "gender": "female",
       "id": "67b99f79-886e-49f5-89c4-4e6ea0efaabe",
@@ -6239,13 +6162,6 @@
     },
     {
       "birth_date": "1953-02-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "murray.mccully@parliament.govt.nz"
-        }
-      ],
-      "email": "murray.mccully@parliament.govt.nz",
       "family_name": "McCully",
       "gender": "male",
       "given_name": "Murray",
@@ -6720,10 +6636,6 @@
       "birth_date": "1961-12-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "bill.english@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "pmbillenglish"
         },
@@ -6732,7 +6644,6 @@
           "value": "RtHonBEnglish"
         }
       ],
-      "email": "bill.english@parliament.govt.nz",
       "family_name": "English",
       "gender": "male",
       "given_name": "Bill",
@@ -7145,15 +7056,10 @@
       "birth_date": "1954-07-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "steffan.browning@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "SteffanBrowning"
         }
       ],
-      "email": "steffan.browning@parliament.govt.nz",
       "family_name": "Browning",
       "gender": "male",
       "given_name": "Steffan",
@@ -7692,15 +7598,10 @@
       "birth_date": "1970-02-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "metiria.turei@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "metiria"
         }
       ],
-      "email": "metiria.turei@parliament.govt.nz",
       "gender": "female",
       "id": "751c5318-8b7a-4f4c-a007-12d0870fe7fc",
       "identifiers": [
@@ -8926,15 +8827,10 @@
       "birth_date": "1958-11-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "hekia.parata@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "hekiaparata"
         }
       ],
-      "email": "hekia.parata@parliament.govt.nz",
       "gender": "female",
       "id": "84a6da5d-29ed-4461-9877-570acab059bd",
       "identifiers": [
@@ -9069,15 +8965,10 @@
       "birth_date": "1951-03-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Maurice.Williamson@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "williamson_nz"
         }
       ],
-      "email": "Maurice.Williamson@parliament.govt.nz",
       "family_name": "Williamson",
       "gender": "male",
       "given_name": "Maurice",
@@ -10519,13 +10410,6 @@
     },
     {
       "birth_date": "1969-10-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "clayton.cosgrove@parliament.govt.nz"
-        }
-      ],
-      "email": "clayton.cosgrove@parliament.govt.nz",
       "gender": "male",
       "given_name": "Clayton",
       "id": "a7476f0e-e9fc-4dca-9630-aa0dda2dda17",
@@ -10603,15 +10487,10 @@
       "birth_date": "1964-05-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sue.moroney@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "suemoroney"
         }
       ],
-      "email": "sue.moroney@parliament.govt.nz",
       "gender": "female",
       "given_name": "Sue",
       "id": "ac22e047-fb72-4e7e-b0b6-4cee156104bd",
@@ -10883,15 +10762,10 @@
       "birth_date": "1945-11-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pita.paraone@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "PitaParaone"
         }
       ],
-      "email": "pita.paraone@parliament.govt.nz",
       "gender": "male",
       "id": "ae991776-7a4e-4d8c-b32c-b073e6f2e458",
       "identifiers": [
@@ -11082,15 +10956,10 @@
       "birth_date": "1963-07-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "craig.foss@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "CraigFossMP"
         }
       ],
-      "email": "craig.foss@parliament.govt.nz",
       "gender": "male",
       "given_name": "Craig",
       "id": "b18b9cd2-dcdb-45b0-8d0c-380c5a0b46ea",
@@ -11485,15 +11354,10 @@
       "birth_date": "1952-02-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "barbara.stewart@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "BStewartMP"
         }
       ],
-      "email": "barbara.stewart@parliament.govt.nz",
       "family_name": "Stewart",
       "gender": "female",
       "given_name": "Barbara",
@@ -12440,15 +12304,10 @@
       "birth_date": "1961",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jo.goodhew@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "JoGoodhewMP"
         }
       ],
-      "email": "jo.goodhew@parliament.govt.nz",
       "family_name": "Goodhew",
       "gender": "female",
       "given_name": "Jo",
@@ -12691,15 +12550,10 @@
       "birth_date": "1946",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Kennedy.Graham@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "KennedyGraham"
         }
       ],
-      "email": "Kennedy.Graham@parliament.govt.nz",
       "family_name": "Graham",
       "gender": "male",
       "given_name": "Kennedy",
@@ -13000,15 +12854,10 @@
       "birth_date": "1961-08-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "john.key@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "RtHon_JohnKey"
         }
       ],
-      "email": "john.key@parliament.govt.nz",
       "gender": "male",
       "given_name": "John",
       "id": "cf4011ee-2b62-41f7-897d-0b1bf771a89d",
@@ -13906,15 +13755,10 @@
       "birth_date": "1955-12-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "teururoa.flavell@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "TeUruroaFlavell"
         }
       ],
-      "email": "teururoa.flavell@parliament.govt.nz",
       "gender": "male",
       "id": "d85334ce-5897-4072-b805-2083c4cf2f05",
       "identifiers": [
@@ -14052,15 +13896,10 @@
       "birth_date": "1955-09-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "david.clendon@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "davidclendon"
         }
       ],
-      "email": "david.clendon@parliament.govt.nz",
       "family_name": "Clendon",
       "gender": "male",
       "given_name": "David",
@@ -14673,15 +14512,10 @@
       "birth_date": "1963-04-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "steven.joyce@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "stevenljoyce"
         }
       ],
-      "email": "steven.joyce@parliament.govt.nz",
       "family_name": "Joyce",
       "gender": "male",
       "given_name": "Steven",
@@ -14796,15 +14630,10 @@
       "birth_date": "1966-11-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Mojo.Mathers@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "mojomathers"
         }
       ],
-      "email": "Mojo.Mathers@parliament.govt.nz",
       "gender": "female",
       "id": "e645cff7-45a7-489d-9dd0-6b1604c3cdc7",
       "identifiers": [
@@ -15228,15 +15057,10 @@
       "birth_date": "1966-09-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jonathan.coleman@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "jcolemanmp"
         }
       ],
-      "email": "jonathan.coleman@parliament.govt.nz",
       "family_name": "Coleman",
       "gender": "male",
       "given_name": "Jonathan",
@@ -15405,15 +15229,10 @@
       "birth_date": "1956-10-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "barry.coates@parliament.govt.nz"
-        },
-        {
           "type": "twitter",
           "value": "BarryCoates"
         }
       ],
-      "email": "barry.coates@parliament.govt.nz",
       "family_name": "Coates",
       "gender": "male",
       "given_name": "Barry",
@@ -16183,13 +16002,6 @@
     },
     {
       "birth_date": "1946-07-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "denis.orourke@parliament.govt.nz"
-        }
-      ],
-      "email": "denis.orourke@parliament.govt.nz",
       "family_name": "O'Rourke",
       "gender": "male",
       "given_name": "Denis",
