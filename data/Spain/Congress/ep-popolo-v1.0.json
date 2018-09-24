@@ -5,13 +5,6 @@
   "persons": [
     {
       "birth_date": "1968-01-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mj.garciapelayo@congreso.es"
-        }
-      ],
-      "email": "mj.garciapelayo@congreso.es",
       "family_name": "García-Pelayo Jurado",
       "gender": "female",
       "given_name": "María José",
@@ -55,15 +48,10 @@
       "birth_date": "1963-11-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jordi.jane@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jjaneguasch"
         }
       ],
-      "email": "jordi.jane@congreso.es",
       "family_name": "Jané i Guasch",
       "gender": "male",
       "given_name": "Jordi",
@@ -129,15 +117,10 @@
       "birth_date": "1965-02-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ignacio.prendes@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "nachoprendes"
         }
       ],
-      "email": "ignacio.prendes@congreso.es",
       "family_name": "Prendes Prendes",
       "gender": "male",
       "given_name": "José Ignacio",
@@ -208,15 +191,10 @@
       "birth_date": "1972-06-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "teresa.jorda@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "TeresaJorda"
         }
       ],
-      "email": "teresa.jorda@congreso.es",
       "family_name": "Jordà i Roura",
       "gender": "female",
       "given_name": "Teresa",
@@ -289,15 +267,10 @@
       "birth_date": "1972-10-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pilar.lucio@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "lucio_pilar"
         }
       ],
-      "email": "pilar.lucio@congreso.es",
       "family_name": "Lucio Carrasco",
       "gender": "female",
       "given_name": "María Pilar",
@@ -361,15 +334,10 @@
       "birth_date": "1958-03-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juan.jimenez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "juanjimenezt"
         }
       ],
-      "email": "juan.jimenez@congreso.es",
       "family_name": "Jiménez Tortosa",
       "gender": "male",
       "given_name": "Juan",
@@ -614,15 +582,10 @@
       "birth_date": "1971-05-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "yolanda.diaz@congreso.es ydiazperez@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "Yolanda_Diaz_"
         }
       ],
-      "email": "yolanda.diaz@congreso.es ydiazperez@gmail.com",
       "family_name": "Díaz Pérez",
       "gender": "female",
       "given_name": "Yolanda",
@@ -706,13 +669,6 @@
     },
     {
       "birth_date": "1937-06-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "juan.albendea@congreso.es"
-        }
-      ],
-      "email": "juan.albendea@congreso.es",
       "family_name": "Albendea Pabón",
       "gender": "male",
       "given_name": "Juan Manuel",
@@ -816,15 +772,10 @@
       "birth_date": "1961-02-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "angelesalvarez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AAlvarezAlvarez"
         }
       ],
-      "email": "angelesalvarez@congreso.es",
       "family_name": "Álvarez Álvarez",
       "gender": "female",
       "given_name": "Ángeles",
@@ -1102,15 +1053,10 @@
       "birth_date": "1977-01-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "celia.alberto@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AlbertoCelia"
         }
       ],
-      "email": "celia.alberto@congreso.es",
       "family_name": "Alberto Pérez",
       "gender": "female",
       "given_name": "Celia",
@@ -1161,15 +1107,10 @@
       "birth_date": "1965-05-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "enric.bataller@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "EBataller"
         }
       ],
-      "email": "enric.bataller@congreso.es",
       "family_name": "Bataller i Ruiz",
       "gender": "male",
       "given_name": "Enric",
@@ -1217,15 +1158,10 @@
       "birth_date": "1951",
       "contact_details": [
         {
-          "type": "email",
-          "value": "aalonso@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "a_alonsonunez"
         }
       ],
-      "email": "aalonso@congreso.es",
       "family_name": "Alonso Núñez",
       "gender": "male",
       "given_name": "Alejandro",
@@ -1274,15 +1210,10 @@
       "birth_date": "1969-01-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mbarrachina@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "barrachinam"
         }
       ],
-      "email": "mbarrachina@congreso.es",
       "family_name": "Barrachina Ros",
       "gender": "male",
       "given_name": "Miguel",
@@ -1341,15 +1272,10 @@
       "birth_date": "1978-07-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "miriam.alconchel@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AlconchelMiriam"
         }
       ],
-      "email": "miriam.alconchel@congreso.es",
       "family_name": "Alconchel Gonzaga",
       "gender": "female",
       "given_name": "Miriam",
@@ -1408,15 +1334,10 @@
       "birth_date": "1968-08-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "victoria.rosell@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "VickyRosell"
         }
       ],
-      "email": "victoria.rosell@congreso.es",
       "family_name": "Rosell Aguilar",
       "gender": "female",
       "given_name": "María Victoria",
@@ -1447,13 +1368,6 @@
     },
     {
       "birth_date": "1960-02-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manuel.blasco@congreso.es"
-        }
-      ],
-      "email": "manuel.blasco@congreso.es",
       "family_name": "Blasco Marqués",
       "gender": "male",
       "given_name": "Manuel",
@@ -1505,15 +1419,10 @@
       "birth_date": "1973-09-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "montserrat@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "DolorsMM"
         }
       ],
-      "email": "montserrat@congreso.es",
       "family_name": "Montserrat Montserrat",
       "gender": "female",
       "given_name": "Dolors",
@@ -1685,15 +1594,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "antonio.gutierrez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Antoniodiputado"
         }
       ],
-      "email": "antonio.gutierrez@congreso.es",
       "family_name": "Gutiérrez Molina",
       "gender": "male",
       "given_name": "Antonio",
@@ -1728,10 +1632,6 @@
       "birth_date": "1964-10-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "luz.rodriguez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "LuzPSOE"
         },
@@ -1740,7 +1640,6 @@
           "value": "rodriguezluz_"
         }
       ],
-      "email": "luz.rodriguez@congreso.es",
       "family_name": "Rodríguez Fernández",
       "gender": "female",
       "given_name": "María Luz",
@@ -1895,13 +1794,6 @@
     },
     {
       "birth_date": "1959-07-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vicente.ferrer@congreso.es"
-        }
-      ],
-      "email": "vicente.ferrer@congreso.es",
       "family_name": "Ferrer Roselló",
       "gender": "male",
       "given_name": "Vicente",
@@ -1948,15 +1840,10 @@
       "birth_date": "1952-05-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "secretaria.upyd@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "rosadiezglez"
         }
       ],
-      "email": "secretaria.upyd@congreso.es",
       "family_name": "Díez González",
       "gender": "female",
       "given_name": "Rosa María",
@@ -2124,13 +2011,6 @@
     },
     {
       "birth_date": "1959-02-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "inibaran@congreso.es"
-        }
-      ],
-      "email": "inibaran@congreso.es",
       "family_name": "Barandiaran Benito",
       "gender": "male",
       "given_name": "Íñigo",
@@ -2179,15 +2059,10 @@
       "birth_date": "1969-02-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "elena.bastidas@congreso.es elenaalzira@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "elenabastidasb"
         }
       ],
-      "email": "elena.bastidas@congreso.es elenaalzira@gmail.com",
       "family_name": "Bastidas Bono",
       "gender": "female",
       "given_name": "Elena María",
@@ -2258,13 +2133,6 @@
     },
     {
       "birth_date": "1977-03-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "teresa.garcia@congreso.es"
-        }
-      ],
-      "email": "teresa.garcia@congreso.es",
       "family_name": "García Sena",
       "gender": "female",
       "given_name": "Teresa",
@@ -2307,15 +2175,10 @@
       "birth_date": "1960-09-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "evalenciano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ElenaValenciano"
         }
       ],
-      "email": "evalenciano@congreso.es",
       "family_name": "Valenciano Martínez-Orozco",
       "gender": "female",
       "given_name": "Elena",
@@ -2445,13 +2308,6 @@
     },
     {
       "birth_date": "1944-07-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jose.segura@congreso.es"
-        }
-      ],
-      "email": "jose.segura@congreso.es",
       "family_name": "Segura Clavell",
       "gender": "male",
       "given_name": "José",
@@ -2511,15 +2367,10 @@
       "birth_date": "1952-01-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "cayo.lara@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "cayo_lara"
         }
       ],
-      "email": "cayo.lara@congreso.es",
       "family_name": "Lara Moya",
       "gender": "male",
       "given_name": "Cayo",
@@ -2641,15 +2492,10 @@
       "birth_date": "1957-02-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jesusmaria.fernandez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jesusmariafer"
         }
       ],
-      "email": "jesusmaria.fernandez@congreso.es",
       "family_name": "Fernández Díaz",
       "gender": "male",
       "given_name": "Jesús María",
@@ -2694,15 +2540,10 @@
       "birth_date": "1970-11-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "martinezdalmau@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "rmartinezdalmau"
         }
       ],
-      "email": "martinezdalmau@congreso.es",
       "family_name": "Martínez Dalmau",
       "gender": "male",
       "given_name": "Rubén",
@@ -2745,13 +2586,6 @@
     },
     {
       "birth_date": "1979-08-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "silvia.heredia@congreso.es"
-        }
-      ],
-      "email": "silvia.heredia@congreso.es",
       "family_name": "Heredia Martín",
       "gender": "female",
       "given_name": "Silvia",
@@ -2800,15 +2634,10 @@
       "birth_date": "1961-06-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jose.lgarrido@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jlopezgarrido"
         }
       ],
-      "email": "jose.lgarrido@congreso.es",
       "family_name": "López Garrido",
       "gender": "male",
       "given_name": "José",
@@ -2847,15 +2676,10 @@
       "birth_date": "1953-02-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jose.barreda@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Josebarreda"
         }
       ],
-      "email": "jose.barreda@congreso.es",
       "family_name": "Barreda Fontes",
       "gender": "male",
       "given_name": "José María",
@@ -2976,15 +2800,10 @@
       "birth_date": "1974-09-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "aurora.florez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "M_Aurora_Florez"
         }
       ],
-      "email": "aurora.florez@congreso.es",
       "family_name": "Flórez Rodríguez",
       "gender": "female",
       "given_name": "María Aurora",
@@ -3029,15 +2848,10 @@
       "birth_date": "1957-10-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "consuelo.rumi@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ConsueloRumi"
         }
       ],
-      "email": "consuelo.rumi@congreso.es",
       "family_name": "Rumí Ibáñez",
       "gender": "female",
       "given_name": "María Consuelo",
@@ -3100,13 +2914,6 @@
     },
     {
       "birth_date": "1978-11-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "isabel.medina@congreso.es"
-        }
-      ],
-      "email": "isabel.medina@congreso.es",
       "family_name": "Medina Suárez",
       "gender": "female",
       "given_name": "María Isabel",
@@ -3136,15 +2943,10 @@
       "birth_date": "1966-07-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jmoscoso@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JuanMoscosodelP"
         }
       ],
-      "email": "jmoscoso@congreso.es",
       "family_name": "Moscoso del Prado Hernández",
       "gender": "male",
       "given_name": "Juan",
@@ -3212,15 +3014,10 @@
       "birth_date": "1960-01-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juanpedro.yllanes@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jpyllanes"
         }
       ],
-      "email": "juanpedro.yllanes@congreso.es",
       "family_name": "Yllanes Suárez",
       "gender": "male",
       "given_name": "Juan Pedro",
@@ -3288,15 +3085,10 @@
       "birth_date": "1971-05-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "julian.lopez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JuLMilla"
         }
       ],
-      "email": "julian.lopez@congreso.es",
       "family_name": "López Milla",
       "gender": "male",
       "given_name": "Julián",
@@ -3349,15 +3141,10 @@
       "birth_date": "1985-10-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sara.carreno@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Saracarrenov"
         }
       ],
-      "email": "sara.carreno@congreso.es",
       "family_name": "Carreño Valero",
       "gender": "female",
       "given_name": "Sara",
@@ -3473,15 +3260,10 @@
       "birth_date": "1956-03-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pedro.quevedo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "PedroQuevedoIt"
         }
       ],
-      "email": "pedro.quevedo@congreso.es",
       "family_name": "Quevedo Iturbe",
       "gender": "male",
       "given_name": "Pedro",
@@ -3541,15 +3323,10 @@
       "birth_date": "1965-07-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joan.capdevila@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "capdevilajoan"
         }
       ],
-      "email": "joan.capdevila@congreso.es",
       "family_name": "Capdevila i Esteve",
       "gender": "male",
       "given_name": "Joan",
@@ -3601,15 +3378,10 @@
       "birth_date": "1976-02-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "oscargaleano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Ogaleanogracia"
         }
       ],
-      "email": "oscargaleano@congreso.es",
       "family_name": "Galeano Gracia",
       "gender": "male",
       "given_name": "Óscar",
@@ -3763,13 +3535,6 @@
     },
     {
       "birth_date": "1955-01-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lola.galovart@congreso.es"
-        }
-      ],
-      "email": "lola.galovart@congreso.es",
       "family_name": "Galovart Carrera",
       "gender": "female",
       "given_name": "María Dolores",
@@ -3818,15 +3583,10 @@
       "birth_date": "1970-09-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carlos.rojas@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "CarlosRojas_PPA"
         }
       ],
-      "email": "carlos.rojas@congreso.es",
       "family_name": "Rojas García",
       "gender": "male",
       "given_name": "Carlos",
@@ -4049,15 +3809,10 @@
       "birth_date": "1974-10-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "cayetana.alvarez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "cayetanaAT"
         }
       ],
-      "email": "cayetana.alvarez@congreso.es",
       "family_name": "Álvarez de Toledo Peralta Ramos",
       "gender": "female",
       "given_name": "Cayetana",
@@ -4215,15 +3970,10 @@
       "birth_date": "1971-03-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juanantonio.delgado@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JA_DelgadoRamos"
         }
       ],
-      "email": "juanantonio.delgado@congreso.es",
       "family_name": "Delgado Ramos",
       "gender": "male",
       "given_name": "Juan Antonio",
@@ -4264,13 +4014,6 @@
       "sort_name": "Delgado Ramos, Juan Antonio"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "amparo.ferrando@congreso.es"
-        }
-      ],
-      "email": "amparo.ferrando@congreso.es",
       "family_name": "Ferrando Sendra",
       "gender": "female",
       "given_name": "Amparo",
@@ -4422,15 +4165,10 @@
       "birth_date": "1987-09-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ione.belarra@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ionebelarra"
         }
       ],
-      "email": "ione.belarra@congreso.es",
       "family_name": "Belarra Urteaga",
       "gender": "female",
       "given_name": "Ione",
@@ -4501,15 +4239,10 @@
       "birth_date": "1972-07-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francisco.delatorre@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "frdelatorre"
         }
       ],
-      "email": "francisco.delatorre@congreso.es",
       "family_name": "De la Torre Díaz",
       "gender": "male",
       "given_name": "Francisco",
@@ -4567,13 +4300,6 @@
     },
     {
       "birth_date": "1945-04-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "enrique.sostres@congreso.es"
-        }
-      ],
-      "email": "enrique.sostres@congreso.es",
       "family_name": "Álvarez Sostres",
       "gender": "male",
       "given_name": "Enrique",
@@ -4613,15 +4339,10 @@
       "birth_date": "1976-05-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alejandro@pptarragona.com"
-        },
-        {
           "type": "twitter",
           "value": "alejandroTGN"
         }
       ],
-      "email": "alejandro@pptarragona.com",
       "family_name": "Fernández Álvarez",
       "gender": "male",
       "given_name": "Alejandro",
@@ -4727,15 +4448,10 @@
       "birth_date": "1959-03-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juanluisgordo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "juanluisgordo"
         }
       ],
-      "email": "juanluisgordo@congreso.es",
       "family_name": "Gordo Pérez",
       "gender": "male",
       "given_name": "Juan Luis",
@@ -4797,13 +4513,6 @@
     },
     {
       "birth_date": "1962-07-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ascension.figueres@congreso.es"
-        }
-      ],
-      "email": "ascension.figueres@congreso.es",
       "family_name": "Figueres Górriz",
       "gender": "female",
       "given_name": "María Ascensión",
@@ -4901,15 +4610,10 @@
       "birth_date": "1982-03-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jmolmo@podemos.info"
-        },
-        {
           "type": "twitter",
           "value": "juanmalpr"
         }
       ],
-      "email": "jmolmo@podemos.info",
       "family_name": "Del Olmo Ibáñez",
       "gender": "male",
       "given_name": "Juan Manuel",
@@ -5097,15 +4801,10 @@
       "birth_date": "1980-05-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marc.lamua@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "MarcLamua"
         }
       ],
-      "email": "marc.lamua@congreso.es",
       "family_name": "Lamuà Estañol",
       "gender": "male",
       "given_name": "Marc",
@@ -5167,13 +4866,6 @@
       "sort_name": "Lamuà Estañol, Marc"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "enrique.martin@congreso.es"
-        }
-      ],
-      "email": "enrique.martin@congreso.es",
       "family_name": "Martín Rodríguez",
       "gender": "male",
       "given_name": "Enrique Luis",
@@ -5200,13 +4892,6 @@
     },
     {
       "birth_date": "1961-10-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jc.campo@congreso.es"
-        }
-      ],
-      "email": "jc.campo@congreso.es",
       "family_name": "Campo Moreno",
       "gender": "male",
       "given_name": "Juan Carlos",
@@ -5263,15 +4948,10 @@
       "birth_date": "1956-11-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "oblanca@congreso.es oblanca @gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "imoblanca"
         }
       ],
-      "email": "oblanca@congreso.es oblanca @gmail.com",
       "family_name": "Martínez Oblanca",
       "gender": "male",
       "given_name": "Isidro Manuel",
@@ -5316,15 +4996,10 @@
       "birth_date": "1977-11-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fidel.prieto@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "fidel_prieto"
         }
       ],
-      "email": "fidel.prieto@congreso.es",
       "family_name": "Prieto Romero",
       "gender": "male",
       "given_name": "Fidel",
@@ -5380,13 +5055,6 @@
     },
     {
       "birth_date": "1968-03-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jose.calle@congreso.es"
-        }
-      ],
-      "email": "jose.calle@congreso.es",
       "family_name": "Calle Fuentes",
       "gender": "male",
       "given_name": "José Antonio",
@@ -5409,15 +5077,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "pablo.garcia@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Tignari"
         }
       ],
-      "email": "pablo.garcia@congreso.es",
       "family_name": "García Pérez",
       "gender": "male",
       "given_name": "Pablo",
@@ -5470,13 +5133,6 @@
     },
     {
       "birth_date": "1955-05-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "margarita.perez@congreso.es"
-        }
-      ],
-      "email": "margarita.perez@congreso.es",
       "family_name": "Pérez Herraiz",
       "gender": "female",
       "given_name": "Margarita",
@@ -5646,15 +5302,10 @@
       "birth_date": "1987-06-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ignasi.candela@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "IgnasiCandela"
         }
       ],
-      "email": "ignasi.candela@congreso.es",
       "family_name": "Candela Serna",
       "gender": "male",
       "given_name": "Ignasi",
@@ -5761,15 +5412,10 @@
       "birth_date": "1957-11-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gaspar.llamazares@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "GLlamazares"
         }
       ],
-      "email": "gaspar.llamazares@congreso.es",
       "family_name": "Llamazares Trigo",
       "gender": "male",
       "given_name": "Gaspar",
@@ -5932,15 +5578,10 @@
       "birth_date": "1945",
       "contact_details": [
         {
-          "type": "email",
-          "value": "angelinacosta@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AngelinaCostaP"
         }
       ],
-      "email": "angelinacosta@congreso.es",
       "family_name": "Costa Palacios",
       "gender": "female",
       "given_name": "María Angelina",
@@ -5997,10 +5638,6 @@
       "birth_date": "1983-09-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "virginia.salmeron@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Vickisalmeron"
         },
@@ -6009,7 +5646,6 @@
           "value": "VirginiaSalmeCs"
         }
       ],
-      "email": "virginia.salmeron@congreso.es",
       "family_name": "Millán Salmerón",
       "gender": "female",
       "given_name": "María Virginia",
@@ -6124,15 +5760,10 @@
       "birth_date": "1961-03-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "girauta@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "GirautaOficial"
         }
       ],
-      "email": "girauta@congreso.es",
       "family_name": "Girauta Vidal",
       "gender": "male",
       "given_name": "Juan Carlos",
@@ -6249,15 +5880,10 @@
       "birth_date": "1981-10-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sergiodelcampo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "sdelcampocs"
         }
       ],
-      "email": "sergiodelcampo@congreso.es",
       "family_name": "Del Campo Estaún",
       "gender": "male",
       "given_name": "Sergio",
@@ -6306,15 +5932,10 @@
       "birth_date": "1958-03-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "guillermo.meijon@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "guillermomeijon"
         }
       ],
-      "email": "guillermo.meijon@congreso.es",
       "family_name": "Meijón Couselo",
       "gender": "male",
       "given_name": "Guillermo Antonio",
@@ -6382,15 +6003,10 @@
       "birth_date": "1978-08-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "antonio.terol@congreso.es aglezterol@hotmail.com"
-        },
-        {
           "type": "twitter",
           "value": "Aglezterol"
         }
       ],
-      "email": "antonio.terol@congreso.es aglezterol@hotmail.com",
       "family_name": "González Terol",
       "gender": "male",
       "given_name": "Antonio Pablo",
@@ -6463,15 +6079,10 @@
       "birth_date": "1973-12-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "patricia.reyes@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "PatriciaReyesCs"
         }
       ],
-      "email": "patricia.reyes@congreso.es",
       "family_name": "Reyes Rivera",
       "gender": "female",
       "given_name": "Patricia Isaura",
@@ -6531,15 +6142,10 @@
       "birth_date": "1959-08-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "felix.alonso@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "felixaltafulla"
         }
       ],
-      "email": "felix.alonso@congreso.es",
       "family_name": "Alonso Cantorné",
       "gender": "male",
       "given_name": "Félix",
@@ -6634,15 +6240,10 @@
       "birth_date": "1955-04-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "odon.elorza@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "odonelorza2011"
         }
       ],
-      "email": "odon.elorza@congreso.es",
       "family_name": "Elorza González",
       "gender": "male",
       "given_name": "Odón",
@@ -6757,13 +6358,6 @@
       "sort_name": "Viera Chacón, José Antonio"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bibiano.serrano@congreso.es"
-        }
-      ],
-      "email": "bibiano.serrano@congreso.es",
       "family_name": "Serrano Calurano",
       "gender": "male",
       "given_name": "Bibiano",
@@ -6797,15 +6391,10 @@
       "birth_date": "1957-12-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "loli.marcos@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "LoliMarcos"
         }
       ],
-      "email": "loli.marcos@congreso.es",
       "family_name": "Marcos Moyano",
       "gender": "female",
       "given_name": "María Dolores",
@@ -6843,13 +6432,6 @@
       "sort_name": "Marcos Moyano, María Dolores"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gema.conde@congreso.es"
-        }
-      ],
-      "email": "gema.conde@congreso.es",
       "family_name": "Conde Martínez",
       "gender": "female",
       "given_name": "Gema",
@@ -6876,13 +6458,6 @@
     },
     {
       "birth_date": "1950-03-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mdolores@congreso.es"
-        }
-      ],
-      "email": "mdolores@congreso.es",
       "family_name": "Bolarín Sánchez",
       "gender": "female",
       "given_name": "María Dolores",
@@ -6923,15 +6498,10 @@
       "birth_date": "1964-09-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "miguela.paniagua@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mapaniagua"
         }
       ],
-      "email": "miguela.paniagua@congreso.es",
       "family_name": "Paniagua Núñez",
       "gender": "male",
       "given_name": "Miguel Ángel",
@@ -7051,15 +6621,10 @@
       "birth_date": "1957-12-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "valeriano.gomez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "valerianogomez"
         }
       ],
-      "email": "valeriano.gomez@congreso.es",
       "family_name": "Gómez Sánchez",
       "gender": "male",
       "given_name": "Tomás Valeriano",
@@ -7200,15 +6765,10 @@
       "birth_date": "1970-11-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "belen.guerra@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "belen_guerra"
         }
       ],
-      "email": "belen.guerra@congreso.es",
       "family_name": "Guerra Mansito",
       "gender": "female",
       "given_name": "María Belén",
@@ -7245,15 +6805,10 @@
       "birth_date": "1979-07-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mariagv@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mariagv"
         }
       ],
-      "email": "mariagv@congreso.es",
       "family_name": "González Veracruz",
       "gender": "female",
       "given_name": "María",
@@ -7390,15 +6945,10 @@
       "birth_date": "1960-10-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "imma.riera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "i_rierare"
         }
       ],
-      "email": "imma.riera@congreso.es",
       "family_name": "Riera i Reñé",
       "gender": "female",
       "given_name": "Inmaculada",
@@ -7761,13 +7311,6 @@
       "sort_name": "Chacón Piqueras, Carme"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "teresa.martin@congreso.es"
-        }
-      ],
-      "email": "teresa.martin@congreso.es",
       "family_name": "Martín Pozo",
       "gender": "female",
       "given_name": "María Teresa",
@@ -7939,15 +7482,10 @@
       "birth_date": "1973-11-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "onesimo.gonzalez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "onesimoeduardo"
         }
       ],
-      "email": "onesimo.gonzalez@congreso.es",
       "family_name": "González Martínez",
       "gender": "male",
       "given_name": "Onésimo Eduardo",
@@ -8062,13 +7600,6 @@
     },
     {
       "birth_date": "1966-05-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ramon.moreno@congreso.es"
-        }
-      ],
-      "email": "ramon.moreno@congreso.es",
       "family_name": "Moreno Bustos",
       "gender": "male",
       "given_name": "Ramón",
@@ -8117,15 +7648,10 @@
       "birth_date": "1954-09-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joaquingd@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Quin1954"
         }
       ],
-      "email": "joaquingd@congreso.es",
       "family_name": "García Díez",
       "gender": "male",
       "given_name": "Joaquín María",
@@ -8199,15 +7725,10 @@
       "birth_date": "1958-04-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mariajose.vazquez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mariajose921"
         }
       ],
-      "email": "mariajose.vazquez@congreso.es",
       "family_name": "Vázquez Morillo",
       "gender": "female",
       "given_name": "María José",
@@ -8250,13 +7771,6 @@
     },
     {
       "birth_date": "1964-12-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pilar.cortes@congreso.es"
-        }
-      ],
-      "email": "pilar.cortes@congreso.es",
       "family_name": "Cortés Bureta",
       "gender": "female",
       "given_name": "Pilar",
@@ -8335,15 +7849,10 @@
       "birth_date": "1966-08-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pepa.gbayo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "pepa_bayo"
         }
       ],
-      "email": "pepa.gbayo@congreso.es",
       "family_name": "González Bayo",
       "gender": "female",
       "given_name": "Josefa Inmaculada",
@@ -8440,13 +7949,6 @@
     },
     {
       "birth_date": "1949-05-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sabino.cuadra@congreso.es"
-        }
-      ],
-      "email": "sabino.cuadra@congreso.es",
       "family_name": "Cuadra Lasarte",
       "gender": "male",
       "given_name": "Sabino",
@@ -8633,13 +8135,6 @@
     },
     {
       "birth_date": "1964-06-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "javier.cano@congreso.es"
-        }
-      ],
-      "email": "javier.cano@congreso.es",
       "family_name": "Cano Leal",
       "gender": "male",
       "given_name": "Francisco Javier",
@@ -8677,15 +8172,10 @@
       "birth_date": "1959-08-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "aprada@pprada.es"
-        },
-        {
           "type": "twitter",
           "value": "PPrada2014"
         }
       ],
-      "email": "aprada@pprada.es",
       "family_name": "Prada Presa",
       "gender": "male",
       "given_name": "Alfredo",
@@ -8724,13 +8214,6 @@
       "sort_name": "Prada Presa, Alfredo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aranzazu.miguelez@congreso.es"
-        }
-      ],
-      "email": "aranzazu.miguelez@congreso.es",
       "family_name": "Miguélez Pariente",
       "gender": "female",
       "given_name": "María Aránzazu",
@@ -8867,15 +8350,10 @@
       "birth_date": "1967-11-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "antonio.hernando@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AHernandoVera"
         }
       ],
-      "email": "antonio.hernando@congreso.es",
       "family_name": "Hernando Vera",
       "gender": "male",
       "given_name": "Antonio",
@@ -9055,15 +8533,10 @@
       "birth_date": "1966-01-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "martat@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "martatorrado"
         }
       ],
-      "email": "martat@congreso.es",
       "family_name": "Torrado de Castro",
       "gender": "female",
       "given_name": "Marta",
@@ -9179,13 +8652,6 @@
     },
     {
       "birth_date": "1949-02-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dolorsterradas@congreso.es dolorsterradas01@gmail.com dolorsterradas@yahoo.es"
-        }
-      ],
-      "email": "dolorsterradas@congreso.es dolorsterradas01@gmail.com dolorsterradas@yahoo.es",
       "family_name": "Terradas Viñals",
       "gender": "female",
       "given_name": "Dolors",
@@ -9290,15 +8756,10 @@
       "birth_date": "1970-10-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rosana.alonso@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Rosanalonso_10"
         }
       ],
-      "email": "rosana.alonso@congreso.es",
       "family_name": "Alonso Clusa",
       "gender": "female",
       "given_name": "Rosa Ana",
@@ -9355,13 +8816,6 @@
       "sort_name": "Alonso Clusa, Rosa Ana"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manuel.torres@congreso.es"
-        }
-      ],
-      "email": "manuel.torres@congreso.es",
       "family_name": "Torres Herrera",
       "gender": "male",
       "given_name": "Manuel Luis",
@@ -9455,15 +8909,10 @@
       "birth_date": "1972-02-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pedro.sanchez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "sanchezcastejon"
         }
       ],
-      "email": "pedro.sanchez@congreso.es",
       "family_name": "Sánchez Pérez-Castejón",
       "gender": "male",
       "given_name": "Pedro",
@@ -9926,15 +9375,10 @@
       "birth_date": "1962-12-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "feliujoan.guillaumes@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "FeliuGuillaumes"
         }
       ],
-      "email": "feliujoan.guillaumes@congreso.es",
       "family_name": "Guillaumes i Ràfols",
       "gender": "male",
       "given_name": "Feliu-Joan",
@@ -9991,15 +9435,10 @@
       "birth_date": "1986-07-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "melisa.rodriguez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mrhciudadanos"
         }
       ],
-      "email": "melisa.rodriguez@congreso.es",
       "family_name": "Rodríguez Hernández",
       "gender": "female",
       "given_name": "Melisa",
@@ -10068,10 +9507,6 @@
       "birth_date": "1979-08-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "orlena.demiguel@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Momosue8"
         },
@@ -10080,7 +9515,6 @@
           "value": "OrlenaCs"
         }
       ],
-      "email": "orlena.demiguel@congreso.es",
       "family_name": "Miguel Muñoz",
       "gender": "female",
       "given_name": "Orlena María",
@@ -10124,15 +9558,10 @@
       "birth_date": "1973-09-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joaquin.albaladejo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "joaquintorrevie"
         }
       ],
-      "email": "joaquin.albaladejo@congreso.es",
       "family_name": "Albaladejo Martínez",
       "gender": "male",
       "given_name": "Joaquín",
@@ -10196,15 +9625,10 @@
       "birth_date": "1965-05-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rita.bosaho@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "RitaBosaho"
         }
       ],
-      "email": "rita.bosaho@congreso.es",
       "family_name": "Bosaho Gori",
       "gender": "female",
       "given_name": "Rita Gertrudis",
@@ -10334,15 +9758,10 @@
       "birth_date": "1966-08-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "miguel.heredia@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "maherediadiaz"
         }
       ],
-      "email": "miguel.heredia@congreso.es",
       "family_name": "Heredia Díaz",
       "gender": "male",
       "given_name": "Miguel Ángel",
@@ -10392,13 +9811,6 @@
     },
     {
       "birth_date": "1962-08-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pedro.gomezdelaserna@congreso.es"
-        }
-      ],
-      "email": "pedro.gomezdelaserna@congreso.es",
       "family_name": "Gómez de la Serna y Villacieros",
       "gender": "male",
       "given_name": "Pedro Ramón",
@@ -10611,13 +10023,6 @@
       "sort_name": "Catalá Polo, Rafael"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "blanca.puyuelo@congreso.es"
-        }
-      ],
-      "email": "blanca.puyuelo@congreso.es",
       "family_name": "Puyuelo del Val",
       "gender": "female",
       "given_name": "María Blanca",
@@ -11041,15 +10446,10 @@
       "birth_date": "1979-04-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "laia.ortiz@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Laiaortiz"
         }
       ],
-      "email": "laia.ortiz@congreso.es",
       "family_name": "Ortiz Castellví",
       "gender": "female",
       "given_name": "Laia",
@@ -11151,13 +10551,6 @@
     },
     {
       "birth_date": "1958-10-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maria.perez@congreso.es"
-        }
-      ],
-      "email": "maria.perez@congreso.es",
       "family_name": "Pérez Domínguez",
       "gender": "female",
       "given_name": "María Soledad",
@@ -11233,15 +10626,10 @@
       "birth_date": "1961-01-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carmen.gonzalez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "CarmenGGuinda"
         }
       ],
-      "email": "carmen.gonzalez@congreso.es",
       "family_name": "González Guinda",
       "gender": "female",
       "given_name": "María del Carmen",
@@ -11338,13 +10726,6 @@
     },
     {
       "birth_date": "1957-11-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fco.hspinola@congreso.es"
-        }
-      ],
-      "email": "fco.hspinola@congreso.es",
       "family_name": "Hernández Spínola",
       "gender": "male",
       "given_name": "Francisco",
@@ -11368,15 +10749,10 @@
       "birth_date": "1967-04-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "portavoz.gpp@gpp.congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AlfonsoAlonsoPP"
         }
       ],
-      "email": "portavoz.gpp@gpp.congreso.es",
       "family_name": "Alonso Aranegui",
       "gender": "male",
       "given_name": "Alfonso",
@@ -11547,13 +10923,6 @@
     },
     {
       "birth_date": "1946-03-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eugenio.nasarre@congreso.es"
-        }
-      ],
-      "email": "eugenio.nasarre@congreso.es",
       "family_name": "Nasarre Goicoechea",
       "gender": "male",
       "given_name": "Eugenio",
@@ -11685,13 +11054,6 @@
     },
     {
       "birth_date": "1967-04-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fatima.banez@congreso.es"
-        }
-      ],
-      "email": "fatima.banez@congreso.es",
       "family_name": "Báñez García",
       "gender": "female",
       "given_name": "María Fátima",
@@ -11819,15 +11181,10 @@
       "birth_date": "1970-07-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jaime.olano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jaimedeolano"
         }
       ],
-      "email": "jaime.olano@congreso.es",
       "family_name": "Olano Vela",
       "gender": "male",
       "given_name": "Jaime Eduardo de",
@@ -12038,13 +11395,6 @@
       "sort_name": "Ayala Sánchez, Andrés José"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "paloma.rodriguez@congreso.es"
-        }
-      ],
-      "email": "paloma.rodriguez@congreso.es",
       "family_name": "Rodríguez Vázquez",
       "gender": "female",
       "given_name": "María Paloma",
@@ -12073,15 +11423,10 @@
       "birth_date": "1959-05-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jmiguel.camacho@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JoseMiguelCama1"
         }
       ],
-      "email": "jmiguel.camacho@congreso.es",
       "family_name": "Camacho Sánchez",
       "gender": "male",
       "given_name": "José Miguel",
@@ -12169,15 +11514,10 @@
       "birth_date": "1977",
       "contact_details": [
         {
-          "type": "email",
-          "value": "palegria@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "PAlegria2011"
         }
       ],
-      "email": "palegria@congreso.es",
       "family_name": "Alegría Continente",
       "gender": "female",
       "given_name": "María Pilar",
@@ -12230,15 +11570,10 @@
       "birth_date": "1964-07-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mjbonilla@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Mbonilladomingu"
         }
       ],
-      "email": "mjbonilla@congreso.es",
       "family_name": "Bonilla Domínguez",
       "gender": "female",
       "given_name": "María Jesús",
@@ -12294,15 +11629,10 @@
       "birth_date": "1969-09-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ccorcuera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "carlos_corcuera"
         }
       ],
-      "email": "ccorcuera@congreso.es",
       "family_name": "Corcuera Plaza",
       "gender": "male",
       "given_name": "Juan Carlos",
@@ -12359,15 +11689,10 @@
       "birth_date": "1966-06-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mar.rominguera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "rominguera"
         }
       ],
-      "email": "mar.rominguera@congreso.es",
       "family_name": "Rominguera Salazar",
       "gender": "female",
       "given_name": "María del Mar",
@@ -12483,13 +11808,6 @@
     },
     {
       "birth_date": "1946-12-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cipria.ciscar@congreso.es"
-        }
-      ],
-      "email": "cipria.ciscar@congreso.es",
       "family_name": "Císcar Casabán",
       "gender": "male",
       "given_name": "Ciprià",
@@ -12555,13 +11873,6 @@
     },
     {
       "birth_date": "1950-11-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antoniop.insua@congreso.es"
-        }
-      ],
-      "email": "antoniop.insua@congreso.es",
       "family_name": "Pérez Insua",
       "gender": "male",
       "given_name": "Antonio",
@@ -12594,13 +11905,6 @@
     },
     {
       "birth_date": "1945-04-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jesus.posada@congreso.es"
-        }
-      ],
-      "email": "jesus.posada@congreso.es",
       "family_name": "Posada Moreno",
       "gender": "male",
       "given_name": "Jesús",
@@ -12836,15 +12140,10 @@
       "birth_date": "1976-02-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marta.dominguez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "martadzalz"
         }
       ],
-      "email": "marta.dominguez@congreso.es",
       "family_name": "Domínguez Álvarez",
       "gender": "female",
       "given_name": "Marta",
@@ -13002,15 +12301,10 @@
       "birth_date": "1947-11-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "guillem.garcia@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ggarciagasulla"
         }
       ],
-      "email": "guillem.garcia@congreso.es",
       "family_name": "García Gasulla",
       "gender": "male",
       "given_name": "Guillem",
@@ -13073,15 +12367,10 @@
       "birth_date": "1970-04-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sol.sanchez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "abrazopartio"
         }
       ],
-      "email": "sol.sanchez@congreso.es",
       "family_name": "Sánchez Maroto",
       "gender": "female",
       "given_name": "Sol",
@@ -13302,13 +12591,6 @@
     },
     {
       "birth_date": "1958-07-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ruben.moreno@congreso.es"
-        }
-      ],
-      "email": "ruben.moreno@congreso.es",
       "family_name": "Moreno Palanques",
       "gender": "male",
       "given_name": "Rubén",
@@ -13374,15 +12656,10 @@
       "birth_date": "1964-03-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juande.ruano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JuandeRuano"
         }
       ],
-      "email": "juande.ruano@congreso.es",
       "family_name": "Ruano Gómez",
       "gender": "male",
       "given_name": "Juan de Dios",
@@ -13482,15 +12759,10 @@
       "birth_date": "1978-09-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "oscar.clavell@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "OscarClavell"
         }
       ],
-      "email": "oscar.clavell@congreso.es",
       "family_name": "Clavell López",
       "gender": "male",
       "given_name": "Óscar",
@@ -13551,15 +12823,10 @@
       "birth_date": "1963-11-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juanvicente.perez@congreso.es juanvicenteperezaras@gmail.com juanvippcv@yahoo.es"
-        },
-        {
           "type": "twitter",
           "value": "juanviperezaras"
         }
       ],
-      "email": "juanvicente.perez@congreso.es juanvicenteperezaras@gmail.com juanvippcv@yahoo.es",
       "family_name": "Pérez Aras",
       "gender": "male",
       "given_name": "Juan Vicente",
@@ -13608,23 +12875,10 @@
       "birth_date": "1976-03-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "hca@congreso.es"
-        },
-        {
-          "type": "fax",
-          "value": "913906016 Fecha alta: 02/12/2011. Causó baja el 13/01/2016."
-        },
-        {
-          "type": "phone",
-          "value": "913907693 Fax: 913906016 Fecha alta: 02/12/2011. Causó baja el 13/01/2016."
-        },
-        {
           "type": "twitter",
           "value": "herick_campos"
         }
       ],
-      "email": "hca@congreso.es",
       "family_name": "Campos Arteseros",
       "gender": "male",
       "given_name": "Herick Manuel",
@@ -13723,15 +12977,10 @@
       "birth_date": "1976-05-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "concepcio.veray@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Concepcioveray"
         }
       ],
-      "email": "concepcio.veray@congreso.es",
       "family_name": "Veray Cama",
       "gender": "female",
       "given_name": "Concepció",
@@ -13874,15 +13123,10 @@
       "birth_date": "1980-10-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "cesar.luena@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "cesarluena"
         }
       ],
-      "email": "cesar.luena@congreso.es",
       "family_name": "Luena López",
       "gender": "male",
       "given_name": "César",
@@ -14009,15 +13253,10 @@
       "birth_date": "1963-06-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "efe@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Elena_Faba"
         }
       ],
-      "email": "efe@congreso.es",
       "family_name": "Faba de la Encarnación",
       "gender": "female",
       "given_name": "Elena",
@@ -14199,15 +13438,10 @@
       "birth_date": "1949-12-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ctarruella@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "conxitarruella"
         }
       ],
-      "email": "ctarruella@congreso.es",
       "family_name": "Tarruella Tomás",
       "gender": "female",
       "given_name": "María Concepció",
@@ -14317,13 +13551,6 @@
     },
     {
       "birth_date": "1946-02-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "a.gtizon@congreso.es"
-        }
-      ],
-      "email": "a.gtizon@congreso.es",
       "family_name": "García-Tizón López",
       "gender": "male",
       "given_name": "Arturo",
@@ -14378,13 +13605,6 @@
     },
     {
       "birth_date": "1952-09-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ovidio.sanchez@congreso.es"
-        }
-      ],
-      "email": "ovidio.sanchez@congreso.es",
       "family_name": "Sánchez Díaz",
       "gender": "male",
       "given_name": "Ovidio",
@@ -14422,15 +13642,10 @@
       "birth_date": "1974-11-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "auxiliadora.honorato@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "auxihonorato"
         }
       ],
-      "email": "auxiliadora.honorato@congreso.es",
       "family_name": "Honorato Chulián",
       "gender": "female",
       "given_name": "María Auxiliadora",
@@ -14534,15 +13749,10 @@
       "birth_date": "1975-10-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joan.mena@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "joanmena"
         }
       ],
-      "email": "joan.mena@congreso.es",
       "family_name": "Mena Arca",
       "gender": "male",
       "given_name": "Joan Miquel",
@@ -14605,15 +13815,10 @@
       "birth_date": "1959-01-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joaquim.puig@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ximopuig"
         }
       ],
-      "email": "joaquim.puig@congreso.es",
       "family_name": "Puig Ferrer",
       "gender": "male",
       "given_name": "Joaquín Francisco",
@@ -14724,15 +13929,10 @@
       "birth_date": "1958-04-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "salvadordelaencina@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "encinasalvador1"
         }
       ],
-      "email": "salvadordelaencina@congreso.es",
       "family_name": "De la Encina Ortega",
       "gender": "male",
       "given_name": "Salvador Antonio",
@@ -14927,15 +14127,10 @@
       "birth_date": "1980-12-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rodrigo.gomez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "RodrigoGomGar"
         }
       ],
-      "email": "rodrigo.gomez@congreso.es",
       "family_name": "Gómez García",
       "gender": "male",
       "given_name": "Rodrigo",
@@ -14981,13 +14176,6 @@
       "sort_name": "Gómez García, Rodrigo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariap.jimenez@congreso.es"
-        }
-      ],
-      "email": "mariap.jimenez@congreso.es",
       "family_name": "Jiménez Díaz",
       "gender": "female",
       "given_name": "María Piedra Escrita",
@@ -15140,15 +14328,10 @@
       "birth_date": "1954-02-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "concha.gutierrez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ConchaGutierrez"
         }
       ],
-      "email": "concha.gutierrez@congreso.es",
       "family_name": "Gutiérrez del Castillo",
       "gender": "female",
       "given_name": "María Concepción",
@@ -15228,15 +14411,10 @@
       "birth_date": "1976-04-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marc.solsona@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "solsona_marc"
         }
       ],
-      "email": "marc.solsona@congreso.es",
       "family_name": "Solsona Aixalà",
       "gender": "male",
       "given_name": "Marc",
@@ -15302,15 +14480,10 @@
       "birth_date": "1967-02-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "agueda.reynes@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "areynes2"
         }
       ],
-      "email": "agueda.reynes@congreso.es",
       "family_name": "Reynés Calvache",
       "gender": "female",
       "given_name": "Águeda",
@@ -15373,15 +14546,10 @@
       "birth_date": "1968-11-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "luz.martinez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "luzseijo"
         }
       ],
-      "email": "luz.martinez@congreso.es",
       "family_name": "Martínez Seijo",
       "gender": "female",
       "given_name": "María Luz",
@@ -15440,15 +14608,10 @@
       "birth_date": "1968-08-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mjsusinos@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mariajsusinos"
         }
       ],
-      "email": "mjsusinos@congreso.es",
       "family_name": "Susinos Tarrero",
       "gender": "female",
       "given_name": "María Jesús",
@@ -15490,13 +14653,6 @@
     },
     {
       "birth_date": "1959-07-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ana.oramas@congreso.es"
-        }
-      ],
-      "email": "ana.oramas@congreso.es",
       "family_name": "Oramas González-Moro",
       "gender": "female",
       "given_name": "Ana María",
@@ -15567,13 +14723,6 @@
       "sort_name": "Oramas González-Moro, Ana María"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fvano@congreso.es"
-        }
-      ],
-      "email": "fvano@congreso.es",
       "family_name": "Vañó Ferre",
       "gender": "male",
       "given_name": "Francisco",
@@ -15602,15 +14751,10 @@
       "birth_date": "1978-05-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "luis.tudanca@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "luistudanca"
         }
       ],
-      "email": "luis.tudanca@congreso.es",
       "family_name": "Tudanca Fernández",
       "gender": "male",
       "given_name": "Luis",
@@ -15668,13 +14812,6 @@
     },
     {
       "birth_date": "1948-01-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "teofila.martinez@congreso.es"
-        }
-      ],
-      "email": "teofila.martinez@congreso.es",
       "family_name": "Martínez Saiz",
       "gender": "female",
       "given_name": "Teófila",
@@ -15760,15 +14897,10 @@
       "birth_date": "1979-01-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lucia.martin@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Lucia___M"
         }
       ],
-      "email": "lucia.martin@congreso.es",
       "family_name": "Martín González",
       "gender": "female",
       "given_name": "Lucía",
@@ -15885,10 +15017,6 @@
       "birth_date": "1980-03-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "antongomezreino@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "tone_corunha"
         },
@@ -15897,7 +15025,6 @@
           "value": "AntonGomezReino"
         }
       ],
-      "email": "antongomezreino@congreso.es",
       "family_name": "Gómez-Reino Varela",
       "gender": "male",
       "given_name": "Antonio",
@@ -15960,15 +15087,10 @@
       "birth_date": "1963-04-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ester.capella@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "estercapella"
         }
       ],
-      "email": "ester.capella@congreso.es",
       "family_name": "Capella i Farré",
       "gender": "female",
       "given_name": "Ester",
@@ -16037,15 +15159,10 @@
       "birth_date": "1970-02-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alberto.montero@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "amonterosoler"
         }
       ],
-      "email": "alberto.montero@congreso.es",
       "family_name": "Montero Soler",
       "gender": "male",
       "given_name": "Alberto",
@@ -16130,13 +15247,6 @@
     },
     {
       "birth_date": "1956",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "efajarnes@congreso.es"
-        }
-      ],
-      "email": "efajarnes@congreso.es",
       "family_name": "Fajarnés Ribas",
       "gender": "male",
       "given_name": "Enrique",
@@ -16184,15 +15294,10 @@
       "birth_date": "1971-09-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "federico.buyolo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "fbuyolo"
         }
       ],
-      "email": "federico.buyolo@congreso.es",
       "family_name": "Buyolo García",
       "gender": "male",
       "given_name": "Federico",
@@ -16237,15 +15342,10 @@
       "birth_date": "1985-10-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alberto.garzon@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "agarzon"
         }
       ],
-      "email": "alberto.garzon@congreso.es",
       "family_name": "Garzón Espinosa",
       "gender": "male",
       "given_name": "Alberto",
@@ -16417,15 +15517,10 @@
       "birth_date": "1989-10-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "angela.rodriguez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Pam_Angela_"
         }
       ],
-      "email": "angela.rodriguez@congreso.es",
       "family_name": "Rodríguez Martínez",
       "gender": "female",
       "given_name": "Ángela",
@@ -16488,15 +15583,10 @@
       "birth_date": "1966-05-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marcelo.exposito@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mrenau"
         }
       ],
-      "email": "marcelo.exposito@congreso.es",
       "family_name": "Expósito Prieto",
       "gender": "male",
       "given_name": "Marcelo",
@@ -16603,15 +15693,10 @@
       "birth_date": "1957-10-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jesus.caldera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jcalderac"
         }
       ],
-      "email": "jesus.caldera@congreso.es",
       "family_name": "Caldera Sánchez-Capitán",
       "gender": "male",
       "given_name": "Jesús",
@@ -16799,15 +15884,10 @@
       "birth_date": "1961-12-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "javier.lasarte@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "LasarteJavier"
         }
       ],
-      "email": "javier.lasarte@congreso.es",
       "family_name": "Lasarte Iribarren",
       "gender": "male",
       "given_name": "José Javier",
@@ -16849,13 +15929,6 @@
     },
     {
       "birth_date": "1957-10-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pilar.ardanza@congreso.es"
-        }
-      ],
-      "email": "pilar.ardanza@congreso.es",
       "family_name": "Ardanza Uribarren",
       "gender": "female",
       "given_name": "María Pilar",
@@ -16879,15 +15952,10 @@
       "birth_date": "1962-02-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "angeles.isac@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "angeles_isac"
         }
       ],
-      "email": "angeles.isac@congreso.es",
       "family_name": "Isac García",
       "gender": "female",
       "given_name": "Ángeles",
@@ -16930,13 +15998,6 @@
     },
     {
       "birth_date": "1966-05-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rtarno@congreso.es"
-        }
-      ],
-      "email": "rtarno@congreso.es",
       "family_name": "Tarno Blanco",
       "gender": "male",
       "given_name": "Ricardo",
@@ -17051,15 +16112,10 @@
       "birth_date": "1970-06-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marta.rivera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "MartaRiveraCruz"
         }
       ],
-      "email": "marta.rivera@congreso.es",
       "family_name": "Rivera de la Cruz",
       "gender": "female",
       "given_name": "Marta María",
@@ -17153,13 +16209,6 @@
     },
     {
       "birth_date": "1960-05-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "leopoldo.barreda@congreso.es"
-        }
-      ],
-      "email": "leopoldo.barreda@congreso.es",
       "family_name": "Barreda de los Ríos",
       "gender": "male",
       "given_name": "Leopoldo",
@@ -17289,15 +16338,10 @@
       "birth_date": "1958-09-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vicente.guillen@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "vicenteguilleni"
         }
       ],
-      "email": "vicente.guillen@congreso.es",
       "family_name": "Guillén Izquierdo",
       "gender": "male",
       "given_name": "Vicente",
@@ -18276,15 +17320,10 @@
       "birth_date": "1971-06-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "secretaria.upyd@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "lozanoirene"
         }
       ],
-      "email": "secretaria.upyd@congreso.es",
       "family_name": "Lozano Domingo",
       "gender": "female",
       "given_name": "Irene",
@@ -18405,13 +17444,6 @@
       "sort_name": "Lozano Domingo, Irene"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aurelio.romero@congreso.es"
-        }
-      ],
-      "email": "aurelio.romero@congreso.es",
       "family_name": "Romero Girón",
       "gender": "male",
       "given_name": "Aurelio",
@@ -18440,15 +17472,10 @@
       "birth_date": "1980-02-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "patricia.hernandez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "PatriciaHdezGut"
         }
       ],
-      "email": "patricia.hernandez@congreso.es",
       "family_name": "Hernández Gutiérrez",
       "gender": "female",
       "given_name": "Patricia",
@@ -18805,13 +17832,6 @@
     },
     {
       "birth_date": "1957-10-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "francisco.gonzalez@congreso.es"
-        }
-      ],
-      "email": "francisco.gonzalez@congreso.es",
       "family_name": "González Cabaña",
       "gender": "male",
       "given_name": "Francisco",
@@ -18928,15 +17948,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "rociolopeztoledo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "rociolgdiputada"
         }
       ],
-      "email": "rociolopeztoledo@congreso.es",
       "family_name": "López González",
       "gender": "female",
       "given_name": "Rocío",
@@ -18969,13 +17984,6 @@
     },
     {
       "birth_date": "1954-05-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carmen.quintanilla@congreso.es"
-        }
-      ],
-      "email": "carmen.quintanilla@congreso.es",
       "family_name": "Quintanilla Barba",
       "gender": "female",
       "given_name": "María del Carmen",
@@ -19042,15 +18050,10 @@
       "birth_date": "1964-09-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juanmaria.vazquez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JMVRUM"
         }
       ],
-      "email": "juanmaria.vazquez@congreso.es",
       "family_name": "Vázquez Rojas",
       "gender": "male",
       "given_name": "Juan María",
@@ -19119,15 +18122,10 @@
       "birth_date": "1980-07-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "esther.pena@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "estherpcamarero"
         }
       ],
-      "email": "esther.pena@congreso.es",
       "family_name": "Peña Camarero",
       "gender": "female",
       "given_name": "Esther",
@@ -19265,15 +18263,10 @@
       "birth_date": "1975-04-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "txema.guijarro@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "TxemaGuijarro"
         }
       ],
-      "email": "txema.guijarro@congreso.es",
       "family_name": "Guijarro García",
       "gender": "male",
       "given_name": "Txema",
@@ -19322,15 +18315,10 @@
       "birth_date": "1956-01-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sgvazquez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "sebastiangonvaz"
         }
       ],
-      "email": "sgvazquez@congreso.es",
       "family_name": "González Vázquez",
       "gender": "male",
       "given_name": "Sebastián",
@@ -19379,15 +18367,10 @@
       "birth_date": "1973-03-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "meritxell.batet@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AmbBatet"
         }
       ],
-      "email": "meritxell.batet@congreso.es",
       "family_name": "Batet Lamaña",
       "gender": "female",
       "given_name": "Meritxell",
@@ -19501,15 +18484,10 @@
       "birth_date": "1967-02-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carlos.floriano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "c_floriano"
         }
       ],
-      "email": "carlos.floriano@congreso.es",
       "family_name": "Floriano Corrales",
       "gender": "male",
       "given_name": "Carlos Javier",
@@ -19631,15 +18609,10 @@
       "birth_date": "1978-11-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "iurquizu@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "iurquizu"
         }
       ],
-      "email": "iurquizu@congreso.es",
       "family_name": "Urquizu Sancho",
       "gender": "male",
       "given_name": "Ignacio",
@@ -19726,15 +18699,10 @@
       "birth_date": "1958-10-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fernan.vello@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "FernanVello"
         }
       ],
-      "email": "fernan.vello@congreso.es",
       "family_name": "Fernández Bello",
       "gender": "male",
       "given_name": "Miguel Anxo Elías",
@@ -19884,15 +18852,10 @@
       "birth_date": "1979-12-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "felipe.sicilia@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "felipe_sicilia"
         }
       ],
-      "email": "felipe.sicilia@congreso.es",
       "family_name": "Sicilia Alférez",
       "gender": "male",
       "given_name": "Felipe Jesús",
@@ -19950,13 +18913,6 @@
     },
     {
       "birth_date": "1979-05-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "onintza.enbeita@congreso.es"
-        }
-      ],
-      "email": "onintza.enbeita@congreso.es",
       "family_name": "Enbeita Maguregi",
       "gender": "female",
       "given_name": "Onintza",
@@ -20012,15 +18968,10 @@
       "birth_date": "1960-07-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joan.canongia@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "JoanCanongia"
         }
       ],
-      "email": "joan.canongia@gmail.com",
       "family_name": "Canongia Gerona",
       "gender": "male",
       "given_name": "Joan",
@@ -20069,15 +19020,10 @@
       "birth_date": "1970-07-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carme.sayos@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "csayos"
         }
       ],
-      "email": "carme.sayos@congreso.es",
       "family_name": "Sayós i Motilla",
       "gender": "female",
       "given_name": "Maria Carme",
@@ -20126,13 +19072,6 @@
       "sort_name": "Sayós i Motilla, Maria Carme"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manuel.mora@congreso.es"
-        }
-      ],
-      "email": "manuel.mora@congreso.es",
       "family_name": "Mora Bernat",
       "gender": "male",
       "given_name": "Manuel",
@@ -20161,15 +19100,10 @@
       "birth_date": "1984-05-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ana.marcello@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "anamarcelloana"
         }
       ],
-      "email": "ana.marcello@congreso.es",
       "family_name": "Marcello Santos",
       "gender": "female",
       "given_name": "Ana",
@@ -20233,15 +19167,10 @@
       "birth_date": "1973-11-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "esantositoiz@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ESantosItoiz"
         }
       ],
-      "email": "esantositoiz@congreso.es",
       "family_name": "Santos Itoiz",
       "gender": "male",
       "given_name": "Eduardo",
@@ -20413,13 +19342,6 @@
     },
     {
       "birth_date": "1963-09-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "joseignacio.echaniz@congreso.es"
-        }
-      ],
-      "email": "joseignacio.echaniz@congreso.es",
       "family_name": "Echániz Salgado",
       "gender": "male",
       "given_name": "José Ignacio",
@@ -20469,13 +19391,6 @@
     },
     {
       "birth_date": "1969",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "susana.ros@congreso.es"
-        }
-      ],
-      "email": "susana.ros@congreso.es",
       "family_name": "Ros Martínez",
       "gender": "female",
       "given_name": "Susana",
@@ -20565,13 +19480,6 @@
     },
     {
       "birth_date": "1961",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mmontesinos@congreso.es"
-        }
-      ],
-      "email": "mmontesinos@congreso.es",
       "family_name": "Montesinos de Miguel",
       "gender": "female",
       "given_name": "Macarena",
@@ -20620,15 +19528,10 @@
       "birth_date": "1959-10-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "presidencia@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "patxilopez"
         }
       ],
-      "email": "presidencia@congreso.es",
       "family_name": "López Álvarez",
       "gender": "male",
       "given_name": "Patxi",
@@ -20855,15 +19758,10 @@
       "birth_date": "1962-02-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "eloy.suarez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "eloysuarezl"
         }
       ],
-      "email": "eloy.suarez@congreso.es",
       "family_name": "Suárez Lamata",
       "gender": "male",
       "given_name": "Eloy",
@@ -20955,13 +19853,6 @@
     },
     {
       "birth_date": "1947-12-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mdelarocha@congreso.es"
-        }
-      ],
-      "email": "mdelarocha@congreso.es",
       "family_name": "Rocha Rubí",
       "gender": "male",
       "given_name": "Manuel de la",
@@ -21035,15 +19926,10 @@
       "birth_date": "1969-11-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "irene.rivera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "_Irene_Rivera"
         }
       ],
-      "email": "irene.rivera@congreso.es",
       "family_name": "Rivera Andrés",
       "gender": "female",
       "given_name": "Irene",
@@ -21096,15 +19982,10 @@
       "birth_date": "1953-09-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jtarda@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JoanTarda"
         }
       ],
-      "email": "jtarda@congreso.es",
       "family_name": "Tardà i Coma",
       "gender": "male",
       "given_name": "Joan",
@@ -21225,15 +20106,10 @@
       "birth_date": "1965-01-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "secretaria.upyd@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ToniCanto1"
         }
       ],
-      "email": "secretaria.upyd@congreso.es",
       "family_name": "Cantó García del Moral",
       "gender": "male",
       "given_name": "Antonio",
@@ -21355,15 +20231,10 @@
       "birth_date": "1956-09-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vicesegunda@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "micaela_navarro"
         }
       ],
-      "email": "vicesegunda@congreso.es",
       "family_name": "Navarro Garzón",
       "gender": "female",
       "given_name": "Micaela",
@@ -21444,15 +20315,10 @@
       "birth_date": "1966-08-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "agirretxea@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jagirretxea"
         }
       ],
-      "email": "agirretxea@congreso.es",
       "family_name": "Agirretxea Urresti",
       "gender": "male",
       "given_name": "Joseba Andoni",
@@ -21527,15 +20393,10 @@
       "birth_date": "1978-01-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "diego.clemente@congreso.es diego@roquetas-cs.org"
-        },
-        {
           "type": "twitter",
           "value": "diego__clemente"
         }
       ],
-      "email": "diego.clemente@congreso.es diego@roquetas-cs.org",
       "family_name": "Clemente Giménez",
       "gender": "male",
       "given_name": "Diego",
@@ -21584,15 +20445,10 @@
       "birth_date": "1990-03-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nagua.alba@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "NaguaAlba"
         }
       ],
-      "email": "nagua.alba@congreso.es",
       "family_name": "Alba Goveli",
       "gender": "female",
       "given_name": "Nayua Miriam",
@@ -21702,13 +20558,6 @@
       "sort_name": "Abad Pérez, Juan Antonio"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sara.cobos@congreso.es"
-        }
-      ],
-      "email": "sara.cobos@congreso.es",
       "family_name": "Cobos Trallero",
       "gender": "female",
       "given_name": "Sara",
@@ -21809,13 +20658,6 @@
     },
     {
       "birth_date": "1970-06-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fernando.iglesias@congreso.es"
-        }
-      ],
-      "email": "fernando.iglesias@congreso.es",
       "family_name": "Iglesias García",
       "gender": "male",
       "given_name": "Fernando",
@@ -21839,15 +20681,10 @@
       "birth_date": "1970-03-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "xavier.eritja@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "xavieritja"
         }
       ],
-      "email": "xavier.eritja@congreso.es",
       "family_name": "Eritja Ciuró",
       "gender": "male",
       "given_name": "Francesc Xavier",
@@ -21989,10 +20826,6 @@
       "birth_date": "1975-08-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rosa.martinez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "rosam_equo"
         },
@@ -22001,7 +20834,6 @@
           "value": "rosa_mr_"
         }
       ],
-      "email": "rosa.martinez@congreso.es",
       "family_name": "Martínez Rodríguez",
       "gender": "female",
       "given_name": "María Rosa",
@@ -22144,15 +20976,10 @@
       "birth_date": "1957-04-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mario.bedera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mariobedera"
         }
       ],
-      "email": "mario.bedera@congreso.es",
       "family_name": "Bedera Bravo",
       "gender": "male",
       "given_name": "Mario",
@@ -22308,15 +21135,10 @@
       "birth_date": "1970-11-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mjesus.serrano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Mjesusserranoj"
         }
       ],
-      "email": "mjesus.serrano@congreso.es",
       "family_name": "Serrano Jiménez",
       "gender": "female",
       "given_name": "María Jesús",
@@ -22392,13 +21214,6 @@
     },
     {
       "birth_date": "1954",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "guillermo.collarte@congreso.es"
-        }
-      ],
-      "email": "guillermo.collarte@congreso.es",
       "family_name": "Collarte Rodríguez",
       "gender": "male",
       "given_name": "Guillermo",
@@ -22432,15 +21247,10 @@
       "birth_date": "1964-08-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gpons@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "gonzalezpons"
         }
       ],
-      "email": "gpons@congreso.es",
       "family_name": "González Pons",
       "gender": "male",
       "given_name": "Esteban",
@@ -22538,15 +21348,10 @@
       "birth_date": "1966-12-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lidiaguinart@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "lidiaguinart"
         }
       ],
-      "email": "lidiaguinart@congreso.es",
       "family_name": "Guinart Moreno",
       "gender": "female",
       "given_name": "Lídia",
@@ -22609,15 +21414,10 @@
       "birth_date": "1983-12-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ierrejon@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ierrejon"
         }
       ],
-      "email": "ierrejon@congreso.es",
       "family_name": "Errejón Galván",
       "gender": "male",
       "given_name": "Íñigo",
@@ -22761,13 +21561,6 @@
     },
     {
       "birth_date": "1963-12-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "soraya.rodriguez@congreso.es"
-        }
-      ],
-      "email": "soraya.rodriguez@congreso.es",
       "family_name": "Rodríguez Ramos",
       "gender": "female",
       "given_name": "María Soraya",
@@ -22869,15 +21662,10 @@
       "birth_date": "1972-10-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "javier.anton@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "javieranton"
         }
       ],
-      "email": "javier.anton@congreso.es",
       "family_name": "Antón Cacho",
       "gender": "male",
       "given_name": "Javier",
@@ -22963,15 +21751,10 @@
       "birth_date": "1974-12-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "xavier.domenech@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "XavierDomenechs"
         }
       ],
-      "email": "xavier.domenech@congreso.es",
       "family_name": "Domènech Sampere",
       "gender": "male",
       "given_name": "Francesc Xavier",
@@ -23098,15 +21881,10 @@
       "birth_date": "1947-09-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "diegolgarrido@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "diegolgarrido"
         }
       ],
-      "email": "diegolgarrido@congreso.es",
       "family_name": "López Garrido",
       "gender": "male",
       "given_name": "Diego",
@@ -23232,15 +22010,10 @@
       "birth_date": "1954-08-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jruiz@tinet.org"
-        },
-        {
           "type": "twitter",
           "value": "jruizcarbonell"
         }
       ],
-      "email": "jruiz@tinet.org",
       "family_name": "Ruiz i Carbonell",
       "gender": "male",
       "given_name": "Joan",
@@ -23295,13 +22068,6 @@
     },
     {
       "birth_date": "1970-07-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maria.romero@congreso.es"
-        }
-      ],
-      "email": "maria.romero@congreso.es",
       "family_name": "Romero Rodríguez",
       "gender": "female",
       "given_name": "María Eugenia",
@@ -23350,15 +22116,10 @@
       "birth_date": "1966-04-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carlos.salvador@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ccsalvador_"
         }
       ],
-      "email": "carlos.salvador@congreso.es",
       "family_name": "Salvador Armendáriz",
       "gender": "male",
       "given_name": "Carlos Casimiro",
@@ -23426,15 +22187,10 @@
       "birth_date": "1976-01-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "eduardo.madina@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "EduMadina"
         }
       ],
-      "email": "eduardo.madina@congreso.es",
       "family_name": "Madina Muñoz",
       "gender": "male",
       "given_name": "Eduardo",
@@ -23569,15 +22325,10 @@
       "birth_date": "1978-06-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carmen.navarro@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "CnLacoba"
         }
       ],
-      "email": "carmen.navarro@congreso.es",
       "family_name": "Navarro Lacoba",
       "gender": "female",
       "given_name": "Carmen",
@@ -23639,15 +22390,10 @@
       "birth_date": "1953-03-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gregorio.camara@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "GregorioCmara"
         }
       ],
-      "email": "gregorio.camara@congreso.es",
       "family_name": "Cámara Villar",
       "gender": "male",
       "given_name": "Gregorio",
@@ -23740,15 +22486,10 @@
       "birth_date": "1965-06-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ferran.bel@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Ferran_Bel"
         }
       ],
-      "email": "ferran.bel@congreso.es",
       "family_name": "Bel Accensi",
       "gender": "male",
       "given_name": "Ferran",
@@ -23829,15 +22570,10 @@
       "birth_date": "1952-02-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "delia.blanco@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "DeliaBlancoT"
         }
       ],
-      "email": "delia.blanco@congreso.es",
       "family_name": "Blanco Terán",
       "gender": "female",
       "given_name": "Rosa Delia",
@@ -23955,15 +22691,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "asanzreon@gmai.com"
-        },
-        {
           "type": "twitter",
           "value": "Asanzr"
         }
       ],
-      "email": "asanzreon@gmai.com",
       "family_name": "Sanz Remón",
       "gender": "male",
       "given_name": "Álvaro",
@@ -24004,15 +22735,10 @@
       "birth_date": "1972-06-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marcialgomez@congreso.es marcialgomez.congreso@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "MarcialGoBal"
         }
       ],
-      "email": "marcialgomez@congreso.es marcialgomez.congreso@gmail.com",
       "family_name": "Gómez Balsera",
       "gender": "male",
       "given_name": "Marcial",
@@ -24058,13 +22784,6 @@
     },
     {
       "birth_date": "1966-10-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manuel.gonzalez@congreso.es"
-        }
-      ],
-      "email": "manuel.gonzalez@congreso.es",
       "family_name": "González Ramos",
       "gender": "male",
       "given_name": "Manuel Gabriel",
@@ -24109,15 +22828,10 @@
       "birth_date": "1963-02-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "antonio.pradas@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "PradasTorres"
         }
       ],
-      "email": "antonio.pradas@congreso.es",
       "family_name": "Pradas Torres",
       "gender": "male",
       "given_name": "Antonio Francisco",
@@ -24177,15 +22891,10 @@
       "birth_date": "1972-08-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "tamara.raya@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "tamarayar"
         }
       ],
-      "email": "tamara.raya@congreso.es",
       "family_name": "Raya Rodríguez",
       "gender": "female",
       "given_name": "María Tamara",
@@ -24230,15 +22939,10 @@
       "birth_date": "1956-01-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "i.mendezdevigo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "IMendezdeVigo"
         }
       ],
-      "email": "i.mendezdevigo@congreso.es",
       "family_name": "Méndez de Vigo Montojo",
       "gender": "male",
       "given_name": "Íñigo",
@@ -24446,13 +23150,6 @@
     },
     {
       "birth_date": "1965-12-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antonio.rodriguez@congreso.es"
-        }
-      ],
-      "email": "antonio.rodriguez@congreso.es",
       "family_name": "Rodríguez Vázquez",
       "gender": "male",
       "given_name": "Antonio",
@@ -24482,15 +23179,10 @@
       "birth_date": "1965-08-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "artemi.rallo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "RalloArtemi"
         }
       ],
-      "email": "artemi.rallo@congreso.es",
       "family_name": "Rallo Lombarte",
       "gender": "male",
       "given_name": "Artemi Vicent",
@@ -24562,15 +23254,10 @@
       "birth_date": "1969-08-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carolina.espana@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "CarolinaEspanaR"
         }
       ],
-      "email": "carolina.espana@congreso.es",
       "family_name": "España Reina",
       "gender": "female",
       "given_name": "Carolina",
@@ -24675,15 +23362,10 @@
       "birth_date": "1967-01-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ricardo.sixto@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Rsixtoiglesias"
         }
       ],
-      "email": "ricardo.sixto@congreso.es",
       "family_name": "Sixto Iglesias",
       "gender": "male",
       "given_name": "Ricardo",
@@ -24801,15 +23483,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "caridad.garcia@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "caridad268"
         }
       ],
-      "email": "caridad.garcia@congreso.es",
       "family_name": "García Álvarez",
       "gender": "female",
       "given_name": "María Caridad",
@@ -24850,15 +23527,10 @@
       "birth_date": "1973-05-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marta.sibina@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Marta_Sibina"
         }
       ],
-      "email": "marta.sibina@congreso.es",
       "family_name": "Sibina Camps",
       "gender": "female",
       "given_name": "Marta",
@@ -24947,15 +23619,10 @@
       "birth_date": "1947-12-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "manuel.pezzi@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "manolopezzi"
         }
       ],
-      "email": "manuel.pezzi@congreso.es",
       "family_name": "Pezzi Cereto",
       "gender": "male",
       "given_name": "Manuel",
@@ -25096,13 +23763,6 @@
     },
     {
       "birth_date": "1959-02-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ignacio.landaluce@congreso.es"
-        }
-      ],
-      "email": "ignacio.landaluce@congreso.es",
       "family_name": "Landaluce Calleja",
       "gender": "male",
       "given_name": "José Ignacio",
@@ -25164,15 +23824,10 @@
       "birth_date": "1967-08-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pilicancela@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "PiliCancela"
         }
       ],
-      "email": "pilicancela@congreso.es",
       "family_name": "Cancela Rodríguez",
       "gender": "female",
       "given_name": "Pilar",
@@ -25314,15 +23969,10 @@
       "birth_date": "1980-05-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nogueras@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "miriamnoguerasM"
         }
       ],
-      "email": "nogueras@congreso.es",
       "family_name": "Nogueras i Camero",
       "gender": "female",
       "given_name": "Miriam",
@@ -25449,15 +24099,10 @@
       "birth_date": "1950-01-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joan.rangel@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "rangeltarres"
         }
       ],
-      "email": "joan.rangel@congreso.es",
       "family_name": "Rangel Tarrés",
       "gender": "male",
       "given_name": "Joan",
@@ -25521,15 +24166,10 @@
       "birth_date": "1942-12-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.lara@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "TeresadeLara"
         }
       ],
-      "email": "maria.lara@congreso.es",
       "family_name": "Lara Carbó",
       "gender": "female",
       "given_name": "María Teresa de",
@@ -25577,10 +24217,6 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "maravillas.falcon@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "MaraFalconPP"
         },
@@ -25589,7 +24225,6 @@
           "value": "MaraFalconD"
         }
       ],
-      "email": "maravillas.falcon@congreso.es",
       "family_name": "Falcón Dacal",
       "gender": "female",
       "given_name": "Maravillas Concepción",
@@ -25631,13 +24266,6 @@
       "sort_name": "Falcón Dacal, Maravillas Concepción"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "federico.cabello@congreso.es"
-        }
-      ],
-      "email": "federico.cabello@congreso.es",
       "family_name": "Cabello de Alba Hernández",
       "gender": "male",
       "given_name": "Federico",
@@ -25675,15 +24303,10 @@
       "birth_date": "1959-04-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mateo.isern@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "MateoIsern"
         }
       ],
-      "email": "mateo.isern@congreso.es",
       "family_name": "Isern Estela",
       "gender": "male",
       "given_name": "Mateo",
@@ -26057,15 +24680,10 @@
       "birth_date": "1960-08-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "guadalupem@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Guadalupem1960"
         }
       ],
-      "email": "guadalupem@congreso.es",
       "family_name": "Martín González",
       "gender": "female",
       "given_name": "María Guadalupe",
@@ -26209,15 +24827,10 @@
       "birth_date": "1966-01-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lcsahuquillo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "lcsahuquillo"
         }
       ],
-      "email": "lcsahuquillo@congreso.es",
       "family_name": "Sahuquillo García",
       "gender": "male",
       "given_name": "Luis Carlos",
@@ -26347,13 +24960,6 @@
     },
     {
       "birth_date": "1966-03-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eduardo.fgarcia@congreso.es"
-        }
-      ],
-      "email": "eduardo.fgarcia@congreso.es",
       "family_name": "Fernández García",
       "gender": "male",
       "given_name": "Eduardo",
@@ -26411,15 +25017,10 @@
       "birth_date": "1973-09-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "scabezonruiz@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "SoledadCabezon"
         }
       ],
-      "email": "scabezonruiz@congreso.es",
       "family_name": "Cabezón Ruiz",
       "gender": "female",
       "given_name": "Soledad",
@@ -26520,15 +25121,10 @@
       "birth_date": "1969-04-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carlos.munozobon@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "munozobon"
         }
       ],
-      "email": "carlos.munozobon@congreso.es",
       "family_name": "Muñoz Obón",
       "gender": "male",
       "given_name": "Carlos Enrique",
@@ -26594,13 +25190,6 @@
     },
     {
       "birth_date": "1956-10-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "c.aragones@congreso.es"
-        }
-      ],
-      "email": "c.aragones@congreso.es",
       "family_name": "Aragonés Mendiguchía",
       "gender": "male",
       "given_name": "Carlos",
@@ -26642,15 +25231,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "mariajose.rodriguez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mjrdguez"
         }
       ],
-      "email": "mariajose.rodriguez@congreso.es",
       "family_name": "Rodríguez Ramírez",
       "gender": "female",
       "given_name": "María José",
@@ -26794,15 +25378,10 @@
       "birth_date": "1963-04-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "luissalvador@congreso.es luissalvador.congreso@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "LuisSalvador"
         }
       ],
-      "email": "luissalvador@congreso.es luissalvador.congreso@gmail.com",
       "family_name": "Salvador García",
       "gender": "male",
       "given_name": "Luis Miguel",
@@ -26848,13 +25427,6 @@
       "sort_name": "Salvador García, Luis Miguel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mario.mingo@congreso.es"
-        }
-      ],
-      "email": "mario.mingo@congreso.es",
       "family_name": "Mingo Zapatero",
       "gender": "male",
       "given_name": "Mario",
@@ -26933,15 +25505,10 @@
       "birth_date": "1983-11-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ana.terron@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AnaTerron_"
         }
       ],
-      "email": "ana.terron@congreso.es",
       "family_name": "Terrón Berbel",
       "gender": "female",
       "given_name": "Ana Belén",
@@ -27052,15 +25619,10 @@
       "birth_date": "1974-03-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juan.bravo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "juanBravoBaena"
         }
       ],
-      "email": "juan.bravo@congreso.es",
       "family_name": "Bravo Baena",
       "gender": "male",
       "given_name": "Juan",
@@ -27108,15 +25670,10 @@
       "birth_date": "1958-01-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jose.soria@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jmsoria"
         }
       ],
-      "email": "jose.soria@congreso.es",
       "family_name": "Soria López",
       "gender": "male",
       "given_name": "José Manuel",
@@ -27272,15 +25829,10 @@
       "birth_date": "1981-07-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.ares@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "marionita8"
         }
       ],
-      "email": "maria.ares@congreso.es",
       "family_name": "Ares Martínez-Fortún",
       "gender": "female",
       "given_name": "María de la O",
@@ -27400,15 +25952,10 @@
       "birth_date": "1988-02-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sgonzalez@congreso.es sgonzalez@podemos.info"
-        },
-        {
           "type": "twitter",
           "value": "Segundogg"
         }
       ],
-      "email": "sgonzalez@congreso.es sgonzalez@podemos.info",
       "family_name": "González García",
       "gender": "male",
       "given_name": "Segundo",
@@ -27473,13 +26020,6 @@
       "sort_name": "González García, Segundo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "helena.castellano@congreso.es"
-        }
-      ],
-      "email": "helena.castellano@congreso.es",
       "family_name": "Castellano Ramón",
       "gender": "female",
       "given_name": "Helena",
@@ -27506,13 +26046,6 @@
     },
     {
       "birth_date": "1957-07-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ramon.canal@congreso.es"
-        }
-      ],
-      "email": "ramon.canal@congreso.es",
       "family_name": "García Cañal",
       "gender": "male",
       "given_name": "José Ramón",
@@ -27560,15 +26093,10 @@
       "birth_date": "1961-09-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "anamadrazo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "anamadrazo61"
         }
       ],
-      "email": "anamadrazo@congreso.es",
       "family_name": "Madrazo Díaz",
       "gender": "female",
       "given_name": "Ana María",
@@ -27630,13 +26158,6 @@
     },
     {
       "birth_date": "1952-04-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antonio.erias@congreso.es"
-        }
-      ],
-      "email": "antonio.erias@congreso.es",
       "family_name": "Erias Rey",
       "gender": "male",
       "given_name": "Antonio",
@@ -27687,15 +26208,10 @@
       "birth_date": "1976-11-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jmgirela@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "JoseMGirela"
         }
       ],
-      "email": "jmgirela@gmail.com",
       "family_name": "Girela de la Fuente",
       "gender": "male",
       "given_name": "José Manuel",
@@ -27736,15 +26252,10 @@
       "birth_date": "1983-09-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francisco.hervias@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "FranHervias"
         }
       ],
-      "email": "francisco.hervias@congreso.es",
       "family_name": "Hervías Chirosa",
       "gender": "male",
       "given_name": "Francisco Javier",
@@ -27806,15 +26317,10 @@
       "birth_date": "1963-11-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "emilio.delrio@congreso.es correo@emiliodelrio.es"
-        },
-        {
           "type": "twitter",
           "value": "emilio_delrio"
         }
       ],
-      "email": "emilio.delrio@congreso.es correo@emiliodelrio.es",
       "family_name": "Del Río Sanz",
       "gender": "male",
       "given_name": "Emilio",
@@ -27943,15 +26449,10 @@
       "birth_date": "1971-02-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carolina.bescansa@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "CBescansa"
         }
       ],
-      "email": "carolina.bescansa@congreso.es",
       "family_name": "Bescansa Hernández",
       "gender": "female",
       "given_name": "Carolina",
@@ -28031,15 +26532,10 @@
       "birth_date": "1959-12-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "abalos@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "abalosmeco"
         }
       ],
-      "email": "abalos@congreso.es",
       "family_name": "Ábalos Meco",
       "gender": "male",
       "given_name": "José Luis",
@@ -28211,15 +26707,10 @@
       "birth_date": "1964-04-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francisco.igea@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "FranciscoIgea"
         }
       ],
-      "email": "francisco.igea@congreso.es",
       "family_name": "Igea Arisqueta",
       "gender": "male",
       "given_name": "Francisco",
@@ -28268,15 +26759,10 @@
       "birth_date": "1960-05-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nachosamor@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "NachoSAmor"
         }
       ],
-      "email": "nachosamor@congreso.es",
       "family_name": "Sánchez Amor",
       "gender": "male",
       "given_name": "José Ignacio",
@@ -28338,13 +26824,6 @@
     },
     {
       "birth_date": "1949",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "trbarahona@congreso.es"
-        }
-      ],
-      "email": "trbarahona@congreso.es",
       "family_name": "Rodríguez Barahona",
       "gender": "female",
       "given_name": "María Teresa",
@@ -28379,15 +26858,10 @@
       "birth_date": "1962-06-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gelorriaga@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "gabrielorriaga"
         }
       ],
-      "email": "gelorriaga@congreso.es",
       "family_name": "Elorriaga Pisarik",
       "gender": "male",
       "given_name": "Gabriel",
@@ -28459,15 +26933,10 @@
       "birth_date": "1966-11-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mperea@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "merceperea"
         }
       ],
-      "email": "mperea@congreso.es",
       "family_name": "Perea i Conillas",
       "gender": "female",
       "given_name": "María Mercè",
@@ -28533,15 +27002,10 @@
       "birth_date": "1970-06-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sofia.hernanz@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Hernanzsofia"
         }
       ],
-      "email": "sofia.hernanz@congreso.es",
       "family_name": "Hernanz Costa",
       "gender": "female",
       "given_name": "Sofía",
@@ -28641,15 +27105,10 @@
       "birth_date": "1959-09-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "magdalena.valerio@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mvalerio_gu"
         }
       ],
-      "email": "magdalena.valerio@congreso.es",
       "family_name": "Valerio Cordero",
       "gender": "female",
       "given_name": "Magdalena",
@@ -28738,15 +27197,10 @@
       "birth_date": "1985-01-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "teodoro.garcia@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "teogarciaegea"
         }
       ],
-      "email": "teodoro.garcia@congreso.es",
       "family_name": "García Egea",
       "gender": "male",
       "given_name": "Teodoro",
@@ -28819,15 +27273,10 @@
       "birth_date": "1981-02-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pablocasadoblanco@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "pablocasado_"
         }
       ],
-      "email": "pablocasadoblanco@gmail.com",
       "family_name": "Casado Blanco",
       "gender": "male",
       "given_name": "Pablo",
@@ -29063,15 +27512,10 @@
       "birth_date": "1961-11-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rhernando@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Rafa_Hernando"
         }
       ],
-      "email": "rhernando@congreso.es",
       "family_name": "Hernando Fraile",
       "gender": "male",
       "given_name": "Rafael Antonio",
@@ -29151,13 +27595,6 @@
     },
     {
       "birth_date": "1956-03-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mflores@congreso.es"
-        }
-      ],
-      "email": "mflores@congreso.es",
       "family_name": "Flores Lanuza",
       "gender": "male",
       "given_name": "Mario Francisco José",
@@ -29210,15 +27647,10 @@
       "birth_date": "1970-04-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joseantonio.nieto@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ja_nietob"
         }
       ],
-      "email": "joseantonio.nieto@congreso.es",
       "family_name": "Nieto Ballesteros",
       "gender": "male",
       "given_name": "José Antonio",
@@ -29293,13 +27725,6 @@
     },
     {
       "birth_date": "1957-09-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ignacio.gil@congreso.es"
-        }
-      ],
-      "email": "ignacio.gil@congreso.es",
       "family_name": "Gil Lázaro",
       "gender": "male",
       "given_name": "Ignacio",
@@ -29508,15 +27933,10 @@
       "birth_date": "1957-04-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pedro.azpiazu@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "PedroAzpiazu"
         }
       ],
-      "email": "pedro.azpiazu@congreso.es",
       "family_name": "Azpiazu Uriarte",
       "gender": "male",
       "given_name": "Pedro María",
@@ -29806,15 +28226,10 @@
       "birth_date": "1985-03-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "aina.vidal@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ainavs"
         }
       ],
-      "email": "aina.vidal@congreso.es",
       "family_name": "Vidal Sáez",
       "gender": "female",
       "given_name": "Aina",
@@ -29931,15 +28346,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "gracia.fernandez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "gracitacary"
         }
       ],
-      "email": "gracia.fernandez@congreso.es",
       "family_name": "Fernández Moya",
       "gender": "female",
       "given_name": "Gracia",
@@ -29978,13 +28388,6 @@
     },
     {
       "birth_date": "1962-04-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "josemaria.barrios@congreso.es jmbarrios1962@gmail.com"
-        }
-      ],
-      "email": "josemaria.barrios@congreso.es jmbarrios1962@gmail.com",
       "family_name": "Barrios Tejero",
       "gender": "male",
       "given_name": "José María",
@@ -30030,15 +28433,10 @@
       "birth_date": "1963-02-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jose.martintoledano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "martintoledano"
         }
       ],
-      "email": "jose.martintoledano@congreso.es",
       "family_name": "Martín-Toledano Suárez",
       "gender": "male",
       "given_name": "José Alberto",
@@ -30160,15 +28558,10 @@
       "birth_date": "1976-03-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carmen.monton@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "CarmenMonton"
         }
       ],
-      "email": "carmen.monton@congreso.es",
       "family_name": "Montón Giménez",
       "gender": "female",
       "given_name": "Carmen",
@@ -30325,15 +28718,10 @@
       "birth_date": "1973-02-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "soniaft@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "soniafetesoro"
         }
       ],
-      "email": "soniaft@congreso.es",
       "family_name": "Ferrer Tesoro",
       "gender": "female",
       "given_name": "Sonia",
@@ -30381,15 +28769,10 @@
       "birth_date": "1966-08-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marti.barbera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Marti_Barbera"
         }
       ],
-      "email": "marti.barbera@congreso.es",
       "family_name": "Barberà i Montserrat",
       "gender": "male",
       "given_name": "Martí",
@@ -30736,13 +29119,6 @@
     },
     {
       "birth_date": "1975-10-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pp@elprat.cat"
-        }
-      ],
-      "email": "pp@elprat.cat",
       "family_name": "Gallego Burgos",
       "gender": "male",
       "given_name": "Antonio",
@@ -30917,13 +29293,6 @@
       "sort_name": "Socias Puig, Ramón Antonio"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "arsenio.pacheco@congreso.es"
-        }
-      ],
-      "email": "arsenio.pacheco@congreso.es",
       "family_name": "Pacheco Atienza",
       "gender": "male",
       "given_name": "Arsenio",
@@ -30950,13 +29319,6 @@
     },
     {
       "birth_date": "1962-06-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "trinidad.jimenez@congreso.es"
-        }
-      ],
-      "email": "trinidad.jimenez@congreso.es",
       "family_name": "Jiménez García-Herrera",
       "gender": "female",
       "given_name": "Trinidad",
@@ -31156,13 +29518,6 @@
     },
     {
       "birth_date": "1950-07-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cristobal.montoro@congreso.es"
-        }
-      ],
-      "email": "cristobal.montoro@congreso.es",
       "family_name": "Montoro Romero",
       "gender": "male",
       "given_name": "Cristóbal Ricardo",
@@ -31841,15 +30196,10 @@
       "birth_date": "1958-07-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jlcg2@hotmail.com"
-        },
-        {
           "type": "twitter",
           "value": "1centella"
         }
       ],
-      "email": "jlcg2@hotmail.com",
       "family_name": "Centella Gómez",
       "gender": "male",
       "given_name": "José Luis",
@@ -31914,15 +30264,10 @@
       "birth_date": "1986-06-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marta.sorli@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "casanyeta"
         }
       ],
-      "email": "marta.sorli@congreso.es",
       "family_name": "Sorlí Fresquet",
       "gender": "female",
       "given_name": "Marta",
@@ -31999,15 +30344,10 @@
       "birth_date": "1954-08-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "icv.congreso@gpiv.congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jcoscu"
         }
       ],
-      "email": "icv.congreso@gpiv.congreso.es",
       "family_name": "Coscubiela Conesa",
       "gender": "male",
       "given_name": "Joan",
@@ -32116,15 +30456,10 @@
       "birth_date": "1944-08-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jose.margallo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "MargalloJm"
         }
       ],
-      "email": "jose.margallo@congreso.es",
       "family_name": "García-Margallo y Marfil",
       "gender": "male",
       "given_name": "José Manuel",
@@ -32378,15 +30713,10 @@
       "birth_date": "1965-06-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "antonio.roman@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AntonioRomanJ"
         }
       ],
-      "email": "antonio.roman@congreso.es",
       "family_name": "Román Jasanada",
       "gender": "male",
       "given_name": "Antonio",
@@ -32448,15 +30778,10 @@
       "birth_date": "1964-11-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joseluis.martinez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JoseLM_Aguilas"
         }
       ],
-      "email": "joseluis.martinez@congreso.es",
       "family_name": "Martínez González",
       "gender": "male",
       "given_name": "José Luis",
@@ -32500,15 +30825,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "ildefonso.pastor@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ildepg"
         }
       ],
-      "email": "ildefonso.pastor@congreso.es",
       "family_name": "Pastor González",
       "gender": "male",
       "given_name": "Ildefonso R.",
@@ -32830,15 +31150,10 @@
       "birth_date": "1978-07-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alberto.herrero@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "herrerobono"
         }
       ],
-      "email": "alberto.herrero@congreso.es",
       "family_name": "Herrero Bono",
       "gender": "male",
       "given_name": "José Alberto",
@@ -32911,15 +31226,10 @@
       "birth_date": "1975-01-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ana.vazquez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "anadebande"
         }
       ],
-      "email": "ana.vazquez@congreso.es",
       "family_name": "Vázquez Blanco",
       "gender": "female",
       "given_name": "Ana Belén",
@@ -33068,15 +31378,10 @@
       "birth_date": "1962-05-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pilar.marcos@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "pilarmarcosd"
         }
       ],
-      "email": "pilar.marcos@congreso.es",
       "family_name": "Marcos Domínguez",
       "gender": "female",
       "given_name": "Pilar",
@@ -33513,13 +31818,6 @@
     },
     {
       "birth_date": "1964-08-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "xabier.errekondo@congreso.es"
-        }
-      ],
-      "email": "xabier.errekondo@congreso.es",
       "family_name": "Errekondo Saltsamendi",
       "gender": "male",
       "given_name": "Xabier Mikel",
@@ -33654,15 +31952,10 @@
       "birth_date": "1958-08-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joan.baldovi@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "joanbaldovi"
         }
       ],
-      "email": "joan.baldovi@congreso.es",
       "family_name": "Baldoví Roda",
       "gender": "male",
       "given_name": "Joan",
@@ -33743,15 +32036,10 @@
       "birth_date": "1975-08-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paz.lago@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "PazLagoM"
         }
       ],
-      "email": "paz.lago@congreso.es",
       "family_name": "Lago Martínez",
       "gender": "female",
       "given_name": "María Paz",
@@ -33803,15 +32091,10 @@
       "birth_date": "1959-12-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "secretaria.upyd@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "cmgorriaran"
         }
       ],
-      "email": "secretaria.upyd@congreso.es",
       "family_name": "Martínez Gorriarán",
       "gender": "male",
       "given_name": "Carlos",
@@ -33921,15 +32204,10 @@
       "birth_date": "1964-06-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "secretaria.upyd@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "aanchuelo"
         }
       ],
-      "email": "secretaria.upyd@congreso.es",
       "family_name": "Anchuelo Crego",
       "gender": "male",
       "given_name": "Álvaro",
@@ -33977,15 +32255,10 @@
       "birth_date": "1973-05-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jordi.xucla@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jordixucla"
         }
       ],
-      "email": "jordi.xucla@congreso.es",
       "family_name": "Xuclà i Costa",
       "gender": "male",
       "given_name": "Jordi",
@@ -34095,10 +32368,6 @@
       "birth_date": "1951-05-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "miguel.cortizo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "miguelcortizodp"
         },
@@ -34108,7 +32377,6 @@
         }
       ],
       "death_date": "2018-07-03",
-      "email": "miguel.cortizo@congreso.es",
       "family_name": "Cortizo Nieto",
       "gender": "male",
       "given_name": "Miguel Ángel",
@@ -34166,15 +32434,10 @@
       "birth_date": "1983-11-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sofia.castanon@congreso.es sofiafc@asturias.podemos.info"
-        },
-        {
           "type": "twitter",
           "value": "SofCastanon"
         }
       ],
-      "email": "sofia.castanon@congreso.es sofiafc@asturias.podemos.info",
       "family_name": "Fernández Castañón",
       "gender": "female",
       "given_name": "Sofía",
@@ -34301,13 +32564,6 @@
     },
     {
       "birth_date": "1968-10-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mamen.sanchez@congreso.es"
-        }
-      ],
-      "email": "mamen.sanchez@congreso.es",
       "family_name": "Sánchez Díaz",
       "gender": "female",
       "given_name": "María Carmen",
@@ -34352,15 +32608,10 @@
       "birth_date": "1972-07-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marta.martin@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "martamartirio"
         }
       ],
-      "email": "marta.martin@congreso.es",
       "family_name": "Martín Llaguno",
       "gender": "female",
       "given_name": "Marta",
@@ -34515,13 +32766,6 @@
     },
     {
       "birth_date": "1973-07-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "julietamicheo@congreso.es"
-        }
-      ],
-      "email": "julietamicheo@congreso.es",
       "family_name": "Micheo Carrillo-Albornoz",
       "gender": "female",
       "given_name": "Julia de",
@@ -34555,15 +32799,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "margarita.cid@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "margadcm"
         }
       ],
-      "email": "margarita.cid@congreso.es",
       "family_name": "Cid Muñoz",
       "gender": "female",
       "given_name": "Margarita del Carmen del",
@@ -34629,15 +32868,10 @@
       "birth_date": "1965-01-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marta.gonzalez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "MartaGlezVzqz"
         }
       ],
-      "email": "marta.gonzalez@congreso.es",
       "family_name": "González Vázquez",
       "gender": "female",
       "given_name": "Marta",
@@ -34730,15 +32964,10 @@
       "birth_date": "1969-12-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lourdes.munoz@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "lourdesmunoz"
         }
       ],
-      "email": "lourdes.munoz@congreso.es",
       "family_name": "Muñoz Santamaría",
       "gender": "female",
       "given_name": "Lourdes",
@@ -34794,15 +33023,10 @@
       "birth_date": "1978-05-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "leire.iglesias@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "leireis"
         }
       ],
-      "email": "leire.iglesias@congreso.es",
       "family_name": "Iglesias Santiago",
       "gender": "female",
       "given_name": "Leire",
@@ -34854,15 +33078,10 @@
       "birth_date": "1971-06-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lourdes.ciuro@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "lciuro"
         }
       ],
-      "email": "lourdes.ciuro@congreso.es",
       "family_name": "Ciuró i Buldó",
       "gender": "female",
       "given_name": "Lourdes",
@@ -34960,15 +33179,10 @@
       "birth_date": "1958-12-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "belen.juste@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "justebelen"
         }
       ],
-      "email": "belen.juste@congreso.es",
       "family_name": "Juste Picón",
       "gender": "female",
       "given_name": "María Belén",
@@ -35009,13 +33223,6 @@
     },
     {
       "birth_date": "1959-05-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "marivi.monteserin@congreso.es"
-        }
-      ],
-      "email": "marivi.monteserin@congreso.es",
       "family_name": "Monteserín Rodríguez",
       "gender": "female",
       "given_name": "María Virtudes",
@@ -35068,15 +33275,10 @@
       "birth_date": "1969-12-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "susana.sumelzo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "SSumelzo"
         }
       ],
-      "email": "susana.sumelzo@congreso.es",
       "family_name": "Sumelzo Jordán",
       "gender": "female",
       "given_name": "Susana",
@@ -35258,13 +33460,6 @@
     },
     {
       "birth_date": "1961-09-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "miguel.lorenzo@congreso.es"
-        }
-      ],
-      "email": "miguel.lorenzo@congreso.es",
       "family_name": "Lorenzo Torres",
       "gender": "male",
       "given_name": "Miguel",
@@ -35309,15 +33504,10 @@
       "birth_date": "1973-07-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "monica.lafuente@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "monicalafuente"
         }
       ],
-      "email": "monica.lafuente@congreso.es",
       "family_name": "Lafuente de la Torre",
       "gender": "female",
       "given_name": "Mónica",
@@ -35387,15 +33577,10 @@
       "birth_date": "1958-12-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pepemolmos@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "PmOlmos"
         }
       ],
-      "email": "pepemolmos@congreso.es",
       "family_name": "Martínez Olmos",
       "gender": "male",
       "given_name": "José",
@@ -35440,15 +33625,10 @@
       "birth_date": "1963-01-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "aglimones@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "LimonesAG"
         }
       ],
-      "email": "aglimones@congreso.es",
       "family_name": "Gutiérrez Limones",
       "gender": "male",
       "given_name": "Antonio",
@@ -35512,15 +33692,10 @@
       "birth_date": "1966-07-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rsimancas@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "SimancasRafael"
         }
       ],
-      "email": "rsimancas@congreso.es",
       "family_name": "Simancas Simancas",
       "gender": "male",
       "given_name": "Rafael",
@@ -35783,15 +33958,10 @@
       "birth_date": "1971-10-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "miguel.viso@congreso.es miguelangelviso@yahoo.es"
-        },
-        {
           "type": "twitter",
           "value": "Miguel_Viso"
         }
       ],
-      "email": "miguel.viso@congreso.es miguelangelviso@yahoo.es",
       "family_name": "Viso Diéguez",
       "gender": "male",
       "given_name": "Miguel Ángel",
@@ -35845,13 +34015,6 @@
     },
     {
       "birth_date": "1958-04-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "josejuan.diaz@congreso.es"
-        }
-      ],
-      "email": "josejuan.diaz@congreso.es",
       "family_name": "Díaz Trillo",
       "gender": "male",
       "given_name": "José Juan",
@@ -35912,15 +34075,10 @@
       "birth_date": "1956-05-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rafael.larreina@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "larreina"
         }
       ],
-      "email": "rafael.larreina@congreso.es",
       "family_name": "Larreina Valderrama",
       "gender": "male",
       "given_name": "Rafael",
@@ -35984,15 +34142,10 @@
       "birth_date": "1978-10-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pablo.iglesias@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Pablo_Iglesias_"
         }
       ],
-      "email": "pablo.iglesias@congreso.es",
       "family_name": "Iglesias Turrión",
       "gender": "male",
       "given_name": "Pablo Manuel",
@@ -36350,15 +34503,10 @@
       "birth_date": "1965-12-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mdc@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mdcospedal"
         }
       ],
-      "email": "mdc@congreso.es",
       "family_name": "De Cospedal García",
       "gender": "female",
       "given_name": "María Dolores",
@@ -36543,15 +34691,10 @@
       "birth_date": "1956-02-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "antoniotrevin@yahoo.es"
-        },
-        {
           "type": "twitter",
           "value": "antoniotrevin"
         }
       ],
-      "email": "antoniotrevin@yahoo.es",
       "family_name": "Trevín Lombán",
       "gender": "male",
       "given_name": "Antonio Ramón María",
@@ -36900,15 +35043,10 @@
       "birth_date": "1960-01-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jandres@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JATorresMora"
         }
       ],
-      "email": "jandres@congreso.es",
       "family_name": "Torres Mora",
       "gender": "male",
       "given_name": "José Andrés",
@@ -37026,13 +35164,6 @@
     },
     {
       "birth_date": "1971-04-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "olga.iglesias@congreso.es"
-        }
-      ],
-      "email": "olga.iglesias@congreso.es",
       "family_name": "Iglesias Fontal",
       "gender": "female",
       "given_name": "María Olga",
@@ -37115,15 +35246,10 @@
       "birth_date": "1984-05-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "miguel.vila@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "mikele_V"
         }
       ],
-      "email": "miguel.vila@congreso.es",
       "family_name": "Vila Gómez",
       "gender": "male",
       "given_name": "Miguel",
@@ -37305,15 +35431,10 @@
       "birth_date": "1974-05-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "guillermomariscal@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "gmariscalanaya"
         }
       ],
-      "email": "guillermomariscal@congreso.es",
       "family_name": "Mariscal Anaya",
       "gender": "male",
       "given_name": "Guillermo",
@@ -37375,15 +35496,10 @@
       "birth_date": "1980-06-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "angela.ballester@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "_ABallester"
         }
       ],
-      "email": "angela.ballester@congreso.es",
       "family_name": "Ballester Muñoz",
       "gender": "female",
       "given_name": "Ángela",
@@ -37520,10 +35636,6 @@
       "birth_date": "1956-06-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pere.macias@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "peremaciasiarau"
         },
@@ -37532,7 +35644,6 @@
           "value": "voz_sindical"
         }
       ],
-      "email": "pere.macias@congreso.es",
       "family_name": "Macias i Arau",
       "gender": "male",
       "given_name": "Pere",
@@ -37629,15 +35740,10 @@
       "birth_date": "1990-06-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mariasuch@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "SuchMaria"
         }
       ],
-      "email": "mariasuch@congreso.es",
       "family_name": "Such Palomares",
       "gender": "female",
       "given_name": "María",
@@ -37744,15 +35850,10 @@
       "birth_date": "1969-09-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fernando.maillo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "martinezmaillo"
         }
       ],
-      "email": "fernando.maillo@congreso.es",
       "family_name": "Martínez-Maillo Toribio",
       "gender": "male",
       "given_name": "Fernando",
@@ -37946,15 +36047,10 @@
       "birth_date": "1955-04-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fernando.maura@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "FMauraB"
         }
       ],
-      "email": "fernando.maura@congreso.es",
       "family_name": "Maura Barandiarán",
       "gender": "male",
       "given_name": "Fernando",
@@ -38095,15 +36191,10 @@
       "birth_date": "1961-04-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alfred.bosch@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AlfredBosch"
         }
       ],
-      "email": "alfred.bosch@congreso.es",
       "family_name": "Bosch i Pascual",
       "gender": "male",
       "given_name": "Alfred",
@@ -38247,15 +36338,10 @@
       "birth_date": "1969-04-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jefernandez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Jefernandezmoya"
         }
       ],
-      "email": "jefernandez@congreso.es",
       "family_name": "Fernández de Moya Romero",
       "gender": "male",
       "given_name": "José Enrique",
@@ -38355,13 +36441,6 @@
       "sort_name": "Fernández de Moya Romero, José Enrique"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "luisa.gonzalez@congreso.es"
-        }
-      ],
-      "email": "luisa.gonzalez@congreso.es",
       "family_name": "González Santín",
       "gender": "female",
       "given_name": "María Luisa",
@@ -38399,15 +36478,10 @@
       "birth_date": "1960-11-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carmela.silva@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "carmelasilva"
         }
       ],
-      "email": "carmela.silva@congreso.es",
       "family_name": "Silva Rego",
       "gender": "female",
       "given_name": "María del Carmen",
@@ -38504,13 +36578,6 @@
     },
     {
       "birth_date": "1949-04-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gabino.puche@congreso.es"
-        }
-      ],
-      "email": "gabino.puche@congreso.es",
       "family_name": "Puche Rodríguez-Acosta",
       "gender": "male",
       "given_name": "Gabino",
@@ -38553,15 +36620,10 @@
       "birth_date": "1970-05-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "antoni.pico@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "toni_pico"
         }
       ],
-      "email": "antoni.pico@congreso.es",
       "family_name": "Picó i Azanza",
       "gender": "male",
       "given_name": "Antoni",
@@ -38606,15 +36668,10 @@
       "birth_date": "1970-12-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jordi.roca@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "jordiroca"
         }
       ],
-      "email": "jordi.roca@congreso.es",
       "family_name": "Roca Mas",
       "gender": "male",
       "given_name": "Jordi",
@@ -38660,13 +36717,6 @@
       "sort_name": "Roca Mas, Jordi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eva.duran@congreso.es"
-        }
-      ],
-      "email": "eva.duran@congreso.es",
       "family_name": "Durán Ramos",
       "gender": "female",
       "given_name": "Eva",
@@ -38707,15 +36757,10 @@
       "birth_date": "1958-02-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ana.botella@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AnaBotellaPSOE"
         }
       ],
-      "email": "ana.botella@congreso.es",
       "family_name": "Botella Gómez",
       "gender": "female",
       "given_name": "Ana María",
@@ -38839,15 +36884,10 @@
       "birth_date": "1977-06-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "spascual@congreso.es spascual@podemos.info"
-        },
-        {
           "type": "twitter",
           "value": "pascualsergio"
         }
       ],
-      "email": "spascual@congreso.es spascual@podemos.info",
       "family_name": "Pascual Peña",
       "gender": "male",
       "given_name": "Sergio",
@@ -39040,15 +37080,10 @@
       "birth_date": "1964-11-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "a.delasheras@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AdelasherasL"
         }
       ],
-      "email": "a.delasheras@congreso.es",
       "family_name": "De las Heras Ladera",
       "gender": "female",
       "given_name": "Ascensión",
@@ -39100,15 +37135,10 @@
       "birth_date": "1979-03-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "adriana.lastra@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Adrilastra"
         }
       ],
-      "email": "adriana.lastra@congreso.es",
       "family_name": "Lastra Fernández",
       "gender": "female",
       "given_name": "Adriana",
@@ -39175,15 +37205,10 @@
       "birth_date": "1960-02-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pilar.rojo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "rojonoguera"
         }
       ],
-      "email": "pilar.rojo@congreso.es",
       "family_name": "Rojo Noguera",
       "gender": "female",
       "given_name": "Pilar",
@@ -39238,15 +37263,10 @@
       "birth_date": "1976-12-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pablo.martin@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "pablomartin666"
         }
       ],
-      "email": "pablo.martin@congreso.es",
       "family_name": "Martín Peré",
       "gender": "male",
       "given_name": "Pablo",
@@ -39330,13 +37350,6 @@
     },
     {
       "birth_date": "1945-07-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manuel.chaves@congreso.es"
-        }
-      ],
-      "email": "manuel.chaves@congreso.es",
       "family_name": "Chaves González",
       "gender": "male",
       "given_name": "Manuel María",
@@ -39605,15 +37618,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "josemariaalonsoruiz@hotmail.com"
-        },
-        {
           "type": "twitter",
           "value": "chemaalonsor"
         }
       ],
-      "email": "josemariaalonsoruiz@hotmail.com",
       "family_name": "Alonso Ruiz",
       "gender": "male",
       "given_name": "José María",
@@ -39654,15 +37662,10 @@
       "birth_date": "1970-12-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gabriel.echavarri@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "GEchavarri"
         }
       ],
-      "email": "gabriel.echavarri@congreso.es",
       "family_name": "Echávarri Fernández",
       "gender": "male",
       "given_name": "Gabriel",
@@ -39739,15 +37742,10 @@
       "birth_date": "1977-01-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "german.rodriguez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "grman_rodriguez"
         }
       ],
-      "email": "german.rodriguez@congreso.es",
       "family_name": "Rodríguez Sánchez",
       "gender": "male",
       "given_name": "Germán",
@@ -39929,15 +37927,10 @@
       "birth_date": "1958-08-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "meri.pita@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "meripita44"
         }
       ],
-      "email": "meri.pita@congreso.es",
       "family_name": "Pita Cárdenes",
       "gender": "female",
       "given_name": "María del Carmen",
@@ -39988,15 +37981,10 @@
       "birth_date": "1963-07-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "a.such.botella@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "tonisuch"
         }
       ],
-      "email": "a.such.botella@gmail.com",
       "family_name": "Such Botella",
       "gender": "male",
       "given_name": "Antoni",
@@ -40180,15 +38168,10 @@
       "birth_date": "1979-06-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "david.bruzos@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "david_bruzos"
         }
       ],
-      "email": "david.bruzos@congreso.es",
       "family_name": "Bruzos Higuero",
       "gender": "male",
       "given_name": "David",
@@ -40232,15 +38215,10 @@
       "birth_date": "1979-04-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jose.cano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "pepecanonucia"
         }
       ],
-      "email": "jose.cano@congreso.es",
       "family_name": "Cano Fuster",
       "gender": "male",
       "given_name": "José",
@@ -40285,15 +38263,10 @@
       "birth_date": "1988-02-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "irenemontero@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Irene_Montero_"
         }
       ],
-      "email": "irenemontero@congreso.es",
       "family_name": "Montero Gil",
       "gender": "female",
       "given_name": "Irene María",
@@ -40376,15 +38349,10 @@
       "birth_date": "1981-06-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "isabel.rodriguez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "isabelrguez"
         }
       ],
-      "email": "isabel.rodriguez@congreso.es",
       "family_name": "Rodríguez García",
       "gender": "female",
       "given_name": "Isabel",
@@ -40466,15 +38434,10 @@
       "birth_date": "1958-01-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "inma.rodriguezpinero@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "RodriguezPinero"
         }
       ],
-      "email": "inma.rodriguezpinero@congreso.es",
       "family_name": "Rodríguez-Piñero Fernández",
       "gender": "female",
       "given_name": "Inmaculada",
@@ -40598,15 +38561,10 @@
       "birth_date": "1969-05-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ana.alos@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "AnaAlos"
         }
       ],
-      "email": "ana.alos@congreso.es",
       "family_name": "Alós López",
       "gender": "female",
       "given_name": "Ana Isabel",
@@ -40699,15 +38657,10 @@
       "birth_date": "1977-08-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "iker.urbina@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ikerurbina1"
         }
       ],
-      "email": "iker.urbina@congreso.es",
       "family_name": "Urbina Fernández",
       "gender": "male",
       "given_name": "Iker",
@@ -40755,15 +38708,10 @@
       "birth_date": "1953-02-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francisco.molinero@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Francis41334448"
         }
       ],
-      "email": "francisco.molinero@congreso.es",
       "family_name": "Molinero Hoyos",
       "gender": "male",
       "given_name": "Francisco",
@@ -40812,15 +38760,10 @@
       "birth_date": "1973-05-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "patricia.blanquer@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Patri_Blanquer"
         }
       ],
-      "email": "patricia.blanquer@congreso.es",
       "family_name": "Blanquer Alcaraz",
       "gender": "female",
       "given_name": "Patricia",
@@ -40881,13 +38824,6 @@
       "sort_name": "Blanquer Alcaraz, Patricia"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "agueda.fumero@congreso.es"
-        }
-      ],
-      "email": "agueda.fumero@congreso.es",
       "family_name": "Fumero Roque",
       "gender": "female",
       "given_name": "Águeda",
@@ -40916,15 +38852,10 @@
       "birth_date": "1951-02-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "cunillera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "tcunillera"
         }
       ],
-      "email": "cunillera@congreso.es",
       "family_name": "Cunillera Mestres",
       "gender": "female",
       "given_name": "Teresa",
@@ -40988,15 +38919,10 @@
       "birth_date": "1972-10-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "elena.alvarez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "elenaalvsimon"
         }
       ],
-      "email": "elena.alvarez@congreso.es",
       "family_name": "Álvarez Simón",
       "gender": "female",
       "given_name": "María Elena",
@@ -41027,13 +38953,6 @@
     },
     {
       "birth_date": "1956-08-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pmatos@congreso.es"
-        }
-      ],
-      "email": "pmatos@congreso.es",
       "family_name": "Matos Mascareño",
       "gender": "male",
       "given_name": "Pablo",
@@ -41091,15 +39010,10 @@
       "birth_date": "1983-05-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "antonio.roldan@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "toniroldanm"
         }
       ],
-      "email": "antonio.roldan@congreso.es",
       "family_name": "Roldán Monés",
       "gender": "male",
       "given_name": "Antonio",
@@ -41166,15 +39080,10 @@
       "birth_date": "1975-06-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maripaz.delmoral@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "paz_moral"
         }
       ],
-      "email": "maripaz.delmoral@congreso.es",
       "family_name": "Del Moral Milla",
       "gender": "female",
       "given_name": "María de la Paz",
@@ -41223,15 +39132,10 @@
       "birth_date": "1947-05-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "victor.morlan@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "VictorMorlan"
         }
       ],
-      "email": "victor.morlan@congreso.es",
       "family_name": "Morlán Gracia",
       "gender": "male",
       "given_name": "Víctor",
@@ -41284,15 +39188,10 @@
       "birth_date": "1979-07-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carmen.cuello@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "CarmenRCuello"
         }
       ],
-      "email": "carmen.cuello@congreso.es",
       "family_name": "Cuello Pérez",
       "gender": "female",
       "given_name": "Carmen Rocío",
@@ -41344,15 +39243,10 @@
       "birth_date": "1979-03-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jon.inarritu@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JonInarritu"
         }
       ],
-      "email": "jon.inarritu@congreso.es",
       "family_name": "Iñarritu García",
       "gender": "male",
       "given_name": "Jon",
@@ -41656,15 +39550,10 @@
       "birth_date": "1988-10-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alexandra.fernandez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "aKollontai"
         }
       ],
-      "email": "alexandra.fernandez@congreso.es",
       "family_name": "Fernández Gómez",
       "gender": "female",
       "given_name": "Alexandra",
@@ -41755,15 +39644,10 @@
       "birth_date": "1964-11-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "chiquillo.barber@congreso.es chiquillocamps@telefonica.net"
-        },
-        {
           "type": "twitter",
           "value": "ChiquilloBarber"
         }
       ],
-      "email": "chiquillo.barber@congreso.es chiquillocamps@telefonica.net",
       "family_name": "Chiquillo Barber",
       "gender": "male",
       "given_name": "José María",
@@ -41858,15 +39742,10 @@
       "birth_date": "1963-01-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "puerto.gallego@yahoo.es"
-        },
-        {
           "type": "twitter",
           "value": "Puerto_Gallego"
         }
       ],
-      "email": "puerto.gallego@yahoo.es",
       "family_name": "Gallego Arriola",
       "gender": "female",
       "given_name": "María del Puerto",
@@ -41923,15 +39802,10 @@
       "birth_date": "1958-02-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "celso.delgado@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "CelsoDelgadoOU"
         }
       ],
-      "email": "celso.delgado@congreso.es",
       "family_name": "Delgado Arce",
       "gender": "male",
       "given_name": "Celso Luis",
@@ -42006,15 +39880,10 @@
       "birth_date": "1963-04-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "arenales.serrano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "SerranoArenales"
         }
       ],
-      "email": "arenales.serrano@congreso.es",
       "family_name": "Serrano Argüello",
       "gender": "female",
       "given_name": "María Arenales",
@@ -42070,13 +39939,6 @@
     },
     {
       "birth_date": "1963-03-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pedromg@congreso.es"
-        }
-      ],
-      "email": "pedromg@congreso.es",
       "family_name": "Muñoz González",
       "gender": "male",
       "given_name": "Pedro José",
@@ -42146,15 +40008,10 @@
       "birth_date": "1981-12-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alberto.rodriguez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Alber_Canarias"
         }
       ],
-      "email": "alberto.rodriguez@congreso.es",
       "family_name": "Rodríguez Rodríguez",
       "gender": "male",
       "given_name": "Alberto",
@@ -42233,15 +40090,10 @@
       "birth_date": "1964",
       "contact_details": [
         {
-          "type": "email",
-          "value": "conrado.escobar@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "conrado_escobar"
         }
       ],
-      "email": "conrado.escobar@congreso.es",
       "family_name": "Escobar Las Heras",
       "gender": "male",
       "given_name": "Conrado",
@@ -42288,15 +40140,10 @@
       "birth_date": "1951-01-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "eesteve@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "eesteveortega"
         }
       ],
-      "email": "eesteve@congreso.es",
       "family_name": "Esteve Ortega",
       "gender": "female",
       "given_name": "Esperança",
@@ -42549,13 +40396,6 @@
       "sort_name": "Ruiz-Gallardón Jiménez, Alberto"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jesus.caicedo@congreso.es"
-        }
-      ],
-      "email": "jesus.caicedo@congreso.es",
       "family_name": "Caicedo Bernabé",
       "gender": "male",
       "given_name": "Jesús",
@@ -42593,15 +40433,10 @@
       "birth_date": "1952-07-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ana.surra@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "anasurra"
         }
       ],
-      "email": "ana.surra@congreso.es",
       "family_name": "Surra Spadea",
       "gender": "female",
       "given_name": "Ana María",
@@ -42732,15 +40567,10 @@
       "birth_date": "1985-10-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "noelia.vera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "VeraNoelia"
         }
       ],
-      "email": "noelia.vera@congreso.es",
       "family_name": "Vera Ruiz-Herrera",
       "gender": "female",
       "given_name": "Noelia",
@@ -42812,15 +40642,10 @@
       "birth_date": "1984-02-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gonzalo.palacin@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "gpalacinguarne"
         }
       ],
-      "email": "gonzalo.palacin@congreso.es",
       "family_name": "Palacín Guarné",
       "gender": "male",
       "given_name": "Gonzalo",
@@ -42866,13 +40691,6 @@
     },
     {
       "birth_date": "1959-12-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jmatari@congreso.es"
-        }
-      ],
-      "email": "jmatari@congreso.es",
       "family_name": "Matarí Sáez",
       "gender": "male",
       "given_name": "Juan José",
@@ -42983,15 +40801,10 @@
       "birth_date": "1971-05-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pilar.serrano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "pilar_serrano_"
         }
       ],
-      "email": "pilar.serrano@congreso.es",
       "family_name": "Serrano Boigas",
       "gender": "female",
       "given_name": "Pilar Auxiliadora",
@@ -43024,15 +40837,10 @@
       "birth_date": "1956-08-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ricardo.garcia.mira@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "fargmira"
         }
       ],
-      "email": "ricardo.garcia.mira@congreso.es",
       "family_name": "García Mira",
       "gender": "male",
       "given_name": "Ricardo Antonio",
@@ -43107,15 +40915,10 @@
       "birth_date": "1964-07-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carles.campuzano@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "carlescampuzano"
         }
       ],
-      "email": "carles.campuzano@gmail.com",
       "family_name": "Campuzano i Canadés",
       "gender": "male",
       "given_name": "Carles",
@@ -43187,15 +40990,10 @@
       "birth_date": "1951-07-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "secretaria.general@psoe.es"
-        },
-        {
           "type": "twitter",
           "value": "_Rubalcaba_"
         }
       ],
-      "email": "secretaria.general@psoe.es",
       "family_name": "Pérez Rubalcaba",
       "gender": "male",
       "given_name": "Alfredo",
@@ -43434,13 +41232,6 @@
       "sort_name": "Pérez Rubalcaba, Alfredo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "felicidad.rodriguez@congreso.es"
-        }
-      ],
-      "email": "felicidad.rodriguez@congreso.es",
       "family_name": "Rodríguez Sánchez",
       "gender": "female",
       "given_name": "María Felicidad",
@@ -43619,15 +41410,10 @@
       "birth_date": "1963-01-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "silvia.valmana@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "svalmana"
         }
       ],
-      "email": "silvia.valmana@congreso.es",
       "family_name": "Valmaña Ochaíta",
       "gender": "female",
       "given_name": "Silvia",
@@ -43741,15 +41527,10 @@
       "birth_date": "1982-02-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gabriel.rufian@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "gabrielrufian"
         }
       ],
-      "email": "gabriel.rufian@congreso.es",
       "family_name": "Rufián Romero",
       "gender": "male",
       "given_name": "Gabriel",
@@ -44124,13 +41905,6 @@
     },
     {
       "birth_date": "1958-06-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "juan.juncal@congreso.es juanjuncal@juanjuncal.com"
-        }
-      ],
-      "email": "juan.juncal@congreso.es juanjuncal@juanjuncal.com",
       "family_name": "Juncal Rodríguez",
       "gender": "male",
       "given_name": "Juan Manuel",
@@ -44206,13 +41980,6 @@
     },
     {
       "birth_date": "1976-06-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "daniel.serrano@congreso.es"
-        }
-      ],
-      "email": "daniel.serrano@congreso.es",
       "family_name": "Serrano Coronado",
       "gender": "male",
       "given_name": "Daniel",
@@ -44251,15 +42018,10 @@
       "birth_date": "1970-07-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.carreno@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Carre1Ascension"
         }
       ],
-      "email": "maria.carreno@congreso.es",
       "family_name": "Carreño Fernández",
       "gender": "female",
       "given_name": "María Ascensión",
@@ -44312,15 +42074,10 @@
       "birth_date": "1968-01-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "beitialarrangoitia@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "marianbeitia"
         }
       ],
-      "email": "beitialarrangoitia@congreso.es",
       "family_name": "Beitialarrangoitia Lizarralde",
       "gender": "female",
       "given_name": "Marian",
@@ -44391,15 +42148,10 @@
       "birth_date": "1989-11-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pablo.yanez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "yanez_pablo"
         }
       ],
-      "email": "pablo.yanez@congreso.es",
       "family_name": "Yáñez González",
       "gender": "male",
       "given_name": "Pablo",
@@ -44533,15 +42285,10 @@
       "birth_date": "1976-06-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "saul.ramirez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "saulCiudadanos"
         }
       ],
-      "email": "saul.ramirez@congreso.es",
       "family_name": "Ramírez Freire",
       "gender": "male",
       "given_name": "Saúl",
@@ -44589,15 +42336,10 @@
       "birth_date": "1964-07-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "uxue.barkos@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "uxuebarkos"
         }
       ],
-      "email": "uxue.barkos@congreso.es",
       "family_name": "Barkos Berruezo",
       "gender": "female",
       "given_name": "Uxue",
@@ -44741,15 +42483,10 @@
       "birth_date": "1964-02-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "miguel.gutierrez@congreso.es delegadocs.madrid@ciudadanos-cs.org"
-        },
-        {
           "type": "twitter",
           "value": "MGutierrezCs"
         }
       ],
-      "email": "miguel.gutierrez@congreso.es delegadocs.madrid@ciudadanos-cs.org",
       "family_name": "Gutiérrez Vivas",
       "gender": "male",
       "given_name": "Miguel Ángel",
@@ -44797,15 +42534,10 @@
       "birth_date": "1979-04-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "tania.sanchez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "Ainhat"
         }
       ],
-      "email": "tania.sanchez@congreso.es",
       "family_name": "Sánchez Melero",
       "gender": "female",
       "given_name": "Tania",
@@ -44873,15 +42605,10 @@
       "birth_date": "1984-05-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "hoyobelen@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "BelenHoyo"
         }
       ],
-      "email": "hoyobelen@gmail.com",
       "family_name": "Hoyo Juliá",
       "gender": "female",
       "given_name": "Belén",
@@ -44962,15 +42689,10 @@
       "birth_date": "1967-12-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "susana.lopezares@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "susanalopezares"
         }
       ],
-      "email": "susana.lopezares@congreso.es",
       "family_name": "López Ares",
       "gender": "female",
       "given_name": "Susana",
@@ -45042,15 +42764,10 @@
       "birth_date": "1963-09-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juantxo.uralde@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "juralde"
         }
       ],
-      "email": "juantxo.uralde@congreso.es",
       "family_name": "López de Uralde Garmendia",
       "gender": "male",
       "given_name": "Juan Antonio",
@@ -45130,15 +42847,10 @@
       "birth_date": "1963-12-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "chesus.yuste@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ChesusYuste"
         }
       ],
-      "email": "chesus.yuste@congreso.es",
       "family_name": "Yuste Cabello",
       "gender": "male",
       "given_name": "Chesús",
@@ -45194,15 +42906,10 @@
       "birth_date": "1968-07-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "josep.vendrell@congreso.es jvendrell@iniciativa.cat"
-        },
-        {
           "type": "twitter",
           "value": "vendrellj"
         }
       ],
-      "email": "josep.vendrell@congreso.es jvendrell@iniciativa.cat",
       "family_name": "Vendrell Gardeñes",
       "gender": "male",
       "given_name": "Josep",
@@ -45324,15 +43031,10 @@
       "birth_date": "1964-08-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joanj.nuet@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "NUET"
         }
       ],
-      "email": "joanj.nuet@congreso.es",
       "family_name": "Nuet Pujals",
       "gender": "male",
       "given_name": "Joan Josep",
@@ -45591,10 +43293,6 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "irene.moreno@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "IreneMorenopp"
         },
@@ -45603,7 +43301,6 @@
           "value": "irene_morenof"
         }
       ],
-      "email": "irene.moreno@congreso.es",
       "family_name": "Moreno Felipe",
       "gender": "female",
       "given_name": "Irene",
@@ -45648,15 +43345,10 @@
       "birth_date": "1975-04-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "laura.seara@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "LauraSeara"
         }
       ],
-      "email": "laura.seara@congreso.es",
       "family_name": "Seara Sobrado",
       "gender": "female",
       "given_name": "Laura Carmen",
@@ -45728,13 +43420,6 @@
     },
     {
       "birth_date": "1965-03-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "inmaculada.guaita@congreso.es"
-        }
-      ],
-      "email": "inmaculada.guaita@congreso.es",
       "family_name": "Guaita Vañó",
       "gender": "female",
       "given_name": "Inmaculada",
@@ -45774,13 +43459,6 @@
       "sort_name": "Guaita Vañó, Inmaculada"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "beatriz.rsalmones@congreso.es"
-        }
-      ],
-      "email": "beatriz.rsalmones@congreso.es",
       "family_name": "Rodríguez-Salmones Cabeza",
       "gender": "female",
       "given_name": "Beatriz",
@@ -45963,13 +43641,6 @@
       "sort_name": "Asian González, Matilde Pastora"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "https://twitter.com/@JM_Beneyto"
-        }
-      ],
-      "email": "https://twitter.com/@JM_Beneyto",
       "family_name": "Beneyto Pérez",
       "gender": "male",
       "given_name": "José María",
@@ -45999,13 +43670,6 @@
       "sort_name": "Beneyto Pérez, José María"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maite.aristegi@congreso.es"
-        }
-      ],
-      "email": "maite.aristegi@congreso.es",
       "family_name": "Ariztegui Larrañaga",
       "gender": "female",
       "given_name": "Maite",
@@ -46095,15 +43759,10 @@
       "birth_date": "1961-01-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "antonio.hurtado@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "antoniohurtado"
         }
       ],
-      "email": "antonio.hurtado@congreso.es",
       "family_name": "Hurtado Zurera",
       "gender": "male",
       "given_name": "Antonio",
@@ -46159,15 +43818,10 @@
       "birth_date": "1954-01-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joan.oloriz@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "OlorizJoan"
         }
       ],
-      "email": "joan.oloriz@congreso.es",
       "family_name": "Olòriz Serra",
       "gender": "male",
       "given_name": "Joan Baptista",
@@ -46243,15 +43897,10 @@
       "birth_date": "1962-01-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "felix.lavilla@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "felixlavilla"
         }
       ],
-      "email": "felix.lavilla@congreso.es",
       "family_name": "Lavilla Martínez",
       "gender": "male",
       "given_name": "Félix",
@@ -46299,15 +43948,10 @@
       "birth_date": "1968-07-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "josemanuel.villegas@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "CiudadanoVille"
         }
       ],
-      "email": "josemanuel.villegas@congreso.es",
       "family_name": "Villegas Pérez",
       "gender": "male",
       "given_name": "José Manuel",
@@ -46381,15 +44025,10 @@
       "birth_date": "1975-03-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "cesar.ramos@congreso.es cesar@cesarramos.es"
-        },
-        {
           "type": "twitter",
           "value": "CesarJRamos"
         }
       ],
-      "email": "cesar.ramos@congreso.es cesar@cesarramos.es",
       "family_name": "Ramos Esteban",
       "gender": "male",
       "given_name": "César Joaquín",
@@ -46468,15 +44107,10 @@
       "birth_date": "1960-08-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rosana.pastor@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "rosana_pastor"
         }
       ],
-      "email": "rosana.pastor@congreso.es",
       "family_name": "Pastor Muñoz",
       "gender": "female",
       "given_name": "Rosana",
@@ -46644,15 +44278,10 @@
       "birth_date": "1949-08-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carles.paramo@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "carlesparamo"
         }
       ],
-      "email": "carles.paramo@congreso.es",
       "family_name": "Pàramo i Ponsetí",
       "gender": "male",
       "given_name": "Carles",
@@ -46719,15 +44348,10 @@
       "birth_date": "1977-08-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mar.garciapuig@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "margpuig"
         }
       ],
-      "email": "mar.garciapuig@congreso.es",
       "family_name": "García Puig",
       "gender": "female",
       "given_name": "María del Mar",
@@ -46845,15 +44469,10 @@
       "birth_date": "1974-06-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "montse.surroca@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "montsesurroca"
         }
       ],
-      "email": "montse.surroca@congreso.es",
       "family_name": "Surroca i Comas",
       "gender": "female",
       "given_name": "Montserrat",
@@ -46909,15 +44528,10 @@
       "birth_date": "1979-03-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "angel.gonzalez@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "angeluisgonza"
         }
       ],
-      "email": "angel.gonzalez@congreso.es",
       "family_name": "González Muñoz",
       "gender": "male",
       "given_name": "Ángel Luis",
@@ -46966,15 +44580,10 @@
       "birth_date": "1966-11-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "elvira.ramon@psoe"
-        },
-        {
           "type": "twitter",
           "value": "ElviraRamon"
         }
       ],
-      "email": "elvira.ramon@psoe",
       "family_name": "Ramón Utrabo",
       "gender": "female",
       "given_name": "Elvira",
@@ -47033,15 +44642,10 @@
       "birth_date": "1949-07-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carlos.pracht@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "CarlosPracht"
         }
       ],
-      "email": "carlos.pracht@congreso.es",
       "family_name": "Pracht Ferrer",
       "gender": "male",
       "given_name": "Carlos",
@@ -47078,15 +44682,10 @@
       "birth_date": "1977-06-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "zcantera@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "ZaidaCantera"
         }
       ],
-      "email": "zcantera@congreso.es",
       "family_name": "Cantera de Castro",
       "gender": "female",
       "given_name": "Zaida",
@@ -47153,15 +44752,10 @@
       "birth_date": "1961-01-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jm.garciaurbano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "JMGarciaUrbano"
         }
       ],
-      "email": "jm.garciaurbano@congreso.es",
       "family_name": "García Urbano",
       "gender": "male",
       "given_name": "José María",
@@ -47206,15 +44800,10 @@
       "birth_date": "1961-10-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sebastian.franquis@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "chanofranquis"
         }
       ],
-      "email": "sebastian.franquis@congreso.es",
       "family_name": "Franquis Vera",
       "gender": "male",
       "given_name": "Sebastián",
