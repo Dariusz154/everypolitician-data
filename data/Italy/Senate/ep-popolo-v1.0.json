@@ -5,13 +5,6 @@
   "persons": [
     {
       "birth_date": "1964-05-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pasquale.sollo@senato.it"
-        }
-      ],
-      "email": "pasquale.sollo@senato.it",
       "family_name": "SOLLO",
       "gender": "male",
       "given_name": "Pasquale",
@@ -63,15 +56,10 @@
       "birth_date": "1962-06-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fabiola.anitori@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "fabiolaanitori"
         }
       ],
-      "email": "fabiola.anitori@senato.it",
       "family_name": "Anitori",
       "gender": "female",
       "given_name": "Fabiola",
@@ -127,15 +115,10 @@
       "birth_date": "1971-06-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "giuseppe.decristofaro@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "pepdecr"
         }
       ],
-      "email": "giuseppe.decristofaro@senato.it",
       "family_name": "DE CRISTOFARO",
       "gender": "male",
       "given_name": "Giuseppe",
@@ -200,15 +183,10 @@
       "birth_date": "1958-07-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francesco.giacobbe@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "sengiacobbe"
         }
       ],
-      "email": "francesco.giacobbe@senato.it",
       "family_name": "Giacobbe",
       "gender": "male",
       "given_name": "Francesco",
@@ -268,15 +246,10 @@
       "birth_date": "1968-11-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fabrizio.bocchino@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "fbocchino"
         }
       ],
-      "email": "fabrizio.bocchino@senato.it",
       "family_name": "Bocchino",
       "gender": "male",
       "given_name": "Fabrizio",
@@ -348,15 +321,10 @@
       "birth_date": "1960-07-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marcello.gualdani@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "GualdaniMarcell"
         }
       ],
-      "email": "marcello.gualdani@senato.it",
       "family_name": "Gualdani",
       "gender": "male",
       "given_name": "Marcello",
@@ -467,13 +435,6 @@
     },
     {
       "birth_date": "1972-09-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "giuseppe.vacciano@senato.it"
-        }
-      ],
-      "email": "giuseppe.vacciano@senato.it",
       "family_name": "Vacciano",
       "gender": "male",
       "given_name": "Giuseppe",
@@ -517,19 +478,10 @@
       "birth_date": "1972-04-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "angelicasaggesepd@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "segreteria.saggese@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "asagge"
         }
       ],
-      "email": "angelicasaggesepd@gmail.com",
       "family_name": "SAGGESE",
       "gender": "female",
       "given_name": "Angelica",
@@ -577,15 +529,10 @@
       "birth_date": "1951-12-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "segreteriadali@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "daliantonio"
         }
       ],
-      "email": "segreteriadali@gmail.com",
       "family_name": "D'ALI'",
       "gender": "male",
       "given_name": "Antonio",
@@ -649,15 +596,10 @@
       "birth_date": "1960-11-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stefania.giannini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "SteGiannini"
         }
       ],
-      "email": "stefania.giannini@senato.it",
       "family_name": "Giannini",
       "gender": "female",
       "given_name": "Stefania",
@@ -782,19 +724,10 @@
       "birth_date": "1962-08-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "segreteriamoscardelli@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "claudio.moscardelli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "ClaMoscardelli"
         }
       ],
-      "email": "segreteriamoscardelli@gmail.com",
       "family_name": "MOSCARDELLI",
       "gender": "male",
       "given_name": "Claudio",
@@ -850,15 +783,10 @@
       "birth_date": "1952-05-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "emma.fattorini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "EmmaFattorini"
         }
       ],
-      "email": "emma.fattorini@senato.it",
       "family_name": "Fattorini",
       "gender": "female",
       "given_name": "Emma",
@@ -955,13 +883,6 @@
     },
     {
       "birth_date": "1950-10-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ulisse.digiacomo@virgilio.it"
-        }
-      ],
-      "email": "ulisse.digiacomo@virgilio.it",
       "family_name": "Di Giacomo",
       "gender": "male",
       "given_name": "Ulisse",
@@ -1012,15 +933,10 @@
       "birth_date": "1969-02-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alessandra.bencini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "alessandrabenci"
         }
       ],
-      "email": "alessandra.bencini@senato.it",
       "family_name": "Bencini",
       "gender": "female",
       "given_name": "Alessandra",
@@ -1076,19 +992,10 @@
       "birth_date": "1960-02-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rosaria.capacchione@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "rosariacapacchionepd@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "RosCapacchione"
         }
       ],
-      "email": "rosaria.capacchione@senato.it",
       "family_name": "Capacchione",
       "gender": "female",
       "given_name": "Rosaria",
@@ -1165,13 +1072,6 @@
     },
     {
       "birth_date": "1949-01-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eva.longo@senato.it"
-        }
-      ],
-      "email": "eva.longo@senato.it",
       "family_name": "LONGO",
       "gender": "female",
       "given_name": "Eva",
@@ -1219,10 +1119,6 @@
       "birth_date": "1969-03-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paola.taverna@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "PDedde"
         },
@@ -1231,7 +1127,6 @@
           "value": "paolatavernam5s"
         }
       ],
-      "email": "paola.taverna@senato.it",
       "family_name": "Taverna",
       "gender": "female",
       "given_name": "Paola",
@@ -1296,17 +1191,6 @@
     },
     {
       "birth_date": "1961-01-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ZELLER_K@camera.it"
-        },
-        {
-          "type": "email",
-          "value": "karl.zeller@senato.it"
-        }
-      ],
-      "email": "ZELLER_K@camera.it",
       "family_name": "ZELLER",
       "gender": "male",
       "given_name": "Karl",
@@ -1399,13 +1283,6 @@
     },
     {
       "birth_date": "1957-03-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "giuseppe.compagnone@senato.it"
-        }
-      ],
-      "email": "giuseppe.compagnone@senato.it",
       "family_name": "Compagnone",
       "gender": "male",
       "given_name": "Giuseppe",
@@ -1449,15 +1326,10 @@
       "birth_date": "1964-11-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francesco.campanella@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "cicci1"
         }
       ],
-      "email": "francesco.campanella@senato.it",
       "family_name": "Campanella",
       "gender": "male",
       "given_name": "Francesco",
@@ -2080,13 +1952,6 @@
     },
     {
       "birth_date": "1951-01-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "claudio.martini@senato.it"
-        }
-      ],
-      "email": "claudio.martini@senato.it",
       "family_name": "MARTINI",
       "gender": "male",
       "given_name": "Claudio",
@@ -2167,15 +2032,10 @@
       "birth_date": "1956-07-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lucrezia.ricchiuti@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LucrezRicchiuti"
         }
       ],
-      "email": "lucrezia.ricchiuti@senato.it",
       "family_name": "RICCHIUTI",
       "gender": "female",
       "given_name": "Lukrécia",
@@ -2223,15 +2083,10 @@
       "birth_date": "1957-11-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "salvatore.torrisi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "SalvoTorrisii"
         }
       ],
-      "email": "salvatore.torrisi@senato.it",
       "family_name": "TORRISI",
       "gender": "male",
       "given_name": "Salvatore",
@@ -2295,23 +2150,10 @@
       "birth_date": "1960-04-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "quagliariello_g@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "gaetano@gaetanoquagliariello.it"
-        },
-        {
-          "type": "email",
-          "value": "gaetano.quagliariello@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "QuagliarielloG"
         }
       ],
-      "email": "quagliariello_g@posta.senato.it",
       "family_name": "Quagliariello",
       "gender": "male",
       "given_name": "Gaetano",
@@ -2426,15 +2268,10 @@
       "birth_date": "1947-12-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "chiti_v@posta.senato.it"
-        },
-        {
           "type": "twitter",
           "value": "VanninoChiti"
         }
       ],
-      "email": "chiti_v@posta.senato.it",
       "family_name": "CHITI",
       "gender": "male",
       "given_name": "Vannino",
@@ -2552,13 +2389,6 @@
     },
     {
       "birth_date": "1951-05-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "giuseppe.ruvolo@senato.it"
-        }
-      ],
-      "email": "giuseppe.ruvolo@senato.it",
       "family_name": "RUVOLO",
       "gender": "male",
       "given_name": "Giuseppe",
@@ -2614,15 +2444,10 @@
       "birth_date": "1962-12-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francesco.scalia@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "f_scalia"
         }
       ],
-      "email": "francesco.scalia@senato.it",
       "family_name": "SCALIA",
       "gender": "male",
       "given_name": "Francesco",
@@ -2679,17 +2504,6 @@
     },
     {
       "birth_date": "1959-12-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ghedini_n@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "niccolo.ghedini@senato.it"
-        }
-      ],
-      "email": "ghedini_n@posta.senato.it",
       "family_name": "GHEDINI",
       "gender": "male",
       "given_name": "Niccolò",
@@ -2752,15 +2566,10 @@
       "birth_date": "1970-06-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gianluca.castaldi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "gianlucavasto"
         }
       ],
-      "email": "gianluca.castaldi@senato.it",
       "family_name": "Castaldi",
       "gender": "male",
       "given_name": "Gianluca",
@@ -2866,19 +2675,10 @@
       "birth_date": "1958-09-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "domenico.desiano@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "domenico@desiano.it"
-        },
-        {
           "type": "twitter",
           "value": "DomenicoDeSiano"
         }
       ],
-      "email": "domenico.desiano@senato.it",
       "family_name": "DE SIANO",
       "gender": "male",
       "given_name": "Domenico",
@@ -2932,13 +2732,6 @@
     },
     {
       "birth_date": "1971-10-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manuela.serra@senato.it"
-        }
-      ],
-      "email": "manuela.serra@senato.it",
       "family_name": "Serra",
       "gender": "female",
       "given_name": "Manuela",
@@ -2986,15 +2779,10 @@
       "birth_date": "1967-01-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.mussini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "MariaMussini"
         }
       ],
-      "email": "maria.mussini@senato.it",
       "family_name": "Mussini",
       "gender": "female",
       "given_name": "Maria",
@@ -3050,15 +2838,10 @@
       "birth_date": "1960-01-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "daniela.donno@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "DanielaDonno"
         }
       ],
-      "email": "daniela.donno@senato.it",
       "family_name": "Donno",
       "gender": "female",
       "given_name": "Daniela",
@@ -3117,15 +2900,10 @@
       "birth_date": "1963-05-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "erica.dadda@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "ericadadda"
         }
       ],
-      "email": "erica.dadda@senato.it",
       "family_name": "D'ADDA",
       "gender": "female",
       "given_name": "Erica",
@@ -3184,15 +2962,10 @@
       "birth_date": "1968-07-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paolo.galimberti@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "paogalimberti"
         }
       ],
-      "email": "paolo.galimberti@senato.it",
       "family_name": "Galimberti",
       "gender": "male",
       "given_name": "Paolo",
@@ -3251,15 +3024,10 @@
       "birth_date": "1962-08-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senatoreamandelli@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "mandelli_andrea"
         }
       ],
-      "email": "senatoreamandelli@gmail.com",
       "family_name": "MANDELLI",
       "gender": "male",
       "given_name": "Andrea",
@@ -3303,19 +3071,10 @@
       "birth_date": "1949-04-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "viceconte_g@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "guido.viceconte@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "guidoviceconte"
         }
       ],
-      "email": "viceconte_g@posta.senato.it",
       "family_name": "VICECONTE",
       "gender": "male",
       "given_name": "Guido",
@@ -3375,19 +3134,10 @@
       "birth_date": "1968-02-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "enrico.cappelletti@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "cappelletti.senato@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "e_cappelletti"
         }
       ],
-      "email": "enrico.cappelletti@senato.it",
       "family_name": "Cappelletti",
       "gender": "male",
       "given_name": "Enrico",
@@ -3450,15 +3200,10 @@
       "birth_date": "1958-11-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "giuseppefrancesco.marinello@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "GiuseMarinello3"
         }
       ],
-      "email": "giuseppefrancesco.marinello@senato.it",
       "family_name": "MARINELLO",
       "gender": "male",
       "given_name": "Giuseppe",
@@ -3502,15 +3247,10 @@
       "birth_date": "1967-06-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marco.scibona@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "loscibo"
         }
       ],
-      "email": "marco.scibona@senato.it",
       "family_name": "Scibona",
       "gender": "male",
       "given_name": "Marco",
@@ -3569,19 +3309,10 @@
       "birth_date": "1956-02-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "info@lodovicosonego.it"
-        },
-        {
-          "type": "email",
-          "value": "lodovico.sonego@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LodovicoSonego"
         }
       ],
-      "email": "info@lodovicosonego.it",
       "family_name": "Sonego",
       "gender": "male",
       "given_name": "Lodovico",
@@ -3634,17 +3365,6 @@
     },
     {
       "birth_date": "1923-09-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zavoli_s@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "sergio.zavoli@senato.it"
-        }
-      ],
-      "email": "zavoli_s@posta.senato.it",
       "family_name": "ZAVOLI",
       "gender": "male",
       "given_name": "Sergio",
@@ -3763,15 +3483,10 @@
       "birth_date": "1954-11-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paola.pelino@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "PaolaPelino"
         }
       ],
-      "email": "paola.pelino@senato.it",
       "family_name": "PELINO",
       "gender": "female",
       "given_name": "Paola",
@@ -3834,15 +3549,10 @@
       "birth_date": "1964-06-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rosettaenza.blundo@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "enzablundo1"
         }
       ],
-      "email": "rosettaenza.blundo@senato.it",
       "family_name": "Blundo",
       "gender": "female",
       "given_name": "Enza",
@@ -3903,13 +3613,6 @@
     },
     {
       "birth_date": "1967-07-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ignangioni@tiscali.it"
-        }
-      ],
-      "email": "ignangioni@tiscali.it",
       "family_name": "Angioni",
       "gender": "male",
       "given_name": "Ignazio",
@@ -3960,15 +3663,10 @@
       "birth_date": "1945-11-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "claudio.zin@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "ZinClaudio"
         }
       ],
-      "email": "claudio.zin@senato.it",
       "family_name": "Zin",
       "gender": "male",
       "given_name": "Klaudiusz",
@@ -4035,15 +3733,10 @@
       "birth_date": "1972-11-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.spilabotte@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "SenMSpilabotte"
         }
       ],
-      "email": "maria.spilabotte@senato.it",
       "family_name": "Spilabotte",
       "gender": "female",
       "given_name": "Maria",
@@ -4089,13 +3782,6 @@
     },
     {
       "birth_date": "1947-12-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hans.berger@senato.it"
-        }
-      ],
-      "email": "hans.berger@senato.it",
       "family_name": "BERGER",
       "gender": "male",
       "given_name": "Hans",
@@ -4160,19 +3846,10 @@
       "birth_date": "1948-09-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "daniela.valentini@regione.lazio.it"
-        },
-        {
-          "type": "email",
-          "value": "daniela.valentini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "PD_Valentini"
         }
       ],
-      "email": "daniela.valentini@regione.lazio.it",
       "family_name": "VALENTINI",
       "gender": "female",
       "given_name": "Daniela",
@@ -4224,15 +3901,10 @@
       "birth_date": "1971-10-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marinogermano.mastrangeli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "M_Mastrangeli"
         }
       ],
-      "email": "marinogermano.mastrangeli@senato.it",
       "family_name": "Mastrangeli",
       "gender": "male",
       "given_name": "Marino",
@@ -4293,15 +3965,10 @@
       "birth_date": "1950-10-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "giorgio.pagliari@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "PAGLIARIG"
         }
       ],
-      "email": "giorgio.pagliari@senato.it",
       "family_name": "Pagliari",
       "gender": "male",
       "given_name": "Giorgio",
@@ -4381,15 +4048,10 @@
       "birth_date": "1961-07-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mario.mauro@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "MarioMauro"
         }
       ],
-      "email": "mario.mauro@senato.it",
       "family_name": "MAURO",
       "gender": "male",
       "given_name": "Mario",
@@ -4540,19 +4202,10 @@
       "birth_date": "1969-02-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "STUCCHI_G@camera.it"
-        },
-        {
-          "type": "email",
-          "value": "giacomo.stucchi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "giacomos"
         }
       ],
-      "email": "STUCCHI_G@camera.it",
       "family_name": "STUCCHI",
       "gender": "male",
       "given_name": "Giacomo",
@@ -4615,19 +4268,10 @@
       "birth_date": "1953-11-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rizzotti_m@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "maria.rizzotti@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Maria_Rizzotti"
         }
       ],
-      "email": "rizzotti_m@posta.senato.it",
       "family_name": "RIZZOTTI",
       "gender": "female",
       "given_name": "Maria",
@@ -4675,15 +4319,10 @@
       "birth_date": "1962-04-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "DELLAVEDOVA_B@camera.it"
-        },
-        {
           "type": "twitter",
           "value": "bendellavedova"
         }
       ],
-      "email": "DELLAVEDOVA_B@camera.it",
       "family_name": "DELLA VEDOVA",
       "gender": "male",
       "given_name": "Benedetto",
@@ -4789,13 +4428,6 @@
     },
     {
       "birth_date": "1960-09-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gianpiero.dallazuanna@senato.it"
-        }
-      ],
-      "email": "gianpiero.dallazuanna@senato.it",
       "family_name": "Dalla Zuanna",
       "gender": "male",
       "given_name": "Gianpiero",
@@ -4890,15 +4522,10 @@
       "birth_date": "1971-10-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "elisa.bulgarelli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "bulgarellielisa"
         }
       ],
-      "email": "elisa.bulgarelli@senato.it",
       "family_name": "Bulgarelli",
       "gender": "female",
       "given_name": "Elisa",
@@ -4950,15 +4577,10 @@
       "birth_date": "1956-08-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "AMORUSO_F@camera.it"
-        },
-        {
           "type": "twitter",
           "value": "Framoruso"
         }
       ],
-      "email": "AMORUSO_F@camera.it",
       "family_name": "AMORUSO",
       "gender": "male",
       "given_name": "Francesco",
@@ -5026,15 +4648,10 @@
       "birth_date": "1964-04-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "salvatore.margiotta@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "s_margiotta"
         }
       ],
-      "email": "salvatore.margiotta@senato.it",
       "family_name": "MARGIOTTA",
       "gender": "male",
       "given_name": "Salvatore",
@@ -5146,15 +4763,10 @@
       "birth_date": "1955-12-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nicoletta.favero@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "NicolettaFavero"
         }
       ],
-      "email": "nicoletta.favero@senato.it",
       "family_name": "FAVERO",
       "gender": "female",
       "given_name": "Nicoletta",
@@ -5206,15 +4818,10 @@
       "birth_date": "1957-01-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francocardiello@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "FrancoCardiello"
         }
       ],
-      "email": "francocardiello@gmail.com",
       "family_name": "CARDIELLO",
       "gender": "male",
       "given_name": "Franco",
@@ -5276,13 +4883,6 @@
     },
     {
       "birth_date": "1969-02-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nadia.ginetti@senato.it"
-        }
-      ],
-      "email": "nadia.ginetti@senato.it",
       "family_name": "GINETTI",
       "gender": "female",
       "given_name": "Nadia",
@@ -5339,17 +4939,6 @@
     },
     {
       "birth_date": "1947-01-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "SPOSETTI_U@camera.it"
-        },
-        {
-          "type": "email",
-          "value": "ugo.sposetti@senato.it"
-        }
-      ],
-      "email": "SPOSETTI_U@camera.it",
       "family_name": "SPOSETTI",
       "gender": "male",
       "given_name": "Ugo",
@@ -5404,15 +4993,10 @@
       "birth_date": "1956-06-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "massimo.cervellini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "MassiCervellini"
         }
       ],
-      "email": "massimo.cervellini@senato.it",
       "family_name": "CERVELLINI",
       "gender": "male",
       "given_name": "Massimo",
@@ -5458,17 +5042,6 @@
     },
     {
       "birth_date": "1955-07-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "info@magdazanoni.com"
-        },
-        {
-          "type": "email",
-          "value": "magda.zanoni@senato.it"
-        }
-      ],
-      "email": "info@magdazanoni.com",
       "family_name": "ZANONI",
       "gender": "female",
       "given_name": "Magda",
@@ -5525,13 +5098,6 @@
     },
     {
       "birth_date": "1951-06-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "giuseppe.pagano@senato.it"
-        }
-      ],
-      "email": "giuseppe.pagano@senato.it",
       "family_name": "Pagano",
       "gender": "male",
       "given_name": "Pippo",
@@ -5575,15 +5141,10 @@
       "birth_date": "1967-11-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "giannipietro.girotto@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "GianniGirotto"
         }
       ],
-      "email": "giannipietro.girotto@senato.it",
       "family_name": "Girotto",
       "gender": "male",
       "given_name": "Gianni",
@@ -5638,15 +5199,10 @@
       "birth_date": "1954-02-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vincenzomario.dascola@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "NICODASCOLA"
         }
       ],
-      "email": "vincenzomario.dascola@senato.it",
       "family_name": "D'Ascola",
       "gender": "male",
       "given_name": "Nico",
@@ -5696,13 +5252,6 @@
     },
     {
       "birth_date": "1957-04-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cristina.depietro@senato.it"
-        }
-      ],
-      "email": "cristina.depietro@senato.it",
       "family_name": "De Pietro",
       "gender": "female",
       "given_name": "Cristina",
@@ -6305,13 +5854,6 @@
     },
     {
       "birth_date": "1925-06-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "napolitano_g@posta.senato.it"
-        }
-      ],
-      "email": "napolitano_g@posta.senato.it",
       "family_name": "NAPOLITANO",
       "gender": "male",
       "given_name": "Giorgio",
@@ -6978,20 +6520,11 @@
       "birth_date": "1961-03-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "michelino.davico@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "m.davico@inwind.it"
-        },
-        {
           "type": "twitter",
           "value": "michdavico"
         }
       ],
       "death_date": "2018",
-      "email": "michelino.davico@senato.it",
       "family_name": "DAVICO",
       "gender": "male",
       "id": "38df24dc-8aab-41a9-bf5d-e28865e6a68b",
@@ -7051,13 +6584,6 @@
     },
     {
       "birth_date": "1968-07-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "michele.boccardi@hotmail.it"
-        }
-      ],
-      "email": "michele.boccardi@hotmail.it",
       "family_name": "Boccardi",
       "gender": "male",
       "given_name": "Michele",
@@ -7109,23 +6635,10 @@
       "birth_date": "1962-02-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "r.filippin@comune.bassano.vi.it"
-        },
-        {
-          "type": "email",
-          "value": "info@rosannafilippin.it"
-        },
-        {
-          "type": "email",
-          "value": "rosanna.filippin@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "FilippinRosanna"
         }
       ],
-      "email": "r.filippin@comune.bassano.vi.it",
       "family_name": "FILIPPIN",
       "gender": "female",
       "given_name": "Rosanna",
@@ -7186,13 +6699,6 @@
     },
     {
       "birth_date": "1967-08-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "giovanna.mangili@senato.it"
-        }
-      ],
-      "email": "giovanna.mangili@senato.it",
       "family_name": "Mangili",
       "gender": "female",
       "given_name": "Giovanna",
@@ -7246,13 +6752,6 @@
     },
     {
       "birth_date": "1961-02-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "augello_a@posta.senato.it"
-        }
-      ],
-      "email": "augello_a@posta.senato.it",
       "family_name": "AUGELLO",
       "gender": "male",
       "given_name": "Andrea",
@@ -7309,13 +6808,6 @@
     },
     {
       "birth_date": "1967-12-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valeria.cardinali@senato.it"
-        }
-      ],
-      "email": "valeria.cardinali@senato.it",
       "family_name": "Cardinali",
       "gender": "female",
       "given_name": "Valeria",
@@ -7376,13 +6868,6 @@
     },
     {
       "birth_date": "1953-05-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carlo.lucherini@senato.it"
-        }
-      ],
-      "email": "carlo.lucherini@senato.it",
       "family_name": "LUCHERINI",
       "gender": "male",
       "given_name": "Carlo",
@@ -7434,15 +6919,10 @@
       "birth_date": "1973-01-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lorenzo.battista@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "lor_bat"
         }
       ],
-      "email": "lorenzo.battista@senato.it",
       "family_name": "Battista",
       "gender": "male",
       "given_name": "Lorenzo",
@@ -7503,13 +6983,6 @@
     },
     {
       "birth_date": "1961-03-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pietro.iurlaro@senato.it"
-        }
-      ],
-      "email": "pietro.iurlaro@senato.it",
       "family_name": "IURLARO",
       "gender": "male",
       "given_name": "Pietro",
@@ -7557,15 +7030,10 @@
       "birth_date": "1961-06-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "roberto.cociancich@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "corsaro_rosso"
         }
       ],
-      "email": "roberto.cociancich@senato.it",
       "family_name": "Cociancich",
       "gender": "male",
       "given_name": "Roberto",
@@ -7620,19 +7088,10 @@
       "birth_date": "1954-10-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lucianouras@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "luciano.uras@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LucianoUras"
         }
       ],
-      "email": "lucianouras@gmail.com",
       "family_name": "URAS",
       "gender": "male",
       "given_name": "Luciano",
@@ -7692,15 +7151,10 @@
       "birth_date": "1962-02-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "andrea.cioffi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "andrea_cioffi"
         }
       ],
-      "email": "andrea.cioffi@senato.it",
       "family_name": "Cioffi",
       "gender": "male",
       "given_name": "Andrea",
@@ -7753,13 +7207,6 @@
     },
     {
       "birth_date": "1965-03-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "raffaela.bellot@senato.it"
-        }
-      ],
-      "email": "raffaela.bellot@senato.it",
       "family_name": "Bellot",
       "gender": "female",
       "given_name": "Raffaela",
@@ -7814,19 +7261,10 @@
       "birth_date": "1964-06-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paolo.arrigoni@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "info@paoloarrigoni.com"
-        },
-        {
           "type": "twitter",
           "value": "arrigoni_paolo"
         }
       ],
-      "email": "paolo.arrigoni@senato.it",
       "family_name": "ARRIGONI",
       "gender": "male",
       "given_name": "Paolo",
@@ -7885,19 +7323,10 @@
       "birth_date": "1951-11-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "annalisa.silvestro@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "annalisa.silvestro@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "ALSilvestro"
         }
       ],
-      "email": "annalisa.silvestro@gmail.com",
       "family_name": "Silvestro",
       "gender": "female",
       "given_name": "Annalisa",
@@ -7949,15 +7378,10 @@
       "birth_date": "1964-10-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francesco.molinari@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "francobrando"
         }
       ],
-      "email": "francesco.molinari@senato.it",
       "family_name": "Molinari",
       "gender": "male",
       "given_name": "Francesco",
@@ -8013,15 +7437,10 @@
       "birth_date": "1971-05-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vilma.moronese@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "vilmamoronese"
         }
       ],
-      "email": "vilma.moronese@senato.it",
       "family_name": "Moronese",
       "gender": "female",
       "given_name": "Vilma",
@@ -8076,15 +7495,10 @@
       "birth_date": "1957-11-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "loredana.depetris@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "PetrisDe"
         }
       ],
-      "email": "loredana.depetris@senato.it",
       "family_name": "DE PETRIS",
       "gender": "female",
       "given_name": "Loredana",
@@ -8157,13 +7571,6 @@
     },
     {
       "birth_date": "1967-03-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "silvanaandreina.comaroli@senato.it"
-        }
-      ],
-      "email": "silvanaandreina.comaroli@senato.it",
       "family_name": "COMAROLI",
       "gender": "female",
       "given_name": "Silvana",
@@ -8207,15 +7614,10 @@
       "birth_date": "1969-10-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francesco.palermo@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "franzpalermo"
         }
       ],
-      "email": "francesco.palermo@senato.it",
       "family_name": "Palermo",
       "gender": "male",
       "given_name": "Francesco",
@@ -8330,15 +7732,10 @@
       "birth_date": "1947-07-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "enrico.buemi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "BUEMIENRICO"
         }
       ],
-      "email": "enrico.buemi@senato.it",
       "family_name": "BUEMI",
       "gender": "male",
       "given_name": "Enrico",
@@ -8409,15 +7806,10 @@
       "birth_date": "1965-08-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "annamaria.bernini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "BerniniAM"
         }
       ],
-      "email": "annamaria.bernini@senato.it",
       "family_name": "BERNINI",
       "gender": "female",
       "given_name": "Anna",
@@ -8497,15 +7889,10 @@
       "birth_date": "1958-02-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "emiliagrazia.debiasi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "EmiliaDeBiasi"
         }
       ],
-      "email": "emiliagrazia.debiasi@senato.it",
       "family_name": "DE BIASI",
       "gender": "female",
       "given_name": "Emilia",
@@ -8551,13 +7938,6 @@
     },
     {
       "birth_date": "1959-06-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "luciano.pizzetti@senato.it"
-        }
-      ],
-      "email": "luciano.pizzetti@senato.it",
       "family_name": "PIZZETTI",
       "gender": "male",
       "given_name": "Luciano",
@@ -8601,19 +7981,10 @@
       "birth_date": "1949-03-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ichino_p@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "ichino@pietroichino.it"
-        },
-        {
           "type": "twitter",
           "value": "PietroIchino"
         }
       ],
-      "email": "ichino_p@posta.senato.it",
       "family_name": "ICHINO",
       "gender": "male",
       "given_name": "Pietro",
@@ -8741,15 +8112,10 @@
       "birth_date": "1960-11-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pietro.langella@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Langella_Pietro"
         }
       ],
-      "email": "pietro.langella@senato.it",
       "family_name": "LANGELLA",
       "gender": "male",
       "given_name": "Pietro",
@@ -8804,15 +8170,10 @@
       "birth_date": "1970-07-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mauro.delbarba@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "emmedibi"
         }
       ],
-      "email": "mauro.delbarba@senato.it",
       "family_name": "DEL BARBA",
       "gender": "male",
       "given_name": "Mauro",
@@ -8868,15 +8229,10 @@
       "birth_date": "1966-05-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carlo.martelli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Carlo_Martelli"
         }
       ],
-      "email": "carlo.martelli@senato.it",
       "family_name": "Martelli",
       "gender": "male",
       "given_name": "Carlo",
@@ -8943,15 +8299,10 @@
       "birth_date": "1956-04-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "donella.mattesini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "donemattesini"
         }
       ],
-      "email": "donella.mattesini@senato.it",
       "family_name": "Mattesini",
       "gender": "female",
       "id": "49cfcadc-d40d-47c4-ace9-c51019a8e18a",
@@ -9006,15 +8357,10 @@
       "birth_date": "1960-10-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "patrizia.manassero@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "patriziamanas"
         }
       ],
-      "email": "patrizia.manassero@senato.it",
       "family_name": "MANASSERO",
       "gender": "female",
       "given_name": "Patrizia",
@@ -9062,15 +8408,10 @@
       "birth_date": "1960-10-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "antonio.depoli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "AntonioDePoli"
         }
       ],
-      "email": "antonio.depoli@senato.it",
       "family_name": "DE POLI",
       "gender": "male",
       "given_name": "Antonio",
@@ -9147,13 +8488,6 @@
     },
     {
       "birth_date": "1940-07-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "paolo.bonaiuti@senato.it"
-        }
-      ],
-      "email": "paolo.bonaiuti@senato.it",
       "family_name": "BONAIUTI",
       "gender": "male",
       "given_name": "Paolo",
@@ -9220,15 +8554,10 @@
       "birth_date": "1971-04-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "michela.montevecchi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "m_montevecchi"
         }
       ],
-      "email": "michela.montevecchi@senato.it",
       "family_name": "Montevecchi",
       "gender": "female",
       "given_name": "Michela",
@@ -9280,15 +8609,10 @@
       "birth_date": "1970-09-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "federica.chiavaroli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "fedechiavaroli"
         }
       ],
-      "email": "federica.chiavaroli@senato.it",
       "family_name": "CHIAVAROLI",
       "gender": "female",
       "given_name": "Federica",
@@ -9341,13 +8665,6 @@
     },
     {
       "birth_date": "1957-06-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maurizio.rossi@senato.it"
-        }
-      ],
-      "email": "maurizio.rossi@senato.it",
       "family_name": "Rossi",
       "gender": "male",
       "given_name": "Maurizio",
@@ -9424,15 +8741,10 @@
       "birth_date": "1951-05-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "verdini@forzaitalia.it"
-        },
-        {
           "type": "twitter",
           "value": "DenisVerdini"
         }
       ],
-      "email": "verdini@forzaitalia.it",
       "family_name": "VERDINI",
       "gender": "male",
       "given_name": "Denis",
@@ -9552,15 +8864,10 @@
       "birth_date": "1958-12-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vito.vattuone@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "vvattuone"
         }
       ],
-      "email": "vito.vattuone@senato.it",
       "family_name": "Vattuone",
       "gender": "male",
       "given_name": "Vít",
@@ -9623,15 +8930,10 @@
       "birth_date": "1963-05-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francescomaria.giro@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "fgiro3"
         }
       ],
-      "email": "francescomaria.giro@senato.it",
       "family_name": "GIRO",
       "gender": "male",
       "given_name": "Francesco",
@@ -9691,15 +8993,10 @@
       "birth_date": "1967-01-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vittorio.zizza@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "VittorioZizza2"
         }
       ],
-      "email": "vittorio.zizza@senato.it",
       "family_name": "Zizza",
       "gender": "male",
       "given_name": "Vittorio",
@@ -9749,13 +9046,6 @@
     },
     {
       "birth_date": "1956-09-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariagrazia.gatti@senato.it"
-        }
-      ],
-      "email": "mariagrazia.gatti@senato.it",
       "family_name": "GATTI",
       "gender": "female",
       "given_name": "Maria",
@@ -9804,15 +9094,10 @@
       "birth_date": "1955-08-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rosamaria.digiorgi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "RosaMDiGiorgi"
         }
       ],
-      "email": "rosamaria.digiorgi@senato.it",
       "family_name": "DI GIORGI",
       "gender": "female",
       "given_name": "Rosa",
@@ -9867,15 +9152,10 @@
       "birth_date": "1953-12-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "massimo.mucchetti@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "vado_al_massimo"
         }
       ],
-      "email": "massimo.mucchetti@senato.it",
       "family_name": "Mucchetti",
       "gender": "male",
       "given_name": "Massimo",
@@ -9950,15 +9230,10 @@
       "birth_date": "1967-08-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vittorio.fravezzi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "VFravezzi"
         }
       ],
-      "email": "vittorio.fravezzi@senato.it",
       "family_name": "FRAVEZZI",
       "gender": "male",
       "given_name": "Vittorio",
@@ -10011,13 +9286,6 @@
     },
     {
       "birth_date": "1961-04-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roberto.cotti@senato.it"
-        }
-      ],
-      "email": "roberto.cotti@senato.it",
       "family_name": "Cotti",
       "gender": "male",
       "given_name": "Roberto",
@@ -10063,13 +9331,6 @@
     },
     {
       "birth_date": "1964-11-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "francesco.bruni@senato.it"
-        }
-      ],
-      "email": "francesco.bruni@senato.it",
       "family_name": "BRUNI",
       "gender": "male",
       "given_name": "Francesco",
@@ -10118,15 +9379,10 @@
       "birth_date": "1966-07-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "silviolai@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "silviolai"
         }
       ],
-      "email": "silviolai@gmail.com",
       "family_name": "LAI",
       "gender": "male",
       "given_name": "Silvio",
@@ -10207,17 +9463,6 @@
     },
     {
       "birth_date": "1942-11-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zanda_l@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "luigi.zanda@senato.it"
-        }
-      ],
-      "email": "zanda_l@posta.senato.it",
       "family_name": "ZANDA",
       "gender": "male",
       "given_name": "Luigi",
@@ -10288,15 +9533,10 @@
       "birth_date": "1947-03-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paolo.guerrieri@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "PaoloGuerrieriP"
         }
       ],
-      "email": "paolo.guerrieri@senato.it",
       "family_name": "Guerrieri Paleotti",
       "gender": "male",
       "given_name": "Paolo",
@@ -10387,15 +9627,10 @@
       "birth_date": "1963-03-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "bruno.astorre@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "BrunoAstorre"
         }
       ],
-      "email": "bruno.astorre@senato.it",
       "family_name": "ASTORRE",
       "gender": "male",
       "given_name": "Bruno",
@@ -10443,15 +9678,10 @@
       "birth_date": "1947-07-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "laura.fasiolo@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "fasiolo_laura"
         }
       ],
-      "email": "laura.fasiolo@senato.it",
       "family_name": "FASIOLO",
       "gender": "female",
       "given_name": "Laura",
@@ -10508,17 +9738,6 @@
     },
     {
       "birth_date": "1950-03-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "palma_n@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "nitto.palma@senato.it"
-        }
-      ],
-      "email": "palma_n@posta.senato.it",
       "family_name": "PALMA",
       "gender": "male",
       "given_name": "Nitto",
@@ -10673,15 +9892,10 @@
       "birth_date": "1948-07-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "amedeo.bianco@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "bianco_amedeo"
         }
       ],
-      "email": "amedeo.bianco@senato.it",
       "family_name": "Bianco",
       "gender": "male",
       "given_name": "Amedeo",
@@ -10858,19 +10072,10 @@
       "birth_date": "1948-09-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "LANZILLOTTA_L@camera.it"
-        },
-        {
-          "type": "email",
-          "value": "segr.lanzillotta@libero.it"
-        },
-        {
           "type": "twitter",
           "value": "l_lanzillotta"
         }
       ],
-      "email": "LANZILLOTTA_L@camera.it",
       "family_name": "LANZILLOTTA",
       "gender": "female",
       "given_name": "Linda",
@@ -10963,15 +10168,10 @@
       "birth_date": "1967-07-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nunzia.catalfo@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "CatalfoNunzia"
         }
       ],
-      "email": "nunzia.catalfo@senato.it",
       "family_name": "Catalfo",
       "gender": "female",
       "given_name": "Nunzia",
@@ -11022,15 +10222,10 @@
       "birth_date": "1967-10-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alessia.petraglia@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "ale_petraglia"
         }
       ],
-      "email": "alessia.petraglia@senato.it",
       "family_name": "PETRAGLIA",
       "gender": "female",
       "given_name": "Alessia",
@@ -11082,19 +10277,10 @@
       "birth_date": "1953-05-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sindaco@comunevillafrancainlunigiana.it <sindaco@comunevillafrancainlunigiana.it>"
-        },
-        {
-          "type": "email",
-          "value": "lucio.barani@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LUCIOBARANI"
         }
       ],
-      "email": "sindaco@comunevillafrancainlunigiana.it <sindaco@comunevillafrancainlunigiana.it>",
       "family_name": "BARANI",
       "gender": "male",
       "given_name": "Lucio",
@@ -11165,15 +10351,10 @@
       "birth_date": "1969-09-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "bruno.marton@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Marton_Bruno"
         }
       ],
-      "email": "bruno.marton@senato.it",
       "family_name": "Marton",
       "gender": "male",
       "given_name": "Bruno",
@@ -11231,17 +10412,6 @@
     },
     {
       "birth_date": "1959-02-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sibilia@consiglio.regione.campania.it"
-        },
-        {
-          "type": "email",
-          "value": "cosimo.sibilia@senato.it"
-        }
-      ],
-      "email": "sibilia@consiglio.regione.campania.it",
       "family_name": "SIBILIA",
       "gender": "male",
       "given_name": "Cosimo",
@@ -11285,15 +10455,10 @@
       "birth_date": "1969-10-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "laura.bignami@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LauraBignami1"
         }
       ],
-      "email": "laura.bignami@senato.it",
       "family_name": "Bignami",
       "gender": "female",
       "given_name": "Laura",
@@ -11845,13 +11010,6 @@
     },
     {
       "birth_date": "1949-05-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nerina.dirindin@senato.it"
-        }
-      ],
-      "email": "nerina.dirindin@senato.it",
       "family_name": "DIRINDIN",
       "gender": "female",
       "given_name": "Nerina",
@@ -11893,13 +11051,6 @@
     },
     {
       "birth_date": "1950-06-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "giuseppina.maturani@senato.it"
-        }
-      ],
-      "email": "giuseppina.maturani@senato.it",
       "family_name": "MATURANI",
       "gender": "female",
       "given_name": "Giuseppina",
@@ -11947,15 +11098,10 @@
       "birth_date": "1969-06-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francesco.russo@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "francescorusso"
         }
       ],
-      "email": "francesco.russo@senato.it",
       "family_name": "Russo",
       "gender": "male",
       "given_name": "Francesco",
@@ -12048,15 +11194,10 @@
       "birth_date": "1970-02-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "andrea.olivero@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "AndreaOlivero"
         }
       ],
-      "email": "andrea.olivero@senato.it",
       "family_name": "Olivero",
       "gender": "male",
       "given_name": "Andrea",
@@ -12129,13 +11270,6 @@
     },
     {
       "birth_date": "1953-08-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "casson_f@posta.senato.it"
-        }
-      ],
-      "email": "casson_f@posta.senato.it",
       "family_name": "CASSON",
       "gender": "male",
       "given_name": "Felice",
@@ -12238,15 +11372,10 @@
       "birth_date": "1954-02-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "filippo.bubbico@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "filippobubbico"
         }
       ],
-      "email": "filippo.bubbico@senato.it",
       "family_name": "BUBBICO",
       "gender": "male",
       "given_name": "Filippo",
@@ -12327,13 +11456,6 @@
     },
     {
       "birth_date": "1964-04-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vincenzo.cuomo@senato.it"
-        }
-      ],
-      "email": "vincenzo.cuomo@senato.it",
       "family_name": "CUOMO",
       "gender": "male",
       "given_name": "Vincenzo",
@@ -12377,15 +11499,10 @@
       "birth_date": "1953-11-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "riccardo.mazzoni@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "MazzoniRiccardo"
         }
       ],
-      "email": "riccardo.mazzoni@senato.it",
       "family_name": "MAZZONI",
       "gender": "male",
       "given_name": "Riccardo",
@@ -12449,15 +11566,10 @@
       "birth_date": "1969-06-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stefano.lucidi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "sfnlcd"
         }
       ],
-      "email": "stefano.lucidi@senato.it",
       "family_name": "Lucidi",
       "gender": "male",
       "given_name": "Stefano",
@@ -12524,19 +11636,10 @@
       "birth_date": "1959-10-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "riccardonencini@partitosocialista.it"
-        },
-        {
-          "type": "email",
-          "value": "riccardo.nencini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "nencinipsi"
         }
       ],
-      "email": "riccardonencini@partitosocialista.it",
       "family_name": "NENCINI",
       "gender": "male",
       "given_name": "Riccardo",
@@ -12657,15 +11760,10 @@
       "birth_date": "1942-10-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "renato.turano@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "RenatoTurano"
         }
       ],
-      "email": "renato.turano@senato.it",
       "family_name": "TURANO",
       "gender": "male",
       "given_name": "Renato",
@@ -12726,13 +11824,6 @@
     },
     {
       "birth_date": "1956-06-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "domenico.minniti@senato.it"
-        }
-      ],
-      "email": "domenico.minniti@senato.it",
       "family_name": "MINNITI",
       "gender": "male",
       "given_name": "Domenico",
@@ -12839,15 +11930,10 @@
       "birth_date": "1956-08-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "giuseppe.esposito@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "peppexpo"
         }
       ],
-      "email": "giuseppe.esposito@senato.it",
       "family_name": "ESPOSITO",
       "gender": "male",
       "given_name": "Giuseppe",
@@ -12902,15 +11988,10 @@
       "birth_date": "1959-05-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "BONDI_S@CAMERA.IT"
-        },
-        {
           "type": "twitter",
           "value": "sandrobondi"
         }
       ],
-      "email": "BONDI_S@CAMERA.IT",
       "family_name": "BONDI",
       "gender": "male",
       "given_name": "Alexander",
@@ -13045,17 +12126,6 @@
     },
     {
       "birth_date": "1954-03-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pieroliuzzisenato@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "pietro.liuzzi@senato.it"
-        }
-      ],
-      "email": "pieroliuzzisenato@gmail.com",
       "family_name": "LIUZZI",
       "gender": "male",
       "given_name": "Pietro",
@@ -13103,15 +12173,10 @@
       "birth_date": "1971-07-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "erika.stefani@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "erika_stefan"
         }
       ],
-      "email": "erika.stefani@senato.it",
       "family_name": "Stefani",
       "gender": "female",
       "given_name": "Erika",
@@ -13244,15 +12309,10 @@
       "birth_date": "1958-08-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "augusto.minzolini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "AugustoMinzolin"
         }
       ],
-      "email": "augusto.minzolini@senato.it",
       "family_name": "Minzolini",
       "gender": "male",
       "given_name": "Augusto",
@@ -13331,19 +12391,10 @@
       "birth_date": "1962-06-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mauro_g@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "giovanni.mauro@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "GiovanniMauro62"
         }
       ],
-      "email": "mauro_g@posta.senato.it",
       "family_name": "MAURO",
       "gender": "male",
       "given_name": "Giovanni",
@@ -13400,17 +12451,6 @@
     },
     {
       "birth_date": "1947-08-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "silvana.amati@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "s.amati@dsonline.it"
-        }
-      ],
-      "email": "silvana.amati@senato.it",
       "family_name": "AMATI",
       "gender": "female",
       "given_name": "Silvana",
@@ -13487,17 +12527,6 @@
     },
     {
       "birth_date": "1966-06-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fattori5stellestampa@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "elena.fattori@senato.it"
-        }
-      ],
-      "email": "fattori5stellestampa@gmail.com",
       "family_name": "Fattori",
       "gender": "female",
       "given_name": "Elena",
@@ -13549,15 +12578,10 @@
       "birth_date": "1961-08-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "luisalberto.orellana@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "luisorel"
         }
       ],
-      "email": "luisalberto.orellana@senato.it",
       "family_name": "Orellana",
       "gender": "male",
       "given_name": "Luis",
@@ -13628,19 +12652,10 @@
       "birth_date": "1970-05-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "albeairo@yahoo.com"
-        },
-        {
-          "type": "email",
-          "value": "alberto.airola@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "AlbertoAirola"
         }
       ],
-      "email": "albeairo@yahoo.com",
       "family_name": "Airola",
       "gender": "male",
       "given_name": "Alberto",
@@ -13717,13 +12732,6 @@
     },
     {
       "birth_date": "1943-03-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "s.sciascia@consulentidellavoropec.it"
-        }
-      ],
-      "email": "s.sciascia@consulentidellavoropec.it",
       "family_name": "SCIASCIA",
       "gender": "male",
       "given_name": "Salvatore",
@@ -13771,15 +12779,10 @@
       "birth_date": "1959-08-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "luigi.gaetti@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LuigiGaetti"
         }
       ],
-      "email": "luigi.gaetti@senato.it",
       "family_name": "Gaetti",
       "gender": "male",
       "given_name": "Luigi",
@@ -13831,15 +12834,10 @@
       "birth_date": "1962-12-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "federico.fornaro@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Fornaro62"
         }
       ],
-      "email": "federico.fornaro@senato.it",
       "family_name": "FORNARO",
       "gender": "male",
       "given_name": "Federico",
@@ -13911,15 +12909,10 @@
       "birth_date": "1964-12-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "aldo.dibiagio@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "AldoDiBiagio"
         }
       ],
-      "email": "aldo.dibiagio@senato.it",
       "family_name": "DI BIAGIO",
       "gender": "male",
       "given_name": "Aldo",
@@ -13979,15 +12972,10 @@
       "birth_date": "1966-06-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "serenella.fucksia@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "SFUCKSIA"
         }
       ],
-      "email": "serenella.fucksia@senato.it",
       "family_name": "Fucksia",
       "gender": "female",
       "given_name": "Serenella",
@@ -14050,15 +13038,10 @@
       "birth_date": "1948-11-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "luigi.compagna@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LuigiCompagna"
         }
       ],
-      "email": "luigi.compagna@senato.it",
       "family_name": "COMPAGNA",
       "gender": "male",
       "given_name": "Luigi",
@@ -14145,19 +13128,10 @@
       "birth_date": "1960-06-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "LUMIA_G@camera.it"
-        },
-        {
-          "type": "email",
-          "value": "lumia.senato@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "Giuseppe_Lumia"
         }
       ],
-      "email": "LUMIA_G@camera.it",
       "family_name": "LUMIA",
       "gender": "male",
       "given_name": "Giuseppe",
@@ -14232,15 +13206,10 @@
       "birth_date": "1961-01-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "massimo.caleo@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Massimo_Caleo"
         }
       ],
-      "email": "massimo.caleo@senato.it",
       "family_name": "CALEO",
       "gender": "male",
       "given_name": "Massimo",
@@ -14306,13 +13275,6 @@
     },
     {
       "birth_date": "1951-01-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ciro.falanga@senato.it"
-        }
-      ],
-      "email": "ciro.falanga@senato.it",
       "family_name": "FALANGA",
       "gender": "male",
       "given_name": "Ciro",
@@ -14364,19 +13326,10 @@
       "birth_date": "1961-08-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fscoma@ars.sicilia.it <fscoma@ars.sicilia.it>"
-        },
-        {
-          "type": "email",
-          "value": "francesco.scoma@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "francesco_scoma"
         }
       ],
-      "email": "fscoma@ars.sicilia.it <fscoma@ars.sicilia.it>",
       "family_name": "Scoma",
       "gender": "male",
       "given_name": "Francesco",
@@ -14420,19 +13373,10 @@
       "birth_date": "1959-01-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "tonini_g@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "giorgio.tonini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "giotoni"
         }
       ],
-      "email": "tonini_g@posta.senato.it",
       "family_name": "TONINI",
       "gender": "male",
       "given_name": "Giorgio",
@@ -14527,15 +13471,10 @@
       "birth_date": "1962-10-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paola.nugnes@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "paolanugnes1"
         }
       ],
-      "email": "paola.nugnes@senato.it",
       "family_name": "Nugnes",
       "gender": "female",
       "given_name": "Paola",
@@ -14594,15 +13533,10 @@
       "birth_date": "1962-09-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "giovanni.endrizzi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Endrizzi_M5S"
         }
       ],
-      "email": "giovanni.endrizzi@senato.it",
       "family_name": "Endrizzi",
       "gender": "male",
       "given_name": "Giovanni",
@@ -14669,15 +13603,10 @@
       "birth_date": "1959-12-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mara.valdinosi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "MValdinosi"
         }
       ],
-      "email": "mara.valdinosi@senato.it",
       "family_name": "VALDINOSI",
       "gender": "female",
       "given_name": "Mara",
@@ -14729,15 +13658,10 @@
       "birth_date": "1950-07-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sacconi_m@posta.senato.it"
-        },
-        {
           "type": "twitter",
           "value": "MaurizioSacconi"
         }
       ],
-      "email": "sacconi_m@posta.senato.it",
       "family_name": "SACCONI",
       "gender": "male",
       "given_name": "Maurizio",
@@ -14896,19 +13820,10 @@
       "birth_date": "1964-08-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "filippi_m@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "marco.filippi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "marcofilippi_li"
         }
       ],
-      "email": "filippi_m@posta.senato.it",
       "family_name": "FILIPPI",
       "gender": "male",
       "given_name": "Marco",
@@ -14963,15 +13878,10 @@
       "birth_date": "1957-04-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "venera.padua@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "VeneraPadua"
         }
       ],
-      "email": "venera.padua@senato.it",
       "family_name": "PADUA",
       "gender": "female",
       "given_name": "Venera",
@@ -15098,22 +14008,6 @@
       "birth_date": "1957-08-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "scilipoti_d@camera.it"
-        },
-        {
-          "type": "email",
-          "value": "dscipiloti@tiscalinet.it"
-        },
-        {
-          "type": "email",
-          "value": "info@domenicoscilipoti.it"
-        },
-        {
-          "type": "email",
-          "value": "domenico.scilipoti@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "On_Scilipoti"
         },
@@ -15122,7 +14016,6 @@
           "value": "DSCLIPOTI"
         }
       ],
-      "email": "scilipoti_d@camera.it",
       "family_name": "SCILIPOTI",
       "gender": "male",
       "given_name": "Domenico",
@@ -15209,15 +14102,10 @@
       "birth_date": "1955-04-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "remigio.ceroni@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "RemigioCeroni"
         }
       ],
-      "email": "remigio.ceroni@senato.it",
       "family_name": "CERONI",
       "gender": "male",
       "given_name": "Remigio",
@@ -15284,15 +14172,10 @@
       "birth_date": "1957-09-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "raffaele.ranucci@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "RaffaeleRanucci"
         }
       ],
-      "email": "raffaele.ranucci@senato.it",
       "family_name": "RANUCCI",
       "gender": "male",
       "given_name": "Raffaele",
@@ -15342,13 +14225,6 @@
     },
     {
       "birth_date": "1944-09-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emilio.floris@senato.it"
-        }
-      ],
-      "email": "emilio.floris@senato.it",
       "family_name": "FLORIS",
       "gender": "male",
       "given_name": "Emilio",
@@ -15464,15 +14340,10 @@
       "birth_date": "1966-01-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "emanuela.munerato@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "ManuMunerato"
         }
       ],
-      "email": "emanuela.munerato@senato.it",
       "family_name": "MUNERATO",
       "gender": "female",
       "given_name": "Emanuela",
@@ -15539,15 +14410,10 @@
       "birth_date": "1958-03-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "giovanniemanuele.bilardi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "BilardiGiovanni"
         }
       ],
-      "email": "giovanniemanuele.bilardi@senato.it",
       "family_name": "BILARDI",
       "gender": "male",
       "given_name": "Giovanni",
@@ -15597,13 +14463,6 @@
     },
     {
       "birth_date": "1964-11-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "giuliana@nunzianteconsiglio.191.it"
-        }
-      ],
-      "email": "giuliana@nunzianteconsiglio.191.it",
       "family_name": "CONSIGLIO",
       "gender": "male",
       "given_name": "Nunziante",
@@ -15651,19 +14510,10 @@
       "birth_date": "1952-09-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "TOCCI_W@CAMERA.IT"
-        },
-        {
-          "type": "email",
-          "value": "walter.tocci@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "tocciw"
         }
       ],
-      "email": "TOCCI_W@CAMERA.IT",
       "family_name": "TOCCI",
       "gender": "male",
       "given_name": "Walter",
@@ -15735,15 +14585,10 @@
       "birth_date": "1966-02-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "albert.laniece@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "albertlaniece"
         }
       ],
-      "email": "albert.laniece@senato.it",
       "family_name": "LANIECE",
       "gender": "male",
       "given_name": "Albert",
@@ -15811,15 +14656,10 @@
       "birth_date": "1947-05-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "segreteria@luigimarino.info"
-        },
-        {
           "type": "twitter",
           "value": "SenLuigiMarino"
         }
       ],
-      "email": "segreteria@luigimarino.info",
       "family_name": "Marino",
       "gender": "male",
       "given_name": "Luigi",
@@ -15896,23 +14736,10 @@
       "birth_date": "1961-03-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sergiologiudice@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "scrivi@sergiologiudice.it"
-        },
-        {
-          "type": "email",
-          "value": "sergio.logiudice@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "SergioLoGiudice"
         }
       ],
-      "email": "sergiologiudice@gmail.com",
       "family_name": "LO GIUDICE",
       "gender": "male",
       "given_name": "Sergio",
@@ -15975,19 +14802,10 @@
       "birth_date": "1961-05-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "PINOTTI_R@CAMERA.IT"
-        },
-        {
-          "type": "email",
-          "value": "roberta.pinotti.senato@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "robertapinotti"
         }
       ],
-      "email": "PINOTTI_R@CAMERA.IT",
       "family_name": "PINOTTI",
       "gender": "female",
       "given_name": "Roberta",
@@ -16158,19 +14976,10 @@
       "birth_date": "1959-12-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "info@francopanizza.it"
-        },
-        {
-          "type": "email",
-          "value": "franco.panizza@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "panizza_f"
         }
       ],
-      "email": "info@francopanizza.it",
       "family_name": "PANIZZA",
       "gender": "male",
       "given_name": "Franco",
@@ -16241,23 +15050,10 @@
       "birth_date": "1955-03-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "finocchiaro_a@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "annafinocchiaro55@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "anna.finocchiaro@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "FinocchiaroAnna"
         }
       ],
-      "email": "finocchiaro_a@posta.senato.it",
       "family_name": "FINOCCHIARO",
       "gender": "female",
       "given_name": "Anna",
@@ -16421,15 +15217,10 @@
       "birth_date": "1967-04-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stefano.vaccari@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Tetovaccari"
         }
       ],
-      "email": "stefano.vaccari@senato.it",
       "family_name": "VACCARI",
       "gender": "male",
       "given_name": "Stefano",
@@ -16495,17 +15286,6 @@
     },
     {
       "birth_date": "1951-04-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "info@mauriziomigliavacca.it"
-        },
-        {
-          "type": "email",
-          "value": "mauriziomigliavacca@hotmail.com"
-        }
-      ],
-      "email": "info@mauriziomigliavacca.it",
       "family_name": "MIGLIAVACCA",
       "gender": "male",
       "given_name": "Maurizio",
@@ -16584,15 +15364,10 @@
       "birth_date": "1960-04-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alessandro.maran@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "MaranAlessandro"
         }
       ],
-      "email": "alessandro.maran@senato.it",
       "family_name": "MARAN",
       "gender": "male",
       "given_name": "Alessandro",
@@ -16673,21 +15448,6 @@
     },
     {
       "birth_date": "1962-10-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bonfrisco_a@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "bonfrisco@forzait.org"
-        },
-        {
-          "type": "email",
-          "value": "segreteria.bonfrisco@gmail.com"
-        }
-      ],
-      "email": "bonfrisco_a@posta.senato.it",
       "family_name": "BONFRISCO",
       "gender": "female",
       "given_name": "Anna",
@@ -16736,17 +15496,6 @@
     },
     {
       "birth_date": "1969-12-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antoniostefano.caridi@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "antoniostefanocaridi@libero.it"
-        }
-      ],
-      "email": "antoniostefano.caridi@senato.it",
       "family_name": "CARIDI",
       "gender": "male",
       "given_name": "Antonio",
@@ -16795,15 +15544,10 @@
       "birth_date": "1957",
       "contact_details": [
         {
-          "type": "email",
-          "value": "giuseppeluigi.cucca@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "GiuseppeLuigiCu"
         }
       ],
-      "email": "giuseppeluigi.cucca@senato.it",
       "family_name": "Cucca",
       "gender": "male",
       "given_name": "Giuseppe",
@@ -16856,13 +15600,6 @@
     },
     {
       "birth_date": "1931-07-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mario.tronti@senato.it"
-        }
-      ],
-      "email": "mario.tronti@senato.it",
       "family_name": "TRONTI",
       "gender": "male",
       "given_name": "Mario",
@@ -16992,15 +15729,10 @@
       "birth_date": "1969-08-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "camilla.fabbri@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "camillafabbripd"
         }
       ],
-      "email": "camilla.fabbri@senato.it",
       "family_name": "Fabbri",
       "gender": "female",
       "given_name": "Kamilla",
@@ -17059,19 +15791,10 @@
       "birth_date": "1955-09-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "latorre_n@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "nicola.latorre@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Latorrenicola"
         }
       ],
-      "email": "latorre_n@posta.senato.it",
       "family_name": "LATORRE",
       "gender": "male",
       "given_name": "Nicola",
@@ -17119,19 +15842,10 @@
       "birth_date": "1957-08-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "elena.fissore@comune.moncalieri.to.it"
-        },
-        {
-          "type": "email",
-          "value": "elena.fissore@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Elena_Fissore"
         }
       ],
-      "email": "elena.fissore@comune.moncalieri.to.it",
       "family_name": "FISSORE",
       "gender": "female",
       "given_name": "Elena",
@@ -17181,17 +15895,6 @@
     },
     {
       "birth_date": "1954-04-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ferrara_m@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "mario.ferrara@senato.it"
-        }
-      ],
-      "email": "ferrara_m@posta.senato.it",
       "family_name": "FERRARA",
       "gender": "male",
       "given_name": "Mario",
@@ -17254,15 +15957,10 @@
       "birth_date": "1970-06-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "patrizia.bisinella@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "PBisinella"
         }
       ],
-      "email": "patrizia.bisinella@senato.it",
       "family_name": "BISINELLA",
       "gender": "female",
       "given_name": "Patrizia",
@@ -17327,13 +16025,6 @@
     },
     {
       "birth_date": "1951-09-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vincenzo.fasano@senato.it"
-        }
-      ],
-      "email": "vincenzo.fasano@senato.it",
       "family_name": "FASANO",
       "gender": "male",
       "given_name": "Enzo",
@@ -17381,15 +16072,10 @@
       "birth_date": "1947-03-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "roberto.formigoni@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "r_formigoni"
         }
       ],
-      "email": "roberto.formigoni@senato.it",
       "family_name": "FORMIGONI",
       "gender": "male",
       "given_name": "Roberto",
@@ -17536,13 +16222,6 @@
     },
     {
       "birth_date": "1953-05-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antonio.azzollini@senato.it"
-        }
-      ],
-      "email": "antonio.azzollini@senato.it",
       "family_name": "AZZOLLINI",
       "gender": "male",
       "given_name": "Antonio",
@@ -17586,15 +16265,10 @@
       "birth_date": "1961-01-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sara.paglini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "sarapaglinicarr"
         }
       ],
-      "email": "sara.paglini@senato.it",
       "family_name": "Paglini",
       "gender": "female",
       "given_name": "Sara",
@@ -17650,15 +16324,10 @@
       "birth_date": "1964-09-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "josefa.idem@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "josefaidem"
         }
       ],
-      "email": "josefa.idem@senato.it",
       "family_name": "IDEM",
       "gender": "female",
       "given_name": "Josefa",
@@ -17822,15 +16491,10 @@
       "birth_date": "1962-07-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jonny.crosio@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "JCrosio"
         }
       ],
-      "email": "jonny.crosio@senato.it",
       "family_name": "CROSIO",
       "gender": "male",
       "given_name": "Jonny",
@@ -17886,19 +16550,10 @@
       "birth_date": "1949-07-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vs.senato@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "valeria.fedeli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "valeriafedeli"
         }
       ],
-      "email": "vs.senato@gmail.com",
       "family_name": "Fedeli",
       "gender": "female",
       "given_name": "Valeria",
@@ -18075,15 +16730,10 @@
       "birth_date": "1972-11-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sergio.puglia@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "sergiopuglia"
         }
       ],
-      "email": "sergio.puglia@senato.it",
       "family_name": "Puglia",
       "gender": "male",
       "given_name": "Sergio",
@@ -18135,15 +16785,10 @@
       "birth_date": "1954-02-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maurizio.romani@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Mau3112"
         }
       ],
-      "email": "maurizio.romani@senato.it",
       "family_name": "Romani",
       "gender": "male",
       "given_name": "Maurizio",
@@ -18195,19 +16840,10 @@
       "birth_date": "1963-08-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ass.stefano@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "dario.stefano@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "DarioStefano"
         }
       ],
-      "email": "ass.stefano@gmail.com",
       "family_name": "STEFANO",
       "gender": "male",
       "given_name": "Dario",
@@ -18274,15 +16910,10 @@
       "birth_date": "1965-02-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "massimo.cassano@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "MassimoCassano"
         }
       ],
-      "email": "massimo.cassano@senato.it",
       "family_name": "CASSANO",
       "gender": "male",
       "given_name": "Massimo",
@@ -18334,19 +16965,10 @@
       "birth_date": "1957-02-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "laura.puppato@consiglioveneto.it"
-        },
-        {
-          "type": "email",
-          "value": "laura.puppato@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LauraPuppato"
         }
       ],
-      "email": "laura.puppato@consiglioveneto.it",
       "family_name": "PUPPATO",
       "gender": "female",
       "given_name": "Laura",
@@ -18427,13 +17049,6 @@
     },
     {
       "birth_date": "1956-12-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bruno.alicata@senato.it"
-        }
-      ],
-      "email": "bruno.alicata@senato.it",
       "family_name": "ALICATA",
       "gender": "male",
       "given_name": "Bruno",
@@ -18485,15 +17100,10 @@
       "birth_date": "1967-03-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "simona.vicari@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "SimonaVicari"
         }
       ],
-      "email": "simona.vicari@senato.it",
       "family_name": "VICARI",
       "gender": "female",
       "given_name": "Simona",
@@ -18549,15 +17159,10 @@
       "birth_date": "1963-12-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mauromaria.marino@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "mauro_m_marino"
         }
       ],
-      "email": "mauromaria.marino@senato.it",
       "family_name": "MARINO",
       "gender": "male",
       "given_name": "Mauro",
@@ -18614,15 +17219,10 @@
       "birth_date": "1952-05-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "franco.conte@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "francoconte52"
         }
       ],
-      "email": "franco.conte@senato.it",
       "family_name": "CONTE",
       "gender": "male",
       "given_name": "Franco",
@@ -18681,15 +17281,10 @@
       "birth_date": "1964-07-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "adele.gambaro@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "adelegambaro"
         }
       ],
-      "email": "adele.gambaro@senato.it",
       "family_name": "Gambaro",
       "gender": "female",
       "given_name": "Adele",
@@ -18745,15 +17340,10 @@
       "birth_date": "1958-10-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paolo.naccarato@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "paolonak"
         }
       ],
-      "email": "paolo.naccarato@senato.it",
       "family_name": "NACCARATO",
       "gender": "male",
       "given_name": "Paolo",
@@ -18805,23 +17395,10 @@
       "birth_date": "1956-05-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pignedoli_l@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "segreteria@comunita-montana.re.it"
-        },
-        {
-          "type": "email",
-          "value": "leana.pignedoli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LeanaPignedoli"
         }
       ],
-      "email": "pignedoli_l@posta.senato.it",
       "family_name": "PIGNEDOLI",
       "gender": "female",
       "given_name": "Leana",
@@ -18869,15 +17446,10 @@
       "birth_date": "1963-07-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marco.marin@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Marin63Marco"
         }
       ],
-      "email": "marco.marin@senato.it",
       "family_name": "MARIN",
       "gender": "male",
       "given_name": "Marco",
@@ -18968,19 +17540,10 @@
       "birth_date": "1960-07-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "malan_l@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "lucio.malan@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "luciomalan"
         }
       ],
-      "email": "malan_l@posta.senato.it",
       "family_name": "MALAN",
       "gender": "male",
       "given_name": "Lucio",
@@ -19053,13 +17616,6 @@
     },
     {
       "birth_date": "1961-10-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fazzone_c@posta.senato.it"
-        }
-      ],
-      "email": "fazzone_c@posta.senato.it",
       "family_name": "FAZZONE",
       "gender": "male",
       "given_name": "Claudio",
@@ -19103,19 +17659,10 @@
       "birth_date": "1950-07-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "galbertini@europarl.eu.int"
-        },
-        {
-          "type": "email",
-          "value": "gabriele.albertini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "g_albertini"
         }
       ],
-      "email": "galbertini@europarl.eu.int",
       "family_name": "ALBERTINI",
       "gender": "male",
       "given_name": "Gabriele",
@@ -19271,19 +17818,10 @@
       "birth_date": "1955-07-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "info@brunomancuso.it"
-        },
-        {
-          "type": "email",
-          "value": "bruno.mancuso@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "bmancuso8"
         }
       ],
-      "email": "info@brunomancuso.it",
       "family_name": "MANCUSO",
       "gender": "male",
       "given_name": "Bruno",
@@ -19395,15 +17933,10 @@
       "birth_date": "1962-12-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stefano_bertacco@giunta.comune.verona.it"
-        },
-        {
           "type": "twitter",
           "value": "BertaccoS"
         }
       ],
-      "email": "stefano_bertacco@giunta.comune.verona.it",
       "family_name": "BERTACCO",
       "gender": "male",
       "given_name": "Stefano",
@@ -19458,15 +17991,10 @@
       "birth_date": "1968-02-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "monica.casaletto@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "mcasa68"
         }
       ],
-      "email": "monica.casaletto@gmail.com",
       "family_name": "Casaletto",
       "gender": "female",
       "given_name": "Monica",
@@ -19518,19 +18046,10 @@
       "birth_date": "1958-01-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "donatella.albano@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "donatella.albano@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "DonatellaAlbano"
         }
       ],
-      "email": "donatella.albano@senato.it",
       "family_name": "Albano",
       "gender": "female",
       "given_name": "Donatella",
@@ -19601,15 +18120,10 @@
       "birth_date": "1950-01-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carloamedeo.giovanardi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "SenGiovanardi"
         }
       ],
-      "email": "carloamedeo.giovanardi@senato.it",
       "family_name": "GIOVANARDI",
       "gender": "male",
       "given_name": "Carlo",
@@ -19746,19 +18260,10 @@
       "birth_date": "1959-12-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "milo@consiglio.regione.campania.it"
-        },
-        {
-          "type": "email",
-          "value": "antonio.milo@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "SenAntonioMilo"
         }
       ],
-      "email": "milo@consiglio.regione.campania.it",
       "family_name": "MILO",
       "gender": "male",
       "given_name": "Antonio",
@@ -19806,15 +18311,10 @@
       "birth_date": "1963-07-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nicola.morra.63@facebook.com"
-        },
-        {
           "type": "twitter",
           "value": "NicolaMorra63"
         }
       ],
-      "email": "nicola.morra.63@facebook.com",
       "family_name": "Morra",
       "gender": "male",
       "given_name": "Nicola",
@@ -19877,15 +18377,10 @@
       "birth_date": "1971-04-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "miguelgotorpd@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "GotorMiguel"
         }
       ],
-      "email": "miguelgotorpd@gmail.com",
       "family_name": "Gotor",
       "gender": "male",
       "given_name": "Miguel",
@@ -19996,15 +18491,10 @@
       "birth_date": "1958-01-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "laura.cantini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "CantiniL"
         }
       ],
-      "email": "laura.cantini@senato.it",
       "family_name": "CANTINI",
       "gender": "female",
       "given_name": "Laura",
@@ -20058,13 +18548,6 @@
     },
     {
       "birth_date": "1972-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vincenzo.santangelo@senato.it"
-        }
-      ],
-      "email": "vincenzo.santangelo@senato.it",
       "family_name": "Santangelo",
       "gender": "male",
       "given_name": "Vincenzo",
@@ -20115,15 +18598,10 @@
       "birth_date": "1964-02-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vitorosario.petrocelli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "vitopetrocelli"
         }
       ],
-      "email": "vitorosario.petrocelli@senato.it",
       "family_name": "Petrocelli",
       "gender": "male",
       "given_name": "Vito",
@@ -20172,13 +18650,6 @@
     },
     {
       "birth_date": "1960-07-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "salvatoretito.dimaggio@senato.it"
-        }
-      ],
-      "email": "salvatoretito.dimaggio@senato.it",
       "family_name": "Di Maggio",
       "gender": "male",
       "given_name": "Salvatore",
@@ -20279,13 +18750,6 @@
     },
     {
       "birth_date": "1947-11-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "riccardo.conti@senato.it"
-        }
-      ],
-      "email": "riccardo.conti@senato.it",
       "family_name": "CONTI",
       "gender": "male",
       "given_name": "Riccardo",
@@ -20340,13 +18804,6 @@
     },
     {
       "birth_date": "1941-03-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "giancarlo.serafini@senato.it"
-        }
-      ],
-      "email": "giancarlo.serafini@senato.it",
       "family_name": "SERAFINI",
       "gender": "male",
       "given_name": "Giancarlo",
@@ -20392,13 +18849,6 @@
     },
     {
       "birth_date": "1965-02-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariomichele.giarrusso@senato.it"
-        }
-      ],
-      "email": "mariomichele.giarrusso@senato.it",
       "family_name": "Giarrusso",
       "gender": "male",
       "given_name": "Mario",
@@ -20454,15 +18904,10 @@
       "birth_date": "1971-07-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "laura.bottici@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LauraBottici"
         }
       ],
-      "email": "laura.bottici@senato.it",
       "family_name": "Bottici",
       "gender": "female",
       "given_name": "Laura",
@@ -20517,15 +18962,10 @@
       "birth_date": "1962-11-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "bartolomeo.pepe@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "BartolomeoPepe"
         }
       ],
-      "email": "bartolomeo.pepe@senato.it",
       "family_name": "Pepe",
       "gender": "male",
       "given_name": "Bartolomeo",
@@ -20630,15 +19070,10 @@
       "birth_date": "1966-12-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stefano.collina@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "CollinaStefano"
         }
       ],
-      "email": "stefano.collina@senato.it",
       "family_name": "Collina",
       "gender": "male",
       "given_name": "Stefano",
@@ -20692,13 +19127,6 @@
     },
     {
       "birth_date": "1972-09-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "paolo.tosato@senato.it"
-        }
-      ],
-      "email": "paolo.tosato@senato.it",
       "family_name": "TOSATO",
       "gender": "male",
       "given_name": "Paolo",
@@ -20749,15 +19177,10 @@
       "birth_date": "1971-10-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gianmarco.centinaio@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "giamma71"
         }
       ],
-      "email": "gianmarco.centinaio@senato.it",
       "family_name": "Centinaio",
       "gender": "male",
       "given_name": "Gian",
@@ -20849,19 +19272,10 @@
       "birth_date": "1972-10-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "f.verducci@partitodemocratico.it"
-        },
-        {
-          "type": "email",
-          "value": "francesco.verducci@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "cescverducci"
         }
       ],
-      "email": "f.verducci@partitodemocratico.it",
       "family_name": "VERDUCCI",
       "gender": "male",
       "given_name": "Francesco",
@@ -20926,17 +19340,6 @@
     },
     {
       "birth_date": "1956-01-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mario.dallator@provincia.venezia.it"
-        },
-        {
-          "type": "email",
-          "value": "mario.dallator@senato.it"
-        }
-      ],
-      "email": "mario.dallator@provincia.venezia.it",
       "family_name": "DALLA TOR",
       "gender": "male",
       "given_name": "Mario",
@@ -20991,15 +19394,10 @@
       "birth_date": "1954-10-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mario.morgoni@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "mariomorgoni"
         }
       ],
-      "email": "mario.morgoni@senato.it",
       "family_name": "Morgoni",
       "gender": "male",
       "given_name": "Mario",
@@ -21066,19 +19464,10 @@
       "birth_date": "1960-02-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "volpi_r@camera.it"
-        },
-        {
-          "type": "email",
-          "value": "raffaele.volpi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "raffaele_volpi"
         }
       ],
-      "email": "volpi_r@camera.it",
       "family_name": "VOLPI",
       "gender": "male",
       "given_name": "Raffaele",
@@ -21133,15 +19522,10 @@
       "birth_date": "1962-01-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "angela.donghia@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Angela_Donghia"
         }
       ],
-      "email": "angela.donghia@senato.it",
       "family_name": "D'Onghia",
       "gender": "female",
       "given_name": "Angela",
@@ -21251,21 +19635,6 @@
     },
     {
       "birth_date": "1952-09-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "micheloni_c@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "info@micheloni.ch"
-        },
-        {
-          "type": "email",
-          "value": "claudio.micheloni@senato.it"
-        }
-      ],
-      "email": "micheloni_c@posta.senato.it",
       "family_name": "MICHELONI",
       "gender": "male",
       "given_name": "Claudio",
@@ -21317,15 +19686,10 @@
       "birth_date": "1965-01-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "infogibiino@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "gibiino_v"
         }
       ],
-      "email": "infogibiino@senato.it",
       "family_name": "GIBIINO",
       "gender": "male",
       "given_name": "Vincenzo",
@@ -21386,13 +19750,6 @@
     },
     {
       "birth_date": "1962-10-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "elena.cattaneo@senato.it"
-        }
-      ],
-      "email": "elena.cattaneo@senato.it",
       "family_name": "CATTANEO",
       "gender": "female",
       "given_name": "Elena",
@@ -21554,13 +19911,6 @@
     },
     {
       "birth_date": "1953-09-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lionellomarco.pagnoncelli@senato.it"
-        }
-      ],
-      "email": "lionellomarco.pagnoncelli@senato.it",
       "family_name": "PAGNONCELLI",
       "gender": "male",
       "given_name": "Lionello",
@@ -21600,15 +19950,10 @@
       "birth_date": "1960-01-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stefania.pezzopane@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "stefaniapezzopa"
         }
       ],
-      "email": "stefania.pezzopane@senato.it",
       "family_name": "PEZZOPANE",
       "gender": "female",
       "given_name": "Stefania",
@@ -21677,13 +20022,6 @@
     },
     {
       "birth_date": "1956-06-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pieroaiello.regcal@libero.it"
-        }
-      ],
-      "email": "pieroaiello.regcal@libero.it",
       "family_name": "AIELLO",
       "gender": "male",
       "given_name": "Piero",
@@ -21739,19 +20077,10 @@
       "birth_date": "1950-05-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "schifani_r@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "renato.schifani@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "RenatoSchifani"
         }
       ],
-      "email": "schifani_r@posta.senato.it",
       "family_name": "SCHIFANI",
       "gender": "male",
       "given_name": "Renato",
@@ -21893,13 +20222,6 @@
     },
     {
       "birth_date": "1972-02-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "alfonso.ciampolillo@senato.it"
-        }
-      ],
-      "email": "alfonso.ciampolillo@senato.it",
       "family_name": "Ciampolillo",
       "gender": "male",
       "given_name": "Lello",
@@ -21951,19 +20273,10 @@
       "birth_date": "1959-12-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "TOMASELLI_S@camera.it"
-        },
-        {
-          "type": "email",
-          "value": "info@salvatoretomaselli.it"
-        },
-        {
           "type": "twitter",
           "value": "SalvTomaselli"
         }
       ],
-      "email": "TOMASELLI_S@camera.it",
       "family_name": "TOMASELLI",
       "gender": "male",
       "given_name": "Salvatore",
@@ -22015,15 +20328,10 @@
       "birth_date": "1957-12-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mariacecilia.guerra@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "mceciguerra"
         }
       ],
-      "email": "mariacecilia.guerra@senato.it",
       "family_name": "Guerra",
       "gender": "female",
       "given_name": "Maria",
@@ -22089,13 +20397,6 @@
     },
     {
       "birth_date": "1939-12-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "franco.carraro@senato.it"
-        }
-      ],
-      "email": "franco.carraro@senato.it",
       "family_name": "CARRARO",
       "gender": "male",
       "given_name": "Franco",
@@ -22215,18 +20516,7 @@
     },
     {
       "birth_date": "1940-09-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "matteoli_a@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "altero.matteoli@senato.it"
-        }
-      ],
       "death_date": "2017-12-18",
-      "email": "matteoli_a@posta.senato.it",
       "family_name": "MATTEOLI",
       "gender": "male",
       "given_name": "Altero",
@@ -22341,13 +20631,6 @@
     },
     {
       "birth_date": "1935-09-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "alfredo.messina@senato.it"
-        }
-      ],
-      "email": "alfredo.messina@senato.it",
       "family_name": "MESSINA",
       "gender": "male",
       "given_name": "Alfredo",
@@ -22391,19 +20674,10 @@
       "birth_date": "1955-02-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "divina_s@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "eccherclaudia@hotmail.com"
-        },
-        {
           "type": "twitter",
           "value": "SergioDivina"
         }
       ],
-      "email": "divina_s@posta.senato.it",
       "family_name": "DIVINA",
       "gender": "male",
       "given_name": "Sergio",
@@ -22470,19 +20744,10 @@
       "birth_date": "1956-07-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gasparri@tin.it"
-        },
-        {
-          "type": "email",
-          "value": "maurizio@gasparri.it"
-        },
-        {
           "type": "twitter",
           "value": "gasparripdl"
         }
       ],
-      "email": "gasparri@tin.it",
       "family_name": "GASPARRI",
       "gender": "male",
       "given_name": "Maurizio",
@@ -22603,15 +20868,10 @@
       "birth_date": "1951-07-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vincenzo.danna@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "vincenzodanna51"
         }
       ],
-      "email": "vincenzo.danna@senato.it",
       "family_name": "D'ANNA",
       "gender": "male",
       "given_name": "Vincenzo",
@@ -22667,19 +20927,10 @@
       "birth_date": "1966-04-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paoladepin@libero.it"
-        },
-        {
-          "type": "email",
-          "value": "paola.depin@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "paoladepin"
         }
       ],
-      "email": "paoladepin@libero.it",
       "family_name": "De Pin",
       "gender": "female",
       "given_name": "Paola",
@@ -22738,15 +20989,10 @@
       "birth_date": "1960-09-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "annamaria.parente@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Am_Parente"
         }
       ],
-      "email": "annamaria.parente@senato.it",
       "family_name": "PARENTE",
       "gender": "female",
       "given_name": "Annamaria",
@@ -22803,13 +21049,6 @@
     },
     {
       "birth_date": "1956-11-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antoniofabio.scavone@senato.it"
-        }
-      ],
-      "email": "antoniofabio.scavone@senato.it",
       "family_name": "SCAVONE",
       "gender": "male",
       "given_name": "Antonio",
@@ -22853,15 +21092,10 @@
       "birth_date": "1952-09-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "giancarlo.sangalli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "GCSangalli"
         }
       ],
-      "email": "giancarlo.sangalli@senato.it",
       "family_name": "SANGALLI",
       "gender": "male",
       "given_name": "Gian",
@@ -22915,13 +21149,6 @@
     },
     {
       "birth_date": "1966-09-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roberto.ruta@senato.it"
-        }
-      ],
-      "email": "roberto.ruta@senato.it",
       "family_name": "RUTA",
       "gender": "male",
       "given_name": "Roberto",
@@ -22970,13 +21197,6 @@
     },
     {
       "birth_date": "1947-01-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manuela.granaiola@senato.it"
-        }
-      ],
-      "email": "manuela.granaiola@senato.it",
       "family_name": "GRANAIOLA",
       "gender": "female",
       "given_name": "Manuela",
@@ -23020,15 +21240,10 @@
       "birth_date": "1954-07-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "giorgio.santini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "gsantini1"
         }
       ],
-      "email": "giorgio.santini@senato.it",
       "family_name": "Santini",
       "gender": "male",
       "given_name": "Giorgio",
@@ -23091,15 +21306,10 @@
       "birth_date": "1961-08-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mariateresa.bertuzzi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "mtbertuzzi"
         }
       ],
-      "email": "mariateresa.bertuzzi@senato.it",
       "family_name": "BERTUZZI",
       "gender": "female",
       "given_name": "Maria",
@@ -23153,13 +21363,6 @@
     },
     {
       "birth_date": "1949-07-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "luciorosario.tarquinio@senato.it"
-        }
-      ],
-      "email": "luciorosario.tarquinio@senato.it",
       "family_name": "TARQUINIO",
       "gender": "male",
       "given_name": "Lucio",
@@ -23207,15 +21410,10 @@
       "birth_date": "1972-04-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "vitoclaudio.crimi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "vitocrimi"
         }
       ],
-      "email": "vitoclaudio.crimi@senato.it",
       "family_name": "CRIMI",
       "gender": "male",
       "given_name": "Vito",
@@ -23295,15 +21493,10 @@
       "birth_date": "1955-01-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lucio.romano@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "LucioRomano02"
         }
       ],
-      "email": "lucio.romano@senato.it",
       "family_name": "Romano",
       "gender": "male",
       "given_name": "Lucio",
@@ -23366,13 +21559,6 @@
     },
     {
       "birth_date": "1958-03-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "elena.ferrara@senato.it"
-        }
-      ],
-      "email": "elena.ferrara@senato.it",
       "family_name": "FERRARA",
       "gender": "female",
       "given_name": "Elena",
@@ -23420,15 +21606,10 @@
       "birth_date": "1950-12-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ivana.simeoni@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "IVANASIMEONI"
         }
       ],
-      "email": "ivana.simeoni@senato.it",
       "family_name": "Simeoni",
       "gender": "female",
       "given_name": "Ivana",
@@ -23480,19 +21661,10 @@
       "birth_date": "1947-08-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "TREMONTI_G@camera.it"
-        },
-        {
-          "type": "email",
-          "value": "giulio.tremonti@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "g_tremonti"
         }
       ],
-      "email": "TREMONTI_G@camera.it",
       "family_name": "TREMONTI",
       "gender": "male",
       "given_name": "Giulio",
@@ -23773,21 +21945,6 @@
     },
     {
       "birth_date": "1965-06-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rossi.gianluca@crumbria.it"
-        },
-        {
-          "type": "email",
-          "value": "info@rossigianluca.it"
-        },
-        {
-          "type": "email",
-          "value": "gianluca.rossi@senato.it"
-        }
-      ],
-      "email": "rossi.gianluca@crumbria.it",
       "family_name": "ROSSI",
       "gender": "male",
       "given_name": "Gianluca",
@@ -23847,15 +22004,10 @@
       "birth_date": "1967-01-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pamelagiacoma.orru@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "pamela_orr"
         }
       ],
-      "email": "pamelagiacoma.orru@senato.it",
       "family_name": "Orrù",
       "gender": "female",
       "given_name": "Pamela",
@@ -23907,15 +22059,10 @@
       "birth_date": "1971-12-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stefano.candiani@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "CandianiStefano"
         }
       ],
-      "email": "stefano.candiani@senato.it",
       "family_name": "CANDIANI",
       "gender": "male",
       "given_name": "Stefano",
@@ -23982,15 +22129,10 @@
       "birth_date": "1947-12-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paolo.corsini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "PaoloCorsini2"
         }
       ],
-      "email": "paolo.corsini@senato.it",
       "family_name": "CORSINI",
       "gender": "male",
       "given_name": "Paolo",
@@ -24084,17 +22226,6 @@
     },
     {
       "birth_date": "1950-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gentile_a@posta.senato.it"
-        },
-        {
-          "type": "email",
-          "value": "antonio.gentile@senato.it"
-        }
-      ],
-      "email": "gentile_a@posta.senato.it",
       "family_name": "GENTILE",
       "gender": "male",
       "given_name": "Antonio",
@@ -24145,19 +22276,10 @@
       "birth_date": "1961-06-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "claudio.broglia@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "claudio.broglia1961@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "Claudio_Broglia"
         }
       ],
-      "email": "claudio.broglia@senato.it",
       "family_name": "BROGLIA",
       "gender": "male",
       "given_name": "Claudio",
@@ -24211,17 +22333,6 @@
     },
     {
       "birth_date": "1934-03-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carlo.rubbia@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "carlo.rubbia@cern.ch"
-        }
-      ],
-      "email": "carlo.rubbia@senato.it",
       "family_name": "RUBBIA",
       "gender": "male",
       "given_name": "Carlo",
@@ -24726,15 +22837,10 @@
       "birth_date": "1965-05-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "andrea.marcucci@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "AndreaMarcucci"
         }
       ],
-      "email": "andrea.marcucci@senato.it",
       "family_name": "Marcucci",
       "gender": "male",
       "given_name": "Andrea",
@@ -24815,17 +22921,6 @@
     },
     {
       "birth_date": "1946-05-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "info@perronealsenato.it"
-        },
-        {
-          "type": "email",
-          "value": "luigi.perrone@senato.it"
-        }
-      ],
-      "email": "info@perronealsenato.it",
       "family_name": "Perrone",
       "gender": "male",
       "given_name": "Luigi",
@@ -24867,17 +22962,6 @@
     },
     {
       "birth_date": "1955-08-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "info@dorislomoro.it"
-        },
-        {
-          "type": "email",
-          "value": "doris.lomoro@senato.it"
-        }
-      ],
-      "email": "info@dorislomoro.it",
       "family_name": "LO MORO",
       "gender": "female",
       "given_name": "Doris",
@@ -24940,15 +23024,10 @@
       "birth_date": "1956-04-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gianluca.susta@europarl.europa.eu"
-        },
-        {
           "type": "twitter",
           "value": "GianlucaSusta"
         }
       ],
-      "email": "gianluca.susta@europarl.europa.eu",
       "family_name": "SUSTA",
       "gender": "male",
       "given_name": "Gianluca",
@@ -25036,15 +23115,10 @@
       "birth_date": "1972-04-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "barbara.lezzi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "barbaralezzi"
         }
       ],
-      "email": "barbara.lezzi@senato.it",
       "family_name": "Lezzi",
       "gender": "female",
       "given_name": "Barbara",
@@ -25128,15 +23202,10 @@
       "birth_date": "1955-05-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pegorer_c@posta.senato.it"
-        },
-        {
           "type": "twitter",
           "value": "CarloPegorerPD"
         }
       ],
-      "email": "pegorer_c@posta.senato.it",
       "family_name": "PEGORER",
       "gender": "male",
       "given_name": "Carlo",
@@ -25189,13 +23258,6 @@
     },
     {
       "birth_date": "1963-10-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariapaola.merloni@senato.it"
-        }
-      ],
-      "email": "mariapaola.merloni@senato.it",
       "family_name": "MERLONI",
       "gender": "female",
       "given_name": "Maria",
@@ -25256,17 +23318,6 @@
     },
     {
       "birth_date": "1958-08-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "piccoli.pdl@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "giovanni.piccoli@senato.it"
-        }
-      ],
-      "email": "piccoli.pdl@gmail.com",
       "family_name": "PICCOLI",
       "gender": "male",
       "given_name": "Giovanni",
@@ -25317,15 +23368,10 @@
       "birth_date": "1945-01-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pietro.grasso@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "PietroGrasso"
         }
       ],
-      "email": "pietro.grasso@senato.it",
       "family_name": "Grasso",
       "gender": "male",
       "given_name": "Pietro",
@@ -25557,13 +23603,6 @@
     },
     {
       "birth_date": "1956-12-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "info@robertocassinelli.it"
-        }
-      ],
-      "email": "info@robertocassinelli.it",
       "family_name": "CASSINELLI",
       "gender": "male",
       "given_name": "Roberto",
@@ -25636,13 +23675,6 @@
     },
     {
       "birth_date": "1956-04-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roberto.calderoli@senato.it"
-        }
-      ],
-      "email": "roberto.calderoli@senato.it",
       "family_name": "CALDEROLI",
       "gender": "male",
       "given_name": "Roberto",
@@ -25791,13 +23823,6 @@
     },
     {
       "birth_date": "1961-05-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bartolomeo.amidei@senato.it"
-        }
-      ],
-      "email": "bartolomeo.amidei@senato.it",
       "family_name": "AMIDEI",
       "gender": "male",
       "given_name": "Bartolomeo",
@@ -25849,19 +23874,10 @@
       "birth_date": "1963-02-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "monica.cirinna@senato.it"
-        },
-        {
-          "type": "email",
-          "value": "info@monicacirinna.it"
-        },
-        {
           "type": "twitter",
           "value": "MonicaCirinna"
         }
       ],
-      "email": "monica.cirinna@senato.it",
       "family_name": "CIRINNA'",
       "gender": "female",
       "given_name": "Monica",
@@ -25958,15 +23974,10 @@
       "birth_date": "1969-06-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "esposito_s@camera.it"
-        },
-        {
           "type": "twitter",
           "value": "stefanoesposito"
         }
       ],
-      "email": "esposito_s@camera.it",
       "family_name": "ESPOSITO",
       "gender": "male",
       "given_name": "Stefano",
@@ -26033,15 +24044,10 @@
       "birth_date": "1948-02-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "luigi.manconi@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "LuigiManconi1"
         }
       ],
-      "email": "luigi.manconi@gmail.com",
       "family_name": "Manconi",
       "gender": "male",
       "given_name": "Luigi",
@@ -26156,15 +24162,10 @@
       "birth_date": "1960-05-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senatrice@laurabianconi.it"
-        },
-        {
           "type": "twitter",
           "value": "lauradicesena"
         }
       ],
-      "email": "senatrice@laurabianconi.it",
       "family_name": "BIANCONI",
       "gender": "female",
       "given_name": "Laura",
@@ -26220,15 +24221,10 @@
       "birth_date": "1955-12-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pierferdinando.casini@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "Pierferdinando"
         }
       ],
-      "email": "pierferdinando.casini@senato.it",
       "family_name": "CASINI",
       "gender": "male",
       "given_name": "Pier",
@@ -26432,13 +24428,6 @@
     },
     {
       "birth_date": "1944-07-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sante.zuffada@consiglio.regione.lombardia.it"
-        }
-      ],
-      "email": "sante.zuffada@consiglio.regione.lombardia.it",
       "family_name": "ZUFFADA",
       "gender": "male",
       "given_name": "Sante",
@@ -26493,15 +24482,10 @@
       "birth_date": "1950-01-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "corradino.mineo@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "CorradinoMineo"
         }
       ],
-      "email": "corradino.mineo@senato.it",
       "family_name": "Mineo",
       "gender": "male",
       "given_name": "Corradino",
@@ -26605,15 +24589,10 @@
       "birth_date": "1964-07-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maurizio.buccarella@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "MBuccarella"
         }
       ],
-      "email": "maurizio.buccarella@senato.it",
       "family_name": "Buccarella",
       "gender": "male",
       "given_name": "Maurizio",
@@ -26672,15 +24651,10 @@
       "birth_date": "1969-07-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "francesca.puglisi@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "PuglisiPD"
         }
       ],
-      "email": "francesca.puglisi@senato.it",
       "family_name": "Puglisi",
       "gender": "female",
       "given_name": "Francesca",
@@ -26732,19 +24706,10 @@
       "birth_date": "1961-02-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stefano.lepri@consiglioregionale.piemonte.it"
-        },
-        {
-          "type": "email",
-          "value": "stefano.lepri@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "stefanolepri"
         }
       ],
-      "email": "stefano.lepri@consiglioregionale.piemonte.it",
       "family_name": "LEPRI",
       "gender": "male",
       "given_name": "Stefano",
@@ -26802,13 +24767,6 @@
     },
     {
       "birth_date": "1955-12-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "segreteria@dambrosiolettieri.com"
-        }
-      ],
-      "email": "segreteria@dambrosiolettieri.com",
       "family_name": "D'AMBROSIO LETTIERI",
       "gender": "male",
       "given_name": "Luigi",
@@ -26860,19 +24818,10 @@
       "birth_date": "1960-02-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "franco.mirabelli@consiglio.regione.lombardia.it"
-        },
-        {
-          "type": "email",
-          "value": "franco.mirabelli@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "FraMirabelli"
         }
       ],
-      "email": "franco.mirabelli@consiglio.regione.lombardia.it",
       "family_name": "MIRABELLI",
       "gender": "male",
       "given_name": "Franco",
@@ -26928,19 +24877,10 @@
       "birth_date": "1947-09-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ROMANI_P@camera.it"
-        },
-        {
-          "type": "email",
-          "value": "paolo.romani@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "_paolo_romani_"
         }
       ],
-      "email": "ROMANI_P@camera.it",
       "family_name": "ROMANI",
       "gender": "male",
       "given_name": "Paolo",
@@ -27028,15 +24968,10 @@
       "birth_date": "1967-08-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ornella.bertorotta@senato.it"
-        },
-        {
           "type": "twitter",
           "value": "OBertorotta"
         }
       ],
-      "email": "ornella.bertorotta@senato.it",
       "family_name": "Bertorotta",
       "gender": "female",
       "given_name": "Ornella",
