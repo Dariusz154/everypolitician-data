@@ -99,14 +99,7 @@
     },
     {
       "birth_date": "1954",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anthony.c.abela@parlament.mt"
-        }
-      ],
       "death_date": "2006-04-04",
-      "email": "anthony.c.abela@parlament.mt",
       "gender": "male",
       "given_name": "Anthony",
       "id": "09ff6fb9-0562-4bfa-980e-4365c01c4a3b",
@@ -216,13 +209,6 @@
       "sort_name": "Bezzina, Toni"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "deborah.schembri@parlament.mt"
-        }
-      ],
-      "email": "deborah.schembri@parlament.mt",
       "gender": "female",
       "id": "10b44dd3-3358-4969-ad9f-fc4723067954",
       "identifiers": [
@@ -326,13 +312,6 @@
       "sort_name": "Stellini, David"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "joefarrugiafarell@gmail.com"
-        }
-      ],
-      "email": "joefarrugiafarell@gmail.com",
       "gender": "male",
       "id": "1eaa462f-da27-41dc-9055-919b96ff45a2",
       "identifiers": [
@@ -365,13 +344,6 @@
     },
     {
       "birth_date": "1952-11-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "charles.mangion@parlament.mt"
-        }
-      ],
-      "email": "charles.mangion@parlament.mt",
       "gender": "male",
       "given_name": "Charles",
       "id": "252760c5-af48-4b8f-88be-dbd220de891b",
@@ -644,13 +616,6 @@
     },
     {
       "birth_date": "1960-10-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "michael.gonzi@parlament.mt"
-        }
-      ],
-      "email": "michael.gonzi@parlament.mt",
       "gender": "male",
       "given_name": "Michael",
       "id": "41cda172-c6b3-47db-ac07-3cb3c4b8994f",
@@ -979,13 +944,6 @@
       "sort_name": "Mallia, Emanuel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "paula.mifsud-bonnici@parlament.mt"
-        }
-      ],
-      "email": "paula.mifsud-bonnici@parlament.mt",
       "gender": "female",
       "id": "53bc92b9-e039-4bc4-bce1-aea81684fb7f",
       "identifiers": [
@@ -1174,15 +1132,10 @@
       "birth_date": "1954-10-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "zammf@go.net.mt"
-        },
-        {
           "type": "twitter",
           "value": "franciszd"
         }
       ],
-      "email": "zammf@go.net.mt",
       "gender": "male",
       "given_name": "Francis",
       "id": "63ad454c-3093-4606-8380-00bc3ff70b79",
@@ -1365,13 +1318,6 @@
       "sort_name": "Debono, Kristy"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lucio74b@gmail.com"
-        }
-      ],
-      "email": "lucio74b@gmail.com",
       "gender": "male",
       "id": "70dded4b-99c1-4569-a91f-666cdd3ea391",
       "identifiers": [
@@ -1653,13 +1599,6 @@
       "sort_name": "Mizzi, Konrad"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "franco.mercieca@gov.mt"
-        }
-      ],
-      "email": "franco.mercieca@gov.mt",
       "gender": "male",
       "id": "8c3d0fcd-3aa8-4610-9650-d8f9a05abd71",
       "identifiers": [
@@ -2066,13 +2005,6 @@
       "sort_name": "Cutajar, Robert"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stefan.buontempo@gov.mt"
-        }
-      ],
-      "email": "stefan.buontempo@gov.mt",
       "gender": "male",
       "id": "a4b03c38-5656-4361-8060-28bcbd3aa3a9",
       "identifiers": [
@@ -2169,13 +2101,6 @@
     },
     {
       "birth_date": "1964-05-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "george.pullicino@parlament.mt"
-        }
-      ],
-      "email": "george.pullicino@parlament.mt",
       "gender": "male",
       "given_name": "George",
       "id": "a4e0ace0-d840-4fec-854e-d4af96eff7bd",
@@ -2277,13 +2202,6 @@
     },
     {
       "birth_date": "1939-09-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "joseph.debono-grech@parlament.mt"
-        }
-      ],
-      "email": "joseph.debono-grech@parlament.mt",
       "gender": "male",
       "given_name": "Joe",
       "id": "ab8b7203-9fbd-446d-b545-1cd88ee74e94",
@@ -2548,13 +2466,6 @@
       "sort_name": "Bartolo, Ivan"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "peritcb@gmail.com"
-        }
-      ],
-      "email": "peritcb@gmail.com",
       "gender": "male",
       "id": "c35d2f39-ff12-4f21-b471-7c5ab01a2e1a",
       "identifiers": [
@@ -2742,13 +2653,6 @@
     },
     {
       "birth_date": "1969-05-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tonio.fenech@parlament.mt"
-        }
-      ],
-      "email": "tonio.fenech@parlament.mt",
       "family_name": "Fenech",
       "gender": "male",
       "given_name": "Tonio",
@@ -2802,13 +2706,6 @@
     },
     {
       "birth_date": "1956-08-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vincent.galea@parlament.mt"
-        }
-      ],
-      "email": "vincent.galea@parlament.mt",
       "gender": "male",
       "id": "d807138f-81ad-4c88-a7ef-2a58dfeb579c",
       "identifiers": [
@@ -3497,13 +3394,6 @@
       "sort_name": "Herrera, José"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antoine@antoineborg.com"
-        }
-      ],
-      "email": "antoine@antoineborg.com",
       "gender": "male",
       "id": "f479086e-eaff-4b49-b79b-16fff17595e4",
       "identifiers": [
@@ -3552,13 +3442,6 @@
       "sort_name": "Zammit Lewis, Edward"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "joseph.m.sammut@parlament.mt"
-        }
-      ],
-      "email": "joseph.m.sammut@parlament.mt",
       "gender": "male",
       "id": "f6cdf943-43a2-45cf-941d-1f5d91759100",
       "identifiers": [
@@ -3591,13 +3474,6 @@
     },
     {
       "birth_date": "1942-04-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "george.vella@gov.mt"
-        }
-      ],
-      "email": "george.vella@gov.mt",
       "gender": "male",
       "given_name": "George",
       "id": "f810055a-379c-4865-b974-b00be874ef6b",
@@ -3717,13 +3593,6 @@
     },
     {
       "birth_date": "1947-03-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "louis.grech@gov.mt"
-        }
-      ],
-      "email": "louis.grech@gov.mt",
       "gender": "male",
       "given_name": "Louis",
       "id": "fb060def-5778-4c95-b2c3-f091b09945e4",
@@ -3804,13 +3673,6 @@
     },
     {
       "birth_date": "1956-11-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "giovanna.debono@parlament.mt"
-        }
-      ],
-      "email": "giovanna.debono@parlament.mt",
       "family_name": "Debono",
       "gender": "female",
       "given_name": "Giovanna",
