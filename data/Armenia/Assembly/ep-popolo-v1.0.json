@@ -73,13 +73,6 @@
     },
     {
       "birth_date": "1958-10-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hrant.bagratyan@parliament.am"
-        }
-      ],
-      "email": "hrant.bagratyan@parliament.am",
       "gender": "male",
       "given_name": "Hrant",
       "id": "009f0637-666d-4743-b5c5-d029da2156c6",
@@ -251,13 +244,6 @@
     },
     {
       "birth_date": "1964-03-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "levonzourabian@parliament.am"
-        }
-      ],
-      "email": "levonzourabian@parliament.am",
       "gender": "male",
       "id": "021ca5d4-46d9-47fc-998f-a4794be17d57",
       "identifiers": [
@@ -430,13 +416,6 @@
     },
     {
       "birth_date": "1963-08-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vahram.mkrtchyan@parliament.am"
-        }
-      ],
-      "email": "vahram.mkrtchyan@parliament.am",
       "gender": "male",
       "id": "05fd9041-3990-42ef-a64a-5ce36e00b86d",
       "identifiers": [
@@ -489,13 +468,6 @@
     },
     {
       "birth_date": "1971-09-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "armen.avetisyan@parliament.am"
-        }
-      ],
-      "email": "armen.avetisyan@parliament.am",
       "gender": "male",
       "id": "0630f634-cdf5-499a-af11-b741d96759ea",
       "identifiers": [
@@ -526,13 +498,6 @@
     },
     {
       "birth_date": "1955-12-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ruben.hakobyan@parliament.am"
-        }
-      ],
-      "email": "ruben.hakobyan@parliament.am",
       "family_name": "Akopjan",
       "gender": "male",
       "id": "06ea16ee-bb6b-4e55-ba7e-ec3e36ef682e",
@@ -601,13 +566,6 @@
     },
     {
       "birth_date": "1977-02-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hovhannes.sahakyan@parliament.am"
-        }
-      ],
-      "email": "hovhannes.sahakyan@parliament.am",
       "gender": "male",
       "id": "08954e9a-0a1b-4352-be4e-7671338b1762",
       "identifiers": [
@@ -657,13 +615,6 @@
     },
     {
       "birth_date": "1974-12-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "avagyan@paliament.am"
-        }
-      ],
-      "email": "avagyan@paliament.am",
       "gender": "male",
       "given_name": "Karen",
       "id": "0a1cae84-9ff4-46db-97a2-2a88905ee622",
@@ -795,13 +746,6 @@
     },
     {
       "birth_date": "1956-11-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gagik.tsarukyan@parliament.am"
-        }
-      ],
-      "email": "gagik.tsarukyan@parliament.am",
       "gender": "male",
       "id": "11889955-555a-442a-84ea-07014af5f893",
       "identifiers": [
@@ -903,13 +847,6 @@
     },
     {
       "birth_date": "1961-09-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tigran.stepanyan@parliament.am"
-        }
-      ],
-      "email": "tigran.stepanyan@parliament.am",
       "gender": "male",
       "id": "1300806a-301e-47a2-b13b-1dc84f808e66",
       "identifiers": [
@@ -940,13 +877,6 @@
     },
     {
       "birth_date": "1958-01-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hakob.hakobyanr@parliament.am"
-        }
-      ],
-      "email": "hakob.hakobyanr@parliament.am",
       "gender": "male",
       "id": "1319494c-2483-49c1-83d8-568bf9937114",
       "identifiers": [
@@ -1193,13 +1123,6 @@
     },
     {
       "birth_date": "1972-12-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tpoghosyan@parliament.am"
-        }
-      ],
-      "email": "tpoghosyan@parliament.am",
       "gender": "male",
       "id": "26c4a09e-dab3-459f-8347-aa5fff066deb",
       "identifiers": [
@@ -1254,13 +1177,6 @@
     },
     {
       "birth_date": "1974-11-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "a.zakaryan@parliament.am"
-        }
-      ],
-      "email": "a.zakaryan@parliament.am",
       "gender": "male",
       "id": "277bed44-047a-4517-a7a8-b64c66fb02af",
       "identifiers": [
@@ -1313,13 +1229,6 @@
     },
     {
       "birth_date": "1972-07-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "robert.sargsyan@parliament.am"
-        }
-      ],
-      "email": "robert.sargsyan@parliament.am",
       "gender": "male",
       "id": "28a9b59e-12aa-40d3-b6f9-a4a42d3eb2f5",
       "identifiers": [
@@ -1469,13 +1378,6 @@
     },
     {
       "birth_date": "1961-01-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "heghine.bisharyan@parliament.am"
-        }
-      ],
-      "email": "heghine.bisharyan@parliament.am",
       "gender": "female",
       "id": "2cc82c3b-f9fe-4b3c-825e-fbda02c539c9",
       "identifiers": [
@@ -1544,13 +1446,6 @@
     },
     {
       "birth_date": "1960-03-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "karo.karapetyan@parliament.am"
-        }
-      ],
-      "email": "karo.karapetyan@parliament.am",
       "gender": "male",
       "id": "2d8fa261-858f-431b-9c85-09680ad907f2",
       "identifiers": [
@@ -1581,13 +1476,6 @@
     },
     {
       "birth_date": "1984-02-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hayk.grigoryan@parliament.am"
-        }
-      ],
-      "email": "hayk.grigoryan@parliament.am",
       "gender": "male",
       "id": "2f21fcbb-ea6a-46a1-bce3-e5307afbaaff",
       "identifiers": [
@@ -1702,13 +1590,6 @@
     },
     {
       "birth_date": "1954-07-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "armen.karapetyan@parliament.am"
-        }
-      ],
-      "email": "armen.karapetyan@parliament.am",
       "gender": "male",
       "id": "3057dc2e-514d-455f-9516-51442720bfd6",
       "identifiers": [
@@ -1818,13 +1699,6 @@
     },
     {
       "birth_date": "1956-02-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "murad.guloyan@parliament.am"
-        }
-      ],
-      "email": "murad.guloyan@parliament.am",
       "gender": "male",
       "id": "3516aaa4-0057-435e-9622-cb4f44b62e06",
       "identifiers": [
@@ -1879,13 +1753,6 @@
     },
     {
       "birth_date": "1978-03-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "levon.dokholyan@parliament.am"
-        }
-      ],
-      "email": "levon.dokholyan@parliament.am",
       "gender": "male",
       "id": "3773e65d-9a33-45ed-9608-95f97c1cf909",
       "identifiers": [
@@ -1916,13 +1783,6 @@
     },
     {
       "birth_date": "1956-08-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hakob.hakobyang@parliament.am"
-        }
-      ],
-      "email": "hakob.hakobyang@parliament.am",
       "family_name": "Akopjan",
       "gender": "male",
       "id": "38828ba8-60b2-4952-a644-d472aae0ae34",
@@ -1987,13 +1847,6 @@
     },
     {
       "birth_date": "1959-11-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "arsenyan@parliament.am"
-        }
-      ],
-      "email": "arsenyan@parliament.am",
       "gender": "male",
       "id": "3cfbcac9-077c-4679-a24f-74569f6bfe4c",
       "identifiers": [
@@ -2116,13 +1969,6 @@
     },
     {
       "birth_date": "1959-03-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lyudmila.sargsyan@parliament.am"
-        }
-      ],
-      "email": "lyudmila.sargsyan@parliament.am",
       "gender": "female",
       "id": "3f06884b-0c9b-4921-a5d3-7bf820fe1acd",
       "identifiers": [
@@ -2205,13 +2051,6 @@
     },
     {
       "birth_date": "1971-07-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "knahapetyan@parliament.am"
-        }
-      ],
-      "email": "knahapetyan@parliament.am",
       "gender": "male",
       "id": "43a24081-de1d-4a62-aa94-7ec4490b8eab",
       "identifiers": [
@@ -2468,13 +2307,6 @@
     },
     {
       "birth_date": "1980-11-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vahan.babayan@parliament.am"
-        }
-      ],
-      "email": "vahan.babayan@parliament.am",
       "gender": "male",
       "id": "4b911dd6-679b-4e70-a151-7d234704eb6a",
       "identifiers": [
@@ -2523,13 +2355,6 @@
     },
     {
       "birth_date": "1969-04-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ishkhan.khachatryan@parliament.am"
-        }
-      ],
-      "email": "ishkhan.khachatryan@parliament.am",
       "gender": "male",
       "id": "4c3adb34-281b-4e71-87b0-63bd4596a663",
       "identifiers": [
@@ -2636,13 +2461,6 @@
     },
     {
       "birth_date": "1964-05-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hovhannes.margaryan@parliament.am"
-        }
-      ],
-      "email": "hovhannes.margaryan@parliament.am",
       "gender": "male",
       "id": "54801902-7448-4956-82c7-363cb4e62f04",
       "identifiers": [
@@ -2701,13 +2519,6 @@
     },
     {
       "birth_date": "1958-02-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "samvel.nikoyan@parliament.am"
-        }
-      ],
-      "email": "samvel.nikoyan@parliament.am",
       "gender": "male",
       "id": "549fbf14-2169-4a91-b0d6-b141feb1c5d5",
       "identifiers": [
@@ -2792,13 +2603,6 @@
     },
     {
       "birth_date": "1966-11-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hrant.grigoryan@parliament.am"
-        }
-      ],
-      "email": "hrant.grigoryan@parliament.am",
       "family_name": "Grigorian",
       "gender": "male",
       "id": "5568932a-e507-419c-a759-df449574672c",
@@ -2845,13 +2649,6 @@
     },
     {
       "birth_date": "1960-07-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hermineh.naghdalyan@parliament.am"
-        }
-      ],
-      "email": "hermineh.naghdalyan@parliament.am",
       "gender": "female",
       "given_name": "Hermine",
       "id": "57db030d-0dc9-438e-a53c-d96debda3c2c",
@@ -2946,13 +2743,6 @@
     },
     {
       "birth_date": "1964-11-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "araik.hovhannisyan@parliament.am"
-        }
-      ],
-      "email": "araik.hovhannisyan@parliament.am",
       "gender": "male",
       "id": "580f8873-f573-4302-a030-4dc3acbb6c19",
       "identifiers": [
@@ -2983,13 +2773,6 @@
     },
     {
       "birth_date": "1957-03-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aram.manukyan@parliament.am"
-        }
-      ],
-      "email": "aram.manukyan@parliament.am",
       "family_name": "Manukyan",
       "gender": "male",
       "given_name": "Aram",
@@ -3076,13 +2859,6 @@
     },
     {
       "birth_date": "1946-01-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mkrtich.minasyan@parliament.am"
-        }
-      ],
-      "email": "mkrtich.minasyan@parliament.am",
       "family_name": "Minassjan",
       "gender": "male",
       "id": "5a16085c-e344-4fe5-b3bf-1258303c51eb",
@@ -3138,13 +2914,6 @@
     },
     {
       "birth_date": "1960-03-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "a.rustamyan@parliament.am"
-        }
-      ],
-      "email": "a.rustamyan@parliament.am",
       "gender": "male",
       "given_name": "Armen",
       "id": "5b214319-2d24-4bd8-948f-296c6f457ca2",
@@ -3224,13 +2993,6 @@
     },
     {
       "birth_date": "1951-06-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mher.sedrakyan@parliament.am"
-        }
-      ],
-      "email": "mher.sedrakyan@parliament.am",
       "gender": "male",
       "id": "601efa7c-1bbb-4ace-8413-511d5af475fb",
       "identifiers": [
@@ -3285,13 +3047,6 @@
     },
     {
       "birth_date": "1973-07-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sargsyan.artak@parliament.am"
-        }
-      ],
-      "email": "sargsyan.artak@parliament.am",
       "gender": "male",
       "id": "68ac542b-542d-445b-958c-bccb5af9e97c",
       "identifiers": [
@@ -3341,13 +3096,6 @@
     },
     {
       "birth_date": "1972-01-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zpostanjyan@parliament.am"
-        }
-      ],
-      "email": "zpostanjyan@parliament.am",
       "gender": "female",
       "id": "6d83c8b6-f4be-4d9b-a19c-be04aa746604",
       "identifiers": [
@@ -3444,13 +3192,6 @@
     },
     {
       "birth_date": "1964-10-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hayk.babukhanyan@parliament.am"
-        }
-      ],
-      "email": "hayk.babukhanyan@parliament.am",
       "gender": "male",
       "given_name": "Hayk",
       "id": "6d9a02e9-ac09-4d11-ac3e-cf5a61f34234",
@@ -3592,13 +3333,6 @@
     },
     {
       "birth_date": "1970-03-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "karen.bekaryan@parliament.am"
-        }
-      ],
-      "email": "karen.bekaryan@parliament.am",
       "gender": "male",
       "id": "78347d1e-4428-4e43-8583-ca91959eddc2",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1152",
@@ -3686,13 +3420,6 @@
     },
     {
       "birth_date": "1963-12-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "karen.saribekyan@parliament.am"
-        }
-      ],
-      "email": "karen.saribekyan@parliament.am",
       "gender": "male",
       "id": "7911aabb-5e40-42b6-a98f-cf42d6c443ca",
       "identifiers": [
@@ -3802,13 +3529,6 @@
     },
     {
       "birth_date": "1952-11-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "a.aghababyan@parliament.am"
-        }
-      ],
-      "email": "a.aghababyan@parliament.am",
       "gender": "male",
       "id": "7dce718d-c474-43b6-b8d3-fd58e9868e61",
       "identifiers": [
@@ -3863,13 +3583,6 @@
     },
     {
       "birth_date": "1979-08-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tigran.urikhanyan@parliament.am"
-        }
-      ],
-      "email": "tigran.urikhanyan@parliament.am",
       "gender": "male",
       "id": "80b523a7-b60c-46ae-8e30-464887503154",
       "identifiers": [
@@ -3935,13 +3648,6 @@
     },
     {
       "birth_date": "1967-04-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "m-manukyan@parliament.am"
-        }
-      ],
-      "email": "m-manukyan@parliament.am",
       "family_name": "Manukyan",
       "gender": "male",
       "id": "841f1bba-cc39-4db4-8860-180147494eee",
@@ -4099,13 +3805,6 @@
     },
     {
       "birth_date": "1967-09-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sedrak.saroyan@parliament.am"
-        }
-      ],
-      "email": "sedrak.saroyan@parliament.am",
       "family_name": "Saroyan",
       "gender": "male",
       "id": "87107b99-6ba5-4117-a16a-e9768cc4adbd",
@@ -4165,13 +3864,6 @@
     },
     {
       "birth_date": "1975-11-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eduard.sharmazanov@parliament.am"
-        }
-      ],
-      "email": "eduard.sharmazanov@parliament.am",
       "gender": "male",
       "given_name": "Eduard",
       "id": "886e22fb-f03f-4866-862b-974ad19fea26",
@@ -4251,13 +3943,6 @@
     },
     {
       "birth_date": "1959-05-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "harutyun.gharagyozyan@parliament.am"
-        }
-      ],
-      "email": "harutyun.gharagyozyan@parliament.am",
       "gender": "male",
       "id": "8a5662bf-b6fc-4f19-9e22-0c5518aacf4c",
       "identifiers": [
@@ -4372,13 +4057,6 @@
     },
     {
       "birth_date": "1957-11-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "abraham.manukyan@parliament.am"
-        }
-      ],
-      "email": "abraham.manukyan@parliament.am",
       "family_name": "Manukyan",
       "gender": "male",
       "id": "93c34aee-2184-41cf-98ef-22598d7af967",
@@ -4645,13 +4323,6 @@
     },
     {
       "birth_date": "1981-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "martun.grigoryan@parliament.am"
-        }
-      ],
-      "email": "martun.grigoryan@parliament.am",
       "gender": "male",
       "id": "956ee5c1-76a1-48d6-9e64-0bd61f2c7d11",
       "identifiers": [
@@ -4701,13 +4372,6 @@
     },
     {
       "birth_date": "1947-05-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ababloyan@parliament.am"
-        }
-      ],
-      "email": "ababloyan@parliament.am",
       "gender": "male",
       "id": "97ff3743-5c79-49d6-8df3-214653b222b6",
       "identifiers": [
@@ -4783,13 +4447,6 @@
     },
     {
       "birth_date": "1949-05-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vahagn.makhsudyan@parliament.am"
-        }
-      ],
-      "email": "vahagn.makhsudyan@parliament.am",
       "gender": "male",
       "id": "9811d358-486d-4aa2-a009-e999ce2756da",
       "identifiers": [
@@ -4820,13 +4477,6 @@
     },
     {
       "birth_date": "1961-06-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vahram.baghdasaryan@parliament.am"
-        }
-      ],
-      "email": "vahram.baghdasaryan@parliament.am",
       "family_name": "Bagdasarian",
       "gender": "male",
       "id": "9b2d20f1-273f-4d4a-8c1b-0ddbf7a75738",
@@ -4920,13 +4570,6 @@
     },
     {
       "birth_date": "1964-04-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "grigori.margaryan@parliament.am"
-        }
-      ],
-      "email": "grigori.margaryan@parliament.am",
       "gender": "male",
       "given_name": "Gregory",
       "id": "9bd6852b-86e3-4f19-bb8e-773965adf1c3",
@@ -4982,13 +4625,6 @@
     },
     {
       "birth_date": "1966-10-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "adavtyan@parliament.am"
-        }
-      ],
-      "email": "adavtyan@parliament.am",
       "gender": "male",
       "id": "9d876877-36fe-4a34-b10d-58e9b855ee83",
       "identifiers": [
@@ -5054,13 +4690,6 @@
     },
     {
       "birth_date": "1972-04-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shirak.torosyan@parliament.am"
-        }
-      ],
-      "email": "shirak.torosyan@parliament.am",
       "gender": "male",
       "id": "a3d991f4-0aaa-4e21-aaec-3512bfd8d35a",
       "identifiers": [
@@ -5189,13 +4818,6 @@
     },
     {
       "birth_date": "1961-04-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rustam.gasparyan@parliament.am"
-        }
-      ],
-      "email": "rustam.gasparyan@parliament.am",
       "gender": "male",
       "id": "aa52582a-156a-4347-92ff-9d6c504a59c0",
       "identifiers": [
@@ -5245,13 +4867,6 @@
     },
     {
       "birth_date": "1973-05-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "karine.poghosyan@parliament.am"
-        }
-      ],
-      "email": "karine.poghosyan@parliament.am",
       "gender": "female",
       "id": "ac006fa8-4c32-4deb-b981-3d5f6dfe83fd",
       "identifiers": [
@@ -5282,13 +4897,6 @@
     },
     {
       "birth_date": "1966-08-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "arakel.movsisyan@parliament.am"
-        }
-      ],
-      "email": "arakel.movsisyan@parliament.am",
       "gender": "male",
       "id": "ac94fa1f-49b5-4d6d-a432-c9c8871263da",
       "identifiers": [
@@ -5404,13 +5012,6 @@
     },
     {
       "birth_date": "1978-11-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "elinar.vardanyan@parliament.am"
-        }
-      ],
-      "email": "elinar.vardanyan@parliament.am",
       "gender": "female",
       "id": "af1fd3c3-f2cc-4c09-9c63-8da56f5f9d37",
       "identifiers": [
@@ -5600,13 +5201,6 @@
     },
     {
       "birth_date": "1948-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "g.sahakyan@parliament.am"
-        }
-      ],
-      "email": "g.sahakyan@parliament.am",
       "family_name": "Sahakian",
       "gender": "male",
       "id": "b5990dd4-9618-4caa-a6c4-9bf55d3f196d",
@@ -5694,13 +5288,6 @@
     },
     {
       "birth_date": "1977-10-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "naira.karapetyan@parliament.am"
-        }
-      ],
-      "email": "naira.karapetyan@parliament.am",
       "gender": "female",
       "id": "b5daaaf6-741f-4348-8efa-e4909b441fcb",
       "identifiers": [
@@ -5731,13 +5318,6 @@
     },
     {
       "birth_date": "1959-06-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stepan.demirchyan@parliament.am"
-        }
-      ],
-      "email": "stepan.demirchyan@parliament.am",
       "family_name": "Demirchyan",
       "gender": "male",
       "given_name": "Stepan",
@@ -5853,13 +5433,6 @@
     },
     {
       "birth_date": "1971-04-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "arkadi.hambardzumyan@parliament.am"
-        }
-      ],
-      "email": "arkadi.hambardzumyan@parliament.am",
       "family_name": "Ambartsumian",
       "gender": "male",
       "given_name": "Arkady",
@@ -5916,13 +5489,6 @@
     },
     {
       "birth_date": "1957-06-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manvel.badeyan@parliament.am"
-        }
-      ],
-      "email": "manvel.badeyan@parliament.am",
       "gender": "male",
       "id": "be6e1647-88a8-46bc-8751-be1860c8ee30",
       "identifiers": [
@@ -5968,13 +5534,6 @@
     },
     {
       "birth_date": "1956-01-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aleksan@parliament.am"
-        }
-      ],
-      "email": "aleksan@parliament.am",
       "family_name": "Petrossian",
       "gender": "male",
       "id": "bef35912-af15-4739-b363-c27834ba8b4e",
@@ -6030,13 +5589,6 @@
     },
     {
       "birth_date": "1975-06-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolpashinyan@parliament.am"
-        }
-      ],
-      "email": "nikolpashinyan@parliament.am",
       "gender": "male",
       "given_name": "Nikol",
       "id": "bff3ec8f-c6ff-43aa-b094-0737fcc35b48",
@@ -6372,13 +5924,6 @@
     },
     {
       "birth_date": "1950-04-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gem07@parliament.am"
-        }
-      ],
-      "email": "gem07@parliament.am",
       "family_name": "Minassjan",
       "gender": "male",
       "id": "c0890dc5-0088-4a1b-8703-a2ff407d1774",
@@ -6468,13 +6013,6 @@
     },
     {
       "birth_date": "1978-02-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "farmanyan@parliament.am"
-        }
-      ],
-      "email": "farmanyan@parliament.am",
       "gender": "male",
       "id": "c63d2833-adac-4265-95e5-e9f4c877287d",
       "identifiers": [
@@ -6563,13 +6101,6 @@
     },
     {
       "birth_date": "1960-11-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ashot.arsenyan@parliament.am"
-        }
-      ],
-      "email": "ashot.arsenyan@parliament.am",
       "gender": "male",
       "id": "ca409c45-69e8-43b8-9700-3743d7735830",
       "identifiers": [
@@ -6628,13 +6159,6 @@
     },
     {
       "birth_date": "1963-05-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "araik.grigoryan@parliament.am"
-        }
-      ],
-      "email": "araik.grigoryan@parliament.am",
       "family_name": "Grigorian",
       "gender": "male",
       "id": "ca764bf7-1f62-4f07-9817-812a31608b11",
@@ -6694,13 +6218,6 @@
     },
     {
       "birth_date": "1983-04-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "karen.botoyan@parliament.am"
-        }
-      ],
-      "email": "karen.botoyan@parliament.am",
       "gender": "male",
       "given_name": "Karen",
       "id": "d08692df-f435-4301-8787-e46923e30971",
@@ -6751,13 +6268,6 @@
     },
     {
       "birth_date": "1962-04-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mikael.melkumyan@parliament.am"
-        }
-      ],
-      "email": "mikael.melkumyan@parliament.am",
       "gender": "male",
       "id": "d2765876-3ffc-4536-a3da-21d55aa88c7a",
       "identifiers": [
@@ -6788,13 +6298,6 @@
     },
     {
       "birth_date": "1955-05-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "melik.manukyan@parliament.am"
-        }
-      ],
-      "email": "melik.manukyan@parliament.am",
       "family_name": "Manukyan",
       "gender": "male",
       "id": "d2e9c36f-3dd9-4af7-a937-2639bf30621f",
@@ -6850,13 +6353,6 @@
     },
     {
       "birth_date": "1961-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vasura@parliament.am"
-        }
-      ],
-      "email": "vasura@parliament.am",
       "gender": "male",
       "given_name": "Vardan",
       "id": "daac4a7a-7963-4f79-bfcd-e2eb5134168f",
@@ -6924,13 +6420,6 @@
     },
     {
       "birth_date": "1976-02-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "levon.martirosyan@parliament.am"
-        }
-      ],
-      "email": "levon.martirosyan@parliament.am",
       "gender": "male",
       "id": "dadf5c9f-5d2b-42ff-a155-989cd7b14736",
       "identifiers": [
@@ -6987,13 +6476,6 @@
     },
     {
       "birth_date": "1960-05-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "arshak.mkhitaryan@parliament.am"
-        }
-      ],
-      "email": "arshak.mkhitaryan@parliament.am",
       "family_name": "Mkhitaryan",
       "gender": "male",
       "id": "dd6f80b5-8696-400c-a0df-77a1091fe711",
@@ -7301,13 +6783,6 @@
     },
     {
       "birth_date": "1947-10-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hamlet.harutyunyan@parliament.am"
-        }
-      ],
-      "email": "hamlet.harutyunyan@parliament.am",
       "family_name": "Arutyunyan",
       "gender": "male",
       "id": "ea5b4d3c-27be-4a50-a628-82c76de58ea9",
@@ -7363,13 +6838,6 @@
     },
     {
       "birth_date": "1962-07-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "k.adzhemyan@parliament.am"
-        }
-      ],
-      "email": "k.adzhemyan@parliament.am",
       "gender": "female",
       "given_name": "Karine",
       "id": "eacc4b49-ff1c-49d2-890e-216df486890d",
@@ -7428,13 +6896,6 @@
     },
     {
       "birth_date": "1978-12-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "enfiajyan@parliament.am"
-        }
-      ],
-      "email": "enfiajyan@parliament.am",
       "gender": "male",
       "given_name": "Vahe",
       "id": "eb528b0e-e4f4-4277-9fcf-a69b89241abf",
@@ -7488,13 +6949,6 @@
     },
     {
       "birth_date": "1965-05-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nz@parliament.am"
-        }
-      ],
-      "email": "nz@parliament.am",
       "gender": "female",
       "id": "edc77df4-93c3-48ba-a531-9e70c6a601f3",
       "identifiers": [
@@ -7616,13 +7070,6 @@
     },
     {
       "birth_date": "1966-03-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tachat.vardapetyan@parliament.am"
-        }
-      ],
-      "email": "tachat.vardapetyan@parliament.am",
       "gender": "male",
       "id": "f07edcaa-dc66-408f-8d1b-a784c01f0b95",
       "identifiers": [
@@ -7653,13 +7100,6 @@
     },
     {
       "birth_date": "1948-05-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "volodya.badalyan@parliament.am"
-        }
-      ],
-      "email": "volodya.badalyan@parliament.am",
       "gender": "male",
       "id": "f109956e-f915-454f-9bd5-f75ee7a61728",
       "identifiers": [
@@ -7690,13 +7130,6 @@
     },
     {
       "birth_date": "1961-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "armen.mkhitaryan@parliament.am"
-        }
-      ],
-      "email": "armen.mkhitaryan@parliament.am",
       "family_name": "Mkhitaryan",
       "gender": "male",
       "id": "f4feebd0-1f72-4c6e-8772-c461d11b3c4f",
@@ -7752,13 +7185,6 @@
     },
     {
       "birth_date": "1968-08-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "samvel.aleksanyan@parliament.am"
-        }
-      ],
-      "email": "samvel.aleksanyan@parliament.am",
       "gender": "male",
       "id": "f500708c-30eb-4fa1-8ec9-47f4a1c463bc",
       "identifiers": [
@@ -7825,13 +7251,6 @@
     },
     {
       "birth_date": "1975-04-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "a.gevorgyan@parliament.am"
-        }
-      ],
-      "email": "a.gevorgyan@parliament.am",
       "gender": "male",
       "given_name": "Artur",
       "id": "f6cfec60-4be6-4e7a-be9f-f1d52f639097",
@@ -7911,13 +7330,6 @@
     },
     {
       "birth_date": "1978-08-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tigran.nersisyan@parliament.am"
-        }
-      ],
-      "email": "tigran.nersisyan@parliament.am",
       "gender": "male",
       "id": "f70e0b16-3566-4693-9be4-52bf7017610b",
       "identifiers": [
@@ -7948,13 +7360,6 @@
     },
     {
       "birth_date": "1960-10-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stepan.margaryan@parliament.am"
-        }
-      ],
-      "email": "stepan.margaryan@parliament.am",
       "gender": "male",
       "given_name": "Stepan",
       "id": "f885cf57-6b48-4850-b4e1-e400d12c689f",
@@ -8008,13 +7413,6 @@
     },
     {
       "birth_date": "1962-08-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "akhoyan@parliament.am"
-        }
-      ],
-      "email": "akhoyan@parliament.am",
       "gender": "male",
       "id": "fbacb3df-3276-40ff-93d1-bcce5c3ce558",
       "identifiers": [
@@ -8078,13 +7476,6 @@
     },
     {
       "birth_date": "1959-04-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sukias.avetisyan@parliament.am"
-        }
-      ],
-      "email": "sukias.avetisyan@parliament.am",
       "family_name": "Awetissjan",
       "gender": "male",
       "id": "fd52b547-77fb-4b0a-b4ef-820ba70671c1",
@@ -8140,13 +7531,6 @@
     },
     {
       "birth_date": "1972-01-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "minasyana@parliament.am"
-        }
-      ],
-      "email": "minasyana@parliament.am",
       "family_name": "Minassjan",
       "gender": "male",
       "id": "fee7391a-a0fe-4ea5-af62-3353ecc80315",
@@ -8218,13 +7602,6 @@
     },
     {
       "birth_date": "1957-06-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nahapet.gevorkyan@parliament.am"
-        }
-      ],
-      "email": "nahapet.gevorkyan@parliament.am",
       "gender": "male",
       "id": "ff1cb315-2582-473d-a2de-2b7471b1b290",
       "identifiers": [
