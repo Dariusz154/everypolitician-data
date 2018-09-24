@@ -62,13 +62,6 @@
     },
     {
       "birth_date": "1954-03-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stefan.zhelev@parliament.bg"
-        }
-      ],
-      "email": "stefan.zhelev@parliament.bg",
       "gender": "male",
       "id": "00795b6b-9445-448d-a86c-d3b2e90d1dd3",
       "identifiers": [
@@ -94,13 +87,6 @@
     },
     {
       "birth_date": "1976-07-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stanislav.dechev@parliament.bg"
-        }
-      ],
-      "email": "stanislav.dechev@parliament.bg",
       "id": "007c50cb-4a2c-404e-a13b-eb7cc49a0c39",
       "identifiers": [
         {
@@ -125,13 +111,6 @@
     },
     {
       "birth_date": "1966-01-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emanouela.spassova@parliament.bg"
-        }
-      ],
-      "email": "emanouela.spassova@parliament.bg",
       "gender": "female",
       "id": "0093c559-dcc3-481a-948e-3edd16f73e15",
       "identifiers": [
@@ -161,13 +140,6 @@
     },
     {
       "birth_date": "1971-04-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "krasimir.stefanov@parliament.bg"
-        }
-      ],
-      "email": "krasimir.stefanov@parliament.bg",
       "gender": "male",
       "id": "00ae2276-c015-439a-843f-b9b753217a06",
       "identifiers": [
@@ -245,14 +217,7 @@
     },
     {
       "birth_date": "1965-09-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "a_batashoff@yahoo.com"
-        }
-      ],
       "death_date": "2010-11-29",
-      "email": "a_batashoff@yahoo.com",
       "gender": "male",
       "given_name": "Andrei",
       "id": "014a81b4-d09e-4223-8f75-6deb12fc387b",
@@ -412,13 +377,6 @@
     },
     {
       "birth_date": "1974-11-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "silviadinkova@hotmail.com"
-        }
-      ],
-      "email": "silviadinkova@hotmail.com",
       "id": "01b6da4d-b223-4fca-bc09-118c057f8cb9",
       "identifiers": [
         {
@@ -464,13 +422,6 @@
     },
     {
       "birth_date": "1958-05-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Ts.Tsacheva@parliament.bg"
-        }
-      ],
-      "email": "Ts.Tsacheva@parliament.bg",
       "gender": "female",
       "id": "02b58c65-ab22-4f2b-a316-e2acc38e903d",
       "identifiers": [
@@ -636,13 +587,6 @@
     },
     {
       "birth_date": "1968-09-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivo.dimov@parliament.bg"
-        }
-      ],
-      "email": "ivo.dimov@parliament.bg",
       "gender": "male",
       "id": "02b5cb1e-38bb-4974-982c-12042d78e4fb",
       "identifiers": [
@@ -732,13 +676,6 @@
     },
     {
       "birth_date": "1970-03-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "r.danev@parliament.bg"
-        }
-      ],
-      "email": "r.danev@parliament.bg",
       "gender": "male",
       "id": "030fceab-fcb9-4267-aa35-e246f588d0b4",
       "identifiers": [
@@ -768,13 +705,6 @@
     },
     {
       "birth_date": "1966-05-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gyunay.hyusmen@parliament.bg"
-        }
-      ],
-      "email": "gyunay.hyusmen@parliament.bg",
       "gender": "male",
       "id": "0349d483-dcf6-4aba-b47a-eae8d506bf69",
       "identifiers": [
@@ -804,13 +734,6 @@
     },
     {
       "birth_date": "1957-07-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yavor.notev@parliament.bg"
-        }
-      ],
-      "email": "yavor.notev@parliament.bg",
       "gender": "male",
       "id": "0353e2cf-701b-4b97-bce9-a4a77d3c1187",
       "identifiers": [
@@ -878,13 +801,6 @@
     },
     {
       "birth_date": "1977-03-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kostadin.yazov@parliament.bg"
-        }
-      ],
-      "email": "kostadin.yazov@parliament.bg",
       "gender": "male",
       "id": "03e52580-09b5-41c6-9295-aa1d37db14c2",
       "identifiers": [
@@ -940,13 +856,6 @@
     },
     {
       "birth_date": "1963-02-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.goranov@parliament.bg"
-        }
-      ],
-      "email": "georgi.goranov@parliament.bg",
       "gender": "male",
       "id": "03ef7a6d-bb4c-4c74-b7bd-bd42c99dfb06",
       "identifiers": [
@@ -976,13 +885,6 @@
     },
     {
       "birth_date": "1957-06-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "r_angelov@abv.bg"
-        }
-      ],
-      "email": "r_angelov@abv.bg",
       "gender": "male",
       "id": "04293b2d-bb3c-41d4-84ae-9db08b971d19",
       "identifiers": [
@@ -1012,13 +914,6 @@
     },
     {
       "birth_date": "1962-10-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yhatib@abg.bg"
-        }
-      ],
-      "email": "yhatib@abg.bg",
       "gender": "male",
       "id": "04486675-d8ff-4a3f-a67d-fdff858069f4",
       "identifiers": [
@@ -1163,13 +1058,6 @@
     },
     {
       "birth_date": "1955-03-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valeri.simeonov@parliament.bg"
-        }
-      ],
-      "email": "valeri.simeonov@parliament.bg",
       "family_name": "Simeonov",
       "gender": "male",
       "given_name": "Valeri",
@@ -1260,13 +1148,6 @@
     },
     {
       "birth_date": "1967-10-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "velichka.shopova@parliament.bg"
-        }
-      ],
-      "email": "velichka.shopova@parliament.bg",
       "gender": "female",
       "id": "056c2ffa-f296-4f2d-8a30-baa6714d8619",
       "identifiers": [
@@ -1296,13 +1177,6 @@
     },
     {
       "birth_date": "1976-04-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "deyan.dechev@parliament.bg"
-        }
-      ],
-      "email": "deyan.dechev@parliament.bg",
       "gender": "male",
       "id": "057f56af-87b9-4ade-b0e2-73d67a3c9250",
       "identifiers": [
@@ -1430,13 +1304,6 @@
     },
     {
       "birth_date": "1964-01-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emil.dimitrov@parliament.bg"
-        }
-      ],
-      "email": "emil.dimitrov@parliament.bg",
       "family_name": "Dimitrov",
       "gender": "male",
       "id": "05e6b025-aea6-4e8c-84bd-a6068191a5e3",
@@ -1489,13 +1356,6 @@
     },
     {
       "birth_date": "1945-03-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emaneva@vip.bg"
-        }
-      ],
-      "email": "emaneva@vip.bg",
       "gender": "female",
       "id": "05f68bb1-ad87-4e57-9576-90ffbd4b1e7d",
       "identifiers": [
@@ -1629,13 +1489,6 @@
     },
     {
       "birth_date": "1953-10-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zdg.bg2005@gmail.com"
-        }
-      ],
-      "email": "zdg.bg2005@gmail.com",
       "gender": "male",
       "id": "071fb74b-3616-44bd-b158-1d5ffa696f69",
       "identifiers": [
@@ -1805,13 +1658,6 @@
     },
     {
       "birth_date": "1962-02-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rumen.ivanov@parliament.bg"
-        }
-      ],
-      "email": "rumen.ivanov@parliament.bg",
       "gender": "male",
       "id": "07a5defe-99ef-4658-8843-9a025d49c552",
       "identifiers": [
@@ -1905,13 +1751,6 @@
     },
     {
       "birth_date": "1975-07-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.gamishev@parliament.bg"
-        }
-      ],
-      "email": "dimitar.gamishev@parliament.bg",
       "id": "07faf9e0-514d-47c4-8062-0b9f8b22c1ea",
       "identifiers": [
         {
@@ -1998,13 +1837,6 @@
     },
     {
       "birth_date": "1976-05-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hristo.todorov@parliament.bg"
-        }
-      ],
-      "email": "hristo.todorov@parliament.bg",
       "gender": "male",
       "id": "09357f8d-70ec-433d-abab-eb72c24e0ba3",
       "identifiers": [
@@ -2034,13 +1866,6 @@
     },
     {
       "birth_date": "1964-06-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "totyu.mladenov@parliament.bg"
-        }
-      ],
-      "email": "totyu.mladenov@parliament.bg",
       "gender": "male",
       "id": "09a9f7f6-7dbd-47b0-95ab-2f0e94c6aaae",
       "identifiers": [
@@ -2112,13 +1937,6 @@
     },
     {
       "birth_date": "1983-12-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolay.nankov@parliament.bg"
-        }
-      ],
-      "email": "nikolay.nankov@parliament.bg",
       "gender": "male",
       "id": "0a0c04dc-d05d-48d3-b191-a03e9ed6f901",
       "identifiers": [
@@ -2301,13 +2119,6 @@
     },
     {
       "birth_date": "1973-10-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stanislav.ivanov@parliament.bg"
-        }
-      ],
-      "email": "stanislav.ivanov@parliament.bg",
       "gender": "male",
       "id": "0b69dcfe-fa7a-402d-a505-efc9bb6757fb",
       "identifiers": [
@@ -2396,13 +2207,6 @@
     },
     {
       "birth_date": "1957-06-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "chairman@bsp.bg"
-        }
-      ],
-      "email": "chairman@bsp.bg",
       "gender": "male",
       "given_name": "Georgi",
       "id": "0c7435e9-6e06-4adc-98a1-b759e1b791cb",
@@ -3097,13 +2901,6 @@
     },
     {
       "birth_date": "1954-10-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kircho.karagyozov@parliament.bg"
-        }
-      ],
-      "email": "kircho.karagyozov@parliament.bg",
       "gender": "male",
       "id": "0d3c728e-a8da-4aaa-85d8-1234837a0875",
       "identifiers": [
@@ -3133,13 +2930,6 @@
     },
     {
       "birth_date": "1984-10-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivan.dimitrov@parliament.bg"
-        }
-      ],
-      "email": "ivan.dimitrov@parliament.bg",
       "gender": "male",
       "id": "0d448cd6-0a94-422b-a0e9-56df86cb89de",
       "identifiers": [
@@ -3169,13 +2959,6 @@
     },
     {
       "birth_date": "1964-11-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dilov@novinar.bg"
-        }
-      ],
-      "email": "dilov@novinar.bg",
       "gender": "male",
       "id": "0d620f27-3cd1-49eb-b36c-f7e34fcc36d3",
       "identifiers": [
@@ -3384,13 +3167,6 @@
     },
     {
       "birth_date": "1946-01-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "boris.grozdanov@parliament.bg"
-        }
-      ],
-      "email": "boris.grozdanov@parliament.bg",
       "gender": "male",
       "id": "0dbfcebc-fa2f-4a59-8a71-c68e43580974",
       "identifiers": [
@@ -3439,13 +3215,6 @@
     },
     {
       "birth_date": "1976-03-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ioana.kirova@parliament.bg"
-        }
-      ],
-      "email": "ioana.kirova@parliament.bg",
       "gender": "female",
       "id": "0dc4edac-6e3a-4add-a50c-8847c77adbf2",
       "identifiers": [
@@ -3494,13 +3263,6 @@
     },
     {
       "birth_date": "1972-07-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivaylo.moskovski@parliament.bg"
-        }
-      ],
-      "email": "ivaylo.moskovski@parliament.bg",
       "gender": "male",
       "id": "0dfa5029-4b54-48db-988e-ab69069b031e",
       "identifiers": [
@@ -3530,13 +3292,6 @@
     },
     {
       "birth_date": "1954-10-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nonkamatova@hotmail.com"
-        }
-      ],
-      "email": "nonkamatova@hotmail.com",
       "gender": "female",
       "id": "0e35570a-9f0a-49e7-bfe6-f5498485a1c5",
       "identifiers": [
@@ -3614,13 +3369,6 @@
     },
     {
       "birth_date": "1970-07-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "svivaka@parliament.bg"
-        }
-      ],
-      "email": "svivaka@parliament.bg",
       "gender": "male",
       "id": "0ee6bccd-ea82-4954-805d-1f3cee8cf3a2",
       "identifiers": [
@@ -3756,13 +3504,6 @@
     },
     {
       "birth_date": "1955-12-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "peter.petrov@parliament.bg"
-        }
-      ],
-      "email": "peter.petrov@parliament.bg",
       "gender": "male",
       "id": "0f2c0e6a-82b1-4bc4-ac21-b26ba3d7f445",
       "identifiers": [
@@ -3792,13 +3533,6 @@
     },
     {
       "birth_date": "1982-04-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petar.hlebarov@parliament.bg"
-        }
-      ],
-      "email": "petar.hlebarov@parliament.bg",
       "gender": "male",
       "id": "0ff4f6b3-9970-406f-b22f-0e410296f2ed",
       "identifiers": [
@@ -3955,13 +3689,6 @@
     },
     {
       "birth_date": "1957-06-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Georgi.Anastasov@parliament.bg"
-        }
-      ],
-      "email": "Georgi.Anastasov@parliament.bg",
       "gender": "male",
       "id": "1073a7f5-1168-417d-9a62-bfc2ca53cbe6",
       "identifiers": [
@@ -4096,13 +3823,6 @@
     },
     {
       "birth_date": "1952-11-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dr-nikolov@abv.bg"
-        }
-      ],
-      "email": "dr-nikolov@abv.bg",
       "id": "10f12318-8dfa-4d62-b204-31f4ca20a81e",
       "identifiers": [
         {
@@ -4131,13 +3851,6 @@
     },
     {
       "birth_date": "1955-08-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anatoliy.yordanov@parliament.bg"
-        }
-      ],
-      "email": "anatoliy.yordanov@parliament.bg",
       "gender": "male",
       "id": "110c0c48-a131-49b8-b27f-e58f6e58db02",
       "identifiers": [
@@ -4395,13 +4108,6 @@
     },
     {
       "birth_date": "1968-10-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.markov@parliament.bg"
-        }
-      ],
-      "email": "georgi.markov@parliament.bg",
       "gender": "male",
       "id": "11c81cf5-142f-4848-9a5d-2a023d6ec7b7",
       "identifiers": [
@@ -4431,13 +4137,6 @@
     },
     {
       "birth_date": "1960-06-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vbogdanova@parliament.bg"
-        }
-      ],
-      "email": "vbogdanova@parliament.bg",
       "gender": "female",
       "given_name": "Valentina",
       "id": "12284051-7626-46af-977c-041f94d534b9",
@@ -4547,13 +4246,6 @@
     },
     {
       "birth_date": "1963-07-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sotirov_ivan@hotmail.com"
-        }
-      ],
-      "email": "sotirov_ivan@hotmail.com",
       "gender": "male",
       "id": "127aaca5-5e41-46fe-aafb-42379f0694fb",
       "identifiers": [
@@ -4602,13 +4294,6 @@
     },
     {
       "birth_date": "1974-03-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "iliaz@mail.bg"
-        }
-      ],
-      "email": "iliaz@mail.bg",
       "gender": "female",
       "id": "1282d693-9613-4889-bff0-666863dc75c8",
       "identifiers": [
@@ -4638,13 +4323,6 @@
     },
     {
       "birth_date": "1962-05-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "t.velikov@parliament.bg"
-        }
-      ],
-      "email": "t.velikov@parliament.bg",
       "gender": "male",
       "id": "12961818-e93b-4ea8-89f9-36c2b23368f0",
       "identifiers": [
@@ -4674,13 +4352,6 @@
     },
     {
       "birth_date": "1963-11-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.zhelev@parliament.bg"
-        }
-      ],
-      "email": "dimitar.zhelev@parliament.bg",
       "gender": "male",
       "id": "13687a46-73ee-4057-9851-603885ce603a",
       "identifiers": [
@@ -4769,13 +4440,6 @@
     },
     {
       "birth_date": "1961-05-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.plachkov@parliament.bg"
-        }
-      ],
-      "email": "georgi.plachkov@parliament.bg",
       "gender": "male",
       "id": "141ebde4-27db-4ada-8cdd-f899b92a3ef0",
       "identifiers": [
@@ -4824,13 +4488,6 @@
     },
     {
       "birth_date": "1966-10-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "snezhina.madzharova@parliament.bg"
-        }
-      ],
-      "email": "snezhina.madzharova@parliament.bg",
       "gender": "female",
       "id": "14a60a28-1d38-4063-8caa-153c366b84b3",
       "identifiers": [
@@ -4879,13 +4536,6 @@
     },
     {
       "birth_date": "1976-10-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "daniela.mitkova@parliament.bg"
-        }
-      ],
-      "email": "daniela.mitkova@parliament.bg",
       "gender": "female",
       "id": "14fc7a05-2506-4869-ae67-970cb3557f3f",
       "identifiers": [
@@ -5020,13 +4670,6 @@
     },
     {
       "birth_date": "1963-07-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vanya.doneva@parliament.bg"
-        }
-      ],
-      "email": "vanya.doneva@parliament.bg",
       "gender": "female",
       "id": "156693a6-1897-4541-9d2a-9d3ee6577742",
       "identifiers": [
@@ -5056,13 +4699,6 @@
     },
     {
       "birth_date": "1958-04-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "p.daskalov@parliament.bg"
-        }
-      ],
-      "email": "p.daskalov@parliament.bg",
       "gender": "male",
       "id": "160d9eb8-4abf-434a-bc02-0f73dd10c452",
       "identifiers": [
@@ -5244,13 +4880,6 @@
     },
     {
       "birth_date": "1961-09-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariana.bencheva@parliament.bg"
-        }
-      ],
-      "email": "mariana.bencheva@parliament.bg",
       "gender": "female",
       "id": "175ae55c-1b7f-4e49-90d0-b9ee9bc21f63",
       "identifiers": [
@@ -5280,13 +4909,6 @@
     },
     {
       "birth_date": "1960-12-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lyutvi.mestan@parliament.bg"
-        }
-      ],
-      "email": "lyutvi.mestan@parliament.bg",
       "gender": "male",
       "id": "178efbd5-dd4f-4ae4-bcb6-efdf3f2fc383",
       "identifiers": [
@@ -5376,13 +4998,6 @@
     },
     {
       "birth_date": "1964-01-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "krasimir.murdzhev@parliament.bg"
-        }
-      ],
-      "email": "krasimir.murdzhev@parliament.bg",
       "gender": "male",
       "id": "18450a11-c0d0-4556-8d2f-cd52ad5355a2",
       "identifiers": [
@@ -5412,13 +5027,6 @@
     },
     {
       "birth_date": "1964-11-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariannabet@yaxoo.com"
-        }
-      ],
-      "email": "mariannabet@yaxoo.com",
       "id": "186e4eff-95ca-403e-ace3-90a0ffddffaa",
       "identifiers": [
         {
@@ -5597,13 +5205,6 @@
     },
     {
       "birth_date": "1958-09-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "plammoll@plovdiv.techno-link.com"
-        }
-      ],
-      "email": "plammoll@plovdiv.techno-link.com",
       "id": "1939f466-64fd-44be-95f6-964e6294ba08",
       "identifiers": [
         {
@@ -5632,13 +5233,6 @@
     },
     {
       "birth_date": "1960-08-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rumen.zhelev@parliament.bg"
-        }
-      ],
-      "email": "rumen.zhelev@parliament.bg",
       "gender": "male",
       "id": "199ff6cd-0246-498d-8fdc-b51c0a0dd2c2",
       "identifiers": [
@@ -5699,13 +5293,6 @@
     },
     {
       "birth_date": "1959-01-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivan.cholakov@parliament.bg"
-        }
-      ],
-      "email": "ivan.cholakov@parliament.bg",
       "gender": "male",
       "id": "19e1943b-9873-4623-8eb5-4f2c26ef07e9",
       "identifiers": [
@@ -5735,13 +5322,6 @@
     },
     {
       "birth_date": "1955-07-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "H.Hadjihasan@parliament.bg"
-        }
-      ],
-      "email": "H.Hadjihasan@parliament.bg",
       "gender": "male",
       "id": "19f0f7bc-c592-43be-b9d3-66583ceedadd",
       "identifiers": [
@@ -5847,13 +5427,6 @@
     },
     {
       "birth_date": "1952-09-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimchev@parliament.bg"
-        }
-      ],
-      "email": "dimchev@parliament.bg",
       "id": "1a4d0080-d72c-420a-879a-f68caa12cbeb",
       "identifiers": [
         {
@@ -5882,13 +5455,6 @@
     },
     {
       "birth_date": "1948-08-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "metodi.teoharov@parliament.bg"
-        }
-      ],
-      "email": "metodi.teoharov@parliament.bg",
       "gender": "male",
       "id": "1a6de18c-8115-4d9b-b506-1171253a6802",
       "identifiers": [
@@ -5973,13 +5539,6 @@
     },
     {
       "birth_date": "1948-05-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tsonka.ivanova@parliament.bg"
-        }
-      ],
-      "email": "tsonka.ivanova@parliament.bg",
       "gender": "female",
       "id": "1acef72b-1af6-4d3b-ba42-f68163ef4164",
       "identifiers": [
@@ -6009,13 +5568,6 @@
     },
     {
       "birth_date": "1955-12-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rumen.hristov@parliament.bg"
-        }
-      ],
-      "email": "rumen.hristov@parliament.bg",
       "family_name": "Hristov",
       "gender": "male",
       "given_name": "Rumen",
@@ -6093,13 +5645,6 @@
     },
     {
       "birth_date": "1981-04-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "plamen.yordanov@parliament.bg"
-        }
-      ],
-      "email": "plamen.yordanov@parliament.bg",
       "gender": "male",
       "id": "1b115a27-86bc-4b21-8bb3-0895cdd3fd89",
       "identifiers": [
@@ -6185,13 +5730,6 @@
     },
     {
       "birth_date": "1965-01-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "markoni2002bg@yahoo.com"
-        }
-      ],
-      "email": "markoni2002bg@yahoo.com",
       "family_name": "Markov",
       "gender": "male",
       "given_name": "Hristo",
@@ -6478,13 +6016,6 @@
     },
     {
       "birth_date": "1947-04-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kiril.tsochev@parliament.bg"
-        }
-      ],
-      "email": "kiril.tsochev@parliament.bg",
       "gender": "male",
       "given_name": "Kiril",
       "id": "1c7f2c06-6e61-4149-bab2-e715027cec20",
@@ -6654,13 +6185,6 @@
     },
     {
       "birth_date": "1949-09-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dpamukov@dir.bg"
-        }
-      ],
-      "email": "dpamukov@dir.bg",
       "id": "1ec405c1-5851-4531-b4cd-08e9b778e2f2",
       "identifiers": [
         {
@@ -6689,13 +6213,6 @@
     },
     {
       "birth_date": "1964-06-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petko.petkov@parliament.bg"
-        }
-      ],
-      "email": "petko.petkov@parliament.bg",
       "gender": "male",
       "id": "1edabc8c-ffe3-44e8-9ae5-ccb3245aa8a0",
       "identifiers": [
@@ -6784,13 +6301,6 @@
     },
     {
       "birth_date": "1949-01-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "365pd@parliament.bg"
-        }
-      ],
-      "email": "365pd@parliament.bg",
       "gender": "male",
       "id": "1f225178-d09e-432d-b5b4-36f1a8b81ba4",
       "identifiers": [
@@ -6939,14 +6449,7 @@
     },
     {
       "birth_date": "1956-03-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cerovski@abv.bg"
-        }
-      ],
       "death_date": "2012-05-23",
-      "email": "cerovski@abv.bg",
       "gender": "male",
       "given_name": "Valentin",
       "id": "20702ea6-4fe8-4d61-a7a7-df6bbf30164f",
@@ -7001,13 +6504,6 @@
     },
     {
       "birth_date": "1956-03-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petar.i.petrov@parliament.bg"
-        }
-      ],
-      "email": "petar.i.petrov@parliament.bg",
       "gender": "male",
       "id": "20d5bc17-751a-478a-af34-d596c974eec3",
       "identifiers": [
@@ -7085,13 +6581,6 @@
     },
     {
       "birth_date": "1960-03-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "iliya.batashki@parliament.bg"
-        }
-      ],
-      "email": "iliya.batashki@parliament.bg",
       "gender": "male",
       "id": "20eec7de-be9c-4a0f-ab0d-c3421beb698a",
       "identifiers": [
@@ -7121,13 +6610,6 @@
     },
     {
       "birth_date": "1978-02-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dobroslav.dimitrov@parliament.bg"
-        }
-      ],
-      "email": "dobroslav.dimitrov@parliament.bg",
       "gender": "male",
       "id": "20f12723-201f-4d61-8ffe-9d139899ba02",
       "identifiers": [
@@ -7188,13 +6670,6 @@
     },
     {
       "birth_date": "1949-03-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "neno.vlaykov@parliament.bg"
-        }
-      ],
-      "email": "neno.vlaykov@parliament.bg",
       "gender": "male",
       "id": "2196aa11-d17f-46ca-b1bf-0e6af9a4aac7",
       "identifiers": [
@@ -7224,13 +6699,6 @@
     },
     {
       "birth_date": "1960-01-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stoyan.gyuzelev@parliament.bg"
-        }
-      ],
-      "email": "stoyan.gyuzelev@parliament.bg",
       "gender": "male",
       "id": "2197a670-e3bb-449e-82c0-20c88fc5d9b2",
       "identifiers": [
@@ -7286,15 +6754,10 @@
       "birth_date": "1959-06-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "boyko.borisov@parliament.bg"
-        },
-        {
           "type": "twitter",
           "value": "BoykoBorisov"
         }
       ],
-      "email": "boyko.borisov@parliament.bg",
       "family_name": "Borisov",
       "gender": "male",
       "given_name": "Bojko",
@@ -7865,13 +7328,6 @@
     },
     {
       "birth_date": "1956-02-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "boyka.marinska@parliament.bg"
-        }
-      ],
-      "email": "boyka.marinska@parliament.bg",
       "gender": "female",
       "id": "22277ee4-27eb-4a27-8134-b1521a19d78f",
       "identifiers": [
@@ -7901,13 +7357,6 @@
     },
     {
       "birth_date": "1958-04-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.kolev@parliament.bg"
-        }
-      ],
-      "email": "georgi.kolev@parliament.bg",
       "gender": "male",
       "id": "224eadc9-bb8b-410a-85f5-fe17cdb4f764",
       "identifiers": [
@@ -8033,13 +7482,6 @@
     },
     {
       "birth_date": "1955-04-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vili.lilkov@parliament.bg"
-        }
-      ],
-      "email": "vili.lilkov@parliament.bg",
       "gender": "male",
       "id": "2380e849-f09b-4ff3-964a-fa2bf16291f0",
       "identifiers": [
@@ -8069,13 +7511,6 @@
     },
     {
       "birth_date": "1945-07-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kircho.atanasov@parliament.bg"
-        }
-      ],
-      "email": "kircho.atanasov@parliament.bg",
       "gender": "male",
       "id": "23afa697-45af-4f3e-b981-80f350e65904",
       "identifiers": [
@@ -8132,13 +7567,6 @@
     },
     {
       "birth_date": "1956-12-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "passy@bulnet.bg"
-        }
-      ],
-      "email": "passy@bulnet.bg",
       "gender": "male",
       "given_name": "Solomon",
       "id": "23c205e3-25e4-47a8-9b2c-bbbaf43a7242",
@@ -8331,13 +7759,6 @@
     },
     {
       "birth_date": "1971-12-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mithat.metin@parliament.bg"
-        }
-      ],
-      "email": "mithat.metin@parliament.bg",
       "gender": "male",
       "id": "23ea0588-542a-4167-9e23-5c0be5b16d76",
       "identifiers": [
@@ -8468,13 +7889,6 @@
     },
     {
       "birth_date": "1962-11-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stefan.tanev@parliament.bg"
-        }
-      ],
-      "email": "stefan.tanev@parliament.bg",
       "gender": "male",
       "id": "2494f157-a0f9-4f4a-a16d-4b65914786fe",
       "identifiers": [
@@ -8504,13 +7918,6 @@
     },
     {
       "birth_date": "1972-07-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nchilova@mtel.net"
-        }
-      ],
-      "email": "nchilova@mtel.net",
       "gender": "female",
       "given_name": "Nina",
       "id": "24c97b6e-f1d4-44ff-af5e-64b635f4a3d5",
@@ -8605,13 +8012,6 @@
     },
     {
       "birth_date": "1948-11-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Agov@parliament.bg"
-        }
-      ],
-      "email": "Agov@parliament.bg",
       "gender": "male",
       "id": "258d6d16-b991-4c1e-a73b-ce52454c6112",
       "identifiers": [
@@ -8641,13 +8041,6 @@
     },
     {
       "birth_date": "1979-02-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "radi.stoyanov@parliament.bg"
-        }
-      ],
-      "email": "radi.stoyanov@parliament.bg",
       "gender": "male",
       "id": "25c6bdb3-8564-4c14-af88-b9caa4fbaaa6",
       "identifiers": [
@@ -8725,13 +8118,6 @@
     },
     {
       "birth_date": "1960-09-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.atanasov@parliament.bg"
-        }
-      ],
-      "email": "dimitar.atanasov@parliament.bg",
       "gender": "male",
       "id": "267f7869-8644-46d9-ae7e-148ad1772be2",
       "identifiers": [
@@ -8761,13 +8147,6 @@
     },
     {
       "birth_date": "1981-12-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stanislav.g.ivanov@parliament.bg"
-        }
-      ],
-      "email": "stanislav.g.ivanov@parliament.bg",
       "gender": "male",
       "id": "26b5626a-a637-4ef1-88eb-49d8134b5934",
       "identifiers": [
@@ -8879,13 +8258,6 @@
     },
     {
       "birth_date": "1970-01-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fani.hristova@parliament.bg"
-        }
-      ],
-      "email": "fani.hristova@parliament.bg",
       "gender": "female",
       "id": "26f492ec-edf2-420f-9060-2496bcad7850",
       "identifiers": [
@@ -9049,13 +8421,6 @@
     },
     {
       "birth_date": "1958-09-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "svetla.piralkova@parliament.bg"
-        }
-      ],
-      "email": "svetla.piralkova@parliament.bg",
       "gender": "female",
       "id": "279175d4-8017-4311-a426-e6c104073638",
       "identifiers": [
@@ -9147,13 +8512,6 @@
     },
     {
       "birth_date": "1957-06-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "president@pbs-d.bg"
-        }
-      ],
-      "email": "president@pbs-d.bg",
       "gender": "male",
       "id": "282b4747-ae08-46e0-891a-e66f471e4aa7",
       "identifiers": [
@@ -9235,13 +8593,6 @@
     },
     {
       "birth_date": "1961-10-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emil.raynov@parliament.bg"
-        }
-      ],
-      "email": "emil.raynov@parliament.bg",
       "gender": "male",
       "id": "288b5082-5bbe-4158-8f4b-fcd1c2643b6c",
       "identifiers": [
@@ -9271,13 +8622,6 @@
     },
     {
       "birth_date": "1966-01-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antoniy.yordanov@parliament.bg"
-        }
-      ],
-      "email": "antoniy.yordanov@parliament.bg",
       "gender": "male",
       "id": "2893b967-f977-437c-ac49-af3f618c6e56",
       "identifiers": [
@@ -9364,13 +8708,6 @@
     },
     {
       "birth_date": "1980-04-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "m.hristova@parliament.bg"
-        }
-      ],
-      "email": "m.hristova@parliament.bg",
       "gender": "female",
       "id": "299e80dd-a932-4111-9443-cd0bb4e15ced",
       "identifiers": [
@@ -9431,13 +8768,6 @@
     },
     {
       "birth_date": "1961-06-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lyubomir.ivanov@parliament.bg"
-        }
-      ],
-      "email": "lyubomir.ivanov@parliament.bg",
       "family_name": "Ivanov",
       "gender": "male",
       "id": "2a1c45d3-18c0-483e-95e3-b8c838de7ba9",
@@ -9518,13 +8848,6 @@
     },
     {
       "birth_date": "1974-12-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "D.Chukolov@parliament.bg"
-        }
-      ],
-      "email": "D.Chukolov@parliament.bg",
       "gender": "male",
       "id": "2aaaf401-96eb-4f9e-aef7-e40dcae6e14f",
       "identifiers": [
@@ -9554,13 +8877,6 @@
     },
     {
       "birth_date": "1958-11-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "alexandar.metodiev@parliament.bg"
-        }
-      ],
-      "email": "alexandar.metodiev@parliament.bg",
       "gender": "male",
       "id": "2b2c7417-03a4-4fb4-8e6a-3a0c823ecb03",
       "identifiers": [
@@ -9590,13 +8906,6 @@
     },
     {
       "birth_date": "1967-03-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "djemil@abv.bg"
-        }
-      ],
-      "email": "djemil@abv.bg",
       "gender": "male",
       "id": "2b3902ac-4373-4c96-acd8-4431e2a25ea9",
       "identifiers": [
@@ -9777,13 +9086,6 @@
     },
     {
       "birth_date": "1971-04-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yanev@parliament.bg"
-        }
-      ],
-      "email": "yanev@parliament.bg",
       "gender": "male",
       "id": "2d54189a-c9c7-4a91-8253-b79142216a7f",
       "identifiers": [
@@ -9971,13 +9273,6 @@
     },
     {
       "birth_date": "1960-11-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cornelia.marinova@parliament.bg"
-        }
-      ],
-      "email": "cornelia.marinova@parliament.bg",
       "gender": "female",
       "id": "2f1e6608-c670-471d-b153-d0cf15a2e4d9",
       "identifiers": [
@@ -10007,13 +9302,6 @@
     },
     {
       "birth_date": "1971-11-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kostadin.markov@parliament.bg"
-        }
-      ],
-      "email": "kostadin.markov@parliament.bg",
       "gender": "male",
       "id": "2f232665-75eb-49b0-878f-343dd7bfc06b",
       "identifiers": [
@@ -10043,13 +9331,6 @@
     },
     {
       "birth_date": "1966-08-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anton.todorov@parliament.bg"
-        }
-      ],
-      "email": "anton.todorov@parliament.bg",
       "gender": "male",
       "given_name": "Anton",
       "id": "2f465d70-0efc-4550-bbef-d0503a30985f",
@@ -10095,13 +9376,6 @@
     },
     {
       "birth_date": "1970-01-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valentin.vasilev@parliament.bg"
-        }
-      ],
-      "email": "valentin.vasilev@parliament.bg",
       "gender": "male",
       "id": "2f55fc5d-86a3-4342-9a68-63f494596079",
       "identifiers": [
@@ -10131,13 +9405,6 @@
     },
     {
       "birth_date": "1978-02-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vladimir.mitrushev@parliament.bg"
-        }
-      ],
-      "email": "vladimir.mitrushev@parliament.bg",
       "gender": "male",
       "given_name": "Vladimir",
       "id": "2fab0cb6-df9d-428d-86d4-4bd2aafcd650",
@@ -10314,13 +9581,6 @@
     },
     {
       "birth_date": "1965-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tsvetan.tsvetanov@parliament.bg"
-        }
-      ],
-      "email": "tsvetan.tsvetanov@parliament.bg",
       "gender": "male",
       "id": "3097001b-b944-4a4f-81fb-a82687f8b5f5",
       "identifiers": [
@@ -10350,13 +9610,6 @@
     },
     {
       "birth_date": "1964-09-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hristina.yancheva@parliament.bg"
-        }
-      ],
-      "email": "hristina.yancheva@parliament.bg",
       "gender": "female",
       "id": "30a6ec23-a9a4-4654-83c2-016b14964fa3",
       "identifiers": [
@@ -10557,13 +9810,6 @@
     },
     {
       "birth_date": "1977-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aydoan.ali@parliament.bg"
-        }
-      ],
-      "email": "aydoan.ali@parliament.bg",
       "gender": "male",
       "id": "3220f1d0-7645-43d1-8a2a-cde515361f89",
       "identifiers": [
@@ -10593,13 +9839,6 @@
     },
     {
       "birth_date": "1973-03-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "k.cipov@parliament.bg"
-        }
-      ],
-      "email": "k.cipov@parliament.bg",
       "gender": "male",
       "id": "3253a645-543d-44bc-8b7e-6969bdb5ce27",
       "identifiers": [
@@ -10708,13 +9947,6 @@
     },
     {
       "birth_date": "1971-08-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fidosova@gbg.bg"
-        }
-      ],
-      "email": "fidosova@gbg.bg",
       "gender": "female",
       "id": "33675357-796f-4a07-ab5c-ad1e79e122df",
       "identifiers": [
@@ -10791,13 +10023,6 @@
     },
     {
       "birth_date": "1967-12-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "t_iakimova@hotmail.com"
-        }
-      ],
-      "email": "t_iakimova@hotmail.com",
       "gender": "female",
       "id": "33e5bc2b-a52c-45d0-b8f8-075325d0d33b",
       "identifiers": [
@@ -10882,13 +10107,6 @@
     },
     {
       "birth_date": "1964-03-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "plamen.tsekov@parliament.bg"
-        }
-      ],
-      "email": "plamen.tsekov@parliament.bg",
       "gender": "male",
       "id": "3453ac6f-b73c-4a9d-b5ab-772195881c56",
       "identifiers": [
@@ -10918,13 +10136,6 @@
     },
     {
       "birth_date": "1976-05-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "saliha.emin@parliament.bg"
-        }
-      ],
-      "email": "saliha.emin@parliament.bg",
       "gender": "female",
       "id": "3473088b-c3e1-4ae2-8e70-711c210e4317",
       "identifiers": [
@@ -11001,13 +10212,6 @@
     },
     {
       "birth_date": "1962-11-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mitko.zahov@parliament.bg"
-        }
-      ],
-      "email": "mitko.zahov@parliament.bg",
       "gender": "male",
       "id": "34b46fcd-b267-40a2-aa3c-5fc33805d4cb",
       "identifiers": [
@@ -11037,14 +10241,7 @@
     },
     {
       "birth_date": "1965-10-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimcho.mihalevski@parliament.bg"
-        }
-      ],
       "death_date": "2014-02-18",
-      "email": "dimcho.mihalevski@parliament.bg",
       "gender": "male",
       "id": "34c8e0d3-2dc0-4e38-b268-1af308bc7bf7",
       "identifiers": [
@@ -11096,13 +10293,6 @@
     },
     {
       "birth_date": "1964-07-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "katya.koleva@parliament.bg"
-        }
-      ],
-      "email": "katya.koleva@parliament.bg",
       "gender": "female",
       "id": "34d27b70-4494-4d06-96e9-d29602f7b443",
       "identifiers": [
@@ -11209,13 +10399,6 @@
     },
     {
       "birth_date": "1965-10-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kvgo@nt52.parliament.bg"
-        }
-      ],
-      "email": "kvgo@nt52.parliament.bg",
       "gender": "male",
       "given_name": "Emil",
       "id": "3505e9ef-3c24-44af-93a1-a4156b491b3f",
@@ -11278,13 +10461,6 @@
     },
     {
       "birth_date": "1966-12-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "grozdan.karadjov@parliament.bg"
-        }
-      ],
-      "email": "grozdan.karadjov@parliament.bg",
       "gender": "male",
       "id": "35244740-3b4b-405f-b81e-526df230124d",
       "identifiers": [
@@ -11314,13 +10490,6 @@
     },
     {
       "birth_date": "1973-07-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nedyalko.slavov@parliament.bg"
-        }
-      ],
-      "email": "nedyalko.slavov@parliament.bg",
       "gender": "male",
       "id": "352ac5d0-26d5-445f-ae71-535b5fab61d4",
       "identifiers": [
@@ -11686,13 +10855,6 @@
     },
     {
       "birth_date": "1960-01-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikola.hadzhiyski@parliament.bg"
-        }
-      ],
-      "email": "nikola.hadzhiyski@parliament.bg",
       "gender": "male",
       "id": "36a54c07-2b6a-412f-b93a-16aa5a3095d3",
       "identifiers": [
@@ -11782,13 +10944,6 @@
     },
     {
       "birth_date": "1966-11-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petar.petrov@parliament.bg"
-        }
-      ],
-      "email": "petar.petrov@parliament.bg",
       "gender": "male",
       "id": "3787ce21-4f67-4865-9a15-56e391215410",
       "identifiers": [
@@ -11818,13 +10973,6 @@
     },
     {
       "birth_date": "1944-06-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vbliznakov@gti.bg"
-        }
-      ],
-      "email": "vbliznakov@gti.bg",
       "gender": "male",
       "given_name": "Veselin",
       "id": "37c0d1e2-8749-4a5e-8efc-099db365cf61",
@@ -11983,13 +11131,6 @@
     },
     {
       "birth_date": "1977-02-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "iva.kuseva@parliament.bg"
-        }
-      ],
-      "email": "iva.kuseva@parliament.bg",
       "gender": "female",
       "id": "38acb493-3f03-4fb2-9a76-77b3089d7297",
       "identifiers": [
@@ -12048,13 +11189,6 @@
     },
     {
       "birth_date": "1957-06-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "G.Anastasov@parliament.bg"
-        }
-      ],
-      "email": "G.Anastasov@parliament.bg",
       "gender": "male",
       "id": "38eea53e-c8a5-43ab-925a-c65fb61577fc",
       "identifiers": [
@@ -12084,13 +11218,6 @@
     },
     {
       "birth_date": "1954-08-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mladbglawyers@sf.isn.bg"
-        }
-      ],
-      "email": "mladbglawyers@sf.isn.bg",
       "gender": "male",
       "given_name": "Mladen",
       "id": "38ef7615-d8f6-43e9-b895-35a002a9fbef",
@@ -12353,13 +11480,6 @@
     },
     {
       "birth_date": "1957-10-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Milko.BAGDASAROV@parliament.bg"
-        }
-      ],
-      "email": "Milko.BAGDASAROV@parliament.bg",
       "gender": "male",
       "id": "395027bb-f1a3-4c39-9552-66327e345bf3",
       "identifiers": [
@@ -12466,13 +11586,6 @@
     },
     {
       "birth_date": "1969-07-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kardjaliev@parliament.bg"
-        }
-      ],
-      "email": "Kardjaliev@parliament.bg",
       "gender": "male",
       "id": "3a29a929-ea2e-4611-8692-3449807deeb3",
       "identifiers": [
@@ -12521,13 +11634,6 @@
     },
     {
       "birth_date": "1956-04-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "volen.siderov@parliament.bg"
-        }
-      ],
-      "email": "volen.siderov@parliament.bg",
       "gender": "male",
       "id": "3b33bcf3-de0b-42f1-973a-d7f47e1a031c",
       "identifiers": [
@@ -12557,13 +11663,6 @@
     },
     {
       "birth_date": "1960-09-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stanka.shaylekova@parliament.bg"
-        }
-      ],
-      "email": "stanka.shaylekova@parliament.bg",
       "gender": "female",
       "id": "3b8a0fd1-0217-4861-a35c-c05177c57e6f",
       "identifiers": [
@@ -12622,13 +11721,6 @@
     },
     {
       "birth_date": "1964-01-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zhivko.martinov@parliament.bg"
-        }
-      ],
-      "email": "zhivko.martinov@parliament.bg",
       "gender": "male",
       "id": "3c0d38d9-4e55-4e69-827e-d04304c7722f",
       "identifiers": [
@@ -12658,13 +11750,6 @@
     },
     {
       "birth_date": "1963-03-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tanyu.kiriakov@parliament.bg"
-        }
-      ],
-      "email": "tanyu.kiriakov@parliament.bg",
       "gender": "male",
       "id": "3c18cc91-5275-4495-b9c2-ac60d648a773",
       "identifiers": [
@@ -12830,13 +11915,6 @@
     },
     {
       "birth_date": "1983-06-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stanislav.anastassov@parliament.bg"
-        }
-      ],
-      "email": "stanislav.anastassov@parliament.bg",
       "gender": "male",
       "id": "3c9a4304-802c-4703-a79a-ba623146e430",
       "identifiers": [
@@ -13020,13 +12098,6 @@
     },
     {
       "birth_date": "1953-10-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petar.dulev@parliament.bg"
-        }
-      ],
-      "email": "petar.dulev@parliament.bg",
       "gender": "male",
       "id": "3dde2887-d724-4af3-b080-3b6960900d7e",
       "identifiers": [
@@ -13056,14 +12127,7 @@
     },
     {
       "birth_date": "1929-06-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ktsonev@abv.bg"
-        }
-      ],
       "death_date": "2012-01-25",
-      "email": "ktsonev@abv.bg",
       "gender": "male",
       "given_name": "Kosta",
       "id": "3e062164-6484-4721-84d0-48f212d75367",
@@ -13338,13 +12402,6 @@
     },
     {
       "birth_date": "1965-10-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolay.kotzev@parliament.bg, n.kocev@abv.bg"
-        }
-      ],
-      "email": "nikolay.kotzev@parliament.bg, n.kocev@abv.bg",
       "gender": "male",
       "id": "3f57c7c3-d4b8-4e66-90a2-f9c282f8f065",
       "identifiers": [
@@ -13374,13 +12431,6 @@
     },
     {
       "birth_date": "1957-06-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tatyana.burudjieva@parliament.bg"
-        }
-      ],
-      "email": "tatyana.burudjieva@parliament.bg",
       "gender": "female",
       "given_name": "Tatiana",
       "id": "402968f3-5dd2-4c05-93e7-901f80fbf03b",
@@ -13529,13 +12579,6 @@
     },
     {
       "birth_date": "1964-09-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "plamen.roussev@parliament.bg"
-        }
-      ],
-      "email": "plamen.roussev@parliament.bg",
       "gender": "male",
       "id": "40bdc5a8-cdb5-4f0b-97bf-314b2a53e08c",
       "identifiers": [
@@ -13701,13 +12744,6 @@
     },
     {
       "birth_date": "1961-11-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kdimitrov@parliament.bg"
-        }
-      ],
-      "email": "kdimitrov@parliament.bg",
       "gender": "male",
       "id": "4205d4a1-38b1-41c1-9450-e1c383de1401",
       "identifiers": [
@@ -13737,13 +12773,6 @@
     },
     {
       "birth_date": "1968-06-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "angel.daskalov@parliament.bg"
-        }
-      ],
-      "email": "angel.daskalov@parliament.bg",
       "gender": "male",
       "id": "421cd404-37fd-4796-b0ad-04b3f4304bb9",
       "identifiers": [
@@ -13792,13 +12821,6 @@
     },
     {
       "birth_date": "1970-09-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "krasimira.anastasova@parliament.bg"
-        }
-      ],
-      "email": "krasimira.anastasova@parliament.bg",
       "gender": "female",
       "id": "423e2408-1e5d-4811-995d-51e8b5f2730e",
       "identifiers": [
@@ -13886,13 +12908,6 @@
     },
     {
       "birth_date": "1962-01-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "darin.dimitrov@parliament.bg"
-        }
-      ],
-      "email": "darin.dimitrov@parliament.bg",
       "family_name": "Dimitrov",
       "gender": "male",
       "id": "427f0db6-8c38-4b99-8318-3a80de01dc7d",
@@ -13945,13 +12960,6 @@
     },
     {
       "birth_date": "1983-08-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "a.krustev@parliament.bg"
-        }
-      ],
-      "email": "a.krustev@parliament.bg",
       "gender": "male",
       "id": "42b62b35-621a-415c-982f-7a5a213a3aca",
       "identifiers": [
@@ -13981,13 +12989,6 @@
     },
     {
       "birth_date": "1953-01-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "velizar.enchev@parliament.bg"
-        }
-      ],
-      "email": "velizar.enchev@parliament.bg",
       "gender": "male",
       "id": "430f8140-f993-4bff-a681-00bc10d9a40f",
       "identifiers": [
@@ -14061,13 +13062,6 @@
     },
     {
       "birth_date": "1965-05-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kalkanovat@hotmail.com"
-        }
-      ],
-      "email": "kalkanovat@hotmail.com",
       "id": "43137f18-7fd3-4aa3-ae16-1f4c73ce6af1",
       "identifiers": [
         {
@@ -14096,13 +13090,6 @@
     },
     {
       "birth_date": "1956-11-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "plamen.nunev@parliament.bg"
-        }
-      ],
-      "email": "plamen.nunev@parliament.bg",
       "gender": "male",
       "id": "432d38d9-40cc-48b7-8562-758c30266df4",
       "identifiers": [
@@ -14218,13 +13205,6 @@
     },
     {
       "birth_date": "1972-07-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yordanka.yordanova@parliament.bg"
-        }
-      ],
-      "email": "yordanka.yordanova@parliament.bg",
       "gender": "female",
       "id": "4381605f-b76f-4adc-8ea0-1d2401a8f0f0",
       "identifiers": [
@@ -14316,13 +13296,6 @@
     },
     {
       "birth_date": "1960-10-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "svetomir.mihaylov@parliament.bg"
-        }
-      ],
-      "email": "svetomir.mihaylov@parliament.bg",
       "gender": "male",
       "id": "43f033ac-08d7-4ba6-9d7c-86f14166d369",
       "identifiers": [
@@ -14438,13 +13411,6 @@
     },
     {
       "birth_date": "1972-03-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lazar.popov@parliament.bg"
-        }
-      ],
-      "email": "lazar.popov@parliament.bg",
       "gender": "male",
       "id": "44f599a5-555e-4c7b-a5fb-f676e7b8ba4d",
       "identifiers": [
@@ -14474,13 +13440,6 @@
     },
     {
       "birth_date": "1970-09-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yavor.kuiumdjiev@parliament.bg"
-        }
-      ],
-      "email": "yavor.kuiumdjiev@parliament.bg",
       "gender": "male",
       "id": "45035556-aff1-45fc-8366-fdb9076587f2",
       "identifiers": [
@@ -14558,13 +13517,6 @@
     },
     {
       "birth_date": "1969-05-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "t.naimov@parliament.bg"
-        }
-      ],
-      "email": "t.naimov@parliament.bg",
       "gender": "male",
       "id": "45b58f03-38d2-4570-a1df-ae301a2740cd",
       "identifiers": [
@@ -14594,14 +13546,7 @@
     },
     {
       "birth_date": "1953-12-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stonev@parliament.bg"
-        }
-      ],
       "death_date": "2017-05-14",
-      "email": "stonev@parliament.bg",
       "gender": "male",
       "given_name": "Stojan",
       "id": "45f15ccd-704f-4d78-a994-2e755e66855d",
@@ -14651,13 +13596,6 @@
     },
     {
       "birth_date": "1962-09-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valentin.ivanov@parliament.bg"
-        }
-      ],
-      "email": "valentin.ivanov@parliament.bg",
       "gender": "male",
       "id": "45ff386c-6442-46aa-9314-4ae7b6b01129",
       "identifiers": [
@@ -14779,13 +13717,6 @@
     },
     {
       "birth_date": "1939-10-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fbif@internet-bg.net"
-        }
-      ],
-      "email": "fbif@internet-bg.net",
       "gender": "male",
       "given_name": "Todor",
       "id": "47b9d6dd-41e1-4ab9-b289-ab9422cd7b6b",
@@ -14908,13 +13839,6 @@
     },
     {
       "birth_date": "1968-02-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tsveta.karayancheva@parliament.bg, cveta_@abv.bg"
-        }
-      ],
-      "email": "tsveta.karayancheva@parliament.bg, cveta_@abv.bg",
       "gender": "female",
       "given_name": "Tsveta",
       "id": "48ec099b-c1a8-439e-9291-9f70cae2314d",
@@ -15098,13 +14022,6 @@
     },
     {
       "birth_date": "1945-07-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivanovin@hotmail.com"
-        }
-      ],
-      "email": "ivanovin@hotmail.com",
       "family_name": "Ivanov",
       "gender": "male",
       "id": "494db2dd-1db7-4ed9-8f38-789b553b6fd7",
@@ -15306,13 +14223,6 @@
     },
     {
       "birth_date": "1983-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aleksandar.nenkov@parliament.bg"
-        }
-      ],
-      "email": "aleksandar.nenkov@parliament.bg",
       "gender": "male",
       "id": "4b7e4b28-b4e8-4b52-82cb-2cddcb824999",
       "identifiers": [
@@ -15473,13 +14383,6 @@
     },
     {
       "birth_date": "1953-07-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "evgeniy.uzunov@parliament.bg"
-        }
-      ],
-      "email": "evgeniy.uzunov@parliament.bg",
       "gender": "male",
       "id": "4c4efb30-19e6-4b79-a15a-071dfe061699",
       "identifiers": [
@@ -15568,13 +14471,6 @@
     },
     {
       "birth_date": "1956-12-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lshuleva@yahoo.com"
-        }
-      ],
-      "email": "lshuleva@yahoo.com",
       "gender": "female",
       "given_name": "Lidiya",
       "id": "4d292bdb-2491-437e-b309-ddb80a6372dc",
@@ -15781,13 +14677,6 @@
     },
     {
       "birth_date": "1971-01-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "i.sokolova@parliament.bg"
-        }
-      ],
-      "email": "i.sokolova@parliament.bg",
       "family_name": "Sokolova",
       "gender": "female",
       "given_name": "Irena",
@@ -15867,13 +14756,6 @@
     },
     {
       "birth_date": "1972-07-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "n.ali@parliament.bg"
-        }
-      ],
-      "email": "n.ali@parliament.bg",
       "gender": "male",
       "id": "4e6a7d1a-d2ee-4078-8f0f-e6e045eb3278",
       "identifiers": [
@@ -15993,13 +14875,6 @@
     },
     {
       "birth_date": "1943-10-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "d.avramov@parliament.bg"
-        }
-      ],
-      "email": "d.avramov@parliament.bg",
       "family_name": "Avramov",
       "gender": "male",
       "given_name": "Dimitar",
@@ -16059,13 +14934,6 @@
     },
     {
       "birth_date": "1975-03-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "atanas.padev@parliament.bg"
-        }
-      ],
-      "email": "atanas.padev@parliament.bg",
       "gender": "male",
       "id": "4f6679a8-0564-4da7-ad3b-382ee998e880",
       "identifiers": [
@@ -16150,13 +15018,6 @@
     },
     {
       "birth_date": "1977-04-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitrovmartin@gmail.com"
-        }
-      ],
-      "email": "dimitrovmartin@gmail.com",
       "family_name": "Dimitrov",
       "gender": "male",
       "given_name": "Martin",
@@ -16456,13 +15317,6 @@
     },
     {
       "birth_date": "1964-08-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.bayraktarov@parliament.bg"
-        }
-      ],
-      "email": "dimitar.bayraktarov@parliament.bg",
       "gender": "male",
       "id": "506321d1-11ac-4853-8071-9fb4619879d3",
       "identifiers": [
@@ -16592,13 +15446,6 @@
     },
     {
       "birth_date": "1978-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "denica_dimitrova@yahoo.com"
-        }
-      ],
-      "email": "denica_dimitrova@yahoo.com",
       "gender": "female",
       "id": "50ac7597-4aba-49ee-857e-67901f658673",
       "identifiers": [
@@ -16621,13 +15468,6 @@
     },
     {
       "birth_date": "1976-12-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "againe@ssco.bg"
-        }
-      ],
-      "email": "againe@ssco.bg",
       "gender": "female",
       "id": "5106da38-5542-4871-b3e7-e27780af684b",
       "identifiers": [
@@ -16888,13 +15728,6 @@
     },
     {
       "birth_date": "1968-08-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mony@datacom.bg"
-        }
-      ],
-      "email": "mony@datacom.bg",
       "id": "525e3580-9545-45de-ac3b-42053e3b0371",
       "identifiers": [
         {
@@ -16987,13 +15820,6 @@
     },
     {
       "birth_date": "1970-09-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vyara.petrova@parliament.bg"
-        }
-      ],
-      "email": "vyara.petrova@parliament.bg",
       "family_name": "Petrova",
       "gender": "female",
       "given_name": "Vyara",
@@ -17054,13 +15880,6 @@
     },
     {
       "birth_date": "1961-10-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "silviya.hubenova@parliament.bg"
-        }
-      ],
-      "email": "silviya.hubenova@parliament.bg",
       "gender": "female",
       "id": "53c7984d-1921-4137-aecb-f926ffdeb59b",
       "identifiers": [
@@ -17090,13 +15909,6 @@
     },
     {
       "birth_date": "1964-04-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dymitar@abv.bg"
-        }
-      ],
-      "email": "dymitar@abv.bg",
       "id": "53f034de-7c02-4ba3-8660-6810ac4cde76",
       "identifiers": [
         {
@@ -17180,13 +15992,6 @@
     },
     {
       "birth_date": "1972-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pehlivanov@parliament.bg"
-        }
-      ],
-      "email": "pehlivanov@parliament.bg",
       "gender": "male",
       "id": "544b77cf-a3ae-4e56-b355-017c0933d873",
       "identifiers": [
@@ -17459,13 +16264,6 @@
     },
     {
       "birth_date": "1966-10-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "irena.uzunova@parliament.bg"
-        }
-      ],
-      "email": "irena.uzunova@parliament.bg",
       "gender": "female",
       "id": "5549db45-5a59-4bc5-97e4-1d39fe428c25",
       "identifiers": [
@@ -17590,13 +16388,6 @@
     },
     {
       "birth_date": "1984-04-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.andonov@parliament.bg"
-        }
-      ],
-      "email": "georgi.andonov@parliament.bg",
       "gender": "male",
       "id": "564cb9c0-e1ca-4df6-be0c-ab7ae4e647bb",
       "identifiers": [
@@ -17681,13 +16472,6 @@
     },
     {
       "birth_date": "1982-02-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivan.bozhilov@parliament.bg"
-        }
-      ],
-      "email": "ivan.bozhilov@parliament.bg",
       "gender": "male",
       "id": "565e045e-ecba-4cf4-841d-470f6ab7e2bb",
       "identifiers": [
@@ -17860,13 +16644,6 @@
     },
     {
       "birth_date": "1973-11-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "belgin@parliament.bg"
-        }
-      ],
-      "email": "belgin@parliament.bg",
       "gender": "male",
       "id": "576a44af-b4e8-40bd-90c3-d8e6e1164635",
       "identifiers": [
@@ -17915,13 +16692,6 @@
     },
     {
       "birth_date": "1958-03-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "krasimira.kovachka@parliament.bg"
-        }
-      ],
-      "email": "krasimira.kovachka@parliament.bg",
       "gender": "female",
       "id": "5774cd4c-d8a0-429f-bc2c-c32861ea2629",
       "identifiers": [
@@ -17951,13 +16721,6 @@
     },
     {
       "birth_date": "1963-07-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "irena.kotseva@parliament.bg"
-        }
-      ],
-      "email": "irena.kotseva@parliament.bg",
       "gender": "female",
       "id": "57949d08-9487-468d-bb7a-b47c18628eb7",
       "identifiers": [
@@ -18035,13 +16798,6 @@
     },
     {
       "birth_date": "1959-05-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "r.s.stoilov@abv.bg"
-        }
-      ],
-      "email": "r.s.stoilov@abv.bg",
       "gender": "male",
       "id": "57c7496e-1270-4105-90bf-e5dd7f7c458c",
       "identifiers": [
@@ -18071,13 +16827,6 @@
     },
     {
       "birth_date": "1966-05-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ts.tsvetanov@parliament.bg"
-        }
-      ],
-      "email": "ts.tsvetanov@parliament.bg",
       "gender": "male",
       "id": "57ddd147-ee2c-4f1c-bb9c-92e60ac7c0ad",
       "identifiers": [
@@ -18161,13 +16910,6 @@
     },
     {
       "birth_date": "1951-09-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nedyalko.nedyalkov@parliament.bg"
-        }
-      ],
-      "email": "nedyalko.nedyalkov@parliament.bg",
       "gender": "male",
       "id": "581a7492-50b1-4c8e-8b11-e0c532305af3",
       "identifiers": [
@@ -18226,13 +16968,6 @@
     },
     {
       "birth_date": "1970-05-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "svetoslav.tonchev@parliament.bg"
-        }
-      ],
-      "email": "svetoslav.tonchev@parliament.bg",
       "gender": "male",
       "id": "58306f4f-f15b-4393-bac6-c09a750a3c00",
       "identifiers": [
@@ -18293,13 +17028,6 @@
     },
     {
       "birth_date": "1976-09-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lyubomir.petkov@parliament.bg"
-        }
-      ],
-      "email": "lyubomir.petkov@parliament.bg",
       "gender": "male",
       "id": "587dcf7b-fa72-4b7f-90b2-fc96f7e6f2b8",
       "identifiers": [
@@ -18329,13 +17057,6 @@
     },
     {
       "birth_date": "1967-03-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "i_iskrov@hotmail.com"
-        }
-      ],
-      "email": "i_iskrov@hotmail.com",
       "gender": "male",
       "given_name": "Ivan",
       "id": "589b8fe0-58f7-4df4-bbfa-3e4b8d2387c3",
@@ -18454,17 +17175,6 @@
     },
     {
       "birth_date": "1955-03-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "takorov@abv.bg"
-        },
-        {
-          "type": "email",
-          "value": "takorov@mail.bg"
-        }
-      ],
-      "email": "takorov@abv.bg",
       "gender": "male",
       "id": "58a3655e-1cd4-4572-9466-5e998d61ddd1",
       "identifiers": [
@@ -18572,13 +17282,6 @@
     },
     {
       "birth_date": "1967-02-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivaradinova@acvilon.com"
-        }
-      ],
-      "email": "ivaradinova@acvilon.com",
       "gender": "female",
       "given_name": "Irena",
       "id": "593325c2-c376-4bfa-80d5-38cde08ebe89",
@@ -18628,13 +17331,6 @@
     },
     {
       "birth_date": "1965-03-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "z.todorov@parliament.bg"
-        }
-      ],
-      "email": "z.todorov@parliament.bg",
       "gender": "male",
       "id": "593bda1b-649e-4444-930f-4fc16952db04",
       "identifiers": [
@@ -18943,13 +17639,6 @@
     },
     {
       "birth_date": "1969-08-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kiril.gumnerov@parliament.bg"
-        }
-      ],
-      "email": "kiril.gumnerov@parliament.bg",
       "gender": "male",
       "id": "59ff041d-2f89-4738-ac3e-8280e99e3fdc",
       "identifiers": [
@@ -18979,13 +17668,6 @@
     },
     {
       "birth_date": "1958-09-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "svetla.piralkova@parliament.bg"
-        }
-      ],
-      "email": "svetla.piralkova@parliament.bg",
       "gender": "female",
       "id": "5a8b74ec-fb3e-4ea3-bf62-4855e4a8fd91",
       "identifiers": [
@@ -19015,13 +17697,6 @@
     },
     {
       "birth_date": "1961-08-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "svetoslav.nedelchev@parliament.bg"
-        }
-      ],
-      "email": "svetoslav.nedelchev@parliament.bg",
       "gender": "male",
       "id": "5aceb73e-251d-47b8-9929-c4d191505623",
       "identifiers": [
@@ -19051,13 +17726,6 @@
     },
     {
       "birth_date": "1983-08-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "monika.panayotova@parliament.bg"
-        }
-      ],
-      "email": "monika.panayotova@parliament.bg",
       "gender": "female",
       "given_name": "Monika",
       "id": "5adb4d1f-6959-4389-b4f3-74ef54bc08b0",
@@ -19172,13 +17840,6 @@
     },
     {
       "birth_date": "1957-10-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.tanev@parliament.bg"
-        }
-      ],
-      "email": "dimitar.tanev@parliament.bg",
       "gender": "male",
       "id": "5ae4bb60-f3ce-4be7-a3a0-3c0730244b1a",
       "identifiers": [
@@ -19208,13 +17869,6 @@
     },
     {
       "birth_date": "1984-04-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.andonov@parliament.bg"
-        }
-      ],
-      "email": "georgi.andonov@parliament.bg",
       "gender": "male",
       "id": "5aeaabbe-3827-4999-b6f4-37c556d027d0",
       "identifiers": [
@@ -19301,13 +17955,6 @@
     },
     {
       "birth_date": "1954-09-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aleksi.aleksiev@parliament.bg"
-        }
-      ],
-      "email": "aleksi.aleksiev@parliament.bg",
       "gender": "male",
       "id": "5b484264-f57b-4acc-a7e9-0a04327a0803",
       "identifiers": [
@@ -19516,13 +18163,6 @@
     },
     {
       "birth_date": "1955-06-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "chtherio.chtherev@parliament.bg"
-        }
-      ],
-      "email": "chtherio.chtherev@parliament.bg",
       "gender": "male",
       "id": "5cffa489-ace9-4cc8-8227-0d110fb30c94",
       "identifiers": [
@@ -19754,13 +18394,6 @@
     },
     {
       "birth_date": "1955-04-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "margarita.stoilova@parliament.bg"
-        }
-      ],
-      "email": "margarita.stoilova@parliament.bg",
       "gender": "female",
       "id": "5da775e5-e114-4f58-a2ba-d169a55e78c7",
       "identifiers": [
@@ -19850,14 +18483,7 @@
     },
     {
       "birth_date": "1969-07-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "freedomparybg@abv.bg"
-        }
-      ],
       "death_date": "2016-03-19",
-      "email": "freedomparybg@abv.bg",
       "gender": "male",
       "given_name": "Pavel",
       "id": "5e89bd86-7aed-406c-8a9f-234eef9f50ec",
@@ -19968,13 +18594,6 @@
     },
     {
       "birth_date": "1957-09-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "M.Mihaylova@navet.government.bg"
-        }
-      ],
-      "email": "M.Mihaylova@navet.government.bg",
       "id": "5ea19cb0-ad7a-4ed6-878c-3cf9afd98da0",
       "identifiers": [
         {
@@ -20118,13 +18737,6 @@
     },
     {
       "birth_date": "1981-09-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zhivko.todorov@parliament.bg"
-        }
-      ],
-      "email": "zhivko.todorov@parliament.bg",
       "gender": "male",
       "id": "5f6d593d-0e47-4b71-8a5b-d043e92670c2",
       "identifiers": [
@@ -20234,13 +18846,6 @@
     },
     {
       "birth_date": "1980-12-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stefan.kenov@parliament.bg"
-        }
-      ],
-      "email": "stefan.kenov@parliament.bg",
       "gender": "male",
       "id": "616091de-c38c-48a5-81d9-70639ae397a2",
       "identifiers": [
@@ -20484,13 +19089,6 @@
     },
     {
       "birth_date": "1965-07-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "advvasilev@abv.bg"
-        }
-      ],
-      "email": "advvasilev@abv.bg",
       "gender": "male",
       "id": "6365c9f0-b51e-4d9a-a43c-c2bcac992425",
       "identifiers": [
@@ -20520,13 +19118,6 @@
     },
     {
       "birth_date": "1940-01-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "velichkov@mail.bg"
-        }
-      ],
-      "email": "velichkov@mail.bg",
       "gender": "male",
       "id": "63a6ee16-834a-4e97-a8c3-5c46de083d96",
       "identifiers": [
@@ -20595,13 +19186,6 @@
     },
     {
       "birth_date": "1975-11-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "iliya.iliev@parliament.bg"
-        }
-      ],
-      "email": "iliya.iliev@parliament.bg",
       "gender": "male",
       "id": "642712f7-d881-4dcd-80b1-b9615c0176e5",
       "identifiers": [
@@ -20716,13 +19300,6 @@
     },
     {
       "birth_date": "1959-07-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tsvetan.sichanov@parliament.bg"
-        }
-      ],
-      "email": "tsvetan.sichanov@parliament.bg",
       "gender": "male",
       "id": "659b19cf-68f9-4fe5-acf9-e6751adac1f6",
       "identifiers": [
@@ -20752,13 +19329,6 @@
     },
     {
       "birth_date": "1979-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mihail.todorov@parliament.bg"
-        }
-      ],
-      "email": "mihail.todorov@parliament.bg",
       "gender": "male",
       "id": "65ac562c-39dc-4818-8244-7eeb71e081fc",
       "identifiers": [
@@ -20805,13 +19375,6 @@
     },
     {
       "birth_date": "1954-04-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "andon.andonov@parliament.bg"
-        }
-      ],
-      "email": "andon.andonov@parliament.bg",
       "gender": "male",
       "id": "65f10443-4fb2-46b0-bcc1-fcb2677928a6",
       "identifiers": [
@@ -20841,13 +19404,6 @@
     },
     {
       "birth_date": "1969-04-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "diart@dir.bg"
-        }
-      ],
-      "email": "diart@dir.bg",
       "id": "660c2d2c-ce3d-4208-9021-569a879702a8",
       "identifiers": [
         {
@@ -20912,13 +19468,6 @@
     },
     {
       "birth_date": "1980-06-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ana.barakova@parliament.bg"
-        }
-      ],
-      "email": "ana.barakova@parliament.bg",
       "gender": "female",
       "given_name": "Ana",
       "id": "662ea2ac-cb58-434f-a9f8-b883a222692b",
@@ -20968,13 +19517,6 @@
     },
     {
       "birth_date": "1976-05-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tsvetomir.mihov@parliament.bg"
-        }
-      ],
-      "email": "tsvetomir.mihov@parliament.bg",
       "gender": "male",
       "id": "664dfa29-51d7-45ba-ad8a-4571a8761d94",
       "identifiers": [
@@ -21004,13 +19546,6 @@
     },
     {
       "birth_date": "1971-06-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roumen.iontchev@parliament.bg"
-        }
-      ],
-      "email": "roumen.iontchev@parliament.bg",
       "gender": "male",
       "id": "6685abbb-6791-45ec-bcd2-c6c6f1a8d73d",
       "identifiers": [
@@ -21040,13 +19575,6 @@
     },
     {
       "birth_date": "1960-02-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "alekobg@yahoo.com"
-        }
-      ],
-      "email": "alekobg@yahoo.com",
       "gender": "male",
       "id": "6697970e-3851-4d82-9313-64f934164afd",
       "identifiers": [
@@ -21311,13 +19839,6 @@
     },
     {
       "birth_date": "1977-12-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lilyana.nikolova@parliament.bg"
-        }
-      ],
-      "email": "lilyana.nikolova@parliament.bg",
       "family_name": "Pavlova",
       "gender": "female",
       "given_name": "Liliana",
@@ -21556,13 +20077,6 @@
     },
     {
       "birth_date": "1951-07-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "304ap@nt52.parliament.bg"
-        }
-      ],
-      "email": "304ap@nt52.parliament.bg",
       "gender": "male",
       "given_name": "Atanas",
       "id": "67d97e91-9295-4c1d-aaa5-efeb5258cfae",
@@ -21659,13 +20173,6 @@
     },
     {
       "birth_date": "1984-04-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "daniela.panayotova@parliament.bg"
-        }
-      ],
-      "email": "daniela.panayotova@parliament.bg",
       "gender": "female",
       "id": "67f99142-4d25-4237-8484-cf8cd3f8220d",
       "identifiers": [
@@ -21695,13 +20202,6 @@
     },
     {
       "birth_date": "1970-08-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "todor.dimitrov@parliament.bg"
-        }
-      ],
-      "email": "todor.dimitrov@parliament.bg",
       "gender": "male",
       "id": "67ff07a6-f4d3-4c7a-b372-d9dcaef3be44",
       "identifiers": [
@@ -21781,13 +20281,6 @@
     },
     {
       "birth_date": "1956-02-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "M.Plugtschieva@parliament.bg"
-        }
-      ],
-      "email": "M.Plugtschieva@parliament.bg",
       "gender": "female",
       "id": "688502f1-3435-4604-9fd1-7f03062d1eab",
       "identifiers": [
@@ -21845,13 +20338,6 @@
     },
     {
       "birth_date": "1991-12-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kristiyan.dimitrov@parliament.bg"
-        }
-      ],
-      "email": "kristiyan.dimitrov@parliament.bg",
       "family_name": "Dimitrov",
       "gender": "male",
       "id": "68d0036b-b247-4083-9293-d4ae5081708f",
@@ -21901,13 +20387,6 @@
     },
     {
       "birth_date": "1970-07-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valentin.pavlov@parliament.bg"
-        }
-      ],
-      "email": "valentin.pavlov@parliament.bg",
       "gender": "male",
       "id": "6929f525-e177-4ae2-88f3-9aa33ae3d559",
       "identifiers": [
@@ -21937,13 +20416,6 @@
     },
     {
       "birth_date": "1955-03-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valeri.simeonov@parliament.bg"
-        }
-      ],
-      "email": "valeri.simeonov@parliament.bg",
       "id": "693720d3-bf48-46d9-8e61-3685de68c785",
       "identifiers": [
         {
@@ -22028,13 +20500,6 @@
     },
     {
       "birth_date": "1958-06-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pencho.penchev@parliament.bg"
-        }
-      ],
-      "email": "pencho.penchev@parliament.bg",
       "gender": "male",
       "id": "6962218b-c7f8-4742-979a-7caf6a155cb8",
       "identifiers": [
@@ -22064,13 +20529,6 @@
     },
     {
       "birth_date": "1966-03-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "G.Serbest@parliament.bg"
-        }
-      ],
-      "email": "G.Serbest@parliament.bg",
       "gender": "male",
       "id": "69708cff-486f-43bf-bfba-ad660da5ce42",
       "identifiers": [
@@ -22100,13 +20558,6 @@
     },
     {
       "birth_date": "1979-07-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivan.kolev@parliament.bg"
-        }
-      ],
-      "email": "ivan.kolev@parliament.bg",
       "gender": "male",
       "id": "69adf658-ea24-4418-91bc-7ef03900ba60",
       "identifiers": [
@@ -22167,13 +20618,6 @@
     },
     {
       "birth_date": "1962-08-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hristo_popov1962@abv.bg"
-        }
-      ],
-      "email": "hristo_popov1962@abv.bg",
       "gender": "male",
       "id": "6a22b381-aeab-478c-9ffe-9557ca7565b5",
       "identifiers": [
@@ -22255,13 +20699,6 @@
     },
     {
       "birth_date": "1971-09-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DMustafa@parliament.bg"
-        }
-      ],
-      "email": "DMustafa@parliament.bg",
       "gender": "male",
       "id": "6adc0ec0-01ac-4381-aeaf-a8faf7c4de74",
       "identifiers": [
@@ -22310,13 +20747,6 @@
     },
     {
       "birth_date": "1979-04-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kalin.milchev@parliament.bg"
-        }
-      ],
-      "email": "kalin.milchev@parliament.bg",
       "gender": "male",
       "id": "6af75585-854f-4983-9ed1-7bf74439a495",
       "identifiers": [
@@ -22374,13 +20804,6 @@
     },
     {
       "birth_date": "1951-06-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petko.totev@parliament.bg"
-        }
-      ],
-      "email": "petko.totev@parliament.bg",
       "gender": "male",
       "id": "6b3b65d5-a033-48a0-8cce-5c88da04236c",
       "identifiers": [
@@ -22438,13 +20861,6 @@
     },
     {
       "birth_date": "1965-12-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "abadjiev@bsbg.net"
-        }
-      ],
-      "email": "abadjiev@bsbg.net",
       "gender": "male",
       "id": "6b6c89a4-9ac8-4e20-8fb8-1a24d7254188",
       "identifiers": [
@@ -22497,13 +20913,6 @@
     },
     {
       "birth_date": "1955-04-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "krasimira.simeonova@parliament.bg"
-        }
-      ],
-      "email": "krasimira.simeonova@parliament.bg",
       "gender": "female",
       "id": "6ba972bf-4809-4c48-ba6f-db49b3a6a84d",
       "identifiers": [
@@ -22533,13 +20942,6 @@
     },
     {
       "birth_date": "1963-10-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kmilchev@yahoo.com"
-        }
-      ],
-      "email": "kmilchev@yahoo.com",
       "id": "6bccf0ba-134a-4e70-b355-614b8f1367f7",
       "identifiers": [
         {
@@ -22791,13 +21193,6 @@
     },
     {
       "birth_date": "1951-03-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "salexieva@gmail.com"
-        }
-      ],
-      "email": "salexieva@gmail.com",
       "gender": "female",
       "id": "6c72e655-2e13-4425-892d-63dec5043671",
       "identifiers": [
@@ -22827,13 +21222,6 @@
     },
     {
       "birth_date": "1981-07-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "plamen.zhelyazkov@parliament.bg"
-        }
-      ],
-      "email": "plamen.zhelyazkov@parliament.bg",
       "gender": "male",
       "id": "6cbd0607-04ca-49ca-8ad3-990820af4ae0",
       "identifiers": [
@@ -22930,13 +21318,6 @@
     },
     {
       "birth_date": "1946-04-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.marcov@parliament.bg"
-        }
-      ],
-      "email": "georgi.marcov@parliament.bg",
       "family_name": "Markov",
       "gender": "male",
       "given_name": "Georgi",
@@ -23145,13 +21526,6 @@
     },
     {
       "birth_date": "1989-03-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anton.dolapchiev@parliament.bg"
-        }
-      ],
-      "email": "anton.dolapchiev@parliament.bg",
       "gender": "male",
       "id": "6d68201c-7e21-4f63-869b-ab8693a036b5",
       "identifiers": [
@@ -23209,13 +21583,6 @@
     },
     {
       "birth_date": "1969-10-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stoyan.mavrodiev@parliament.bg"
-        }
-      ],
-      "email": "stoyan.mavrodiev@parliament.bg",
       "gender": "male",
       "given_name": "Stojan",
       "id": "6d8b4003-a558-47cf-ba98-6331846fa914",
@@ -23265,13 +21632,6 @@
     },
     {
       "birth_date": "1975-12-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolay.kostadinov@parliament.bg"
-        }
-      ],
-      "email": "nikolay.kostadinov@parliament.bg",
       "gender": "male",
       "id": "6d8e0190-1fb0-47b8-9f9c-dcad0fa5d315",
       "identifiers": [
@@ -23301,13 +21661,6 @@
     },
     {
       "birth_date": "1967-08-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hristo.kaloyanov@parliament.bg"
-        }
-      ],
-      "email": "hristo.kaloyanov@parliament.bg",
       "gender": "male",
       "id": "6d9a2226-7511-4b78-a9a4-2c306bcc0772",
       "identifiers": [
@@ -23368,13 +21721,6 @@
     },
     {
       "birth_date": "1970-06-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "d.chukarski@parliament.bg"
-        }
-      ],
-      "email": "d.chukarski@parliament.bg",
       "gender": "male",
       "id": "6dcff5ac-2045-45d5-b54a-f9c423e1fb22",
       "identifiers": [
@@ -23423,13 +21769,6 @@
     },
     {
       "birth_date": "1962-05-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "i.nikolov@parliament.bg"
-        }
-      ],
-      "email": "i.nikolov@parliament.bg",
       "gender": "male",
       "id": "6df20327-fb03-4f4f-9fe7-085cca89cf48",
       "identifiers": [
@@ -23459,13 +21798,6 @@
     },
     {
       "birth_date": "1970-01-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mehmed.ataman@parliament.bg"
-        }
-      ],
-      "email": "mehmed.ataman@parliament.bg",
       "gender": "male",
       "id": "6e072c82-2d85-4cce-ba75-27f96fd70c7e",
       "identifiers": [
@@ -23586,13 +21918,6 @@
     },
     {
       "birth_date": "1953-03-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "drssoman@unwe.akad.bg"
-        }
-      ],
-      "email": "drssoman@unwe.akad.bg",
       "gender": "male",
       "id": "6f1c65e2-f00e-49a1-b932-d6328187fec2",
       "identifiers": [
@@ -23826,13 +22151,6 @@
     },
     {
       "birth_date": "1950-12-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "krikorian@cblink.net"
-        }
-      ],
-      "email": "krikorian@cblink.net",
       "id": "70a1c3d6-8578-4174-886d-2b6df7d39d45",
       "identifiers": [
         {
@@ -23892,13 +22210,6 @@
     },
     {
       "birth_date": "1947-04-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fbgr@mbox.infotel.bg"
-        }
-      ],
-      "email": "fbgr@mbox.infotel.bg",
       "id": "70d3355c-2a82-41bf-b8c4-40f4627b1831",
       "identifiers": [
         {
@@ -23955,13 +22266,6 @@
     },
     {
       "birth_date": "1977-12-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "daniel.georgiev@parliament.bg"
-        }
-      ],
-      "email": "daniel.georgiev@parliament.bg",
       "gender": "male",
       "id": "711a8e0b-8664-476e-821b-4b84139723d9",
       "identifiers": [
@@ -24012,13 +22316,6 @@
     },
     {
       "birth_date": "1976-11-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bilyana.bekova@parliament.bg"
-        }
-      ],
-      "email": "bilyana.bekova@parliament.bg",
       "gender": "female",
       "id": "73039089-83b6-46a4-b31f-04fa1726b22a",
       "identifiers": [
@@ -24048,13 +22345,6 @@
     },
     {
       "birth_date": "1974-05-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ralitsa.todorova@parliament.bg"
-        }
-      ],
-      "email": "ralitsa.todorova@parliament.bg",
       "gender": "female",
       "id": "737fda02-f52d-428c-a337-32a10548b5f9",
       "identifiers": [
@@ -24084,13 +22374,6 @@
     },
     {
       "birth_date": "1954-08-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ekaterina.zayakova@parliament.bg"
-        }
-      ],
-      "email": "ekaterina.zayakova@parliament.bg",
       "gender": "female",
       "id": "738b1958-4182-4f90-85ea-0f701a410fef",
       "identifiers": [
@@ -24266,13 +22549,6 @@
     },
     {
       "birth_date": "1964-12-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hristo.hristov@parliament.bg"
-        }
-      ],
-      "email": "hristo.hristov@parliament.bg",
       "gender": "male",
       "id": "743177e7-e36a-475b-9ac8-c592b4f0a575",
       "identifiers": [
@@ -24330,13 +22606,6 @@
     },
     {
       "birth_date": "1959-09-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stefan.dedev@parliament.bg"
-        }
-      ],
-      "email": "stefan.dedev@parliament.bg",
       "gender": "male",
       "id": "745533ba-2ba8-47f3-b136-d8a3eca0fc4f",
       "identifiers": [
@@ -24366,13 +22635,6 @@
     },
     {
       "birth_date": "1965-05-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "b.stoyanov@parliament.bg"
-        }
-      ],
-      "email": "b.stoyanov@parliament.bg",
       "gender": "male",
       "id": "753ed494-8cce-4cb3-bacd-d18adfb3953e",
       "identifiers": [
@@ -24404,15 +22666,10 @@
       "birth_date": "1952-07-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "EPF@OMEGA.BG"
-        },
-        {
           "type": "twitter",
           "value": "IrinaBokova"
         }
       ],
-      "email": "EPF@OMEGA.BG",
       "gender": "female",
       "given_name": "Irina",
       "id": "7546073d-9d82-44c9-8144-579ed532fd60",
@@ -24933,13 +23190,6 @@
     },
     {
       "birth_date": "1958-02-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valentin.radev@parliament.bg"
-        }
-      ],
-      "email": "valentin.radev@parliament.bg",
       "gender": "male",
       "id": "760c6e93-db96-4bcf-be51-3d77219d6733",
       "identifiers": [
@@ -25013,13 +23263,6 @@
     },
     {
       "birth_date": "1978-06-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "shabanali.durmush@parliament.bg"
-        }
-      ],
-      "email": "shabanali.durmush@parliament.bg",
       "gender": "male",
       "id": "769369d7-5749-4ccb-a2ab-f1bffa352178",
       "identifiers": [
@@ -25049,13 +23292,6 @@
     },
     {
       "birth_date": "1972-04-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kirildobrev7@gmail.com"
-        }
-      ],
-      "email": "kirildobrev7@gmail.com",
       "gender": "male",
       "id": "76edbf17-4ffb-43dd-997b-0252dbeb5cb1",
       "identifiers": [
@@ -25156,13 +23392,6 @@
     },
     {
       "birth_date": "1944-09-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mincho.minchev@parliament.bg"
-        }
-      ],
-      "email": "mincho.minchev@parliament.bg",
       "gender": "male",
       "id": "774e4d9b-b578-470f-b006-ef4ce76a7d2f",
       "identifiers": [
@@ -25778,13 +24007,6 @@
     },
     {
       "birth_date": "1962-04-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.shishkov@parliament.bg"
-        }
-      ],
-      "email": "dimitar.shishkov@parliament.bg",
       "gender": "male",
       "id": "785983c1-4722-4099-acba-ae8a3152c02e",
       "identifiers": [
@@ -25814,17 +24036,6 @@
     },
     {
       "birth_date": "1962-02-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ventsislav.lakov@parliament.bg"
-        },
-        {
-          "type": "email",
-          "value": "vencilakov@abv.bg"
-        }
-      ],
-      "email": "ventsislav.lakov@parliament.bg",
       "gender": "male",
       "id": "78e0028d-8ff4-4821-8be0-2d78c5d17c65",
       "identifiers": [
@@ -26151,13 +24362,6 @@
     },
     {
       "birth_date": "1977-01-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dzheyhan.ibryamov@parliament.bg"
-        }
-      ],
-      "email": "dzheyhan.ibryamov@parliament.bg",
       "gender": "male",
       "id": "79ae0d53-7b07-43ac-9b44-6e5ea8356914",
       "identifiers": [
@@ -26187,13 +24391,6 @@
     },
     {
       "birth_date": "1980-07-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "delyan.peevski@parliament.bg"
-        }
-      ],
-      "email": "delyan.peevski@parliament.bg",
       "gender": "male",
       "id": "79af4627-fb18-45d1-a117-8553ba45b4f7",
       "identifiers": [
@@ -26333,13 +24530,6 @@
     },
     {
       "birth_date": "1950-08-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.kyuchukov@parliament.bg"
-        }
-      ],
-      "email": "georgi.kyuchukov@parliament.bg",
       "gender": "male",
       "id": "7a55bbd9-c584-42fc-a478-8e7171e1f2fd",
       "identifiers": [
@@ -26627,13 +24817,6 @@
     },
     {
       "birth_date": "1969-05-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yanko.ivanov@parliament.bg"
-        }
-      ],
-      "email": "yanko.ivanov@parliament.bg",
       "gender": "male",
       "id": "7bca5655-df7c-4d74-98b1-5c75aefaa374",
       "identifiers": [
@@ -26663,13 +24846,6 @@
     },
     {
       "birth_date": "1958-10-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ksa_fld@nacg.acad.bg"
-        }
-      ],
-      "email": "ksa_fld@nacg.acad.bg",
       "id": "7beac6b6-4ccb-4951-9845-74708f69dd4e",
       "identifiers": [
         {
@@ -26698,13 +24874,6 @@
     },
     {
       "birth_date": "1990-02-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kalina.balabanova@parliament.bg"
-        }
-      ],
-      "email": "kalina.balabanova@parliament.bg",
       "family_name": "Petrova",
       "gender": "female",
       "given_name": "Kalina",
@@ -26801,13 +24970,6 @@
     },
     {
       "birth_date": "1953-10-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "z.georgiev@parliament.bg"
-        }
-      ],
-      "email": "z.georgiev@parliament.bg",
       "gender": "male",
       "id": "7c2dfe04-d21f-42d2-98f1-80b3955a9c1d",
       "identifiers": [
@@ -26837,13 +24999,6 @@
     },
     {
       "birth_date": "1970-06-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "i.mustafov@parliament.bg"
-        }
-      ],
-      "email": "i.mustafov@parliament.bg",
       "gender": "male",
       "id": "7c4dccad-c856-4bfc-97a3-b6d7ef3a82ff",
       "identifiers": [
@@ -26873,13 +25028,6 @@
     },
     {
       "birth_date": "1963-09-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "atanas.merdjanov@parliament.bg"
-        }
-      ],
-      "email": "atanas.merdjanov@parliament.bg",
       "gender": "male",
       "id": "7c9def4f-b895-4ef5-9ab1-d831372a23e2",
       "identifiers": [
@@ -26928,13 +25076,6 @@
     },
     {
       "birth_date": "1977-06-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "strahil.angelov@parliament.bg"
-        }
-      ],
-      "email": "strahil.angelov@parliament.bg",
       "gender": "male",
       "id": "7cacd91b-231e-4cb6-a967-4689af5fbfd1",
       "identifiers": [
@@ -27062,13 +25203,6 @@
     },
     {
       "birth_date": "1966-07-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.borisov@parliament.bg"
-        }
-      ],
-      "email": "georgi.borisov@parliament.bg",
       "gender": "male",
       "id": "7e4eec1b-e5e5-47a3-bd14-e6575d12fae7",
       "identifiers": [
@@ -27348,13 +25482,6 @@
     },
     {
       "birth_date": "1949-02-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "miho.mihov@parliament.bg"
-        }
-      ],
-      "email": "miho.mihov@parliament.bg",
       "gender": "male",
       "id": "7f305de1-7e2d-4753-8dab-718ae08d3da2",
       "identifiers": [
@@ -27384,13 +25511,6 @@
     },
     {
       "birth_date": "1978-11-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "s.tanchev@parliament.bg"
-        }
-      ],
-      "email": "s.tanchev@parliament.bg",
       "gender": "male",
       "id": "7fa3a5ea-2cf2-4575-9cea-65c12fc0ecee",
       "identifiers": [
@@ -27422,15 +25542,10 @@
       "birth_date": "1972-05-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nmladenov@visto.com"
-        },
-        {
           "type": "twitter",
           "value": "nmladenov"
         }
       ],
-      "email": "nmladenov@visto.com",
       "family_name": "Mladenow",
       "gender": "male",
       "given_name": "Nikolai",
@@ -27627,13 +25742,6 @@
     },
     {
       "birth_date": "1980-04-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariya.belova@parliament.bg"
-        }
-      ],
-      "email": "mariya.belova@parliament.bg",
       "gender": "female",
       "id": "7fe30e5b-22ff-4709-89bc-43f703fe34e5",
       "identifiers": [
@@ -28130,13 +26238,6 @@
     },
     {
       "birth_date": "1960-08-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vl.donchev@lawyer.com"
-        }
-      ],
-      "email": "vl.donchev@lawyer.com",
       "id": "82001449-ddc2-4cec-9243-daf4a53443be",
       "identifiers": [
         {
@@ -28201,13 +26302,6 @@
     },
     {
       "birth_date": "1967-04-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "atanas.kambitov@parliament.bg"
-        }
-      ],
-      "email": "atanas.kambitov@parliament.bg",
       "gender": "male",
       "id": "82b1c523-c9f1-4bcb-bf6a-2f153b303357",
       "identifiers": [
@@ -28285,13 +26379,6 @@
     },
     {
       "birth_date": "1952-05-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petar.kadiev@parliament.bg"
-        }
-      ],
-      "email": "petar.kadiev@parliament.bg",
       "gender": "male",
       "id": "831d1a1b-da68-42bf-9628-1295249c0f7e",
       "identifiers": [
@@ -28321,13 +26408,6 @@
     },
     {
       "birth_date": "1961-05-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "plamen.slavov@yahoo.com"
-        }
-      ],
-      "email": "plamen.slavov@yahoo.com",
       "gender": "male",
       "id": "8334f501-78a8-4eb4-b466-902b645bbacd",
       "identifiers": [
@@ -28376,13 +26456,6 @@
     },
     {
       "birth_date": "1944-09-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "chkirchev@hotmail.com"
-        }
-      ],
-      "email": "chkirchev@hotmail.com",
       "gender": "male",
       "id": "834f5807-90d9-4c98-983e-2d50791a2092",
       "identifiers": [
@@ -28431,13 +26504,6 @@
     },
     {
       "birth_date": "1960-02-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "P.Oresharski@parliament.bg"
-        }
-      ],
-      "email": "P.Oresharski@parliament.bg",
       "gender": "male",
       "given_name": "Plamen",
       "id": "83809ea8-27ad-4100-ac53-c153056875d4",
@@ -28850,13 +26916,6 @@
     },
     {
       "birth_date": "1979-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariana.todorova@parliament.bg"
-        }
-      ],
-      "email": "mariana.todorova@parliament.bg",
       "gender": "female",
       "id": "838e9f5f-b63b-4d1c-acac-094797410249",
       "identifiers": [
@@ -28886,13 +26945,6 @@
     },
     {
       "birth_date": "1971-02-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "k.petrova@parliament.bg"
-        }
-      ],
-      "email": "k.petrova@parliament.bg",
       "gender": "female",
       "id": "83cea23e-e5f5-4b1b-b7c5-9945c63cce01",
       "identifiers": [
@@ -28958,13 +27010,6 @@
     },
     {
       "birth_date": "1967-07-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "martin.zahariev@parliament.bg"
-        }
-      ],
-      "email": "martin.zahariev@parliament.bg",
       "gender": "male",
       "id": "84442dd8-d335-497b-b350-1bc97cd1d5bd",
       "identifiers": [
@@ -28994,13 +27039,6 @@
     },
     {
       "birth_date": "1974-01-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "s.kichikov@parliament.bg"
-        }
-      ],
-      "email": "s.kichikov@parliament.bg",
       "gender": "male",
       "id": "8449e20b-0825-48a8-9054-0d16f0875062",
       "identifiers": [
@@ -29030,13 +27068,6 @@
     },
     {
       "birth_date": "1971-06-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dian.chervenkondev@parliament.bg"
-        }
-      ],
-      "email": "dian.chervenkondev@parliament.bg",
       "gender": "male",
       "id": "849113e4-2da0-4292-b2bc-eda34715eaff",
       "identifiers": [
@@ -29066,13 +27097,6 @@
     },
     {
       "birth_date": "1971-08-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vladimir.ivanov@parliament.bg"
-        }
-      ],
-      "email": "vladimir.ivanov@parliament.bg",
       "gender": "male",
       "id": "84cd1844-89c2-4689-851d-c12657226638",
       "identifiers": [
@@ -29160,13 +27184,6 @@
     },
     {
       "birth_date": "1946-03-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ognian@flaw.uni-sofia.bg"
-        }
-      ],
-      "email": "ognian@flaw.uni-sofia.bg",
       "gender": "male",
       "given_name": "Ognyan",
       "id": "84fe1ad5-6e1a-4c12-88eb-1ced35d88abd",
@@ -29414,13 +27431,6 @@
     },
     {
       "birth_date": "1951-06-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emil.georgiev@parliament.bg"
-        }
-      ],
-      "email": "emil.georgiev@parliament.bg",
       "gender": "male",
       "given_name": "Emil",
       "id": "8521180b-70c8-401b-8147-7658d695d2ed",
@@ -29483,13 +27493,6 @@
     },
     {
       "birth_date": "1962-11-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sultanka.petrova@parliament.bg"
-        }
-      ],
-      "email": "sultanka.petrova@parliament.bg",
       "gender": "female",
       "id": "852de0c7-7faf-47ef-807c-e50c6be3d860",
       "identifiers": [
@@ -29578,13 +27581,6 @@
     },
     {
       "birth_date": "1967-05-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lambovsky@abv.bg"
-        }
-      ],
-      "email": "lambovsky@abv.bg",
       "id": "86448ecd-3a2f-4707-b4f7-36b77ebaeeef",
       "identifiers": [
         {
@@ -29613,13 +27609,6 @@
     },
     {
       "birth_date": "1964-12-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pb_geni@mail.bg"
-        }
-      ],
-      "email": "pb_geni@mail.bg",
       "gender": "female",
       "id": "86e46b54-ba26-4d4a-94eb-f623d781ba49",
       "identifiers": [
@@ -29677,13 +27666,6 @@
     },
     {
       "birth_date": "1947-06-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mirrage2000@hotmail.com"
-        }
-      ],
-      "email": "mirrage2000@hotmail.com",
       "id": "876ea201-7849-45a2-8ae3-6a1fc7d0ed71",
       "identifiers": [
         {
@@ -29712,13 +27694,6 @@
     },
     {
       "birth_date": "1945-04-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ashterev@hotmail.com"
-        }
-      ],
-      "email": "ashterev@hotmail.com",
       "family_name": "Shterev",
       "gender": "male",
       "id": "87799682-841c-4d4d-b7a7-344190002cdb",
@@ -29910,13 +27885,6 @@
     },
     {
       "birth_date": "1975-12-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petar.slavov@parliament.bg"
-        }
-      ],
-      "email": "petar.slavov@parliament.bg",
       "gender": "male",
       "id": "890cd433-09d0-4f4e-a132-a3ad87152a7b",
       "identifiers": [
@@ -29968,13 +27936,6 @@
     },
     {
       "birth_date": "1971-05-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emil.radev@parliament.bg"
-        }
-      ],
-      "email": "emil.radev@parliament.bg",
       "gender": "male",
       "id": "893350fc-3eee-419b-a8d5-638323b40ab3",
       "identifiers": [
@@ -30004,13 +27965,6 @@
     },
     {
       "birth_date": "1963-10-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tsveta.georgieva@parliament.bg"
-        }
-      ],
-      "email": "tsveta.georgieva@parliament.bg",
       "gender": "female",
       "id": "89a68116-e60c-42a9-8761-4273e93c5f5b",
       "identifiers": [
@@ -30087,13 +28041,6 @@
     },
     {
       "birth_date": "1938-02-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dourmishev_assen@hotmail.com"
-        }
-      ],
-      "email": "dourmishev_assen@hotmail.com",
       "id": "89c06301-b0b0-4767-8951-6fc74d26a014",
       "identifiers": [
         {
@@ -30241,13 +28188,6 @@
     },
     {
       "birth_date": "1956-08-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zhelyazko.zhelyazkov@parliament.bg"
-        }
-      ],
-      "email": "zhelyazko.zhelyazkov@parliament.bg",
       "gender": "male",
       "id": "8a1f14fa-1ed8-4d39-99bc-0b023ce252e8",
       "identifiers": [
@@ -30336,13 +28276,6 @@
     },
     {
       "birth_date": "1958-09-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar_peychev@hotmail.com"
-        }
-      ],
-      "email": "dimitar_peychev@hotmail.com",
       "id": "8aeb3b33-93ff-4c3d-b70b-b5a280edbbbd",
       "identifiers": [
         {
@@ -30371,13 +28304,6 @@
     },
     {
       "birth_date": "1967-03-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "v.angelov@parliament.bg"
-        }
-      ],
-      "email": "v.angelov@parliament.bg",
       "gender": "male",
       "id": "8b116e29-de25-4acc-b36d-7c08deb77b50",
       "identifiers": [
@@ -30718,13 +28644,6 @@
     },
     {
       "birth_date": "1953-10-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "z.georgiev@parliament.bg"
-        }
-      ],
-      "email": "z.georgiev@parliament.bg",
       "gender": "male",
       "id": "8ca66650-ae63-4845-84a1-1520aadb71f0",
       "identifiers": [
@@ -30924,13 +28843,6 @@
     },
     {
       "birth_date": "1977-04-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vladislav.goranov@parliament.bg"
-        }
-      ],
-      "email": "vladislav.goranov@parliament.bg",
       "gender": "male",
       "id": "8d399273-3248-4325-a5b5-36cf17168e92",
       "identifiers": [
@@ -30960,13 +28872,6 @@
     },
     {
       "birth_date": "1953-10-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zlatkozlatev@abv.bg"
-        }
-      ],
-      "email": "zlatkozlatev@abv.bg",
       "gender": "male",
       "id": "8d4c7d87-dd3c-46ec-adf0-05890e2f49c2",
       "identifiers": [
@@ -31073,13 +28978,6 @@
     },
     {
       "birth_date": "1985-01-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kalina.krumova@parliament.bg"
-        }
-      ],
-      "email": "kalina.krumova@parliament.bg",
       "gender": "female",
       "given_name": "Kalina",
       "id": "8def950d-4499-4149-b33e-c0f94d70b30f",
@@ -31444,13 +29342,6 @@
     },
     {
       "birth_date": "1954-04-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "donka.ivanova@parliament.bg"
-        }
-      ],
-      "email": "donka.ivanova@parliament.bg",
       "gender": "female",
       "id": "8e8e082a-0ea4-403a-88f4-e2ccb196b296",
       "identifiers": [
@@ -31592,13 +29483,6 @@
     },
     {
       "birth_date": "1973-01-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolay.rashev@parliament.bg"
-        }
-      ],
-      "email": "nikolay.rashev@parliament.bg",
       "gender": "male",
       "id": "8eb9009e-168b-47a1-bc71-c7e6652cb7d7",
       "identifiers": [
@@ -31628,13 +29512,6 @@
     },
     {
       "birth_date": "1978-09-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vesselin.davidov@parliament.bg"
-        }
-      ],
-      "email": "vesselin.davidov@parliament.bg",
       "gender": "male",
       "id": "8f963c7e-cd9d-43fc-be1b-55fc173f4cb9",
       "identifiers": [
@@ -31664,13 +29541,6 @@
     },
     {
       "birth_date": "1961-06-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "krasimir.petrov@parliament.bg"
-        }
-      ],
-      "email": "krasimir.petrov@parliament.bg",
       "gender": "male",
       "id": "8fbbd380-81f1-4c86-a40d-64a55d58bcb9",
       "identifiers": [
@@ -31700,13 +29570,6 @@
     },
     {
       "birth_date": "1983-02-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "borislav.iglev@parliament.bg"
-        }
-      ],
-      "email": "borislav.iglev@parliament.bg",
       "gender": "male",
       "id": "9043ecc8-55cc-436e-888f-a1a79ecc986e",
       "identifiers": [
@@ -31767,13 +29630,6 @@
     },
     {
       "birth_date": "1961-08-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tab61@parliament.bg"
-        }
-      ],
-      "email": "tab61@parliament.bg",
       "gender": "male",
       "id": "91045e11-e939-468a-82a6-3a16f967da65",
       "identifiers": [
@@ -32155,13 +30011,6 @@
     },
     {
       "birth_date": "1985-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.dimov@parliament.bg"
-        }
-      ],
-      "email": "dimitar.dimov@parliament.bg",
       "gender": "male",
       "id": "92033452-194d-4cf6-9cde-bd67146038ce",
       "identifiers": [
@@ -32220,13 +30069,6 @@
     },
     {
       "birth_date": "1959-01-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "assia@omega.bg"
-        }
-      ],
-      "email": "assia@omega.bg",
       "gender": "female",
       "id": "920ac7e3-40c4-403e-a2f3-9f347f24dd37",
       "identifiers": [
@@ -32256,13 +30098,6 @@
     },
     {
       "birth_date": "1972-07-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tchetin@yahoo.com"
-        }
-      ],
-      "email": "tchetin@yahoo.com",
       "gender": "male",
       "id": "924247ad-b0b1-4ba7-9407-8ed881b85d9f",
       "identifiers": [
@@ -32464,13 +30299,6 @@
     },
     {
       "birth_date": "1964-12-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolay.apostolov@parliament.bg"
-        }
-      ],
-      "email": "nikolay.apostolov@parliament.bg",
       "gender": "male",
       "id": "936b59b1-3341-4245-8238-4d23ff7b46da",
       "identifiers": [
@@ -32500,13 +30328,6 @@
     },
     {
       "birth_date": "1969-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ventsislav.kaymakanov@parliament.bg"
-        }
-      ],
-      "email": "ventsislav.kaymakanov@parliament.bg",
       "gender": "male",
       "id": "939783ac-6474-4659-a01c-04697dc80529",
       "identifiers": [
@@ -32536,13 +30357,6 @@
     },
     {
       "birth_date": "1969-09-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "polina.karastoyanova@parliament.bg"
-        }
-      ],
-      "email": "polina.karastoyanova@parliament.bg",
       "gender": "female",
       "id": "93ac1bbe-fe5b-4c71-9615-4cdad5e9016f",
       "identifiers": [
@@ -32595,13 +30409,6 @@
     },
     {
       "birth_date": "1940-12-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "d_ignatov@rambler.bg"
-        }
-      ],
-      "email": "d_ignatov@rambler.bg",
       "id": "93d5ec41-0139-47ab-8938-c3ae9412f057",
       "identifiers": [
         {
@@ -32630,13 +30437,6 @@
     },
     {
       "birth_date": "1965-08-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "borislav.milanov@parliament.bg"
-        }
-      ],
-      "email": "borislav.milanov@parliament.bg",
       "gender": "male",
       "id": "944daf97-3881-4892-8a6e-72f364b25abb",
       "identifiers": [
@@ -32697,13 +30497,6 @@
     },
     {
       "birth_date": "1961-10-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stefan.gospodinov@parliament.bg"
-        }
-      ],
-      "email": "stefan.gospodinov@parliament.bg",
       "gender": "male",
       "id": "9469543f-6440-4efd-9107-d63c2ebca8e6",
       "identifiers": [
@@ -32733,13 +30526,6 @@
     },
     {
       "birth_date": "1975-02-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zhara.peneva@parliament.bg"
-        }
-      ],
-      "email": "zhara.peneva@parliament.bg",
       "gender": "female",
       "id": "9483f138-214b-4bcb-bdfc-0411733ce73d",
       "identifiers": [
@@ -32919,13 +30705,6 @@
     },
     {
       "birth_date": "1968-12-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.ikonomov@parliament.bg"
-        }
-      ],
-      "email": "georgi.ikonomov@parliament.bg",
       "gender": "male",
       "id": "95591c9e-e3a4-4548-b52e-47652536b683",
       "identifiers": [
@@ -32955,13 +30734,6 @@
     },
     {
       "birth_date": "1982-01-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "phillip.popov@parliament.bg"
-        }
-      ],
-      "email": "phillip.popov@parliament.bg",
       "gender": "male",
       "id": "957db8ea-731e-451a-9034-e398d72bf983",
       "identifiers": [
@@ -32991,13 +30763,6 @@
     },
     {
       "birth_date": "1971-02-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gegovap@yahoo.com"
-        }
-      ],
-      "email": "gegovap@yahoo.com",
       "id": "95c53b63-83f2-4b98-8509-fd903a63be37",
       "identifiers": [
         {
@@ -33026,13 +30791,6 @@
     },
     {
       "birth_date": "1966-03-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "milenveltchev@yahoo.co.uk"
-        }
-      ],
-      "email": "milenveltchev@yahoo.co.uk",
       "gender": "male",
       "id": "95d1203a-e1a6-429c-bac6-130bb53dfd34",
       "identifiers": [
@@ -33129,13 +30887,6 @@
     },
     {
       "birth_date": "1958-07-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "liliya.hristova@parliament.bg"
-        }
-      ],
-      "email": "liliya.hristova@parliament.bg",
       "gender": "female",
       "id": "95e495d4-9436-4ec8-b96a-a6598fd6b3dd",
       "identifiers": [
@@ -33165,13 +30916,6 @@
     },
     {
       "birth_date": "1953-01-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "krasimir.minchev@parliament.bg"
-        }
-      ],
-      "email": "krasimir.minchev@parliament.bg",
       "gender": "male",
       "id": "95f62920-3790-42fb-9954-bbc4359f332f",
       "identifiers": [
@@ -33229,13 +30973,6 @@
     },
     {
       "birth_date": "1957-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "milka.hristova@parliament.bg"
-        }
-      ],
-      "email": "milka.hristova@parliament.bg",
       "gender": "female",
       "id": "96687e78-8819-4e54-be27-adb707f20657",
       "identifiers": [
@@ -33308,13 +31045,6 @@
     },
     {
       "birth_date": "1957-05-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariana.boyadzhieva@parliament.bg"
-        }
-      ],
-      "email": "mariana.boyadzhieva@parliament.bg",
       "gender": "female",
       "id": "97629b36-b276-406b-8696-53485b2c9dcc",
       "identifiers": [
@@ -33344,13 +31074,6 @@
     },
     {
       "birth_date": "1962-12-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "miroslav.petkov@parliament.bg"
-        }
-      ],
-      "email": "miroslav.petkov@parliament.bg",
       "gender": "male",
       "id": "976a9cad-24ab-4635-881a-3ed0b283cd79",
       "identifiers": [
@@ -33438,13 +31161,6 @@
     },
     {
       "birth_date": "1963-05-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "d.matov@parliament.bg"
-        }
-      ],
-      "email": "d.matov@parliament.bg",
       "gender": "male",
       "id": "97ce21d1-d291-47e4-a6f3-57e3ee6d5ec3",
       "identifiers": [
@@ -33476,15 +31192,10 @@
       "birth_date": "1966-05-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "foreign@bsp.bg"
-        },
-        {
           "type": "twitter",
           "value": "SergeiStanishev"
         }
       ],
-      "email": "foreign@bsp.bg",
       "gender": "male",
       "given_name": "Sergey",
       "id": "983093dc-6978-4528-9b06-b830ced3f73d",
@@ -33974,13 +31685,6 @@
     },
     {
       "birth_date": "1963-06-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolay.melemov@parliament.bg, dermax@mail.bg"
-        }
-      ],
-      "email": "nikolay.melemov@parliament.bg, dermax@mail.bg",
       "gender": "male",
       "id": "987ac6c8-74c1-4f46-a84e-2c3200da852b",
       "identifiers": [
@@ -34154,13 +31858,6 @@
     },
     {
       "birth_date": "1968-01-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Ferihan.Ahmedova@parliament.bg"
-        }
-      ],
-      "email": "Ferihan.Ahmedova@parliament.bg",
       "gender": "female",
       "id": "9941676c-c783-436b-b516-d8811a15e698",
       "identifiers": [
@@ -34219,13 +31916,6 @@
     },
     {
       "birth_date": "1966-10-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rablekim@mail.bg"
-        }
-      ],
-      "email": "rablekim@mail.bg",
       "gender": "male",
       "id": "99cf070e-33e7-4b56-87f6-273906b1ff1f",
       "identifiers": [
@@ -34313,13 +32003,6 @@
     },
     {
       "birth_date": "1964-03-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "spassovm@abv.bg"
-        }
-      ],
-      "email": "spassovm@abv.bg",
       "gender": "male",
       "id": "9b20ba1f-6d14-456c-bf86-099a99f0aac7",
       "identifiers": [
@@ -34366,13 +32049,6 @@
     },
     {
       "birth_date": "1965-04-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yordan.andonov@parliament.bg"
-        }
-      ],
-      "email": "yordan.andonov@parliament.bg",
       "gender": "male",
       "id": "9b56710f-7605-4389-a75f-a5512264e6ff",
       "identifiers": [
@@ -34402,13 +32078,6 @@
     },
     {
       "birth_date": "1958-08-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "HRISTO.MONOV@parliament.bg"
-        }
-      ],
-      "email": "HRISTO.MONOV@parliament.bg",
       "gender": "male",
       "id": "9b71f2a7-5039-42f8-a856-27451fa08cfd",
       "identifiers": [
@@ -34565,13 +32234,6 @@
     },
     {
       "birth_date": "1965-07-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivan.aleksiev@parliament.bg: aleksiev_ivan@abv.bg"
-        }
-      ],
-      "email": "ivan.aleksiev@parliament.bg: aleksiev_ivan@abv.bg",
       "gender": "male",
       "id": "9bff67ac-b42d-4b73-9c20-0e2b8ec51f95",
       "identifiers": [
@@ -34630,13 +32292,6 @@
     },
     {
       "birth_date": "1965-03-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pgns@nt14.parliament.bg"
-        }
-      ],
-      "email": "pgns@nt14.parliament.bg",
       "gender": "male",
       "given_name": "Krassimir",
       "id": "9c226c64-8256-4111-867b-fdd7b9d74e87",
@@ -34891,13 +32546,6 @@
     },
     {
       "birth_date": "1954-03-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stefani.mihaylova@parliament.bg"
-        }
-      ],
-      "email": "stefani.mihaylova@parliament.bg",
       "gender": "female",
       "id": "9cef7fd2-5236-4925-bcd5-5e5926df91df",
       "identifiers": [
@@ -34927,13 +32575,6 @@
     },
     {
       "birth_date": "1955-12-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "musras@dir.bg"
-        }
-      ],
-      "email": "musras@dir.bg",
       "id": "9d44a9f4-eca1-4bad-98d2-e6cf93c0d031",
       "identifiers": [
         {
@@ -34962,13 +32603,6 @@
     },
     {
       "birth_date": "1990-09-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kiril.kolev@parliament.bg"
-        }
-      ],
-      "email": "kiril.kolev@parliament.bg",
       "gender": "male",
       "id": "9d49bc4c-09ab-4b55-a925-096a55337231",
       "identifiers": [
@@ -35022,13 +32656,6 @@
     },
     {
       "birth_date": "1983-04-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pavel.gudzherov@parliament.bg"
-        }
-      ],
-      "email": "pavel.gudzherov@parliament.bg",
       "gender": "male",
       "given_name": "Pavel",
       "id": "9dd3fb95-9683-40b6-ad0a-4cd059b3cb33",
@@ -35078,13 +32705,6 @@
     },
     {
       "birth_date": "1970-07-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rosen.petrov@parliament.bg"
-        }
-      ],
-      "email": "rosen.petrov@parliament.bg",
       "gender": "male",
       "id": "9dd55e09-b36e-44d1-b73f-bd0260ba86e8",
       "identifiers": [
@@ -35145,13 +32765,6 @@
     },
     {
       "birth_date": "1955-05-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.nedev@parliament.bg"
-        }
-      ],
-      "email": "georgi.nedev@parliament.bg",
       "gender": "male",
       "id": "9e56ac2a-9ba6-42c2-b108-e064a515c9af",
       "identifiers": [
@@ -35209,13 +32822,6 @@
     },
     {
       "birth_date": "1970-09-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kamen.kostadinov@parliament.bg"
-        }
-      ],
-      "email": "kamen.kostadinov@parliament.bg",
       "gender": "male",
       "id": "9f9750e8-ca14-4322-bbc0-bca2328f33af",
       "identifiers": [
@@ -35245,13 +32851,6 @@
     },
     {
       "birth_date": "1943-01-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "genoveva.aleksieva@parliament.bg"
-        }
-      ],
-      "email": "genoveva.aleksieva@parliament.bg",
       "gender": "female",
       "id": "9fdea36d-4f7e-42df-8c12-ad06110edf9d",
       "identifiers": [
@@ -35389,13 +32988,6 @@
     },
     {
       "birth_date": "1963-08-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.dimitrov@parliament.bg"
-        }
-      ],
-      "email": "dimitar.dimitrov@parliament.bg",
       "gender": "male",
       "id": "a0a016ce-8284-4e68-87f0-845767aa9c6d",
       "identifiers": [
@@ -35425,13 +33017,6 @@
     },
     {
       "birth_date": "1959-08-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "galina.mileva@parliament.bg"
-        }
-      ],
-      "email": "galina.mileva@parliament.bg",
       "gender": "female",
       "id": "a0d17139-3884-4538-a1c5-bbacc7644d53",
       "identifiers": [
@@ -35461,13 +33046,6 @@
     },
     {
       "birth_date": "1982-12-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dgajeva@abv.bg"
-        }
-      ],
-      "email": "dgajeva@abv.bg",
       "gender": "female",
       "id": "a0db961f-6aa9-4935-9b9a-9cee2fa1dd85",
       "identifiers": [
@@ -35629,13 +33207,6 @@
     },
     {
       "birth_date": "1971-09-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Atanas.Zafirov@parliament.bg"
-        }
-      ],
-      "email": "Atanas.Zafirov@parliament.bg",
       "gender": "male",
       "id": "a18ef580-727f-4a26-9ae7-26ead1e9e4df",
       "identifiers": [
@@ -35741,13 +33312,6 @@
     },
     {
       "birth_date": "1942-06-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "secretariat@dsh.bg.org"
-        }
-      ],
-      "email": "secretariat@dsh.bg.org",
       "gender": "male",
       "id": "a297244b-33b2-4b51-8251-ab8cef57c4cc",
       "identifiers": [
@@ -35813,13 +33377,6 @@
     },
     {
       "birth_date": "1982-09-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "H.Hamiev@parliament.bg"
-        }
-      ],
-      "email": "H.Hamiev@parliament.bg",
       "gender": "male",
       "id": "a2e6cc62-4e0c-442c-a6a8-d1a88caec8f2",
       "identifiers": [
@@ -35908,13 +33465,6 @@
     },
     {
       "birth_date": "1962-04-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "minka_ruseva@abv.bg"
-        }
-      ],
-      "email": "minka_ruseva@abv.bg",
       "gender": "female",
       "id": "a356d3ca-6876-44f0-86b0-886d7e3a65dc",
       "identifiers": [
@@ -35944,13 +33494,6 @@
     },
     {
       "birth_date": "1957-04-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivanova@pbs-d.bg"
-        }
-      ],
-      "email": "ivanova@pbs-d.bg",
       "gender": "female",
       "id": "a360fd77-03bf-4566-b8fe-9b9f372e4dd4",
       "identifiers": [
@@ -35980,13 +33523,6 @@
     },
     {
       "birth_date": "1987-03-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antoni.trenchev@parliament.bg"
-        }
-      ],
-      "email": "antoni.trenchev@parliament.bg",
       "gender": "male",
       "id": "a377f979-8487-44a9-9df6-aa62f666e706",
       "identifiers": [
@@ -36016,13 +33552,6 @@
     },
     {
       "birth_date": "1953-09-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ginche.karaminova@parliament.bg, karaminova@abv.bg"
-        }
-      ],
-      "email": "ginche.karaminova@parliament.bg, karaminova@abv.bg",
       "gender": "female",
       "id": "a387fdb6-fb47-48a8-8130-118bd065a5f8",
       "identifiers": [
@@ -36273,13 +33802,6 @@
     },
     {
       "birth_date": "1957-06-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Georgi.Anastasov@parliament.bg"
-        }
-      ],
-      "email": "Georgi.Anastasov@parliament.bg",
       "gender": "male",
       "given_name": "Georgi",
       "id": "a5897bf6-814d-424c-a233-143eae3c828e",
@@ -36329,13 +33851,6 @@
     },
     {
       "birth_date": "1947-09-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tsvetan.kostov@parliament.bg"
-        }
-      ],
-      "email": "tsvetan.kostov@parliament.bg",
       "gender": "male",
       "id": "a59f9f5a-a7ab-45ab-bcbd-cc6787b61229",
       "identifiers": [
@@ -36665,13 +34180,6 @@
     },
     {
       "birth_date": "1967-03-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivaylo.toshev@parliament.bg"
-        }
-      ],
-      "email": "ivaylo.toshev@parliament.bg",
       "gender": "male",
       "id": "a8d67f56-60d7-4517-9cbe-cfe10a3b9e43",
       "identifiers": [
@@ -36701,13 +34209,6 @@
     },
     {
       "birth_date": "1981-01-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kiril.kotev@parliament.bg"
-        }
-      ],
-      "email": "kiril.kotev@parliament.bg",
       "gender": "male",
       "id": "a905f474-b1c3-428b-b11d-edc308d2435d",
       "identifiers": [
@@ -36785,13 +34286,6 @@
     },
     {
       "birth_date": "1956-04-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kamov@mail.bg"
-        }
-      ],
-      "email": "kamov@mail.bg",
       "gender": "male",
       "given_name": "Nikolai",
       "id": "a9413762-dcff-4a95-81f0-39191a920a38",
@@ -36878,13 +34372,6 @@
     },
     {
       "birth_date": "1964-01-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "A.Bashev@parliament.bg"
-        }
-      ],
-      "email": "A.Bashev@parliament.bg",
       "gender": "male",
       "id": "aa76d0a7-d8dc-480e-bd6a-2ef8a60c568e",
       "identifiers": [
@@ -36933,13 +34420,6 @@
     },
     {
       "birth_date": "1975-09-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "radan.kanev@parliament.bg"
-        }
-      ],
-      "email": "radan.kanev@parliament.bg",
       "gender": "male",
       "id": "aa89659d-a631-4b54-bc56-d22de397b849",
       "identifiers": [
@@ -37028,13 +34508,6 @@
     },
     {
       "birth_date": "1969-07-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolay.petkov@parliament.bg"
-        }
-      ],
-      "email": "nikolay.petkov@parliament.bg",
       "gender": "male",
       "id": "ab59bc54-d5d8-41ed-839d-cc8b4a1d0be6",
       "identifiers": [
@@ -37064,13 +34537,6 @@
     },
     {
       "birth_date": "1961-09-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nayden.zelenogorski@parliament.bg"
-        }
-      ],
-      "email": "nayden.zelenogorski@parliament.bg",
       "gender": "male",
       "id": "abd1d0a6-7355-4266-b85b-30e6e92140a9",
       "identifiers": [
@@ -37131,13 +34597,6 @@
     },
     {
       "birth_date": "1962-04-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aparvanova@nt52.parliament.bg"
-        }
-      ],
-      "email": "aparvanova@nt52.parliament.bg",
       "gender": "female",
       "given_name": "Antonija",
       "id": "abd96e8e-3a3e-465c-b0ef-71caf7d66608",
@@ -37269,13 +34728,6 @@
     },
     {
       "birth_date": "1965-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emil.ivanov@parliament.bg"
-        }
-      ],
-      "email": "emil.ivanov@parliament.bg",
       "gender": "male",
       "id": "ac1ac294-347b-42d3-bf03-e2ad073bbe13",
       "identifiers": [
@@ -37305,13 +34757,6 @@
     },
     {
       "birth_date": "1954-01-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hrisvel@yahoo.com"
-        }
-      ],
-      "email": "hrisvel@yahoo.com",
       "gender": "female",
       "given_name": "Christina",
       "id": "aca21a06-4e65-4959-92dd-42fe4edc4c6a",
@@ -37410,13 +34855,6 @@
     },
     {
       "birth_date": "1956-02-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "genivs@rousse.bitex.com"
-        }
-      ],
-      "email": "genivs@rousse.bitex.com",
       "id": "acf111df-8f0f-4624-8518-584b4b3037f8",
       "identifiers": [
         {
@@ -37473,13 +34911,6 @@
     },
     {
       "birth_date": "1983-07-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "l.stanislavova@nt52.parliament.bg"
-        }
-      ],
-      "email": "l.stanislavova@nt52.parliament.bg",
       "gender": "female",
       "id": "ad3fb234-fac8-40dd-84a2-d29a1b71b6da",
       "identifiers": [
@@ -37606,13 +35037,6 @@
     },
     {
       "birth_date": "1974-05-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rivanov@parliament.bg"
-        }
-      ],
-      "email": "rivanov@parliament.bg",
       "gender": "male",
       "id": "adf286a6-73ef-46e8-99c1-ce3e813f235c",
       "identifiers": [
@@ -37642,13 +35066,6 @@
     },
     {
       "birth_date": "1968-04-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stoichkov@parliament.bg"
-        }
-      ],
-      "email": "stoichkov@parliament.bg",
       "gender": "male",
       "id": "ae021e1f-56f0-4349-a06b-51988a6a15fa",
       "identifiers": [
@@ -37700,13 +35117,6 @@
     },
     {
       "birth_date": "1961-03-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "chavdar.georgiev@parliament.bg"
-        }
-      ],
-      "email": "chavdar.georgiev@parliament.bg",
       "gender": "male",
       "id": "ae6142a0-fbd7-4f5c-aad8-16d0e242a870",
       "identifiers": [
@@ -37843,13 +35253,6 @@
     },
     {
       "birth_date": "1944-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "younal.loutfi@parliament.bg"
-        }
-      ],
-      "email": "younal.loutfi@parliament.bg",
       "gender": "male",
       "id": "ae8d835b-456c-44c5-b510-2cc027a7e378",
       "identifiers": [
@@ -37936,13 +35339,6 @@
     },
     {
       "birth_date": "1959-11-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "neli.kalneva@parliament.bg: neli_iva@abv.bg"
-        }
-      ],
-      "email": "neli.kalneva@parliament.bg: neli_iva@abv.bg",
       "gender": "female",
       "id": "aea3a8b7-ce5d-4592-b6de-15a502dac0d1",
       "identifiers": [
@@ -38020,13 +35416,6 @@
     },
     {
       "birth_date": "1955-09-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valentin.mikev@parliament.bg: v.mikev@abv.bg"
-        }
-      ],
-      "email": "valentin.mikev@parliament.bg: v.mikev@abv.bg",
       "gender": "male",
       "id": "afdcfac1-7a06-4d73-99b1-9feb70799c3b",
       "identifiers": [
@@ -38511,13 +35900,6 @@
     },
     {
       "birth_date": "1962-03-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mdimitrov@abv.bg"
-        }
-      ],
-      "email": "mdimitrov@abv.bg",
       "gender": "male",
       "id": "b14efa98-6e9b-4cda-8ed7-85a3ffa476ac",
       "identifiers": [
@@ -38547,13 +35929,6 @@
     },
     {
       "birth_date": "1962-07-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "evgeni.stoev@parliament.bg"
-        }
-      ],
-      "email": "evgeni.stoev@parliament.bg",
       "gender": "male",
       "id": "b1af9891-5dc1-48c4-ae3e-6018a74f88a3",
       "identifiers": [
@@ -38583,13 +35958,6 @@
     },
     {
       "birth_date": "1968-08-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Nevin.Hasan@parliament.bg"
-        }
-      ],
-      "email": "Nevin.Hasan@parliament.bg",
       "gender": "male",
       "id": "b1c348d0-aa88-448d-a929-676654a7be33",
       "identifiers": [
@@ -38697,13 +36065,6 @@
     },
     {
       "birth_date": "1945-07-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pavel.dimitrov@parliament.bg"
-        }
-      ],
-      "email": "pavel.dimitrov@parliament.bg",
       "gender": "male",
       "id": "b2306d5a-5f5f-478a-bb03-b76dcd251d34",
       "identifiers": [
@@ -39097,13 +36458,6 @@
     },
     {
       "birth_date": "1963-05-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimo.gyaurov@parliament.bg"
-        }
-      ],
-      "email": "dimo.gyaurov@parliament.bg",
       "gender": "male",
       "id": "b3519699-157c-482a-b0dd-0580e1720549",
       "identifiers": [
@@ -39208,14 +36562,7 @@
     },
     {
       "birth_date": "1957-07-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "evgeniy.zhelev@parliament.bg"
-        }
-      ],
       "death_date": "2017-10-20",
-      "email": "evgeniy.zhelev@parliament.bg",
       "gender": "male",
       "id": "b3deb329-9a29-4607-9bfa-517d96da5cfa",
       "identifiers": [
@@ -39333,13 +36680,6 @@
     },
     {
       "birth_date": "1976-07-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariana.toteva@parliament.bg"
-        }
-      ],
-      "email": "mariana.toteva@parliament.bg",
       "gender": "female",
       "id": "b47ffa74-7f84-414b-9fd8-1f3b831cbb83",
       "identifiers": [
@@ -39438,13 +36778,6 @@
     },
     {
       "birth_date": "1954-09-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antoni_bon@yahoo.com"
-        }
-      ],
-      "email": "antoni_bon@yahoo.com",
       "id": "b528f2d1-faaf-4684-b39d-dd1f030a77ac",
       "identifiers": [
         {
@@ -39466,13 +36799,6 @@
     },
     {
       "birth_date": "1966-11-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.kochkov@parliament.bg"
-        }
-      ],
-      "email": "dimitar.kochkov@parliament.bg",
       "gender": "male",
       "id": "b55c0294-0796-4d30-bc11-a3903496398f",
       "identifiers": [
@@ -39530,13 +36856,6 @@
     },
     {
       "birth_date": "1945-09-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "teonik@abv.bg"
-        }
-      ],
-      "email": "teonik@abv.bg",
       "gender": "male",
       "id": "b61464d7-bedf-4bd6-b6a2-0a19a2f6920c",
       "identifiers": [
@@ -39623,13 +36942,6 @@
     },
     {
       "birth_date": "1959-04-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "donka_mihaylova@yahoo.co.uk"
-        }
-      ],
-      "email": "donka_mihaylova@yahoo.co.uk",
       "gender": "female",
       "id": "b716b289-02bc-46fb-90bb-bd59dffd9d8c",
       "identifiers": [
@@ -39707,13 +37019,6 @@
     },
     {
       "birth_date": "1954-11-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lyubomir.hristov@parliament.bg"
-        }
-      ],
-      "email": "lyubomir.hristov@parliament.bg",
       "gender": "male",
       "id": "b765925e-b754-485a-b10a-ac255165e454",
       "identifiers": [
@@ -39743,13 +37048,6 @@
     },
     {
       "birth_date": "1956-07-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dgandev@parliament.bg"
-        }
-      ],
-      "email": "dgandev@parliament.bg",
       "gender": "male",
       "id": "b7886230-42e2-48de-949b-8ce0cddb96c4",
       "identifiers": [
@@ -39779,13 +37077,6 @@
     },
     {
       "birth_date": "1959-08-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zoya.georgieva@parliament.bg"
-        }
-      ],
-      "email": "zoya.georgieva@parliament.bg",
       "gender": "female",
       "id": "b7a13c4e-0b21-4898-a820-6de41f9e7009",
       "identifiers": [
@@ -39919,13 +37210,6 @@
     },
     {
       "birth_date": "1966-05-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stanishev@parliament.bg"
-        }
-      ],
-      "email": "stanishev@parliament.bg",
       "gender": "male",
       "id": "b8a2a800-420a-44f1-88f9-709a030b56b6",
       "identifiers": [
@@ -39955,13 +37239,6 @@
     },
     {
       "birth_date": "1962-06-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "minchok@abv.bg"
-        }
-      ],
-      "email": "minchok@abv.bg",
       "gender": "male",
       "id": "b8c1d35f-53e8-4b0e-af08-5bc1998c69ce",
       "identifiers": [
@@ -40020,13 +37297,6 @@
     },
     {
       "birth_date": "1958-04-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yuliana.koleva@parliament.bg"
-        }
-      ],
-      "email": "yuliana.koleva@parliament.bg",
       "gender": "female",
       "id": "b90b2a76-eac2-47a7-be3b-70a7a55b89eb",
       "identifiers": [
@@ -40056,13 +37326,6 @@
     },
     {
       "birth_date": "1964-01-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zhivko.martinov@parliament.bg"
-        }
-      ],
-      "email": "zhivko.martinov@parliament.bg",
       "id": "b9a29126-0a82-4a16-a5be-4d364c2c4dd4",
       "identifiers": [
         {
@@ -40087,13 +37350,6 @@
     },
     {
       "birth_date": "1965-01-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petar.bekov@parliament.bg"
-        }
-      ],
-      "email": "petar.bekov@parliament.bg",
       "gender": "male",
       "id": "b9c07171-7b34-4626-8b16-eac23982226e",
       "identifiers": [
@@ -40123,13 +37379,6 @@
     },
     {
       "birth_date": "1973-11-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "boris.tsvetkov@parliament.bg"
-        }
-      ],
-      "email": "boris.tsvetkov@parliament.bg",
       "family_name": "Tsvetkov",
       "gender": "male",
       "id": "b9d880c0-a6bc-4cb4-8048-17bcce9225dc",
@@ -40179,13 +37428,6 @@
     },
     {
       "birth_date": "1949-09-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bborisov@unwe.akad.bg"
-        }
-      ],
-      "email": "bborisov@unwe.akad.bg",
       "gender": "male",
       "id": "ba3c4a5d-5dde-441f-a6a7-796408af86f0",
       "identifiers": [
@@ -40243,13 +37485,6 @@
     },
     {
       "birth_date": "1951-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ssd@parliament.bg"
-        }
-      ],
-      "email": "ssd@parliament.bg",
       "family_name": "Antonov",
       "gender": "male",
       "given_name": "Stefan",
@@ -40461,13 +37696,6 @@
     },
     {
       "birth_date": "1959-10-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "svilen.kraychev@parliament.bg"
-        }
-      ],
-      "email": "svilen.kraychev@parliament.bg",
       "gender": "male",
       "id": "ba93b9ef-08b0-4c08-a25d-be337c1cbf56",
       "identifiers": [
@@ -40497,13 +37725,6 @@
     },
     {
       "birth_date": "1977-11-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petar.angelov@parliament.bg"
-        }
-      ],
-      "email": "petar.angelov@parliament.bg",
       "gender": "male",
       "id": "bacbcc94-3e8c-4473-b1ba-d19f27bb23f3",
       "identifiers": [
@@ -40533,13 +37754,6 @@
     },
     {
       "birth_date": "1981-04-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zoran.rangelov@parliament.bg"
-        }
-      ],
-      "email": "zoran.rangelov@parliament.bg",
       "gender": "male",
       "id": "bb2089d6-6d5b-4823-ab06-a7d93786575e",
       "identifiers": [
@@ -40569,13 +37783,6 @@
     },
     {
       "birth_date": "1965-09-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "katya.chalakova@parliament.bg"
-        }
-      ],
-      "email": "katya.chalakova@parliament.bg",
       "gender": "female",
       "id": "bb726e50-1956-47a8-8dc1-d228406dd95f",
       "identifiers": [
@@ -40605,13 +37812,6 @@
     },
     {
       "birth_date": "1952-03-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "penchlew@techno-link.com"
-        }
-      ],
-      "email": "penchlew@techno-link.com",
       "gender": "male",
       "id": "bb81ea1d-a4cb-4c02-8092-61c3fdfe2329",
       "identifiers": [
@@ -40664,13 +37864,6 @@
     },
     {
       "birth_date": "1969-01-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anguelmar@hotmail.com"
-        }
-      ],
-      "email": "anguelmar@hotmail.com",
       "id": "bbbeb761-cfde-4614-a9f8-3ceb4c867b28",
       "identifiers": [
         {
@@ -40699,13 +37892,6 @@
     },
     {
       "birth_date": "1982-09-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stoyan.mirchev@parliament.bg"
-        }
-      ],
-      "email": "stoyan.mirchev@parliament.bg",
       "gender": "male",
       "id": "bbf8850e-963f-44d9-8eca-43e247ed645d",
       "identifiers": [
@@ -41020,13 +38206,6 @@
     },
     {
       "birth_date": "1961-04-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nn@nikroad.com"
-        }
-      ],
-      "email": "nn@nikroad.com",
       "id": "be171c2a-75c8-4d30-8450-34eac2da499b",
       "identifiers": [
         {
@@ -41138,13 +38317,6 @@
     },
     {
       "birth_date": "1954-06-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valgeoclim@mailexcite.com"
-        }
-      ],
-      "email": "valgeoclim@mailexcite.com",
       "family_name": "Dimitrov",
       "gender": "male",
       "id": "bec6a204-b5c4-46e0-a166-05e2ae15ecba",
@@ -41228,13 +38400,6 @@
     },
     {
       "birth_date": "1953-03-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "magdalena.tasheva@parliament.bg"
-        }
-      ],
-      "email": "magdalena.tasheva@parliament.bg",
       "gender": "female",
       "given_name": "Magdalena",
       "id": "bfa21490-4fe3-42c0-bc17-104c422f84b5",
@@ -41293,13 +38458,6 @@
     },
     {
       "birth_date": "1978-03-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nina.mitkova@parliament.bg"
-        }
-      ],
-      "email": "nina.mitkova@parliament.bg",
       "id": "bfae6960-03df-4849-8133-2f3ade6e256c",
       "identifiers": [
         {
@@ -41324,13 +38482,6 @@
     },
     {
       "birth_date": "1940-01-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hvelichkov@abv.bg"
-        }
-      ],
-      "email": "hvelichkov@abv.bg",
       "gender": "male",
       "id": "c02d8712-080d-46be-a521-3716181663e7",
       "identifiers": [
@@ -41424,13 +38575,6 @@
     },
     {
       "birth_date": "1976-10-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "p.raeva@parliament.bg"
-        }
-      ],
-      "email": "p.raeva@parliament.bg",
       "gender": "male",
       "id": "c0594533-68d0-45df-ab27-720365a9c00f",
       "identifiers": [
@@ -41479,13 +38623,6 @@
     },
     {
       "birth_date": "1948-09-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pirinski@parliament.bg"
-        }
-      ],
-      "email": "pirinski@parliament.bg",
       "gender": "male",
       "given_name": "Georgi",
       "id": "c08bfea2-bf65-4142-9e23-f96f7701ce76",
@@ -41689,13 +38826,6 @@
     },
     {
       "birth_date": "1959-03-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "iliya.pashev@parliament.bg"
-        }
-      ],
-      "email": "iliya.pashev@parliament.bg",
       "gender": "male",
       "id": "c0d97503-d762-4be6-abf0-badfc9341c1c",
       "identifiers": [
@@ -41885,13 +39015,6 @@
     },
     {
       "birth_date": "1951-08-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "onavch-bg@hotmail.com"
-        }
-      ],
-      "email": "onavch-bg@hotmail.com",
       "id": "c24d4eeb-d2cc-43bd-9477-1a969dd40f83",
       "identifiers": [
         {
@@ -41941,13 +39064,6 @@
     },
     {
       "birth_date": "1971-12-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mithat.metin@parliament.bg"
-        }
-      ],
-      "email": "mithat.metin@parliament.bg",
       "gender": "male",
       "id": "c2a460b1-6849-48a6-8a7a-da28a7d5718b",
       "identifiers": [
@@ -41979,15 +39095,10 @@
       "birth_date": "1973-08-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "tomislav.donchev@parliament.bg"
-        },
-        {
           "type": "twitter",
           "value": "tomislavdonchev"
         }
       ],
-      "email": "tomislav.donchev@parliament.bg",
       "gender": "male",
       "given_name": "Tomislav",
       "id": "c2ea992f-83f1-4291-a547-eade9679c2dc",
@@ -42170,13 +39281,6 @@
     },
     {
       "birth_date": "1970-12-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "galya.georgieva@parliament.bg"
-        }
-      ],
-      "email": "galya.georgieva@parliament.bg",
       "gender": "female",
       "id": "c421ffd2-9947-4c9a-8ccc-96ae67700628",
       "identifiers": [
@@ -42206,13 +39310,6 @@
     },
     {
       "birth_date": "1972-07-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivaylo.moskovski@parliament.bg"
-        }
-      ],
-      "email": "ivaylo.moskovski@parliament.bg",
       "gender": "male",
       "given_name": "Ivaylo",
       "id": "c4893728-099a-45e3-ab60-cc2dcba9e3b0",
@@ -42351,13 +39448,6 @@
     },
     {
       "birth_date": "1959-06-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivan.stoynov@parliament.bg"
-        }
-      ],
-      "email": "ivan.stoynov@parliament.bg",
       "gender": "male",
       "id": "c601fb02-8444-4c5a-965a-51137e2094c5",
       "identifiers": [
@@ -42383,13 +39473,6 @@
     },
     {
       "birth_date": "1980-05-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "svetoslav.belemezov@parliament.bg"
-        }
-      ],
-      "email": "svetoslav.belemezov@parliament.bg",
       "gender": "male",
       "id": "c60cd7b2-34e0-4848-a457-f80155ca3034",
       "identifiers": [
@@ -42419,13 +39502,6 @@
     },
     {
       "birth_date": "1974-03-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lyubomir.vladimirov@parliament.bg"
-        }
-      ],
-      "email": "lyubomir.vladimirov@parliament.bg",
       "family_name": "Vladimirov",
       "gender": "male",
       "id": "c676437b-c4ee-4af4-9f1c-33fe47950c28",
@@ -42475,13 +39551,6 @@
     },
     {
       "birth_date": "1967-11-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "elin.andreev@parliament.bg"
-        }
-      ],
-      "email": "elin.andreev@parliament.bg",
       "gender": "male",
       "id": "c683bbfe-f893-41b3-b92e-dfc54bd3d56e",
       "identifiers": [
@@ -42681,13 +39750,6 @@
     },
     {
       "birth_date": "1958-05-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "l.tatarski@parliament.bg, ltatarski@gmail.com"
-        }
-      ],
-      "email": "l.tatarski@parliament.bg, ltatarski@gmail.com",
       "gender": "male",
       "id": "c7cb2ed1-005c-4784-b46a-085e5268f090",
       "identifiers": [
@@ -42840,13 +39902,6 @@
     },
     {
       "birth_date": "1972-01-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "borislavtsekov@lawyer.com"
-        }
-      ],
-      "email": "borislavtsekov@lawyer.com",
       "gender": "male",
       "given_name": "Borislav",
       "id": "c8afbbab-780a-4b52-bb42-9381528a8bdf",
@@ -42912,14 +39967,7 @@
     },
     {
       "birth_date": "1951-08-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolay.petev@parliament.bg"
-        }
-      ],
       "death_date": "2013-10-15",
-      "email": "nikolay.petev@parliament.bg",
       "gender": "male",
       "given_name": "Nikolai",
       "id": "c8c4428d-5231-4831-a993-8165fc90120e",
@@ -43130,13 +40178,6 @@
     },
     {
       "birth_date": "1982-08-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zhecho.stankov@parliament.bg"
-        }
-      ],
-      "email": "zhecho.stankov@parliament.bg",
       "id": "c956091f-c990-4b06-b2bb-96ff7ba38d0e",
       "identifiers": [
         {
@@ -43192,17 +40233,6 @@
     },
     {
       "birth_date": "1960-02-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valeritzekov@yahoo.com"
-        },
-        {
-          "type": "email",
-          "value": "tzekov@nt14.parliament.bg"
-        }
-      ],
-      "email": "valeritzekov@yahoo.com",
       "gender": "male",
       "given_name": "Valeri",
       "id": "c97ba6f6-296c-4839-96e0-a03261c651e7",
@@ -43305,13 +40335,6 @@
     },
     {
       "birth_date": "1964-05-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "darsen@abv.bg"
-        }
-      ],
-      "email": "darsen@abv.bg",
       "gender": "female",
       "given_name": "Dolores",
       "id": "c9fb43ef-0b95-47dc-add6-160aa181ba95",
@@ -43450,13 +40473,6 @@
     },
     {
       "birth_date": "1966-02-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "daniela.petrova@parliament.bg"
-        }
-      ],
-      "email": "daniela.petrova@parliament.bg",
       "gender": "female",
       "id": "ca0b1e20-dcb3-4b3a-ae09-2cb9e3c910be",
       "identifiers": [
@@ -43550,13 +40566,6 @@
     },
     {
       "birth_date": "1961-12-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vyara.tserovska@parliament.bg"
-        }
-      ],
-      "email": "vyara.tserovska@parliament.bg",
       "gender": "female",
       "id": "ca69bc25-3dc4-4c21-894b-ff25048b5c90",
       "identifiers": [
@@ -43586,13 +40595,6 @@
     },
     {
       "birth_date": "1972-07-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tchetin.kazak@parliament.bg"
-        }
-      ],
-      "email": "tchetin.kazak@parliament.bg",
       "gender": "male",
       "id": "cab23441-6bd9-4bba-af22-a4348d6f5fa1",
       "identifiers": [
@@ -43772,13 +40774,6 @@
     },
     {
       "birth_date": "1974-03-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.kovachev@parliament.bg"
-        }
-      ],
-      "email": "georgi.kovachev@parliament.bg",
       "gender": "male",
       "id": "cbabea7f-d7e5-4cde-ae59-dbc05ce693fd",
       "identifiers": [
@@ -43808,13 +40803,6 @@
     },
     {
       "birth_date": "1957-09-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "i.mihailova@parliament.bg"
-        }
-      ],
-      "email": "i.mihailova@parliament.bg",
       "gender": "female",
       "given_name": "Iskra",
       "id": "cbc8af19-c912-4c77-b20e-9bc3f143b261",
@@ -44008,13 +40996,6 @@
     },
     {
       "birth_date": "1977-04-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dobromir.prodanov@parliament.bg"
-        }
-      ],
-      "email": "dobromir.prodanov@parliament.bg",
       "gender": "male",
       "id": "cc483399-e285-457e-a9bf-ad47f1c3040c",
       "identifiers": [
@@ -44092,13 +41073,6 @@
     },
     {
       "birth_date": "1968-01-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pkouroumbashev@parliament.bg"
-        }
-      ],
-      "email": "pkouroumbashev@parliament.bg",
       "gender": "male",
       "id": "cc70a2e4-5499-4d48-9e3c-2d9700ee3ea7",
       "identifiers": [
@@ -44189,13 +41163,6 @@
     },
     {
       "birth_date": "1971-05-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emil.radev@parliament.bg"
-        }
-      ],
-      "email": "emil.radev@parliament.bg",
       "gender": "male",
       "id": "cdc30fd2-30c5-4ab9-8ece-bed1d42b386b",
       "identifiers": [
@@ -44225,13 +41192,6 @@
     },
     {
       "birth_date": "1951-06-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "има"
-        }
-      ],
-      "email": "има",
       "id": "cdcc1d80-f426-4388-a9fb-4cb327e63b55",
       "identifiers": [
         {
@@ -44309,13 +41269,6 @@
     },
     {
       "birth_date": "1953-08-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dhitova@mail.bg"
-        }
-      ],
-      "email": "dhitova@mail.bg",
       "gender": "female",
       "id": "ce89d805-09c0-4f86-8cf9-309df1953483",
       "identifiers": [
@@ -44345,13 +41298,6 @@
     },
     {
       "birth_date": "1967-06-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "borislav.gutsanov@parliament.bg"
-        }
-      ],
-      "email": "borislav.gutsanov@parliament.bg",
       "gender": "male",
       "id": "cf205e08-d306-4a9b-8274-f020f1025478",
       "identifiers": [
@@ -44403,13 +41349,6 @@
     },
     {
       "birth_date": "1962-09-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gyunay.sefer@parliament.bg"
-        }
-      ],
-      "email": "gyunay.sefer@parliament.bg",
       "gender": "male",
       "id": "cf92ca36-0181-4d0c-b976-f8cde9a89b81",
       "identifiers": [
@@ -44537,13 +41476,6 @@
     },
     {
       "birth_date": "1964-03-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "asparuh.stamenov@parliament.bg"
-        }
-      ],
-      "email": "asparuh.stamenov@parliament.bg",
       "gender": "male",
       "id": "d07e3477-a478-43ef-b2eb-9febc4d815d5",
       "identifiers": [
@@ -44687,13 +41619,6 @@
     },
     {
       "birth_date": "1966-12-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikola.belishki@parliament.bg"
-        }
-      ],
-      "email": "nikola.belishki@parliament.bg",
       "gender": "male",
       "id": "d1848c1c-a48f-4f26-9527-120908dfb032",
       "identifiers": [
@@ -44781,13 +41706,6 @@
     },
     {
       "birth_date": "1971-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "diana.yordanova@parliament.bg"
-        }
-      ],
-      "email": "diana.yordanova@parliament.bg",
       "gender": "female",
       "given_name": "Diana",
       "id": "d1f3fe0c-b135-4379-84db-f7e61a575681",
@@ -44837,13 +41755,6 @@
     },
     {
       "birth_date": "1949-03-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "doncho.baksanov@parliament.bg"
-        }
-      ],
-      "email": "doncho.baksanov@parliament.bg",
       "gender": "male",
       "id": "d218e180-7050-4517-aba4-a2b9d6f678d5",
       "identifiers": [
@@ -44940,13 +41851,6 @@
     },
     {
       "birth_date": "1954-11-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eivanov@aroma-bg.com"
-        }
-      ],
-      "email": "eivanov@aroma-bg.com",
       "gender": "male",
       "id": "d247569d-ea91-4d3f-b173-2131d6c7c648",
       "identifiers": [
@@ -44976,13 +41880,6 @@
     },
     {
       "birth_date": "1970-12-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "semir.abumelih@parliament.bg"
-        }
-      ],
-      "email": "semir.abumelih@parliament.bg",
       "gender": "male",
       "id": "d2ac609d-cc81-4a92-8ce4-afa27a8634c3",
       "identifiers": [
@@ -45012,13 +41909,6 @@
     },
     {
       "birth_date": "1980-11-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ilian.todorov@parliament.bg"
-        }
-      ],
-      "email": "ilian.todorov@parliament.bg",
       "gender": "male",
       "id": "d2bd8259-47c8-43ec-b914-187b2b4af4c5",
       "identifiers": [
@@ -45076,13 +41966,6 @@
     },
     {
       "birth_date": "1953-02-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivoat12@hotmail.com"
-        }
-      ],
-      "email": "ivoat12@hotmail.com",
       "gender": "male",
       "id": "d3563e45-0a90-4796-9344-d20fdc7b7e9d",
       "identifiers": [
@@ -45135,13 +42018,6 @@
     },
     {
       "birth_date": "1944-05-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cem_dimitrova@abv.bg"
-        }
-      ],
-      "email": "cem_dimitrova@abv.bg",
       "gender": "female",
       "id": "d519dacf-ab0d-4c0e-b1b1-20daa6e2fa42",
       "identifiers": [
@@ -45242,13 +42118,6 @@
     },
     {
       "birth_date": "1958-05-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "svinarov@mail.hol.bg"
-        }
-      ],
-      "email": "svinarov@mail.hol.bg",
       "gender": "male",
       "given_name": "Nikolay",
       "id": "d539c6ca-4e0a-44f5-b0ae-aa2d651fba8f",
@@ -45379,13 +42248,6 @@
     },
     {
       "birth_date": "1975-07-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nastimir.ananiev@parliament.bg"
-        }
-      ],
-      "email": "nastimir.ananiev@parliament.bg",
       "gender": "male",
       "id": "d5667d30-beef-431d-9cc2-380eb279483e",
       "identifiers": [
@@ -45415,13 +42277,6 @@
     },
     {
       "birth_date": "1965-06-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "july@infocom.bg"
-        }
-      ],
-      "email": "july@infocom.bg",
       "gender": "female",
       "id": "d575f559-ee2a-411e-af77-6aee2933825f",
       "identifiers": [
@@ -45508,13 +42363,6 @@
     },
     {
       "birth_date": "1964-07-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yordan.stoykov@parliament.bg"
-        }
-      ],
-      "email": "yordan.stoykov@parliament.bg",
       "gender": "male",
       "id": "d619466d-4cd2-4eb2-bdd7-c49d302bfae1",
       "identifiers": [
@@ -45544,13 +42392,6 @@
     },
     {
       "birth_date": "1954-10-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pgns@nt14.parliament.bg"
-        }
-      ],
-      "email": "pgns@nt14.parliament.bg",
       "gender": "male",
       "id": "d62baaac-a6ac-4a95-ad66-d22689a099dd",
       "identifiers": [
@@ -45580,13 +42421,6 @@
     },
     {
       "birth_date": "1970-03-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "semov@parliament.bg"
-        }
-      ],
-      "email": "semov@parliament.bg",
       "gender": "male",
       "id": "d64203ec-26e4-411e-b76a-9443ff00a79f",
       "identifiers": [
@@ -45639,13 +42473,6 @@
     },
     {
       "birth_date": "1956-03-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ognyan.peychev@parliament.bg"
-        }
-      ],
-      "email": "ognyan.peychev@parliament.bg",
       "gender": "male",
       "id": "d64f5014-b8b1-4af1-aed3-9f4d5f36bf04",
       "identifiers": [
@@ -45675,13 +42502,6 @@
     },
     {
       "birth_date": "1956-05-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivan.petrov@parliament.bg"
-        }
-      ],
-      "email": "ivan.petrov@parliament.bg",
       "gender": "male",
       "id": "d663d2d2-18a2-4092-876c-44fbb50928bf",
       "identifiers": [
@@ -45808,13 +42628,6 @@
     },
     {
       "birth_date": "1952-12-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mitken@nat.bg"
-        }
-      ],
-      "email": "mitken@nat.bg",
       "id": "d75a1a98-ca92-4c85-8f2a-c04f5d84b211",
       "identifiers": [
         {
@@ -45895,13 +42708,6 @@
     },
     {
       "birth_date": "1965-12-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "s.binev@parliament.bg"
-        }
-      ],
-      "email": "s.binev@parliament.bg",
       "gender": "male",
       "id": "d78e3d66-1b27-4e0c-8dc9-c95fe1df9120",
       "identifiers": [
@@ -46055,13 +42861,6 @@
     },
     {
       "birth_date": "1978-10-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vladislav.dimitrov@parliament.bg"
-        }
-      ],
-      "email": "vladislav.dimitrov@parliament.bg",
       "gender": "male",
       "id": "d8825464-705a-4d03-aa63-84046fdcecd7",
       "identifiers": [
@@ -46091,13 +42890,6 @@
     },
     {
       "birth_date": "1960-07-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ckirov@netvisio.net"
-        }
-      ],
-      "email": "ckirov@netvisio.net",
       "id": "d8b9e8a4-2ad9-4f31-8abe-4baa6bd199a8",
       "identifiers": [
         {
@@ -46126,13 +42918,6 @@
     },
     {
       "birth_date": "1971-06-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.karbov@parliament.bg"
-        }
-      ],
-      "email": "dimitar.karbov@parliament.bg",
       "gender": "male",
       "id": "d8d5c03a-e7df-47cf-8286-34e24ac4e81f",
       "identifiers": [
@@ -46181,13 +42966,6 @@
     },
     {
       "birth_date": "1970-11-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.t.tanev@parliament.bg"
-        }
-      ],
-      "email": "dimitar.t.tanev@parliament.bg",
       "gender": "male",
       "id": "d92b5219-8ab6-466c-8568-86d9060a7cc3",
       "identifiers": [
@@ -46217,13 +42995,6 @@
     },
     {
       "birth_date": "1953-10-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rtotkova@sds134.org"
-        }
-      ],
-      "email": "rtotkova@sds134.org",
       "id": "d9536388-8a40-4718-9c58-2f86c65b509f",
       "identifiers": [
         {
@@ -46252,13 +43023,6 @@
     },
     {
       "birth_date": "1952-12-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "luchezar.nikiforov@parliament.bg"
-        }
-      ],
-      "email": "luchezar.nikiforov@parliament.bg",
       "gender": "male",
       "id": "d99e8fc4-5efb-4797-8c26-aa2d0e369230",
       "identifiers": [
@@ -46288,13 +43052,6 @@
     },
     {
       "birth_date": "1953-01-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dr_iva_stankova@abv.bg"
-        }
-      ],
-      "email": "dr_iva_stankova@abv.bg",
       "gender": "female",
       "id": "d9b1d466-3ae5-46a6-a5c0-b9e1fdd29ec7",
       "identifiers": [
@@ -46355,13 +43112,6 @@
     },
     {
       "birth_date": "1948-11-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maria2911@yahoo.com"
-        }
-      ],
-      "email": "maria2911@yahoo.com",
       "gender": "female",
       "id": "da76deb3-cde9-45ab-8365-0ac378c04315",
       "identifiers": [
@@ -46410,13 +43160,6 @@
     },
     {
       "birth_date": "1959-09-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "metodi.andreev@parliament.bg"
-        }
-      ],
-      "email": "metodi.andreev@parliament.bg",
       "gender": "male",
       "id": "db9e36ea-5e14-4cf0-bd2c-099b1a0d8757",
       "identifiers": [
@@ -46446,13 +43189,6 @@
     },
     {
       "birth_date": "1948-09-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivan.stankov@parliament.bg"
-        }
-      ],
-      "email": "ivan.stankov@parliament.bg",
       "gender": "male",
       "id": "dba2848a-ace8-4133-b672-039ca60627fd",
       "identifiers": [
@@ -46482,13 +43218,6 @@
     },
     {
       "birth_date": "1964-12-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pb_geni@mail.bg"
-        }
-      ],
-      "email": "pb_geni@mail.bg",
       "id": "dbda70ff-8f00-4176-9bd6-60fcea97fef5",
       "identifiers": [
         {
@@ -46565,13 +43294,6 @@
     },
     {
       "birth_date": "1964-07-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ognian.tetimov@parliament.bg"
-        }
-      ],
-      "email": "ognian.tetimov@parliament.bg",
       "gender": "male",
       "id": "dbf01c18-207b-4318-950f-0bd2e16805b0",
       "identifiers": [
@@ -46670,13 +43392,6 @@
     },
     {
       "birth_date": "1964-02-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lili.boyanova@parliament.bg"
-        }
-      ],
-      "email": "lili.boyanova@parliament.bg",
       "family_name": "Ivanov",
       "gender": "female",
       "id": "dc39785b-504b-412f-852f-a6200661190b",
@@ -46726,13 +43441,6 @@
     },
     {
       "birth_date": "1974-11-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "E.Hayrula@parliament.bg"
-        }
-      ],
-      "email": "E.Hayrula@parliament.bg",
       "gender": "male",
       "id": "dcd0f910-c011-41fc-ad5c-8b9e0eaa8b44",
       "identifiers": [
@@ -46904,13 +43612,6 @@
     },
     {
       "birth_date": "1968-12-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "veselin.vuchkov@parliament.bg"
-        }
-      ],
-      "email": "veselin.vuchkov@parliament.bg",
       "gender": "male",
       "given_name": "Veselin",
       "id": "debbef2c-5d4b-45c9-8fb7-83f4570f8016",
@@ -47001,13 +43702,6 @@
     },
     {
       "birth_date": "1966-09-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi.terziyski@.parliament.bg"
-        }
-      ],
-      "email": "georgi.terziyski@.parliament.bg",
       "gender": "male",
       "id": "dee41218-0003-4ea6-8d0e-2cc0b051a1f4",
       "identifiers": [
@@ -47119,13 +43813,6 @@
     },
     {
       "birth_date": "1955-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anna.yaneva@parliament.bg"
-        }
-      ],
-      "email": "anna.yaneva@parliament.bg",
       "gender": "female",
       "id": "dfe68cc4-82a6-4469-9947-0686a5b3d52d",
       "identifiers": [
@@ -47155,13 +43842,6 @@
     },
     {
       "birth_date": "1956-10-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georgi_bliznashki@yahoo.com"
-        }
-      ],
-      "email": "georgi_bliznashki@yahoo.com",
       "gender": "male",
       "given_name": "Georgi",
       "id": "e034c37d-ce82-4c85-bb76-cd3549112f7e",
@@ -47398,13 +44078,6 @@
     },
     {
       "birth_date": "1951-03-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dakov51@abv.bg"
-        }
-      ],
-      "email": "dakov51@abv.bg",
       "gender": "male",
       "id": "e09dd453-b5de-43bd-9a8d-69e8078aaf28",
       "identifiers": [
@@ -47679,13 +44352,6 @@
     },
     {
       "birth_date": "1959-07-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emil.karanikolov@parliament.bg"
-        }
-      ],
-      "email": "emil.karanikolov@parliament.bg",
       "gender": "male",
       "id": "e2214797-094e-4e7f-b5e4-22b0d40ee049",
       "identifiers": [
@@ -47715,14 +44381,7 @@
     },
     {
       "birth_date": "1943-11-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "krp@primasoft.bg"
-        }
-      ],
       "death_date": "2016-12-23",
-      "email": "krp@primasoft.bg",
       "gender": "male",
       "id": "e2c97b23-ea2c-4f9f-a3d6-6a0afc977b80",
       "identifiers": [
@@ -47811,13 +44470,6 @@
     },
     {
       "birth_date": "1962-11-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stoyan.ivanov@parliament.bg"
-        }
-      ],
-      "email": "stoyan.ivanov@parliament.bg",
       "gender": "male",
       "id": "e2d85d03-8af1-428c-a111-dbc857b45236",
       "identifiers": [
@@ -47847,13 +44499,6 @@
     },
     {
       "birth_date": "1985-09-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "martin.ivanov@parliament.bg"
-        }
-      ],
-      "email": "martin.ivanov@parliament.bg",
       "gender": "male",
       "id": "e303dad3-3055-4e4a-a1b6-ab2a385ed699",
       "identifiers": [
@@ -47883,13 +44528,6 @@
     },
     {
       "birth_date": "1973-09-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "adrian.asenov@parliament.bg"
-        }
-      ],
-      "email": "adrian.asenov@parliament.bg",
       "gender": "male",
       "id": "e31ea165-6b17-44c0-8fc9-d37cc875cfac",
       "identifiers": [
@@ -47938,13 +44576,6 @@
     },
     {
       "birth_date": "1965-12-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aleksandar.stoykov@parliament.bg"
-        }
-      ],
-      "email": "aleksandar.stoykov@parliament.bg",
       "gender": "male",
       "id": "e3a95699-e725-4596-af43-49921508846c",
       "identifiers": [
@@ -48077,13 +44708,6 @@
     },
     {
       "birth_date": "1948-04-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.dabov@parliament.bg"
-        }
-      ],
-      "email": "dimitar.dabov@parliament.bg",
       "gender": "male",
       "id": "e43d4c30-07ba-4f85-9a1e-a1f5088ec901",
       "identifiers": [
@@ -48158,13 +44782,6 @@
     },
     {
       "birth_date": "1956-06-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivgor@abv.bg"
-        }
-      ],
-      "email": "ivgor@abv.bg",
       "gender": "male",
       "id": "e5537cec-3156-4a39-9140-ac574d3319eb",
       "identifiers": [
@@ -48259,13 +44876,6 @@
     },
     {
       "birth_date": "1972-09-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "korman@parliament.bg"
-        }
-      ],
-      "email": "korman@parliament.bg",
       "gender": "male",
       "id": "e661c5c3-a2ba-4151-8337-479ddd118bfe",
       "identifiers": [
@@ -48342,13 +44952,6 @@
     },
     {
       "birth_date": "1938-05-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "varna.lawyers@ultranet.bg"
-        }
-      ],
-      "email": "varna.lawyers@ultranet.bg",
       "gender": "male",
       "id": "e6ad4e3b-778a-4967-b76c-fea2bb120de6",
       "identifiers": [
@@ -48458,13 +45061,6 @@
     },
     {
       "birth_date": "1971-03-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emil.gushterov@parliament.bg"
-        }
-      ],
-      "email": "emil.gushterov@parliament.bg",
       "gender": "male",
       "id": "e7888524-0b06-4c22-b840-9604e4e68a4c",
       "identifiers": [
@@ -48494,13 +45090,6 @@
     },
     {
       "birth_date": "1967-07-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "akseniya.tileva@parliament.bg"
-        }
-      ],
-      "email": "akseniya.tileva@parliament.bg",
       "gender": "female",
       "id": "e7b8e383-31e2-4beb-839a-7c8e11a330ec",
       "identifiers": [
@@ -48549,13 +45138,6 @@
     },
     {
       "birth_date": "1956-10-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jordan.tsonev@parliament.bg"
-        }
-      ],
-      "email": "jordan.tsonev@parliament.bg",
       "gender": "male",
       "id": "e7bf97b0-d4ae-42a3-a5a0-dd83e4c62783",
       "identifiers": [
@@ -48604,13 +45186,6 @@
     },
     {
       "birth_date": "1976-08-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "husein.hafizov@parliament.bg"
-        }
-      ],
-      "email": "husein.hafizov@parliament.bg",
       "gender": "male",
       "id": "e8181102-5dd4-408c-ab4a-b3919791f8d3",
       "identifiers": [
@@ -48778,13 +45353,6 @@
     },
     {
       "birth_date": "1963-05-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "V.Penev@parliament.bg"
-        }
-      ],
-      "email": "V.Penev@parliament.bg",
       "gender": "male",
       "id": "e9364693-d941-487e-af11-431159221953",
       "identifiers": [
@@ -48842,13 +45410,6 @@
     },
     {
       "birth_date": "1961-05-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "plamen.slavov@parliament.bg"
-        }
-      ],
-      "email": "plamen.slavov@parliament.bg",
       "gender": "male",
       "id": "e95f61dc-0f2a-4996-bb23-7f909be7ece3",
       "identifiers": [
@@ -48878,13 +45439,6 @@
     },
     {
       "birth_date": "1951-04-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yovkovy@abv.bg"
-        }
-      ],
-      "email": "yovkovy@abv.bg",
       "gender": "male",
       "id": "e9e3236a-970b-4001-9c39-eb81baf71e31",
       "identifiers": [
@@ -49055,13 +45609,6 @@
     },
     {
       "birth_date": "1963-11-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "byunyamin.hasan@parliament.bg"
-        }
-      ],
-      "email": "byunyamin.hasan@parliament.bg",
       "gender": "male",
       "id": "eb74a20f-0bdb-477f-bc95-f16b2a2db2e9",
       "identifiers": [
@@ -49185,13 +45732,6 @@
     },
     {
       "birth_date": "1956-08-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Emil.Kostadinov@parliament.bg"
-        }
-      ],
-      "email": "Emil.Kostadinov@parliament.bg",
       "gender": "male",
       "id": "ebdad1d3-117e-49ff-b49d-f8c5c63a91ac",
       "identifiers": [
@@ -49221,13 +45761,6 @@
     },
     {
       "birth_date": "1954-06-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "galina.bankovska@parliament.bg"
-        }
-      ],
-      "email": "galina.bankovska@parliament.bg",
       "gender": "female",
       "given_name": "Halyna",
       "id": "ec5a7066-942e-4b2d-826a-724376fe9381",
@@ -49461,13 +45994,6 @@
     },
     {
       "birth_date": "1953-07-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bnpp@abv.bg"
-        }
-      ],
-      "email": "bnpp@abv.bg",
       "gender": "male",
       "id": "ed1b0dd1-8c01-493f-b30b-ea11cc6266ee",
       "identifiers": [
@@ -49497,13 +46023,6 @@
     },
     {
       "birth_date": "1946-03-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "todor.radulov@parliament.bg"
-        }
-      ],
-      "email": "todor.radulov@parliament.bg",
       "gender": "male",
       "id": "ed24b191-6e59-4713-b454-02815065ec4e",
       "identifiers": [
@@ -49588,13 +46107,6 @@
     },
     {
       "birth_date": "1956-04-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "smilyana.nitova@parliament.bg"
-        }
-      ],
-      "email": "smilyana.nitova@parliament.bg",
       "gender": "female",
       "id": "ed7d3895-a780-4ede-b86e-4cd824e9a2c1",
       "identifiers": [
@@ -49652,13 +46164,6 @@
     },
     {
       "birth_date": "1945-01-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ekirilov@nt52.parliament.bg"
-        }
-      ],
-      "email": "ekirilov@nt52.parliament.bg",
       "gender": "male",
       "id": "edc0b74d-a790-47d9-8541-cda0f6c81524",
       "identifiers": [
@@ -49760,13 +46265,6 @@
     },
     {
       "birth_date": "1976-08-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "boris.stanimirov@parliament.bg"
-        }
-      ],
-      "email": "boris.stanimirov@parliament.bg",
       "gender": "male",
       "id": "edca7c07-59a2-4f3a-8fae-44bf5da3bfcb",
       "identifiers": [
@@ -49796,13 +46294,6 @@
     },
     {
       "birth_date": "1971-12-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivaylo.konstantinov@parliament.bg"
-        }
-      ],
-      "email": "ivaylo.konstantinov@parliament.bg",
       "id": "edcacdbc-e8df-4848-b0cc-1762a57c3965",
       "identifiers": [
         {
@@ -49883,13 +46374,6 @@
     },
     {
       "birth_date": "1955-03-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petar.k.petrov@parliament.bg"
-        }
-      ],
-      "email": "petar.k.petrov@parliament.bg",
       "gender": "male",
       "id": "ef2bc599-8dd9-4f27-9033-7b9aa68195e2",
       "identifiers": [
@@ -50012,13 +46496,6 @@
     },
     {
       "birth_date": "1960-10-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "k.dobrev@parliament.bg"
-        }
-      ],
-      "email": "k.dobrev@parliament.bg",
       "gender": "male",
       "id": "f00ff0f3-26e9-4c4d-8ba4-4aee5ab807b9",
       "identifiers": [
@@ -50173,13 +46650,6 @@
     },
     {
       "birth_date": "1986-01-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolay.aleksandrov@parliament.bg"
-        }
-      ],
-      "email": "nikolay.aleksandrov@parliament.bg",
       "family_name": "Alexandrov",
       "gender": "male",
       "id": "f0c47d58-0875-4fee-ad1d-4802b36f8afb",
@@ -50257,13 +46727,6 @@
     },
     {
       "birth_date": "1961-10-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "katia.popova@parliament.bg"
-        }
-      ],
-      "email": "katia.popova@parliament.bg",
       "gender": "female",
       "id": "f117256b-49d8-4a4d-a6f7-7360c6ceac49",
       "identifiers": [
@@ -50293,13 +46756,6 @@
     },
     {
       "birth_date": "1949-05-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "prosvetlenie@dir.bg"
-        }
-      ],
-      "email": "prosvetlenie@dir.bg",
       "gender": "female",
       "id": "f17110de-cb56-4482-8c4d-30278c6f3fe1",
       "identifiers": [
@@ -50566,13 +47022,6 @@
     },
     {
       "birth_date": "1991-10-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gdanielov@parliament.bg"
-        }
-      ],
-      "email": "gdanielov@parliament.bg",
       "gender": "male",
       "id": "f3acbdce-efc2-4630-ab17-9625239ce6a6",
       "identifiers": [
@@ -50602,13 +47051,6 @@
     },
     {
       "birth_date": "1963-05-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zdravko.dimitrov@parliament.bg"
-        }
-      ],
-      "email": "zdravko.dimitrov@parliament.bg",
       "family_name": "Dimitrov",
       "gender": "male",
       "id": "f3b12985-0aa6-4460-873a-d61005dcffd5",
@@ -50764,13 +47206,6 @@
     },
     {
       "birth_date": "1948-07-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivan.ivanov@parliament.bg"
-        }
-      ],
-      "email": "ivan.ivanov@parliament.bg",
       "gender": "male",
       "id": "f47c17c4-3c0e-49bc-b9d4-5484ff0b3a8c",
       "identifiers": [
@@ -50852,13 +47287,6 @@
     },
     {
       "birth_date": "1962-11-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "penkoa@abv.bg"
-        }
-      ],
-      "email": "penkoa@abv.bg",
       "gender": "male",
       "id": "f48cfb73-f21d-4044-a4d9-5ce47562108a",
       "identifiers": [
@@ -50888,13 +47316,6 @@
     },
     {
       "birth_date": "1960-02-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rantchev@abv.bg"
-        }
-      ],
-      "email": "rantchev@abv.bg",
       "gender": "male",
       "id": "f494d82e-0422-49e7-9c3c-7e9461caad48",
       "identifiers": [
@@ -51164,13 +47585,6 @@
     },
     {
       "birth_date": "1977-07-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kamen.petkov@parliament.bg"
-        }
-      ],
-      "email": "kamen.petkov@parliament.bg",
       "gender": "male",
       "given_name": "Kamen",
       "id": "f5808177-db09-48db-9771-d9124b69e326",
@@ -51314,13 +47728,6 @@
     },
     {
       "birth_date": "1965-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sevlievski@ssco.bg"
-        }
-      ],
-      "email": "sevlievski@ssco.bg",
       "gender": "male",
       "given_name": "Miroslav",
       "id": "f6f43eb3-91d4-40cf-884a-a0ddc18e3972",
@@ -51382,13 +47789,6 @@
     },
     {
       "birth_date": "1972-02-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "evdokia.asenova@parliament.bg"
-        }
-      ],
-      "email": "evdokia.asenova@parliament.bg",
       "gender": "female",
       "id": "f7702b89-a687-43b9-8984-1ad3d6bc062b",
       "identifiers": [
@@ -51466,13 +47866,6 @@
     },
     {
       "birth_date": "1967-05-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivelin.nikolov@parliament.bg"
-        }
-      ],
-      "email": "ivelin.nikolov@parliament.bg",
       "gender": "male",
       "id": "f7b8f09d-39d3-4f09-a48d-b5f333dec16e",
       "identifiers": [
@@ -51592,13 +47985,6 @@
     },
     {
       "birth_date": "1951-03-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kancho.filipov@parliament.bg"
-        }
-      ],
-      "email": "kancho.filipov@parliament.bg",
       "gender": "male",
       "id": "f8b8c0e7-3435-4a56-bd95-a6772d6eabf9",
       "identifiers": [
@@ -51628,13 +48014,6 @@
     },
     {
       "birth_date": "1965-10-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anastas.anastasov@parliament.bg"
-        }
-      ],
-      "email": "anastas.anastasov@parliament.bg",
       "gender": "male",
       "id": "f8d117ec-a31f-42fc-b5f5-0ef074e1049e",
       "identifiers": [
@@ -51870,13 +48249,6 @@
     },
     {
       "birth_date": "1980-07-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dimitar.ivanov@parliament.bg"
-        }
-      ],
-      "email": "dimitar.ivanov@parliament.bg",
       "gender": "male",
       "id": "f9a5564d-30d0-47e2-9523-73148c9e8638",
       "identifiers": [
@@ -51906,13 +48278,6 @@
     },
     {
       "birth_date": "1962-10-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kasim@dps.bg"
-        }
-      ],
-      "email": "kasim@dps.bg",
       "gender": "male",
       "id": "f9dba416-9dee-48ea-b97b-0c3bca047a4b",
       "identifiers": [
@@ -51961,13 +48326,6 @@
     },
     {
       "birth_date": "1953-10-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nihrizov@datacom.bg"
-        }
-      ],
-      "email": "nihrizov@datacom.bg",
       "gender": "male",
       "given_name": "Jordan",
       "id": "f9dd9641-57c0-43c9-b84d-ee95f254022e",
@@ -52029,13 +48387,6 @@
     },
     {
       "birth_date": "1982-12-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "denitsa.gadjeva@parliament.bg"
-        }
-      ],
-      "email": "denitsa.gadjeva@parliament.bg",
       "gender": "female",
       "id": "fa07ad1d-20b9-4b3c-91e2-4fbb1c7afb6f",
       "identifiers": [
@@ -52065,13 +48416,6 @@
     },
     {
       "birth_date": "1967-06-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "atila1967@abv.bg"
-        }
-      ],
-      "email": "atila1967@abv.bg",
       "gender": "male",
       "id": "fa08311d-346e-4942-9766-e93d4c46e1c5",
       "identifiers": [
@@ -52188,13 +48532,6 @@
     },
     {
       "birth_date": "1964-07-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "d.kolev@parliament.bg"
-        }
-      ],
-      "email": "d.kolev@parliament.bg",
       "gender": "male",
       "id": "fa42a564-2820-4aab-acd0-f7b5f6e9ac99",
       "identifiers": [
@@ -52255,13 +48592,6 @@
     },
     {
       "birth_date": "1956-03-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "noev@ataka.bg"
-        }
-      ],
-      "email": "noev@ataka.bg",
       "gender": "male",
       "id": "fa75f885-6ca4-4d43-bf2e-9caf2211dcde",
       "identifiers": [
@@ -52389,13 +48719,6 @@
     },
     {
       "birth_date": "1969-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cibalob@.com"
-        }
-      ],
-      "email": "cibalob@.com",
       "id": "fcc0e150-b49d-4a27-8291-58fe07535b90",
       "identifiers": [
         {
@@ -52514,13 +48837,6 @@
     },
     {
       "birth_date": "1954-12-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mihail.nikolovski@parliament.bg"
-        }
-      ],
-      "email": "mihail.nikolovski@parliament.bg",
       "gender": "male",
       "id": "fd3509ad-c0bd-41ec-a780-0cc4eca2f00f",
       "identifiers": [
@@ -52550,13 +48866,6 @@
     },
     {
       "birth_date": "1981-04-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mustafa.ahmed@parliament.bg"
-        }
-      ],
-      "email": "mustafa.ahmed@parliament.bg",
       "gender": "male",
       "id": "fd3590c8-2feb-467f-9978-51f6036df56f",
       "identifiers": [
@@ -52617,13 +48926,6 @@
     },
     {
       "birth_date": "1972-03-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ivan.todorov@parliament.bg"
-        }
-      ],
-      "email": "ivan.todorov@parliament.bg",
       "gender": "male",
       "id": "fd7ec532-e31d-4710-8827-78cdda0e3912",
       "identifiers": [
@@ -52653,13 +48955,6 @@
     },
     {
       "birth_date": "1986-04-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "galen.monev@parliament.bg"
-        }
-      ],
-      "email": "galen.monev@parliament.bg",
       "gender": "male",
       "id": "fdc773fc-563a-4283-8e5d-1c19749c9c3c",
       "identifiers": [
@@ -52796,13 +49091,6 @@
     },
     {
       "birth_date": "1957-06-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emil.hristov@parliament.bg"
-        }
-      ],
-      "email": "emil.hristov@parliament.bg",
       "id": "fe496ff5-7e01-4c0b-8af9-7519c0d154ad",
       "identifiers": [
         {
@@ -52827,13 +49115,6 @@
     },
     {
       "birth_date": "1955-10-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "iv_slavov@abv.bg"
-        }
-      ],
-      "email": "iv_slavov@abv.bg",
       "gender": "male",
       "id": "fea4e6a4-808b-4ab2-bc9e-406dc38294cb",
       "identifiers": [
@@ -52863,13 +49144,6 @@
     },
     {
       "birth_date": "1959-03-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yasen_1959@abv.bg"
-        }
-      ],
-      "email": "yasen_1959@abv.bg",
       "gender": "male",
       "id": "feca90e5-3e86-42ba-b32e-df0e9dd5431d",
       "identifiers": [
@@ -53007,13 +49281,6 @@
     },
     {
       "birth_date": "1960-11-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ezekov@abv.bg"
-        }
-      ],
-      "email": "ezekov@abv.bg",
       "gender": "male",
       "id": "ff544742-1f40-4c80-af6f-efd585eaa2de",
       "identifiers": [
