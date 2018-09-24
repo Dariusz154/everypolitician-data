@@ -130,6 +130,28 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
+  # Rule: Only current members should have contact info
+  #---------------------------------------------------------------------
+  task write: :remove_old_contact_info
+  task remove_old_contact_info: :tidy_memberships do
+    active_terms = @json[:events].select { |e| e[:classification] == 'legislative period' }
+                                 .reject { |e| e.key?(:end_date) }
+                                 .map { |e| e[:id] }
+                                 .to_set
+    active_members = @json[:memberships].select { |m| active_terms.include? m[:legislative_period_id] }
+                                        .reject { |m| m.key?(:end_date) }
+                                        .map { |e| e[:person_id] }
+                                        .to_set
+
+    unwanted_types = %w[email phone fax cell].to_set
+    @json[:persons].reject { |p| active_members.include? p[:id] }.each do |p|
+      p.delete :email
+      p[:contact_details]&.delete_if { |c| unwanted_types.include? c[:type] }
+      p.delete(:contact_details) if p[:contact_details]&.empty?
+    end
+  end
+
+  #---------------------------------------------------------------------
   # Don't duplicate `name` or `name__en` into multilingual
   #---------------------------------------------------------------------
   task write: :fallback_names
