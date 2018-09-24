@@ -5,17 +5,6 @@
   "persons": [
     {
       "birth_date": "1981-07-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ZZviadauri@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 25"
-        }
-      ],
-      "email": "ZZviadauri@parliament.ge",
       "gender": "male",
       "given_name": "Zurab",
       "id": "01436104-028f-4718-adf1-3333906aec33",
@@ -178,17 +167,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "VKhmaladze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 09"
-        }
-      ],
-      "email": "VKhmaladze@parliament.ge",
       "gender": "male",
       "id": "01927cfd-fb33-41ba-bcef-ec8ee7601e48",
       "identifiers": [
@@ -532,17 +510,6 @@
       "name": "Irakli Mezurnishvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "NEbanoidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 38"
-        }
-      ],
-      "email": "NEbanoidze@parliament.ge",
       "gender": "male",
       "id": "0693e269-abe3-476c-98d8-0df357b8c550",
       "identifiers": [
@@ -642,17 +609,6 @@
     },
     {
       "birth_date": "1968-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DUsupashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 57"
-        }
-      ],
-      "email": "DUsupashvili@parliament.ge",
       "gender": "male",
       "given_name": "David",
       "id": "097fb1a2-43fe-40f3-8ed9-3360cf0d7ea4",
@@ -878,17 +834,6 @@
       "name": "Giorgi Kopadze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GKhechinashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 44"
-        }
-      ],
-      "email": "GKhechinashvili@parliament.ge",
       "gender": "male",
       "id": "0acc17a9-d093-4b60-8cdf-b94996726bbb",
       "identifiers": [
@@ -1037,17 +982,6 @@
       "name": "Dimitri Tskitishvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "VDolidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 90 68"
-        }
-      ],
-      "email": "VDolidze@parliament.ge",
       "gender": "male",
       "id": "0ed2b698-4d0c-4071-887f-bb8046040345",
       "identifiers": [
@@ -1071,17 +1005,6 @@
       "name": "Viqtor Dolidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "AMirotadze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 19"
-        }
-      ],
-      "email": "AMirotadze@parliament.ge",
       "gender": "female",
       "id": "0ed92fcf-42e4-45b9-9fa2-eea91c2629f7",
       "identifiers": [
@@ -1105,17 +1028,6 @@
       "name": "Ani Mirotadze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GSanikidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 45"
-        }
-      ],
-      "email": "GSanikidze@parliament.ge",
       "gender": "male",
       "id": "0ee7c2ad-1596-4c79-becd-b629a818d934",
       "identifiers": [
@@ -1195,17 +1107,6 @@
       "name": "Zaza Kedelashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "SPetrosiani@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 13"
-        }
-      ],
-      "email": "SPetrosiani@parliament.ge",
       "gender": "male",
       "id": "129139d9-de82-442e-b2a5-e53aeb6d2d02",
       "identifiers": [
@@ -1305,17 +1206,6 @@
       "name": "Giorgi Ghviniashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "TMaisuradze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 40"
-        }
-      ],
-      "email": "TMaisuradze@parliament.ge",
       "gender": "male",
       "id": "13ef8946-784a-49c3-92f5-d90cb2e6180f",
       "identifiers": [
@@ -1339,17 +1229,6 @@
       "name": "Temuri Maisuradze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "MVerulashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 62"
-        }
-      ],
-      "email": "MVerulashvili@parliament.ge",
       "gender": "female",
       "id": "16c2d33c-4d07-4669-84ac-37b4d062c939",
       "identifiers": [
@@ -1378,17 +1257,6 @@
     },
     {
       "birth_date": "1971-07-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "KDavitashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 23"
-        }
-      ],
-      "email": "KDavitashvili@parliament.ge",
       "gender": "male",
       "id": "1b782c85-1bfb-4d80-9c49-83b20c885563",
       "identifiers": [
@@ -1506,17 +1374,6 @@
       "name": "Ioseb Makrakhidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "PKublashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 12"
-        }
-      ],
-      "email": "PKublashvili@parliament.ge",
       "gender": "male",
       "id": "22c77fcb-f25a-4be2-bc6b-893fe88c169e",
       "identifiers": [
@@ -1548,17 +1405,6 @@
       "name": "Pavle Kublashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "LKardava@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 37"
-        }
-      ],
-      "email": "LKardava@parliament.ge",
       "gender": "male",
       "id": "22f2909d-201a-4330-a0d2-3b5fb142e3f1",
       "identifiers": [
@@ -1600,17 +1446,6 @@
       "name": "Lasha Damenia"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "MKachakhidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 38"
-        }
-      ],
-      "email": "MKachakhidze@parliament.ge",
       "gender": "male",
       "id": "2599462f-4220-4d83-b569-eb19de2dd305",
       "identifiers": [
@@ -1652,17 +1487,6 @@
       "name": "Salome Samadashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "AMamedovi@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 49"
-        }
-      ],
-      "email": "AMamedovi@parliament.ge",
       "gender": "male",
       "id": "273a33f0-1b61-4ed7-8386-655a1a84a72f",
       "identifiers": [
@@ -1687,17 +1511,6 @@
     },
     {
       "birth_date": "1976-01-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ZJapharidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 22"
-        }
-      ],
-      "email": "ZJapharidze@parliament.ge",
       "gender": "male",
       "given_name": "Zurab",
       "id": "2756d591-eeab-47eb-ac6b-a2d183585c06",
@@ -1829,17 +1642,6 @@
       "name": "Kakhaber Kutchava"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "TLondaridze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 54"
-        }
-      ],
-      "email": "TLondaridze@parliament.ge",
       "gender": "male",
       "id": "29745594-3504-4e21-99d1-c1d0589e3f73",
       "identifiers": [
@@ -1867,17 +1669,6 @@
       "name": "Tariel Londaridze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ZMelikishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 46"
-        }
-      ],
-      "email": "ZMelikishvili@parliament.ge",
       "gender": "male",
       "id": "2987eeea-07e3-45e6-a964-7d40e7469fbd",
       "identifiers": [
@@ -2014,17 +1805,6 @@
       "name": "Pati Khalvashi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "LBezhashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 51"
-        }
-      ],
-      "email": "LBezhashvili@parliament.ge",
       "gender": "male",
       "id": "2d84c1a1-7291-4493-af89-139c111db1fc",
       "identifiers": [
@@ -2086,17 +1866,6 @@
       "name": "Giorgi Khachidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ZAbashidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 90 56"
-        }
-      ],
-      "email": "ZAbashidze@parliament.ge",
       "gender": "male",
       "id": "2fef5be2-2f31-42f7-b75c-d5119ea87829",
       "identifiers": [
@@ -2128,17 +1897,6 @@
       "name": "Zurab Abashidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "OMegrelidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 66"
-        }
-      ],
-      "email": "OMegrelidze@parliament.ge",
       "gender": "male",
       "id": "3060504a-d1c5-4ebf-993c-15371ee023c3",
       "identifiers": [
@@ -2162,17 +1920,6 @@
       "name": "Omar Megrelidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DOnoprishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 61"
-        }
-      ],
-      "email": "DOnoprishvili@parliament.ge",
       "gender": "male",
       "id": "32b4e060-e55a-4ceb-b81b-e746f17b64ad",
       "identifiers": [
@@ -2218,17 +1965,6 @@
       "name": "Beka Odisharia"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "TMechiauri@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 58"
-        }
-      ],
-      "email": "TMechiauri@parliament.ge",
       "gender": "male",
       "id": "3406aafb-188f-476c-a8fa-408339fd0a76",
       "identifiers": [
@@ -2448,10 +2184,6 @@
     {
       "contact_details": [
         {
-          "type": "phone",
-          "value": "(032) 228 92 85"
-        },
-        {
           "type": "twitter",
           "value": "TamarKordzaia"
         }
@@ -2523,17 +2255,6 @@
       "name": "Giorgi Mosidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GGelashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 34"
-        }
-      ],
-      "email": "GGelashvili@parliament.ge",
       "gender": "male",
       "id": "42bd64ad-2a50-4620-ab03-81008d116a4c",
       "identifiers": [
@@ -2557,17 +2278,6 @@
       "name": "Gela Gelashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "LBerdzenishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 90 13"
-        }
-      ],
-      "email": "LBerdzenishvili@parliament.ge",
       "gender": "male",
       "id": "43a64365-bf30-4715-8c32-95b322f8fb70",
       "identifiers": [
@@ -2861,17 +2571,6 @@
       "name": "Goderdzi Chankseliani"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GGozalishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 72"
-        }
-      ],
-      "email": "GGozalishvili@parliament.ge",
       "gender": "male",
       "id": "4bb62584-abde-4d15-bd34-df06f92d9fd5",
       "identifiers": [
@@ -2896,17 +2595,6 @@
     },
     {
       "birth_date": "1960-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "VGelashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 10"
-        }
-      ],
-      "email": "VGelashvili@parliament.ge",
       "gender": "male",
       "given_name": "Valeri",
       "id": "4bb834f2-0056-48a6-8100-8a379a8540a2",
@@ -2958,17 +2646,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "PSakvarelidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 76"
-        }
-      ],
-      "email": "PSakvarelidze@parliament.ge",
       "gender": "male",
       "id": "4d475dc6-362c-4de2-a54c-ad296cfc695d",
       "identifiers": [
@@ -3047,17 +2724,6 @@
     },
     {
       "birth_date": "1981-07-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GVashadze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 40"
-        }
-      ],
-      "email": "GVashadze@parliament.ge",
       "family_name": "Vashadze",
       "gender": "male",
       "given_name": "Giorgi",
@@ -3140,17 +2806,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "IChikovani@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 51"
-        }
-      ],
-      "email": "IChikovani@parliament.ge",
       "gender": "male",
       "id": "4e340ae2-c0fd-4e22-bf75-c588047d6804",
       "identifiers": [
@@ -3235,17 +2890,6 @@
       "name": "Kakhaber Oqriashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GKarbelashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 08"
-        }
-      ],
-      "email": "GKarbelashvili@parliament.ge",
       "gender": "male",
       "id": "50c1eb23-93a6-4b45-936b-737b50c80bd6",
       "identifiers": [
@@ -3414,17 +3058,6 @@
       "name": "Dimitri Khundadze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "EChaphidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 15"
-        }
-      ],
-      "email": "EChaphidze@parliament.ge",
       "gender": "female",
       "id": "5845a33d-0474-41d3-bbf5-99c3f5e90886",
       "identifiers": [
@@ -3448,17 +3081,6 @@
       "name": "Eliso Chapidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ZTkemaladze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 06"
-        }
-      ],
-      "email": "ZTkemaladze@parliament.ge",
       "gender": "male",
       "id": "599380f1-1928-4a4c-98fd-cc1d0d97bc24",
       "identifiers": [
@@ -3506,17 +3128,6 @@
     },
     {
       "birth_date": "1962-09-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ShMalashkhia@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 64"
-        }
-      ],
-      "email": "ShMalashkhia@parliament.ge",
       "gender": "male",
       "given_name": "Shota",
       "id": "5ab30ae1-10cd-4b64-887c-a4b0c399a0ff",
@@ -3690,17 +3301,6 @@
       "name": "Mariam Jashi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "RShavlokhashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 68"
-        }
-      ],
-      "email": "RShavlokhashvili@parliament.ge",
       "gender": "male",
       "id": "5ea40062-aa97-4a6d-8c40-3451fb61a14c",
       "identifiers": [
@@ -3776,17 +3376,6 @@
       "name": "Ekaterine Kherkheulidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "NKeinishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 39"
-        }
-      ],
-      "email": "NKeinishvili@parliament.ge",
       "gender": "female",
       "id": "66376f5f-4a6c-4eee-9186-da6c991f10f6",
       "identifiers": [
@@ -3829,17 +3418,6 @@
     },
     {
       "birth_date": "1968-01-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "MMachavariani@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 35"
-        }
-      ],
-      "email": "MMachavariani@parliament.ge",
       "gender": "male",
       "id": "66deb174-4c40-4a08-bb48-ee73f00a2fbe",
       "identifiers": [
@@ -3890,17 +3468,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DBezhuashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 12"
-        }
-      ],
-      "email": "DBezhuashvili@parliament.ge",
       "gender": "male",
       "id": "6716febb-d409-43de-a1bb-5e44bc37bd96",
       "identifiers": [
@@ -3982,17 +3549,6 @@
       "name": "Simon Nozadze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "PTsiskarishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 69"
-        }
-      ],
-      "email": "PTsiskarishvili@parliament.ge",
       "gender": "male",
       "id": "69f3a945-2cac-44ce-a778-ee63d6c4f570",
       "identifiers": [
@@ -4180,17 +3736,6 @@
       "name": "Irakli (Dachi) Beraia"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "NTsiklauri@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 48"
-        }
-      ],
-      "email": "NTsiklauri@parliament.ge",
       "gender": "male",
       "id": "77286b3f-02e9-4586-a1e7-81de5468e1fa",
       "identifiers": [
@@ -4214,17 +3759,6 @@
       "name": "Nugzar Tsiklauri"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "IJachvliani@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 29"
-        }
-      ],
-      "email": "IJachvliani@parliament.ge",
       "gender": "male",
       "id": "782a0c6e-6603-4948-8420-e1712b1031f9",
       "identifiers": [
@@ -4302,17 +3836,6 @@
       "name": "Irine Pruidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DLortkipanidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 59"
-        }
-      ],
-      "email": "DLortkipanidze@parliament.ge",
       "gender": "male",
       "id": "78b1c9f2-af06-46f7-bd33-35b200c9b611",
       "identifiers": [
@@ -4354,17 +3877,6 @@
       "name": "Elguja Gotsiridze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "VLemonjava@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 31"
-        }
-      ],
-      "email": "VLemonjava@parliament.ge",
       "gender": "male",
       "id": "79e69ae6-9377-4da0-b7a8-5360569811cd",
       "identifiers": [
@@ -4516,17 +4028,6 @@
       "name": "Makhiri Darzievi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GTsagareishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 29"
-        }
-      ],
-      "email": "GTsagareishvili@parliament.ge",
       "gender": "male",
       "id": "7f961c3d-1dc3-413b-a1b2-d8630489d294",
       "identifiers": [
@@ -4607,17 +4108,6 @@
       "name": "Azer Suleimanovi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ChTaktakishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 36"
-        }
-      ],
-      "email": "ChTaktakishvili@parliament.ge",
       "gender": "female",
       "id": "804613d0-57d9-4ecb-8da0-5c5a52bf55d0",
       "identifiers": [
@@ -4645,17 +4135,6 @@
       "name": "Chiora Taqtaqishvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "RAkhalaia@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 60"
-        }
-      ],
-      "email": "RAkhalaia@parliament.ge",
       "gender": "male",
       "id": "80954079-7112-45e7-889a-aa038175b46f",
       "identifiers": [
@@ -4716,17 +4195,6 @@
     },
     {
       "birth_date": "1968-02-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "MaKobakhidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 90 49"
-        }
-      ],
-      "email": "MaKobakhidze@parliament.ge",
       "gender": "female",
       "id": "8a8279a9-7bcb-49d5-8262-74cb96f93ce6",
       "identifiers": [
@@ -4800,17 +4268,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "MVakhtangashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 46"
-        }
-      ],
-      "email": "MVakhtangashvili@parliament.ge",
       "gender": "male",
       "id": "8d3b5c80-6992-45f6-9e4a-66bed84e9461",
       "identifiers": [
@@ -4834,17 +4291,6 @@
       "name": "Malkhaz Vakhtangashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GKavtaradze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 28"
-        }
-      ],
-      "email": "GKavtaradze@parliament.ge",
       "gender": "male",
       "id": "8ea71908-2940-435b-8273-4a50e63d5562",
       "identifiers": [
@@ -4872,17 +4318,6 @@
       "name": "Giorgi Qavtaradze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "TChkhaidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 81"
-        }
-      ],
-      "email": "TChkhaidze@parliament.ge",
       "gender": "male",
       "id": "8f817b65-7ae9-4ac4-b255-9c1488d03c5e",
       "identifiers": [
@@ -4906,17 +4341,6 @@
       "name": "Teimuraz Chkhaidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ZChilingarishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 19"
-        }
-      ],
-      "email": "ZChilingarishvili@parliament.ge",
       "gender": "male",
       "id": "903553e0-1b0d-406d-ba9d-72b0098be908",
       "identifiers": [
@@ -5019,12 +4443,6 @@
       "name": "Anri Okhanashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(032) 228 92 89"
-        }
-      ],
       "gender": "female",
       "id": "95b87c65-7f57-465f-94db-11952e19e513",
       "identifiers": [
@@ -5113,17 +4531,6 @@
     },
     {
       "birth_date": "1973-11-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GTargamadze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 63"
-        }
-      ],
-      "email": "GTargamadze@parliament.ge",
       "gender": "male",
       "given_name": "Giorgi",
       "id": "9b5351d3-6719-4cb3-8a2a-dd2f624c64a3",
@@ -5267,17 +4674,6 @@
       "name": "Mikheil Kavelashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DDarchiashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 28"
-        }
-      ],
-      "email": "DDarchiashvili@parliament.ge",
       "gender": "male",
       "id": "9f39b56c-1e1e-4e91-b945-e045bf0f13e4",
       "identifiers": [
@@ -5323,17 +4719,6 @@
       "name": "Dimitri Samkharadze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "IKiguradze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 13"
-        }
-      ],
-      "email": "IKiguradze@parliament.ge",
       "gender": "male",
       "id": "a1bff441-ad00-42fa-b453-dd4916b38ce4",
       "identifiers": [
@@ -5357,17 +4742,6 @@
       "name": "Ivane Kighuradze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GLiparteliani@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 55"
-        }
-      ],
-      "email": "GLiparteliani@parliament.ge",
       "gender": "male",
       "id": "a22e940e-f16e-4bf8-bc73-21ad82d94f9d",
       "identifiers": [
@@ -5413,17 +4787,6 @@
       "name": "Tamari Chugoshvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "VChitashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 42"
-        }
-      ],
-      "email": "VChitashvili@parliament.ge",
       "gender": "male",
       "id": "a5ab207c-630b-43f6-9bd7-0caee7ea3680",
       "identifiers": [
@@ -5668,17 +5031,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GZhvania@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 31"
-        }
-      ],
-      "email": "GZhvania@parliament.ge",
       "gender": "male",
       "id": "aa6633af-4a66-482a-8032-c41107bede6c",
       "identifiers": [
@@ -5809,17 +5161,6 @@
       "name": "Zaza Khutsishvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "IShervashize@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 14"
-        }
-      ],
-      "email": "IShervashize@parliament.ge",
       "gender": "male",
       "id": "b0a5bfd4-d9f7-4903-a7e7-0784b711acd1",
       "identifiers": [
@@ -5843,17 +5184,6 @@
       "name": "Iasha Shervashidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "KButskhrikidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 71"
-        }
-      ],
-      "email": "KButskhrikidze@parliament.ge",
       "gender": "male",
       "id": "b0d2c9be-029e-4bcf-b7cc-e9e106667ecc",
       "identifiers": [
@@ -5916,17 +5246,6 @@
       "name": "Gia Zhorzholiani"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DBerdzenishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 50"
-        }
-      ],
-      "email": "DBerdzenishvili@parliament.ge",
       "gender": "male",
       "id": "b1ab176c-c03b-415c-99c7-d71873edd2eb",
       "identifiers": [
@@ -5954,17 +5273,6 @@
       "name": "Davit Berdzenishvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GTevdoradze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 20"
-        }
-      ],
-      "email": "GTevdoradze@parliament.ge",
       "gender": "male",
       "id": "b4b3008f-eba8-48c4-8656-1312b9d2ffe0",
       "identifiers": [
@@ -6098,17 +5406,6 @@
       "name": "Guguli Maghradze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GPheikrishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 41"
-        }
-      ],
-      "email": "GPheikrishvili@parliament.ge",
       "gender": "male",
       "id": "b7e0a809-d180-4602-bf72-4e0b52a262dc",
       "identifiers": [
@@ -6136,17 +5433,6 @@
       "name": "Giorgi Peiqrishvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GGabashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 52"
-        }
-      ],
-      "email": "GGabashvili@parliament.ge",
       "gender": "male",
       "id": "b917f598-1398-4667-b1c4-a16691e7cefc",
       "identifiers": [
@@ -6254,17 +5540,6 @@
     },
     {
       "birth_date": "1980-09-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "AMinashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 90 67"
-        }
-      ],
-      "email": "AMinashvili@parliament.ge",
       "family_name": "Minashvili",
       "gender": "male",
       "id": "bde67527-800a-4940-a7af-96c4f9a756cf",
@@ -6335,17 +5610,6 @@
       "name": "Karlo Kopaliani"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "PLejava@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 50"
-        }
-      ],
-      "email": "PLejava@parliament.ge",
       "gender": "male",
       "id": "c14bd8d5-f616-47fb-8117-3c113fa7ba73",
       "identifiers": [
@@ -6391,12 +5655,6 @@
       "name": "Levan Gogichaishvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(032) 228 91 30"
-        }
-      ],
       "gender": "male",
       "id": "c431f065-c65a-458b-95b7-d80163e3ddc0",
       "identifiers": [
@@ -6521,17 +5779,6 @@
     },
     {
       "birth_date": "1946-11-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "MMakharadze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 65"
-        }
-      ],
-      "email": "MMakharadze@parliament.ge",
       "gender": "male",
       "id": "ca5ce8ed-c9a9-4a40-a736-c306f12ab5fc",
       "identifiers": [
@@ -6602,17 +5849,6 @@
       "name": "Paata Kvizhinadze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ATamazashvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 26"
-        }
-      ],
-      "email": "ATamazashvili@parliament.ge",
       "gender": "male",
       "id": "ccaed334-dfb3-4ed8-9a14-9cae06352f89",
       "identifiers": [
@@ -6637,17 +5873,6 @@
     },
     {
       "birth_date": "1946-09-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "TeJapharidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 90 64"
-        }
-      ],
-      "email": "TeJapharidze@parliament.ge",
       "gender": "male",
       "id": "cdfbf5d1-9cad-49ba-819b-f46268339abe",
       "identifiers": [
@@ -6795,17 +6020,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "TKacheishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 90 20"
-        }
-      ],
-      "email": "TKacheishvili@parliament.ge",
       "gender": "male",
       "id": "cfd62771-61d7-422b-99a8-2ff997ad2b55",
       "identifiers": [
@@ -6904,17 +6118,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "MTsereteli@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 90 61"
-        }
-      ],
-      "email": "MTsereteli@parliament.ge",
       "gender": "male",
       "id": "d41d7932-090f-4533-abc3-664b054a5dbc",
       "identifiers": [
@@ -6938,17 +6141,6 @@
       "name": "Malkhaz Tsereteli"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "RKhalvashi@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 74"
-        }
-      ],
-      "email": "RKhalvashi@parliament.ge",
       "gender": "male",
       "id": "d44b2ba6-1d4c-4b6d-b8a2-070a3bd78e00",
       "identifiers": [
@@ -6972,17 +6164,6 @@
       "name": "Rostom Khalvashi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "MSajaia@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 67"
-        }
-      ],
-      "email": "MSajaia@parliament.ge",
       "gender": "female",
       "id": "d4f18b0b-056b-4226-9ace-d05e6d0c127a",
       "identifiers": [
@@ -7006,17 +6187,6 @@
       "name": "Mariam Sajaia"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "TShioshvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 82"
-        }
-      ],
-      "email": "TShioshvili@parliament.ge",
       "gender": "male",
       "id": "db116ab9-5660-49fb-abd2-6b9eab475f0d",
       "identifiers": [
@@ -7127,17 +6297,6 @@
       "name": "Ramaz Nikolaishvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ONishnianidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 78"
-        }
-      ],
-      "email": "ONishnianidze@parliament.ge",
       "gender": "male",
       "id": "e0a58e43-ea04-413e-8efb-8e97384d5312",
       "identifiers": [
@@ -7196,17 +6355,6 @@
       "name": "Teimuraz Chkuaseli"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DChachanidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 43"
-        }
-      ],
-      "email": "DChachanidze@parliament.ge",
       "gender": "male",
       "id": "e2b61269-b824-43cd-86ae-20e8f116e192",
       "identifiers": [
@@ -7252,17 +6400,6 @@
       "name": "Shota Shalelashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "NKiphshidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 53"
-        }
-      ],
-      "email": "NKiphshidze@parliament.ge",
       "gender": "male",
       "id": "e327a034-9c62-4726-8419-e83f54986c5b",
       "identifiers": [
@@ -7444,17 +6581,6 @@
       "name": "Koba Kobaladze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GMeladze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 44"
-        }
-      ],
-      "email": "GMeladze@parliament.ge",
       "gender": "male",
       "id": "e4c56e67-b24b-4bf8-91f7-c070ac689035",
       "identifiers": [
@@ -7518,17 +6644,6 @@
       "name": "Samvel Manukian"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GTophadze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 26"
-        }
-      ],
-      "email": "GTophadze@parliament.ge",
       "gender": "male",
       "id": "e5a217a6-2af5-4a59-89e1-e882e156efd8",
       "identifiers": [
@@ -7599,17 +6714,6 @@
       "name": "Eka Beselia"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GBukia@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 56"
-        }
-      ],
-      "email": "GBukia@parliament.ge",
       "gender": "male",
       "id": "e630c228-57cc-49d8-b68b-ca0229aaa3d4",
       "identifiers": [
@@ -7655,17 +6759,6 @@
       "name": "Sulkhan Makhatadze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DBasheleishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 47"
-        }
-      ],
-      "email": "DBasheleishvili@parliament.ge",
       "gender": "male",
       "id": "e6c8b544-5697-4d4e-a7b1-07fb5df79785",
       "identifiers": [
@@ -7725,17 +6818,6 @@
       "name": "Mukhran Vakhtangadze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GBaramidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 90 53"
-        }
-      ],
-      "email": "GBaramidze@parliament.ge",
       "gender": "male",
       "id": "e7f64c6e-09b3-42a5-bcc4-711781e2837a",
       "identifiers": [
@@ -7767,17 +6849,6 @@
       "name": "Giorgi Baramidze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "TaJapharidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 27"
-        }
-      ],
-      "email": "TaJapharidze@parliament.ge",
       "gender": "male",
       "id": "eae0f633-504e-4541-919e-ec98d39e699e",
       "identifiers": [
@@ -7801,17 +6872,6 @@
       "name": "Tamaz Japaridze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "GMisabishvili@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 18"
-        }
-      ],
-      "email": "GMisabishvili@parliament.ge",
       "gender": "male",
       "id": "eae892bc-c69d-4404-97d8-a9801e8922ef",
       "identifiers": [
@@ -7835,17 +6895,6 @@
       "name": "Guram Misabishvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "MDumbadze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 90 58"
-        }
-      ],
-      "email": "MDumbadze@parliament.ge",
       "gender": "male",
       "id": "eb5254b8-defd-47e6-93ed-8c70bd41049c",
       "identifiers": [
@@ -8037,17 +7086,6 @@
       "name": "Isko Daseni"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DSaganelidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 55"
-        }
-      ],
-      "email": "DSaganelidze@parliament.ge",
       "gender": "male",
       "id": "f35fb8fc-0f00-4f23-8a64-433f04ea9394",
       "identifiers": [
@@ -8107,17 +7145,6 @@
       "name": "Koba Narchemashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "SKhabuliani@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 57"
-        }
-      ],
-      "email": "SKhabuliani@parliament.ge",
       "gender": "male",
       "id": "f429edda-3787-4589-8bc1-09e09587d051",
       "identifiers": [
@@ -8213,17 +7240,6 @@
       "name": "Grigol Liluashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "KSubeliani@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 36"
-        }
-      ],
-      "email": "KSubeliani@parliament.ge",
       "gender": "male",
       "id": "f626dabf-a252-4138-9c33-953a721ce5de",
       "identifiers": [
@@ -8265,19 +7281,10 @@
       "birth_date": "1957-10-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "SShavgulidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 91 10"
-        },
-        {
           "type": "twitter",
           "value": "SShavgulidze"
         }
       ],
-      "email": "SShavgulidze@parliament.ge",
       "gender": "male",
       "given_name": "Shalva",
       "id": "f7941694-8f92-4d10-94bc-56bd6f7fcbc1",
@@ -8368,17 +7375,6 @@
       "name": "Gedevani Popkhadze"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "PBaratashvili"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 52"
-        }
-      ],
-      "email": "PBaratashvili",
       "gender": "male",
       "id": "fac1e04b-c77b-43e6-a4ab-9e07c0cd88b4",
       "identifiers": [
@@ -8402,17 +7398,6 @@
       "name": "Paata Baratashvili"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "DDartsmelidze@parliament.ge"
-        },
-        {
-          "type": "phone",
-          "value": "(032) 228 92 61"
-        }
-      ],
-      "email": "DDartsmelidze@parliament.ge",
       "gender": "male",
       "id": "fbb89035-7ebd-4e07-bb27-cdeb801d51ec",
       "identifiers": [
