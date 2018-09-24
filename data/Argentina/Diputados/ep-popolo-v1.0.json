@@ -4,17 +4,6 @@
   ],
   "persons": [
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jcjunio@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jcjunio@diputados.gob.ar",
       "gender": "male",
       "id": "010235dc-f799-4549-85da-09669990b908",
       "identifiers": [
@@ -119,17 +108,6 @@
       "sort_name": "Camaño, Graciela"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mfiad@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mfiad@diputados.gob.ar",
       "gender": "male",
       "given_name": "Mario",
       "id": "07ce1291-c8ad-4252-85d9-b9ebd2f07e05",
@@ -159,19 +137,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "ecalcagno@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4952-1357"
-        },
-        {
           "type": "twitter",
           "value": "EricCalcagno"
         }
       ],
-      "email": "ecalcagno@diputados.gob.ar",
       "gender": "male",
       "id": "0969e50a-6926-41c9-a031-040866fddf7f",
       "identifiers": [
@@ -207,19 +176,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "jrivas@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "JorgeRivasRS"
         }
       ],
-      "email": "jrivas@diputados.gob.ar",
       "gender": "male",
       "id": "0a24a3da-6839-4e7d-911c-594e90030d0a",
       "identifiers": [
@@ -260,17 +220,6 @@
       "sort_name": "Sorgente, Marcelo Adolfo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mortizcorrea@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mortizcorrea@diputados.gob.ar",
       "gender": "female",
       "id": "0bb084cb-ce85-4973-85a5-a9d10bf192bb",
       "identifiers": [
@@ -302,17 +251,6 @@
       "sort_name": "Tovares, Ramon Alberto"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "scanela@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "scanela@diputados.gob.ar",
       "gender": "female",
       "id": "0c8341af-54dc-4fd3-b20b-4ff789365613",
       "identifiers": [
@@ -619,17 +557,6 @@
     },
     {
       "birth_date": "1953-09-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nparrilli@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "nparrilli@diputados.gob.ar",
       "gender": "female",
       "id": "0ea2d96f-a4f4-4101-90dc-2e5fa29d1588",
       "identifiers": [
@@ -750,17 +677,6 @@
       "sort_name": "Alvarez Rodriguez, Maria Cristina"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mfernandezb@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mfernandezb@diputados.gob.ar",
       "gender": "female",
       "id": "110e119c-5ab8-42ae-9cd3-c84d6269f63d",
       "identifiers": [
@@ -908,19 +824,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "ffrancioni@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "fabianfrancioni"
         }
       ],
-      "email": "ffrancioni@diputados.gob.ar",
       "gender": "male",
       "id": "124ef459-da64-4800-91fd-a81d9516a643",
       "identifiers": [
@@ -1035,19 +942,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "pbullrich@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "PatoBullrich"
         }
       ],
-      "email": "pbullrich@diputados.gob.ar",
       "gender": "female",
       "id": "13da3f7b-64b0-4248-bd31-f63280bec285",
       "identifiers": [
@@ -1134,17 +1032,6 @@
       "sort_name": "Negri, Mario Raul"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fsalino@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "fsalino@diputados.gob.ar",
       "gender": "male",
       "given_name": "Fernando",
       "id": "15e70c42-f984-4048-8b5f-6968657d4cfa",
@@ -1168,17 +1055,6 @@
       "sort_name": "SALINO, FERNANDO ALDO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gharispe@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "gharispe@diputados.gob.ar",
       "gender": "male",
       "id": "18196c3a-019c-4648-bdcd-5f80dc907e1d",
       "identifiers": [
@@ -1230,17 +1106,6 @@
       "sort_name": "Dindart, Julian"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "frogel@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "frogel@diputados.gob.ar",
       "gender": "male",
       "id": "1a28044e-a86e-49ca-b187-5b53e6e285e0",
       "identifiers": [
@@ -1331,14 +1196,6 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "lalonso@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "lauvalonso"
         },
@@ -1347,7 +1204,6 @@
           "value": "lauritalonso"
         }
       ],
-      "email": "lalonso@diputados.gob.ar",
       "gender": "female",
       "given_name": "Laura",
       "id": "1ae76069-6e43-4f7d-9ea8-83c2f108ef0d",
@@ -1471,17 +1327,6 @@
       "sort_name": "Torroba, Francisco Javier"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "evaquie@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "evaquie@diputados.gob.ar",
       "gender": "male",
       "id": "1b815834-70ef-43dc-bcbc-b993fbe7de2a",
       "identifiers": [
@@ -1583,17 +1428,6 @@
       "sort_name": "Tentor, Hector Olindo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jlandau@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jlandau@diputados.gob.ar",
       "gender": "male",
       "id": "1e33952c-99d0-4b14-a464-21063cb3f731",
       "identifiers": [
@@ -1612,17 +1446,6 @@
       "sort_name": "LANDAU, JORGE ALBERTO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sleverberg@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "sleverberg@diputados.gob.ar",
       "gender": "female",
       "id": "20a6ee7a-fcf7-4ea2-97b0-201d0466272b",
       "identifiers": [
@@ -1689,19 +1512,10 @@
       "birth_date": "1949-06-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jschiaretti@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "JSchiaretti"
         }
       ],
-      "email": "jschiaretti@diputados.gob.ar",
       "gender": "male",
       "given_name": "Juan",
       "id": "218b5d8e-1521-4411-9802-aacd024a86c2",
@@ -1765,17 +1579,6 @@
       "sort_name": "SCHIARETTI, JUAN"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "obarchetta@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "obarchetta@diputados.gob.ar",
       "gender": "male",
       "id": "22481711-6123-4a48-b7e4-d96eefbec75d",
       "identifiers": [
@@ -1912,19 +1715,10 @@
       "birth_date": "1966-02-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fsturzenegger@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "fedesturze"
         }
       ],
-      "email": "fsturzenegger@diputados.gob.ar",
       "gender": "male",
       "given_name": "Federico",
       "id": "26e61cbe-ab27-4a5a-be8f-31b9c42904c6",
@@ -2147,17 +1941,6 @@
       "sort_name": "Perez, Martin Alejandro"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aianni@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "aianni@diputados.gob.ar",
       "gender": "female",
       "id": "28e0d2df-19e9-47c9-a957-526494343d36",
       "identifiers": [
@@ -2176,17 +1959,6 @@
       "sort_name": "IANNI, ANA MARIA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gboyadjian@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "gboyadjian@diputados.gob.ar",
       "gender": "female",
       "id": "296a32d2-c34c-43eb-9e5d-fd022c7e23db",
       "identifiers": [
@@ -2411,17 +2183,6 @@
       "sort_name": "Schwindt, Maria Liliana"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bbiellac@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "bbiellac@diputados.gob.ar",
       "gender": "male",
       "id": "2e81905c-3567-487d-b638-c1efda3e908f",
       "identifiers": [
@@ -2544,17 +2305,6 @@
     },
     {
       "birth_date": "1958-05-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pdeferrarir@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "pdeferrarir@diputados.gob.ar",
       "family_name": "Ferrari",
       "gender": "female",
       "given_name": "Patricia",
@@ -2748,17 +2498,6 @@
       "sort_name": "Schmidt Liermann, Cornelia"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jguccione@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jguccione@diputados.gob.ar",
       "gender": "male",
       "id": "379bb317-92f2-40ac-bb81-52d2322897a2",
       "identifiers": [
@@ -2779,19 +2518,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "mgarrido@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "ManuGarridoOk"
         }
       ],
-      "email": "mgarrido@diputados.gob.ar",
       "gender": "male",
       "id": "383997bb-0487-445b-900f-f4cc11411299",
       "identifiers": [
@@ -2877,17 +2607,6 @@
       "sort_name": "De Vido, Julio"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nbedano@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "nbedano@diputados.gob.ar",
       "gender": "female",
       "id": "3868da27-6269-4d4a-91c4-3f6ef342b35a",
       "identifiers": [
@@ -2947,17 +2666,6 @@
       "sort_name": "Alegre, Gilberto Oscar"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jperie@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jperie@diputados.gob.ar",
       "gender": "female",
       "id": "3973925e-2699-4681-9d94-4b328034278a",
       "identifiers": [
@@ -3024,19 +2732,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "clozano@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "Lozano_Claudio"
         }
       ],
-      "email": "clozano@diputados.gob.ar",
       "gender": "male",
       "id": "3a83d785-0934-4720-b030-b7517ab4db99",
       "identifiers": [
@@ -3070,17 +2769,6 @@
       "sort_name": "LOZANO, CLAUDIO RAUL"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aportela@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "aportela@diputados.gob.ar",
       "gender": "male",
       "id": "3ab0ea57-3c7d-46b8-90be-ff78936ec5be",
       "identifiers": [
@@ -3099,17 +2787,6 @@
       "sort_name": "PORTELA, AGUSTIN ALBERTO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "oelorriaga@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "oelorriaga@diputados.gob.ar",
       "gender": "male",
       "id": "3b20da8e-207a-4af2-83d7-2bd99d7d251a",
       "identifiers": [
@@ -3128,17 +2805,6 @@
       "sort_name": "ELORRIAGA, OSVALDO ENRIQUE"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gbidegain@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "gbidegain@diputados.gob.ar",
       "gender": "female",
       "id": "3c106a59-e99d-474a-9f25-f0da50122776",
       "identifiers": [
@@ -3157,17 +2823,6 @@
       "sort_name": "BIDEGAIN, GLORIA MERCEDES"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cgiaccone@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "cgiaccone@diputados.gob.ar",
       "gender": "female",
       "id": "3c255ce4-c545-480d-8c32-68020fa6a78c",
       "identifiers": [
@@ -3276,17 +2931,6 @@
       "sort_name": "Franco, Jorge Daniel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lrios@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "lrios@diputados.gob.ar",
       "gender": "female",
       "id": "3e7f48d7-49b6-4ea1-abcb-8f96a905eb19",
       "identifiers": [
@@ -3305,17 +2949,6 @@
       "sort_name": "RIOS, LILIANA MARIA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ccaserio@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "ccaserio@diputados.gob.ar",
       "gender": "male",
       "given_name": "Carlos",
       "id": "3ee149c5-59ae-4b71-958e-c423b39fcc46",
@@ -3367,17 +3000,6 @@
       "sort_name": "Martinez, Oscar Anselmo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jvilarino@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jvilarino@diputados.gob.ar",
       "gender": "male",
       "id": "3f463c93-f9c6-4f97-9b79-992876b2ff8a",
       "identifiers": [
@@ -3420,17 +3042,6 @@
       "sort_name": "Semhan, Maria De Las Mercedes"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mgill@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mgill@diputados.gob.ar",
       "gender": "male",
       "given_name": "Martin",
       "id": "4018dcf5-9813-4cba-a480-4d28aaaf269b",
@@ -3558,17 +3169,6 @@
       "sort_name": "Albornoz, Gabriela Romina"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mbalcedo@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mbalcedo@diputados.gob.ar",
       "gender": "female",
       "id": "4407c4bf-d156-4d2f-859f-bef233d516ef",
       "identifiers": [
@@ -3590,19 +3190,10 @@
       "birth_date": "1962-01-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sbergman@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "sergiobergman"
         }
       ],
-      "email": "sbergman@diputados.gob.ar",
       "gender": "male",
       "given_name": "Sergio",
       "id": "44332f51-1022-473a-a5e8-2176a3dc5543",
@@ -3789,20 +3380,11 @@
       "birth_date": "1951-04-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mdasneves@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "mariodasneves"
         }
       ],
       "death_date": "2017-10-31",
-      "email": "mdasneves@diputados.gob.ar",
       "gender": "male",
       "given_name": "Mario",
       "id": "4929f542-cceb-4f22-a69a-06892a786570",
@@ -3878,17 +3460,6 @@
       "sort_name": "DAS NEVES, MARIO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "havoscan@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "havoscan@diputados.gob.ar",
       "gender": "male",
       "id": "498609f4-c4bf-4806-a6bf-489a24a51647",
       "identifiers": [
@@ -3951,17 +3522,6 @@
       "sort_name": "Barreto, Jorge Ruben"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vdegennaro@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "vdegennaro@diputados.gob.ar",
       "gender": "male",
       "id": "4af7d66b-ac82-404e-8277-6611d440b9a6",
       "identifiers": [
@@ -3980,17 +3540,6 @@
       "sort_name": "DE GENNARO, VICTOR NORBERTO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mcontrera@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mcontrera@diputados.gob.ar",
       "gender": "female",
       "id": "4af8daf8-678f-4116-bb66-186e172bb02e",
       "identifiers": [
@@ -4059,17 +3608,6 @@
       "sort_name": "De Pedro, Eduardo Enrique"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jzabalza@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jzabalza@diputados.gob.ar",
       "gender": "male",
       "id": "4c6563a0-1583-4ce1-a576-a4d723e5bb20",
       "identifiers": [
@@ -4236,19 +3774,10 @@
       "birth_date": "1950-05-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "oaguad@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "OscarAguadCBA"
         }
       ],
-      "email": "oaguad@diputados.gob.ar",
       "gender": "male",
       "given_name": "Oscar",
       "id": "4f05901f-3f69-4848-9f93-a47ea44f644a",
@@ -4711,17 +4240,6 @@
       "sort_name": "Casañas, Juan Francisco"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "agarcia@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "agarcia@diputados.gob.ar",
       "gender": "female",
       "id": "5811e53e-6226-4732-8a40-ffed4d3022a9",
       "identifiers": [
@@ -4866,17 +4384,6 @@
       "sort_name": "Martinez, Soledad"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cziebart@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "cziebart@diputados.gob.ar",
       "gender": "female",
       "id": "5a1ef891-9561-41d2-a990-83c1f03e9556",
       "identifiers": [
@@ -4895,17 +4402,6 @@
       "sort_name": "ZIEBART, CRISTINA ISABEL"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gsoto@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "gsoto@diputados.gob.ar",
       "gender": "female",
       "id": "5a59c29e-735d-4e81-9f5d-8707a79bfb34",
       "identifiers": [
@@ -4924,17 +4420,6 @@
       "sort_name": "SOTO, GLADYS BEATRIZ"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mgutierrez@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mgutierrez@diputados.gob.ar",
       "gender": "female",
       "id": "5b03165d-6645-4590-a15e-7bd6109a20e9",
       "identifiers": [
@@ -4956,19 +4441,10 @@
       "birth_date": "1974-03-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "atriaca@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "JorgeTriaca"
         }
       ],
-      "email": "atriaca@diputados.gob.ar",
       "gender": "male",
       "given_name": "Jorge",
       "id": "5b48ef4a-9a23-47b9-9d43-2a4c0fe1ea4a",
@@ -5088,17 +4564,6 @@
       "sort_name": "Pedrini, Juan Manuel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cbrown@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "cbrown@diputados.gob.ar",
       "gender": "male",
       "id": "5caa48a9-39d2-489e-a0ea-25aadf7e3802",
       "identifiers": [
@@ -5138,17 +4603,6 @@
       "sort_name": "Arrieta, Gustavo Hector"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mortiz@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mortiz@diputados.gob.ar",
       "gender": "female",
       "id": "5eb1e039-a7ff-4406-af36-84ba82ca6cb1",
       "identifiers": [
@@ -5167,17 +4621,6 @@
       "sort_name": "ORTIZ, MARIELA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "malonso@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "malonso@diputados.gob.ar",
       "gender": "female",
       "id": "5eb9a412-ad2b-44a0-a10a-16fc414956e6",
       "identifiers": [
@@ -5247,17 +4690,6 @@
       "sort_name": "Tonelli, Pablo Gabriel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lesper@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "lesper@diputados.gob.ar",
       "gender": "female",
       "id": "61f763b0-c462-4de5-92f9-279461ce5eb4",
       "identifiers": [
@@ -5358,19 +4790,10 @@
       "birth_date": "1970-12-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mlousteau@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "GugaLusto"
         }
       ],
-      "email": "mlousteau@diputados.gob.ar",
       "gender": "male",
       "given_name": "Martín",
       "id": "645aa6e6-7f78-4596-8bd1-2a0fd65b8ba7",
@@ -5466,17 +4889,6 @@
       "sort_name": "Troiano, Gabriela Alejandra"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ggiannettasio@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "ggiannettasio@diputados.gob.ar",
       "gender": "female",
       "id": "64b05414-9e8a-40b5-8e8e-bd985133bf71",
       "identifiers": [
@@ -5681,17 +5093,6 @@
       "sort_name": "Navarro, Graciela"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jgonzalez@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jgonzalez@diputados.gob.ar",
       "gender": "male",
       "id": "6aafcb5b-4fb4-4adf-9d2e-2acc4a4d38c2",
       "identifiers": [
@@ -5734,17 +5135,6 @@
       "sort_name": "Olivares, Hector Enrique"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rpradines@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "rpradines@diputados.gob.ar",
       "gender": "male",
       "id": "6b68e9b0-ad48-4a4e-b8df-4bff6938d5cb",
       "identifiers": [
@@ -5763,17 +5153,6 @@
       "sort_name": "PRADINES, ROBERTO ARTURO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fperalta@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "fperalta@diputados.gob.ar",
       "gender": "male",
       "id": "6b7899f0-a8d7-4a6d-9e40-fb6caf461ebb",
       "identifiers": [
@@ -5883,17 +5262,6 @@
       "sort_name": "Lavagna, Marco"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aruiz@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "aruiz@diputados.gob.ar",
       "gender": "female",
       "id": "6de8eb6f-0eab-4e4b-86ea-b227296f9121",
       "identifiers": [
@@ -5946,17 +5314,6 @@
       "sort_name": "Roquel, Hector Alberto"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mzamarreno@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mzamarreno@diputados.gob.ar",
       "gender": "female",
       "id": "6f39fe02-ff77-4fac-b284-58daed49661c",
       "identifiers": [
@@ -6024,17 +5381,6 @@
       "sort_name": "Ciciliani, Alicia Mabel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aperroni@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "aperroni@diputados.gob.ar",
       "gender": "female",
       "id": "6fd9a439-faa1-4712-b5ca-626372d6e147",
       "identifiers": [
@@ -6056,19 +5402,10 @@
       "birth_date": "1965-07-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jcano@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "JCanoOK"
         }
       ],
-      "email": "jcano@diputados.gob.ar",
       "gender": "male",
       "given_name": "José",
       "id": "709e7b2d-b30a-44a0-97f8-5d29ad0e9b66",
@@ -6123,17 +5460,6 @@
       "sort_name": "CANO, JOSE MANUEL"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "apasini@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "apasini@diputados.gob.ar",
       "gender": "male",
       "id": "70e828cd-488e-45e3-9b0b-983f7b23ca08",
       "identifiers": [
@@ -6285,17 +5611,6 @@
       "sort_name": "Donda Perez, Victoria Analia"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mdalessandro@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mdalessandro@diputados.gob.ar",
       "gender": "male",
       "given_name": "Marcelo",
       "id": "73ebd5bd-35f4-41ad-af14-0518e498e16a",
@@ -6384,19 +5699,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "afernandezs@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "afernandezk"
         }
       ],
-      "email": "afernandezs@diputados.gob.ar",
       "gender": "female",
       "id": "749515b3-723b-4001-9c12-be7bd669961e",
       "identifiers": [
@@ -6430,17 +5736,6 @@
       "sort_name": "FERNANDEZ SAGASTI, ANABEL"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jtineo@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jtineo@diputados.gob.ar",
       "gender": "male",
       "id": "74fcde43-d2e1-4ec9-a1b0-f2399d5be423",
       "identifiers": [
@@ -6482,19 +5777,10 @@
       "birth_date": "1955-04-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jcobos@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "juliocobos"
         }
       ],
-      "email": "jcobos@diputados.gob.ar",
       "family_name": "Cobos",
       "gender": "male",
       "given_name": "Julio",
@@ -7155,19 +6441,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "jpais@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "juanmariopais"
         }
       ],
-      "email": "jpais@diputados.gob.ar",
       "gender": "male",
       "id": "7c600394-ad92-4f95-998b-22984b5aeda6",
       "identifiers": [
@@ -7223,19 +6500,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "jdominguez@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "DominguezJul"
         }
       ],
-      "email": "jdominguez@diputados.gob.ar",
       "gender": "male",
       "id": "7dbd926d-50a3-4d99-bb72-644e0b9d2558",
       "identifiers": [
@@ -7356,17 +6624,6 @@
       "sort_name": "Grandinetti, Alejandro Ariel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "omartinez@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "omartinez@diputados.gob.ar",
       "gender": "male",
       "id": "7ed084ef-6d44-4185-aa60-8d71997fbd0a",
       "identifiers": [
@@ -7385,17 +6642,6 @@
       "sort_name": "MARTINEZ, OSCAR ARIEL"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "adato@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "adato@diputados.gob.ar",
       "gender": "male",
       "id": "7f9b59a9-4bd4-40d6-80bd-0374ef39a047",
       "identifiers": [
@@ -7543,17 +6789,6 @@
       "sort_name": "Barletta, Mario Domingo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jdiaz@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jdiaz@diputados.gob.ar",
       "gender": "male",
       "id": "81d6c824-49a3-4448-8805-c51092b29caf",
       "identifiers": [
@@ -7683,17 +6918,6 @@
       "sort_name": "Kicillof, Axel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cgdansky@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "cgdansky@diputados.gob.ar",
       "gender": "male",
       "id": "83b75ce2-20c9-4cc7-bb23-ed9a2098f1c0",
       "identifiers": [
@@ -7736,17 +6960,6 @@
       "sort_name": "Isa, Evita Nelida"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ssimoncini@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "ssimoncini@diputados.gob.ar",
       "gender": "female",
       "id": "83c2e244-0a65-4dcc-a74c-9d4b947e1d95",
       "identifiers": [
@@ -7766,17 +6979,6 @@
     },
     {
       "birth_date": "1969-05-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vmagario@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "vmagario@diputados.gob.ar",
       "gender": "female",
       "given_name": "Verónica",
       "id": "83fe0ec6-0987-4233-873b-a9cb2fa4c0bd",
@@ -7841,17 +7043,6 @@
     },
     {
       "birth_date": "1964-03-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rgiustozzi@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "rgiustozzi@diputados.gob.ar",
       "gender": "male",
       "given_name": "Darío",
       "id": "85b75db8-b83a-421b-a680-964e76696036",
@@ -7891,17 +7082,6 @@
       "sort_name": "GIUSTOZZI, RUBEN DARIO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aarregui@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "aarregui@diputados.gob.ar",
       "gender": "male",
       "id": "85ef0154-9ed4-4122-a9ac-d95cf18f058c",
       "identifiers": [
@@ -7986,19 +7166,10 @@
       "birth_date": "1955-12-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fpinedo@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "PinedoFederico"
         }
       ],
-      "email": "fpinedo@diputados.gob.ar",
       "gender": "male",
       "given_name": "Federico",
       "id": "89fa6f06-dac0-4f7d-ab06-756b5d7f20a6",
@@ -8157,17 +7328,6 @@
       "sort_name": "Villalonga, Juan Carlos"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "laguilar@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "laguilar@diputados.gob.ar",
       "gender": "male",
       "id": "8b80d8ab-3050-4434-b216-f857bb46fba4",
       "identifiers": [
@@ -8249,17 +7409,6 @@
       "sort_name": "Argumedo, Alcira Susana"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mcarrillo@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mcarrillo@diputados.gob.ar",
       "gender": "female",
       "id": "8c3a9aab-940a-4c79-b822-c5b6e229f163",
       "identifiers": [
@@ -8308,17 +7457,6 @@
       "sort_name": "Dominguez, Ramon Alfredo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ibromberg@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "ibromberg@diputados.gob.ar",
       "gender": "male",
       "id": "8d8c58af-1ab8-4d68-92c3-810e094b332a",
       "identifiers": [
@@ -8391,19 +7529,10 @@
       "birth_date": "1971-09-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "aperez@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "adrianperezARG"
         }
       ],
-      "email": "aperez@diputados.gob.ar",
       "gender": "male",
       "given_name": "José",
       "id": "8efb1e0e-8454-4c6b-9f87-0d4fef875fd2",
@@ -8574,19 +7703,10 @@
       "birth_date": "1953-09-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fdenarvaez@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "denarvaez"
         }
       ],
-      "email": "fdenarvaez@diputados.gob.ar",
       "gender": "male",
       "given_name": "Francisco",
       "id": "9104f510-fb83-43f0-b5f5-e158cd0208a1",
@@ -8869,19 +7989,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "dgiacomino@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "dgiacomino"
         }
       ],
-      "email": "dgiacomino@diputados.gob.ar",
       "gender": "male",
       "id": "9496c45f-4023-4c1d-954e-acdfbdab4b8e",
       "identifiers": [
@@ -8915,17 +8026,6 @@
       "sort_name": "GIACOMINO, DANIEL OSCAR"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jcejas@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jcejas@diputados.gob.ar",
       "gender": "male",
       "id": "94eee8c6-bb38-4d61-890b-b628f2fa2aee",
       "identifiers": [
@@ -9014,19 +8114,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "operotti@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "omarperotti"
         }
       ],
-      "email": "operotti@diputados.gob.ar",
       "gender": "male",
       "id": "95446ba3-a958-498b-8854-ec771fbc5ce1",
       "identifiers": [
@@ -9141,17 +8232,6 @@
       "sort_name": "Mendoza, Sandra Marcela"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gbellocq@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "gbellocq@diputados.gob.ar",
       "gender": "male",
       "given_name": "Gerardo",
       "id": "95e2ba4f-42eb-4139-81d1-91af77f3c636",
@@ -9227,17 +8307,6 @@
       "sort_name": "Carlotto, Remo Gerardo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rsciutto@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "rsciutto@diputados.gob.ar",
       "gender": "male",
       "id": "99b4d626-621d-4b14-b6e5-97203b885b7f",
       "identifiers": [
@@ -9286,19 +8355,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "moporto@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "oportomario"
         }
       ],
-      "email": "moporto@diputados.gob.ar",
       "gender": "male",
       "id": "9a8a9dac-e0d1-4870-81bd-56a4a8ffeeb9",
       "identifiers": [
@@ -9479,17 +8539,6 @@
       "sort_name": "Rodriguez, Rodrigo Martin"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "esantin@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "esantin@diputados.gob.ar",
       "gender": "male",
       "id": "a13cf5f6-9d21-4a88-a88a-775a1f965f1b",
       "identifiers": [
@@ -9612,17 +8661,6 @@
       "sort_name": "Binner, Hermes Juan"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gherrera@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "gherrera@diputados.gob.ar",
       "gender": "female",
       "id": "a19106cc-e05b-4c34-90c4-fc5d32e70258",
       "identifiers": [
@@ -9820,19 +8858,10 @@
       "birth_date": "1962-03-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jmartinez@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "JulioMartinezLR"
         }
       ],
-      "email": "jmartinez@diputados.gob.ar",
       "gender": "male",
       "given_name": "Julio",
       "id": "a28192bc-2930-4e15-8de0-8febf3695cc9",
@@ -10018,19 +9047,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "rfeletti@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "RobertoFeletti"
         }
       ],
-      "email": "rfeletti@diputados.gob.ar",
       "gender": "male",
       "id": "a8ec7835-a1e5-45d6-ac5f-6f633ec18add",
       "identifiers": [
@@ -10133,17 +9153,6 @@
       "sort_name": "Oliva, Cristian Rodolfo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jmarcopulos@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jmarcopulos@diputados.gob.ar",
       "gender": "male",
       "id": "ac107c34-3402-456b-9f98-d422a1009957",
       "identifiers": [
@@ -10220,19 +9229,10 @@
       "birth_date": "1958-11-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "smajdalani@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "silmajdalani"
         }
       ],
-      "email": "smajdalani@diputados.gob.ar",
       "gender": "female",
       "given_name": "Silvia",
       "id": "adf9a834-4546-47d0-80e9-5b7672849c5a",
@@ -10403,18 +9403,7 @@
       "sort_name": "Di Tullio, Juliana"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ecastrom@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
       "death_date": "2016-05-24",
-      "email": "ecastrom@diputados.gob.ar",
       "gender": "male",
       "given_name": "Enrique",
       "id": "b3804af9-e0f1-4091-8889-bd48c3d3a004",
@@ -10511,17 +9500,6 @@
     },
     {
       "birth_date": "1971-11-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pjavkin@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "pjavkin@diputados.gob.ar",
       "gender": "male",
       "given_name": "Pablo",
       "id": "b4b74550-1f99-4a36-a4b2-767eeee78b4a",
@@ -10561,17 +9539,6 @@
       "sort_name": "JAVKIN, PABLO LAUTARO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lsacca@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "lsacca@diputados.gob.ar",
       "gender": "male",
       "id": "b6318fbf-c6fa-4ed0-be01-eab8a872898a",
       "identifiers": [
@@ -10614,17 +9581,6 @@
       "sort_name": "Bernabey, Ramon Ernesto"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "asegarra@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "asegarra@diputados.gob.ar",
       "gender": "female",
       "id": "b882751f-4014-4f6f-b3cf-e0a5d6d3c605",
       "identifiers": [
@@ -10851,17 +9807,6 @@
       "sort_name": "Brizuela Del Moral, Eduardo Segundo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "erasino@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "erasino@diputados.gob.ar",
       "gender": "female",
       "id": "ba67b2f0-688c-40c0-8cf6-bd39e4a0a633",
       "identifiers": [
@@ -10917,17 +9862,6 @@
       "sort_name": "Pastoriza, Mirta Ameliana"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jvalinotto@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jvalinotto@diputados.gob.ar",
       "gender": "male",
       "id": "bc30ddea-77ce-4146-8ea8-8fc3f37f4480",
       "identifiers": [
@@ -10949,19 +9883,10 @@
       "birth_date": "1976-03-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "hpietragallac@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "pietragallahora"
         }
       ],
-      "email": "hpietragallac@diputados.gob.ar",
       "gender": "male",
       "given_name": "Horacio",
       "id": "bd135a73-08e5-42cb-80a5-55650a2bbfc1",
@@ -11174,19 +10099,10 @@
       "birth_date": "1962-11-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rburyaile@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "BuryaileRicardo"
         }
       ],
-      "email": "rburyaile@diputados.gob.ar",
       "gender": "male",
       "given_name": "Ricardo",
       "id": "bf86865e-d3f1-4282-910e-379246ec845b",
@@ -11251,17 +10167,6 @@
       "sort_name": "Depetri, Edgardo Fernando"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "oduclos@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "oduclos@diputados.gob.ar",
       "gender": "male",
       "id": "bfcd609c-071c-4718-87f9-f7e63cd687a9",
       "identifiers": [
@@ -11280,17 +10185,6 @@
       "sort_name": "DUCLOS, OMAR ARNALDO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aasseff@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "aasseff@diputados.gob.ar",
       "gender": "male",
       "id": "c00dc619-1923-4f5d-b672-cc4ffaafba02",
       "identifiers": [
@@ -11442,17 +10336,6 @@
       "sort_name": "Scaglia, Gisela"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mmolina@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mmolina@diputados.gob.ar",
       "gender": "male",
       "id": "c34db481-859d-4136-9b24-4a9dad6db050",
       "identifiers": [
@@ -11471,17 +10354,6 @@
       "sort_name": "MOLINA, MANUEL ISAURO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vmaldonado@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "vmaldonado@diputados.gob.ar",
       "gender": "male",
       "id": "c3a5f440-3781-4b83-9a6c-aa503f2dea78",
       "identifiers": [
@@ -11629,17 +10501,6 @@
       "sort_name": "Vera Gonzalez, Orieta Cecilia"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "acomelli@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "acomelli@diputados.gob.ar",
       "gender": "female",
       "id": "c6980f10-771b-4243-88a1-61c0c781e714",
       "identifiers": [
@@ -11827,19 +10688,10 @@
       "birth_date": "1980-02-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ndelcano@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "NicolasdelCano"
         }
       ],
-      "email": "ndelcano@diputados.gob.ar",
       "gender": "male",
       "given_name": "Nicolás",
       "id": "cad8d9f3-5eb5-4a88-a25b-ee3aa3cba8af",
@@ -12029,17 +10881,6 @@
       "sort_name": "Britez, Maria Cristina"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vsosacapurro@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "vsosacapurro@diputados.gob.ar",
       "gender": "female",
       "given_name": "Victoria",
       "id": "cf7aea0c-fbb6-4db1-9c62-76b537d90039",
@@ -12236,17 +11077,6 @@
       "sort_name": "Larroque, Andres"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emuller@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "emuller@diputados.gob.ar",
       "gender": "male",
       "id": "d4a8cc82-8d9e-42df-97cc-3aa0c9e91bd8",
       "identifiers": [
@@ -12267,19 +11097,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "rcortina@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "DipRoyCortina"
         }
       ],
-      "email": "rcortina@diputados.gob.ar",
       "gender": "male",
       "id": "d4d0b2c0-cdd9-4ccb-8e3e-20925e5da214",
       "identifiers": [
@@ -12309,19 +11130,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "craimundi@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "carlosraimundi"
         }
       ],
-      "email": "craimundi@diputados.gob.ar",
       "gender": "male",
       "id": "d5124107-e55c-4cf3-adf2-67ee77e5948c",
       "identifiers": [
@@ -12485,19 +11297,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "rcuccovillo@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        },
-        {
           "type": "twitter",
           "value": "rcuccovillo"
         }
       ],
-      "email": "rcuccovillo@diputados.gob.ar",
       "gender": "male",
       "id": "d5d986a5-2924-4c54-a2b7-3d98d9ff34e2",
       "identifiers": [
@@ -12573,17 +11376,6 @@
       "sort_name": "Perez, Raul Joaquin"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mmetaza@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mmetaza@diputados.gob.ar",
       "gender": "male",
       "id": "d7274e8a-8e89-43bf-9f06-de5becf33674",
       "identifiers": [
@@ -12602,17 +11394,6 @@
       "sort_name": "METAZA, MARIO ALFREDO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vlinares@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "vlinares@diputados.gob.ar",
       "gender": "female",
       "id": "d74c72be-a2ed-4fd0-9c40-0099d7fdfc3a",
       "identifiers": [
@@ -12749,17 +11530,6 @@
     },
     {
       "birth_date": "1973-04-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cgribaudo@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "cgribaudo@diputados.gob.ar",
       "gender": "male",
       "given_name": "Christian",
       "id": "d8c19f8f-f7ce-4369-8794-73d42ecc6d5e",
@@ -12907,17 +11677,6 @@
       "sort_name": "De Mendiguren, Jose Ignacio"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cdonkin@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "cdonkin@diputados.gob.ar",
       "gender": "male",
       "id": "e087bb29-8dee-41c8-a064-86d5beb70edd",
       "identifiers": [
@@ -13016,17 +11775,6 @@
       "sort_name": "Gayol, Yanina Celeste"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "oredczuk@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "oredczuk@diputados.gob.ar",
       "gender": "male",
       "id": "e15331d6-9459-47c8-aa98-9a5aee6c9690",
       "identifiers": [
@@ -13045,17 +11793,6 @@
       "sort_name": "REDCZUK, OSCAR FELIPE"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jvilla@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jvilla@diputados.gob.ar",
       "gender": "male",
       "id": "e2e5f915-dcef-4729-937c-d224319d50ef",
       "identifiers": [
@@ -13074,17 +11811,6 @@
       "sort_name": "VILLA, JOSE ANTONIO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mbrawer@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mbrawer@diputados.gob.ar",
       "gender": "female",
       "id": "e4de724f-0b43-423b-85b8-b1e3ff83ecc9",
       "identifiers": [
@@ -13230,17 +11956,6 @@
       "sort_name": "Di Stefano, Daniel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rpucheta@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "rpucheta@diputados.gob.ar",
       "gender": "female",
       "id": "e876cce8-7cf1-47b7-bde3-40409749ee4b",
       "identifiers": [
@@ -13259,17 +11974,6 @@
       "sort_name": "PUCHETA, RAMONA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mbianchi@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "mbianchi@diputados.gob.ar",
       "gender": "female",
       "id": "e97a06b4-1c10-4242-a029-9ca7ad929371",
       "identifiers": [
@@ -13289,17 +11993,6 @@
     },
     {
       "birth_date": "1968-03-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cmacallister@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "cmacallister@diputados.gob.ar",
       "gender": "male",
       "given_name": "Carlos",
       "id": "e9cac585-aa7b-45b9-a5f0-a5f6b01942fa",
@@ -13646,17 +12339,6 @@
       "sort_name": "Martinez, Norman Dario"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jmongelo@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jmongelo@diputados.gob.ar",
       "gender": "male",
       "id": "ec3969bb-5d0b-4786-897f-a273c1bae061",
       "identifiers": [
@@ -13927,17 +12609,6 @@
       "sort_name": "Herrera, Luis Beder"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gvillata@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "gvillata@diputados.gob.ar",
       "gender": "female",
       "id": "f1162431-165e-45a1-bed0-233ac8bcceaf",
       "identifiers": [
@@ -14286,17 +12957,6 @@
       "sort_name": "Morales, Mariana Elizabet"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rrivarola@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "rrivarola@diputados.gob.ar",
       "gender": "male",
       "id": "f8d47178-49db-4f4d-ba6f-657d13c20947",
       "identifiers": [
@@ -14402,17 +13062,6 @@
       "sort_name": "Carrizo, Nilda Mabel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jgagliardi@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "jgagliardi@diputados.gob.ar",
       "gender": "male",
       "id": "fabd119b-39f4-43bf-a09a-efd220530b99",
       "identifiers": [
@@ -14520,17 +13169,6 @@
       "sort_name": "Bazze, Miguel Angel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "apuiggros@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "apuiggros@diputados.gob.ar",
       "gender": "female",
       "id": "fc6bcdfe-494e-4898-a019-311f35c3a149",
       "identifiers": [
@@ -14549,17 +13187,6 @@
       "sort_name": "PUIGGROS, ADRIANA VICTORIA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ariestra@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "ariestra@diputados.gob.ar",
       "gender": "male",
       "id": "fc8e03ad-9d4a-462b-9566-7fb42df02a0a",
       "identifiers": [
@@ -14578,17 +13205,6 @@
       "sort_name": "RIESTRA, ANTONIO SABINO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vgonzalez@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "vgonzalez@diputados.gob.ar",
       "gender": "female",
       "id": "fde81124-603a-4777-8351-88a81bad6c30",
       "identifiers": [
@@ -14637,17 +13253,6 @@
       "sort_name": "Castro, Sandra Daniela"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "junac@diputados.gob.ar"
-        },
-        {
-          "type": "phone",
-          "value": "4127-7100"
-        }
-      ],
-      "email": "junac@diputados.gob.ar",
       "gender": "male",
       "id": "ff4de561-a2aa-4cfa-b217-005f14e8a32d",
       "identifiers": [
