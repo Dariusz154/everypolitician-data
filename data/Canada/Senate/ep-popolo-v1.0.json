@@ -776,23 +776,10 @@
       "birth_date": "1948-04-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "daniel.lang@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-947-4049"
-        },
-        {
-          "type": "phone",
-          "value": "613-947-4050"
-        },
-        {
           "type": "twitter",
           "value": "SenatorLang"
         }
       ],
-      "email": "daniel.lang@sen.parl.gc.ca",
       "family_name": "Lang",
       "gender": "male",
       "given_name": "Daniel",
@@ -965,23 +952,10 @@
       "birth_date": "1942-11-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "kelvin.ogilvie@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-992-0334"
-        },
-        {
-          "type": "phone",
-          "value": "613-992-0331"
-        },
-        {
           "type": "twitter",
           "value": "KelvinKOgilvie"
         }
       ],
-      "email": "kelvin.ogilvie@sen.parl.gc.ca",
       "gender": "male",
       "given_name": "Kelvin",
       "id": "33eaf177-ddd6-430e-9565-ed269050842d",
@@ -1185,21 +1159,6 @@
     },
     {
       "birth_date": "1943-12-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "colin.kenny@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-996-3737"
-        },
-        {
-          "type": "phone",
-          "value": "613-996-2877"
-        }
-      ],
-      "email": "colin.kenny@sen.parl.gc.ca",
       "family_name": "Kenny",
       "gender": "male",
       "given_name": "Colin",
@@ -1264,23 +1223,10 @@
       "birth_date": "1942-09-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "elizabeth.hubley@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-992-1516"
-        },
-        {
-          "type": "phone",
-          "value": "613-992-1177"
-        },
-        {
           "type": "twitter",
           "value": "SenLibbeHubley"
         }
       ],
-      "email": "elizabeth.hubley@sen.parl.gc.ca",
       "gender": "female",
       "id": "480390f5-a298-40b6-b2ca-f2db71c7028e",
       "identifiers": [
@@ -3193,23 +3139,10 @@
       "birth_date": "1943-05-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nancy.raine@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-947-4054"
-        },
-        {
-          "type": "phone",
-          "value": "613-947-4052"
-        },
-        {
           "type": "twitter",
           "value": "SenNGreeneRaine"
         }
       ],
-      "email": "nancy.raine@sen.parl.gc.ca",
       "family_name": "Greene",
       "gender": "female",
       "given_name": "Nancy",
@@ -3617,21 +3550,6 @@
     },
     {
       "birth_date": "1947-07-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "claudette.tardif@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-947-3609"
-        },
-        {
-          "type": "phone",
-          "value": "613-947-3589"
-        }
-      ],
-      "email": "claudette.tardif@sen.parl.gc.ca",
       "gender": "female",
       "given_name": "Claudette",
       "id": "8edfff7d-12fc-4134-8326-c5f411fe53a5",
@@ -4227,21 +4145,6 @@
     },
     {
       "birth_date": "1942-08-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bob.runciman@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-943-4022"
-        },
-        {
-          "type": "phone",
-          "value": "613-943-4020"
-        }
-      ],
-      "email": "bob.runciman@sen.parl.gc.ca",
       "gender": "male",
       "given_name": "Bob",
       "id": "aab90a57-c46a-4239-88b9-b6d2bb13740b",
@@ -4276,21 +4179,6 @@
     },
     {
       "birth_date": "1944-10-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "joan.fraser@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-943-9558"
-        },
-        {
-          "type": "phone",
-          "value": "613-943-9556"
-        }
-      ],
-      "email": "joan.fraser@sen.parl.gc.ca",
       "gender": "female",
       "given_name": "Joan",
       "id": "ab3a5fd7-7910-4f0c-8d54-b002f3216862",
@@ -4546,21 +4434,6 @@
     },
     {
       "birth_date": "1944-06-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "charlie.watt@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-990-5453"
-        },
-        {
-          "type": "phone",
-          "value": "613-992-2981"
-        }
-      ],
-      "email": "charlie.watt@sen.parl.gc.ca",
       "gender": "male",
       "given_name": "Charlie",
       "id": "afd5197f-c79f-472b-8ad9-c8f0a90cfd48",
@@ -4837,21 +4710,6 @@
     },
     {
       "birth_date": "1943-08-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anne.cools@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-992-8513"
-        },
-        {
-          "type": "phone",
-          "value": "613-992-2808"
-        }
-      ],
-      "email": "anne.cools@sen.parl.gc.ca",
       "family_name": "Cools",
       "gender": "female",
       "given_name": "Anne",
@@ -4904,23 +4762,10 @@
       "birth_date": "1943-08-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "betty.unger@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-996-7407"
-        },
-        {
-          "type": "phone",
-          "value": "613-996-7420"
-        },
-        {
           "type": "twitter",
           "value": "BettyUngerAB"
         }
       ],
-      "email": "betty.unger@sen.parl.gc.ca",
       "gender": "female",
       "given_name": "Betty",
       "id": "bca9766a-32f2-4bbb-bb5e-9905832bbc5c",
@@ -5325,23 +5170,10 @@
       "birth_date": "1943-11-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sibnic@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-943-7792"
-        },
-        {
-          "type": "phone",
-          "value": "613-943-7790"
-        },
-        {
           "type": "twitter",
           "value": "SenatorNickS"
         }
       ],
-      "email": "sibnic@sen.parl.gc.ca",
       "gender": "male",
       "given_name": "Nick",
       "id": "d25424a0-3d63-4102-b94b-bbbc49dde250",
@@ -5521,21 +5353,6 @@
     },
     {
       "birth_date": "1942-09-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "george.baker@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-947-1525"
-        },
-        {
-          "type": "phone",
-          "value": "613-947-2517"
-        }
-      ],
-      "email": "george.baker@sen.parl.gc.ca",
       "family_name": "Baker",
       "gender": "male",
       "given_name": "George",
@@ -5687,22 +5504,7 @@
     },
     {
       "birth_date": "1955-12-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tobias.enverga@sen.parl.gc.ca"
-        },
-        {
-          "type": "fax",
-          "value": "613-943-1938"
-        },
-        {
-          "type": "phone",
-          "value": "613-943-1945"
-        }
-      ],
       "death_date": "2017-11-16",
-      "email": "tobias.enverga@sen.parl.gc.ca",
       "gender": "male",
       "given_name": "Tobias",
       "id": "dbf13155-23c3-4bb6-a34d-173bd9b8daca",
