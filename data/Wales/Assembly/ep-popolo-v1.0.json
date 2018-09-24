@@ -156,15 +156,10 @@
       "birth_date": "1957-08-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Leighton.Andrews@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "leightonandrews"
         }
       ],
-      "email": "Leighton.Andrews@assembly.wales",
       "family_name": "Andrews",
       "gender": "male",
       "given_name": "Leighton",
@@ -433,15 +428,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "Gwyn.Price@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "GwynRPrice"
         }
       ],
-      "email": "Gwyn.Price@assembly.wales",
       "family_name": "Price",
       "gender": "male",
       "given_name": "Gwyn",
@@ -586,15 +576,10 @@
       "birth_date": "1956-04-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Christine.Chapman@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "ChrisChapmanAM"
         }
       ],
-      "email": "Christine.Chapman@assembly.wales",
       "family_name": "Chapman",
       "gender": "female",
       "given_name": "Christine",
@@ -2046,15 +2031,10 @@
       "birth_date": "1959-06-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jocelyn.Davies@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "parkgirl59"
         }
       ],
-      "email": "Jocelyn.Davies@assembly.wales",
       "family_name": "Davies",
       "gender": "female",
       "given_name": "Jocelyn",
@@ -3262,15 +3242,10 @@
       "birth_date": "1948-06-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jeff.Cuthbert@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "JeffCuthbert"
         }
       ],
-      "email": "Jeff.Cuthbert@assembly.wales",
       "family_name": "Cuthbert",
       "gender": "male",
       "given_name": "Jeffrey",
@@ -3519,13 +3494,6 @@
     },
     {
       "birth_date": "1957-04-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Edwina.Hart@assembly.wales"
-        }
-      ],
-      "email": "Edwina.Hart@assembly.wales",
       "family_name": "Hart",
       "gender": "female",
       "given_name": "Edwina",
@@ -4148,10 +4116,6 @@
       "birth_date": "1968",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Carl.Sargeant@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "carlsargeant1"
         },
@@ -4161,7 +4125,6 @@
         }
       ],
       "death_date": "2017-11-07",
-      "email": "Carl.Sargeant@assembly.wales",
       "family_name": "Sargeant",
       "gender": "male",
       "given_name": "Carl",
@@ -4374,15 +4337,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "Neil.McEvoy@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "NeilJMcEvoy"
         }
       ],
-      "email": "Neil.McEvoy@assembly.wales",
       "family_name": "McEvoy",
       "gender": "male",
       "given_name": "Neil",
@@ -4908,15 +4866,10 @@
       "birth_date": "1960-01-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Peter.Black@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "peterblackwales"
         }
       ],
-      "email": "Peter.Black@assembly.wales",
       "family_name": "Black",
       "gender": "male",
       "given_name": "Peter",
@@ -5201,13 +5154,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Altaf.Hussain@Assembly.wales"
-        }
-      ],
-      "email": "Altaf.Hussain@Assembly.wales",
       "family_name": "Hussain",
       "gender": "male",
       "given_name": "Altaf",
@@ -5251,13 +5197,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Janet.Haworth@Assembly.Wales"
-        }
-      ],
-      "email": "Janet.Haworth@Assembly.Wales",
       "family_name": "Haworth",
       "gender": "female",
       "given_name": "Janet",
@@ -5815,15 +5754,10 @@
       "birth_date": "1964-01-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Huw.Lewis@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "huwlewis"
         }
       ],
-      "email": "Huw.Lewis@assembly.wales",
       "family_name": "Lewis",
       "gender": "male",
       "given_name": "Huw",
@@ -6000,15 +5934,10 @@
       "birth_date": "1953-04-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Rhodri.Thomas@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "RhodriGlynPlaid"
         }
       ],
-      "email": "Rhodri.Thomas@assembly.wales",
       "family_name": "Thomas",
       "gender": "male",
       "given_name": "Rhodri",
@@ -6734,15 +6663,10 @@
       "birth_date": "1955-01-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Janice.Gregory@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "Janice4Ogmore"
         }
       ],
-      "email": "Janice.Gregory@assembly.wales",
       "family_name": "Gregory",
       "gender": "female",
       "given_name": "Janice",
@@ -7032,15 +6956,10 @@
       "birth_date": "1952-09-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Byron.Davies@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "Byron_Davies"
         }
       ],
-      "email": "Byron.Davies@assembly.wales",
       "family_name": "Davies",
       "gender": "male",
       "given_name": "Byron",
@@ -7098,10 +7017,6 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "Aled.Roberts@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "aledrobertsam"
         },
@@ -7110,7 +7025,6 @@
           "value": "AledRoberts2016"
         }
       ],
-      "email": "Aled.Roberts@assembly.wales",
       "family_name": "Roberts",
       "gender": "male",
       "given_name": "Aled",
@@ -7322,15 +7236,10 @@
       "birth_date": "1949-11-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "William.Graham@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "williamgrahamam"
         }
       ],
-      "email": "William.Graham@assembly.wales",
       "family_name": "Graham",
       "gender": "male",
       "given_name": "William",
@@ -7390,15 +7299,10 @@
       "birth_date": "1943-01-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Rosemary.Butler@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "RosemaryButler"
         }
       ],
-      "email": "Rosemary.Butler@assembly.wales",
       "family_name": "Butler",
       "gender": "female",
       "given_name": "Rosemary",
@@ -7789,15 +7693,10 @@
       "birth_date": "1949-10-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "AlunFfred.Jones@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "AlunFfredPlaid"
         }
       ],
-      "email": "AlunFfred.Jones@assembly.wales",
       "family_name": "Jones",
       "gender": "male",
       "given_name": "Alun",
@@ -8105,15 +8004,10 @@
       "birth_date": "1942-01-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Gwenda.Thomas@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "Gwendathomas"
         }
       ],
-      "email": "Gwenda.Thomas@assembly.wales",
       "family_name": "Thomas",
       "gender": "female",
       "given_name": "Gwenda",
@@ -8751,15 +8645,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "Lindsay.Whittle@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "Lindsay_Whittle"
         }
       ],
-      "email": "Lindsay.Whittle@assembly.wales",
       "family_name": "Whittle",
       "gender": "male",
       "given_name": "Lindsay",
@@ -8807,10 +8696,6 @@
       "birth_date": "1950-02-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Sandy.Mewies@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "SandyMewiesAM"
         },
@@ -8819,7 +8704,6 @@
           "value": "SandyMewies1"
         }
       ],
-      "email": "Sandy.Mewies@assembly.wales",
       "family_name": "Mewies",
       "gender": "female",
       "given_name": "Sandy",
@@ -9254,10 +9138,6 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "William.Powell@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "WilliamPowellAM"
         },
@@ -9266,7 +9146,6 @@
           "value": "WmPowell2016"
         }
       ],
-      "email": "William.Powell@assembly.wales",
       "family_name": "Powell",
       "gender": "male",
       "given_name": "William",
@@ -9409,15 +9288,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "Keith.Davies@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "KeithDaviesAC"
         }
       ],
-      "email": "Keith.Davies@assembly.wales",
       "family_name": "Davies",
       "gender": "male",
       "given_name": "Keith",
@@ -9513,10 +9387,6 @@
       "birth_date": "1974",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Eluned.Parrott@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "ElunedParrottAM"
         },
@@ -9525,7 +9395,6 @@
           "value": "Eluned_Parrott"
         }
       ],
-      "email": "Eluned.Parrott@assembly.wales",
       "family_name": "Parrott",
       "gender": "female",
       "given_name": "Eluned",
@@ -9589,15 +9458,10 @@
       "birth_date": "1969-02-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Antoinette.Sandbach@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "ASandbachMP"
         }
       ],
-      "email": "Antoinette.Sandbach@assembly.wales",
       "family_name": "Sandbach",
       "gender": "female",
       "given_name": "Antoinette",
