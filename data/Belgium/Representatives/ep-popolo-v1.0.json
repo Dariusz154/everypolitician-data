@@ -53,13 +53,6 @@
     },
     {
       "birth_date": "1967-03-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "isabelle.poncelet@lachambre.be"
-        }
-      ],
-      "email": "isabelle.poncelet@lachambre.be",
       "gender": "female",
       "given_name": "Isabelle",
       "id": "020c2db7-5622-4b86-96c4-c54392f92608",
@@ -328,15 +321,10 @@
       "birth_date": "1975-12-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "charles.michel@lachambre.be"
-        },
-        {
           "type": "twitter",
           "value": "CharlesMichel"
         }
       ],
-      "email": "charles.michel@lachambre.be",
       "family_name": "Michel",
       "gender": "male",
       "given_name": "Charles",
@@ -685,19 +673,10 @@
       "birth_date": "1976-01-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "zakia.khattabi@lachambre.be"
-        },
-        {
-          "type": "email",
-          "value": "zakia.khattabi@ecolo.be"
-        },
-        {
           "type": "twitter",
           "value": "zakiakhattabi"
         }
       ],
-      "email": "zakia.khattabi@lachambre.be",
       "gender": "female",
       "given_name": "Zakia",
       "id": "09b5ec9a-b3ee-4c10-a13a-d488a0b122f2",
@@ -1890,13 +1869,6 @@
     },
     {
       "birth_date": "1969-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ann.vanheste@dekamer.be"
-        }
-      ],
-      "email": "ann.vanheste@dekamer.be",
       "gender": "female",
       "given_name": "Ann",
       "id": "24572d80-3137-4f4c-95bd-0fc4838f0c2d",
@@ -2020,13 +1992,6 @@
     },
     {
       "birth_date": "1963-05-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mariechristine.marghem@lachambre.be"
-        }
-      ],
-      "email": "mariechristine.marghem@lachambre.be",
       "gender": "female",
       "given_name": "Marie-Christine",
       "id": "264ac99f-9d58-44c3-8ccc-c28c332f7587",
@@ -3018,15 +2983,10 @@
       "birth_date": "1975-11-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alexander.decroo@dekamer.be"
-        },
-        {
           "type": "twitter",
           "value": "alexanderdecroo"
         }
       ],
-      "email": "alexander.decroo@dekamer.be",
       "gender": "male",
       "given_name": "Alexander",
       "id": "44dce6ab-187a-47c6-aa3f-566024002976",
@@ -3419,13 +3379,6 @@
     },
     {
       "birth_date": "1955-08-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "andre.flahaut@lachambre.be"
-        }
-      ],
-      "email": "andre.flahaut@lachambre.be",
       "family_name": "Flahaut",
       "gender": "male",
       "given_name": "André",
@@ -3668,15 +3621,10 @@
       "birth_date": "1960-04-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jan.jambon@dekamer.be"
-        },
-        {
           "type": "twitter",
           "value": "janjambon"
         }
       ],
-      "email": "jan.jambon@dekamer.be",
       "gender": "male",
       "given_name": "Jan",
       "id": "4cfd354a-a86d-494c-b0ae-55c32aeb4b95",
@@ -4022,13 +3970,6 @@
     },
     {
       "birth_date": "1973-10-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "denis.ducarme@lachambre.be"
-        }
-      ],
-      "email": "denis.ducarme@lachambre.be",
       "gender": "male",
       "given_name": "Denis",
       "id": "5d5e9977-4db2-43f1-9a8d-8656d1907294",
@@ -4206,13 +4147,6 @@
     },
     {
       "birth_date": "1977-07-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sarah.claerhout@dekamer.be"
-        }
-      ],
-      "email": "sarah.claerhout@dekamer.be",
       "family_name": "Claerhout",
       "gender": "female",
       "given_name": "Sarah",
@@ -4462,15 +4396,10 @@
       "birth_date": "1958-08-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "didier.reynders@lachambre.be"
-        },
-        {
           "type": "twitter",
           "value": "dreynders"
         }
       ],
-      "email": "didier.reynders@lachambre.be",
       "gender": "male",
       "given_name": "Didier",
       "id": "6493010d-086d-4588-aedd-5f38c3691b9f",
@@ -4755,13 +4684,6 @@
     },
     {
       "birth_date": "1962-04-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maggie.deblock@dekamer.be"
-        }
-      ],
-      "email": "maggie.deblock@dekamer.be",
       "gender": "female",
       "given_name": "Maggie",
       "id": "69cf8dab-cf17-4b6b-89fa-51b61b7e9127",
@@ -4914,13 +4836,6 @@
     },
     {
       "birth_date": "1980-03-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zuhal.demir@dekamer.be"
-        }
-      ],
-      "email": "zuhal.demir@dekamer.be",
       "gender": "female",
       "given_name": "Zuhal",
       "id": "6ba58d06-eafd-41aa-81d7-3413161df9bf",
@@ -5027,13 +4942,6 @@
     },
     {
       "birth_date": "1973-12-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "celine.fremault@lachambre.be"
-        }
-      ],
-      "email": "celine.fremault@lachambre.be",
       "gender": "female",
       "given_name": "Céline",
       "id": "6d595791-42f2-43c0-9b55-7e56b169024d",
@@ -5166,13 +5074,6 @@
     },
     {
       "birth_date": "1977-09-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "melchior.wathelet@lachambre.be"
-        }
-      ],
-      "email": "melchior.wathelet@lachambre.be",
       "gender": "male",
       "given_name": "Melchior",
       "id": "6eb1f51c-e6f3-4c88-b702-117df7ecaf12",
@@ -5260,13 +5161,6 @@
     },
     {
       "birth_date": "1958-01-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "koen.geens@dekamer.be"
-        }
-      ],
-      "email": "koen.geens@dekamer.be",
       "gender": "male",
       "given_name": "Koen",
       "id": "70aeb834-3759-4d86-a757-ec33f5c357d1",
@@ -5527,13 +5421,6 @@
     },
     {
       "birth_date": "1955-07-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "johan.vandelanotte@dekamer.be"
-        }
-      ],
-      "email": "johan.vandelanotte@dekamer.be",
       "gender": "male",
       "given_name": "Johan",
       "id": "78a2d508-ebeb-4084-83fe-2890b13ba43d",
@@ -5656,13 +5543,6 @@
     },
     {
       "birth_date": "1952-10-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "daniel.bacquelaine@lachambre.be"
-        }
-      ],
-      "email": "daniel.bacquelaine@lachambre.be",
       "gender": "male",
       "given_name": "Daniel",
       "id": "79b83661-7630-475b-9de1-bb34b9b5e724",
@@ -8606,13 +8486,6 @@
     },
     {
       "birth_date": "1959-03-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "willy.demeyer@lachambre.be"
-        }
-      ],
-      "email": "willy.demeyer@lachambre.be",
       "family_name": "Demeyer",
       "gender": "male",
       "given_name": "Willy",
@@ -9522,13 +9395,6 @@
     },
     {
       "birth_date": "1967-03-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "steven.vandeput@dekamer.be"
-        }
-      ],
-      "email": "steven.vandeput@dekamer.be",
       "gender": "male",
       "given_name": "Steven",
       "id": "c5ad6753-a372-4093-9ec9-6e554c760cc8",
@@ -9850,13 +9716,6 @@
     },
     {
       "birth_date": "1962-07-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pieter.DeCrem@dekamer.be"
-        }
-      ],
-      "email": "pieter.DeCrem@dekamer.be",
       "gender": "male",
       "given_name": "Pieter",
       "id": "cbad1b7a-985b-49e5-8b2e-5ddbdf5e1f64",
@@ -10135,13 +9994,6 @@
     },
     {
       "birth_date": "1978-02-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "theo.francken@dekamer.be"
-        }
-      ],
-      "email": "theo.francken@dekamer.be",
       "gender": "male",
       "given_name": "Theo",
       "id": "d303762e-65f6-4258-98bc-b3c2ad76c562",
@@ -10230,13 +10082,6 @@
     },
     {
       "birth_date": "1975-01-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sophie.wilmes@lachambre.be"
-        }
-      ],
-      "email": "sophie.wilmes@lachambre.be",
       "gender": "female",
       "given_name": "Sophie",
       "id": "d4333f8f-4f3b-40a4-92e4-92c091c08fdf",
@@ -10371,13 +10216,6 @@
     },
     {
       "birth_date": "1963-06-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eric.massin@lachambre.be"
-        }
-      ],
-      "email": "eric.massin@lachambre.be",
       "gender": "male",
       "given_name": "Éric",
       "id": "d5fbbf2f-5284-4879-ac8d-aeb8050ea7e8",
@@ -10536,13 +10374,6 @@
     },
     {
       "birth_date": "1969-03-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "els.vanhoof@dekamer.be"
-        }
-      ],
-      "email": "els.vanhoof@dekamer.be",
       "gender": "female",
       "given_name": "Els",
       "id": "dfc4c345-63ec-4a75-887f-9df133f9b25e",
