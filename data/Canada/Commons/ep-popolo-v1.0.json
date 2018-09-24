@@ -199,13 +199,6 @@
     },
     {
       "birth_date": "1945-03-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Francine.Raynault@parl.gc.ca"
-        }
-      ],
-      "email": "Francine.Raynault@parl.gc.ca",
       "family_name": "RAYNAULT",
       "gender": "female",
       "given_name": "Francine",
@@ -250,15 +243,10 @@
       "birth_date": "1964-03-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rodney.weston@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "rodneywestonsj"
         }
       ],
-      "email": "rodney.weston@parl.gc.ca",
       "family_name": "WESTON",
       "gender": "male",
       "given_name": "Rodney",
@@ -1023,15 +1011,10 @@
       "birth_date": "1953-05-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "malcolm.allen@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "Malcolm_AllenMP"
         }
       ],
-      "email": "malcolm.allen@parl.gc.ca",
       "family_name": "ALLEN",
       "gender": "male",
       "given_name": "Malcolm, B.A.",
@@ -1190,13 +1173,6 @@
     },
     {
       "birth_date": "1950-07-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "leon.benoit@parl.gc.ca"
-        }
-      ],
-      "email": "leon.benoit@parl.gc.ca",
       "family_name": "BENOIT",
       "gender": "male",
       "given_name": "Leon Earl, B.Sc., P.Ag.",
@@ -1412,13 +1388,6 @@
     },
     {
       "birth_date": "1958-03-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gary.goodyear@parl.gc.ca"
-        }
-      ],
-      "email": "gary.goodyear@parl.gc.ca",
       "family_name": "GOODYEAR",
       "gender": "male",
       "given_name": "The Hon. Dr. Gary, P.C., D.C., F.C.C.S.S.",
@@ -1484,15 +1453,10 @@
       "birth_date": "1981-12-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Rathika.Sitsabaiesan@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RathikaS"
         }
       ],
-      "email": "Rathika.Sitsabaiesan@parl.gc.ca",
       "family_name": "SITSABAIESAN",
       "gender": "female",
       "given_name": "Rathika, B.Comm., M.I.R.",
@@ -1775,15 +1739,10 @@
       "birth_date": "1951-06-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Peggy.Nash@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "PeggyNashNDP"
         }
       ],
-      "email": "Peggy.Nash@parl.gc.ca",
       "family_name": "NASH",
       "gender": "female",
       "given_name": "Peggy, B.A.(Hons.)",
@@ -2193,15 +2152,10 @@
       "birth_date": "1952-02-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "John.Carmichael@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JohnBCarmichael"
         }
       ],
-      "email": "John.Carmichael@parl.gc.ca",
       "family_name": "CARMICHAEL",
       "gender": "male",
       "given_name": "John, B.A.",
@@ -2306,15 +2260,10 @@
       "birth_date": "1964-07-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "brent.rathgeber@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "brentrathgeber"
         }
       ],
-      "email": "brent.rathgeber@parl.gc.ca",
       "family_name": "RATHGEBER",
       "gender": "male",
       "given_name": "Brent, Q.C., B.A., LL.B.",
@@ -3116,15 +3065,10 @@
       "birth_date": "1957-08-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Robert.Chisholm@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RobertNDP"
         }
       ],
-      "email": "Robert.Chisholm@parl.gc.ca",
       "family_name": "CHISHOLM",
       "gender": "male",
       "given_name": "Robert, B.A., M.A.",
@@ -3198,15 +3142,10 @@
       "birth_date": "1988-12-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Eve.Peclet@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "evepeclet"
         }
       ],
-      "email": "Eve.Peclet@parl.gc.ca",
       "family_name": "PÉCLET",
       "gender": "female",
       "given_name": "Ève, LL.B.",
@@ -3269,15 +3208,10 @@
       "birth_date": "1963-01-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paul.dewar@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "PaulDewar"
         }
       ],
-      "email": "paul.dewar@parl.gc.ca",
       "family_name": "DEWAR",
       "gender": "male",
       "given_name": "Paul, B.A., B.Ed.",
@@ -3612,16 +3546,11 @@
       "birth_date": "1967-06-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Arnold.Chan@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "ArnoldChanLib"
         }
       ],
       "death_date": "2017-09-14",
-      "email": "Arnold.Chan@parl.gc.ca",
       "family_name": "Chan",
       "gender": "male",
       "given_name": "Arnold",
@@ -3746,15 +3675,10 @@
       "birth_date": "1964-01-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "peter.braid@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "peterbraid"
         }
       ],
-      "email": "peter.braid@parl.gc.ca",
       "family_name": "BRAID",
       "gender": "male",
       "given_name": "Peter, B.A.",
@@ -3820,15 +3744,10 @@
       "birth_date": "1965-09-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "peter.mackay@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MacKayCPC"
         }
       ],
-      "email": "peter.mackay@parl.gc.ca",
       "family_name": "MACKAY",
       "gender": "male",
       "given_name": "The Hon. Peter Gordon, P.C., Q.C., B.A., LL.B.",
@@ -4149,15 +4068,10 @@
       "birth_date": "1967-06-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "leona.aglukkaq@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "leonaaglukkaq"
         }
       ],
-      "email": "leona.aglukkaq@parl.gc.ca",
       "family_name": "AGLUKKAQ",
       "gender": "female",
       "given_name": "The Hon. Leona, P.C.",
@@ -4256,15 +4170,10 @@
       "birth_date": "1964-03-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Ted.Hsu@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "tedhsu"
         }
       ],
-      "email": "Ted.Hsu@parl.gc.ca",
       "family_name": "HSU",
       "gender": "male",
       "given_name": "Ted, B.Sc., Ph.D.",
@@ -4343,15 +4252,10 @@
       "birth_date": "1958-08-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "devinder.shory@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "NortheastShory"
         }
       ],
-      "email": "devinder.shory@parl.gc.ca",
       "family_name": "SHORY",
       "gender": "male",
       "given_name": "Devinder, LL.B.",
@@ -4423,15 +4327,10 @@
       "birth_date": "1962-01-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Andrew.Cash@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "Cash4TO"
         }
       ],
-      "email": "Andrew.Cash@parl.gc.ca",
       "family_name": "CASH",
       "gender": "male",
       "given_name": "Andrew",
@@ -4641,15 +4540,10 @@
       "birth_date": "1951-09-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "james.lunney@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "jameslunneymp"
         }
       ],
-      "email": "james.lunney@parl.gc.ca",
       "family_name": "LUNNEY",
       "gender": "male",
       "given_name": "Dr. James, B.Sc., D.C.",
@@ -4712,15 +4606,10 @@
       "birth_date": "1970-05-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "paul.calandra@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "PaulCalandra"
         }
       ],
-      "email": "paul.calandra@parl.gc.ca",
       "family_name": "CALANDRA",
       "gender": "male",
       "given_name": "Paul, B.A.",
@@ -4861,10 +4750,6 @@
       "birth_date": "1990-11-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Charmaine.Borg@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "cborgNPD"
         },
@@ -4873,7 +4758,6 @@
           "value": "mpcharmaineborg"
         }
       ],
-      "email": "Charmaine.Borg@parl.gc.ca",
       "family_name": "BORG",
       "gender": "female",
       "given_name": "Charmaine",
@@ -4941,15 +4825,10 @@
       "birth_date": "1970-08-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Kyle.Seeback@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "KyleSeeback"
         }
       ],
-      "email": "Kyle.Seeback@parl.gc.ca",
       "family_name": "SEEBACK",
       "gender": "male",
       "given_name": "Kyle, B.A., LL.B.",
@@ -5371,13 +5250,6 @@
     },
     {
       "birth_date": "1944-09-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "richard.harris@parl.gc.ca"
-        }
-      ],
-      "email": "richard.harris@parl.gc.ca",
       "family_name": "HARRIS",
       "gender": "male",
       "given_name": "Richard M.",
@@ -5494,15 +5366,10 @@
       "birth_date": "1967-05-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Brad.Butt@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "BradButtMP"
         }
       ],
-      "email": "Brad.Butt@parl.gc.ca",
       "family_name": "BUTT",
       "gender": "male",
       "given_name": "Brad",
@@ -5559,15 +5426,10 @@
       "birth_date": "1960-05-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Bal.Gosal@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "BalGosal"
         }
       ],
-      "email": "Bal.Gosal@parl.gc.ca",
       "family_name": "GOSAL",
       "gender": "male",
       "given_name": "The Hon. Bal, P.C., B.Sc.",
@@ -5712,15 +5574,10 @@
       "birth_date": "1949-02-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Corneliu.Chisu@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "cchisu"
         }
       ],
-      "email": "Corneliu.Chisu@parl.gc.ca",
       "family_name": "CHISU",
       "gender": "male",
       "given_name": "Corneliu, B.Eng., M.Eng.",
@@ -6298,15 +6155,10 @@
       "birth_date": "1957-01-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Robert.Goguen@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "robertrgoguen"
         }
       ],
-      "email": "Robert.Goguen@parl.gc.ca",
       "family_name": "GOGUEN",
       "gender": "male",
       "given_name": "Robert, Q.C., B.B.A, LL.B.",
@@ -6381,15 +6233,10 @@
       "birth_date": "1973-09-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "megan.leslie@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MeganLeslieMP"
         }
       ],
-      "email": "megan.leslie@parl.gc.ca",
       "family_name": "LESLIE",
       "gender": "female",
       "given_name": "Megan, B.A. (Hons.), LL.B.",
@@ -6467,15 +6314,10 @@
       "birth_date": "1985-12-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Dany.Morin@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "drdanymorin"
         }
       ],
-      "email": "Dany.Morin@parl.gc.ca",
       "family_name": "MORIN",
       "gender": "male",
       "given_name": "Dany, D.C.",
@@ -6543,15 +6385,10 @@
       "birth_date": "1954-10-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "thomas.mulcair@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "ThomasMulcair"
         }
       ],
-      "email": "thomas.mulcair@parl.gc.ca",
       "family_name": "Mulcair",
       "gender": "male",
       "given_name": "Thomas",
@@ -6860,15 +6697,10 @@
       "birth_date": "1961-08-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Ted.Opitz@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "TedOpitz"
         }
       ],
-      "email": "Ted.Opitz@parl.gc.ca",
       "family_name": "OPITZ",
       "gender": "male",
       "given_name": "Ted, B.A.",
@@ -7069,13 +6901,6 @@
     },
     {
       "birth_date": "1940-04-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Lise.St-Denis@parl.gc.ca"
-        }
-      ],
-      "email": "Lise.St-Denis@parl.gc.ca",
       "family_name": "ST-DENIS",
       "gender": "female",
       "given_name": "Lise, B.A., M.A., M.Ed.",
@@ -7793,15 +7618,10 @@
       "birth_date": "1970-08-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "james.rajotte@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JamesRajotte"
         }
       ],
-      "email": "james.rajotte@parl.gc.ca",
       "family_name": "RAJOTTE",
       "gender": "male",
       "given_name": "James, B.A.",
@@ -7882,15 +7702,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "Djaouida.Sellah@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "DSellahNPD"
         }
       ],
-      "email": "Djaouida.Sellah@parl.gc.ca",
       "family_name": "SELLAH",
       "gender": "female",
       "given_name": "Dr. Djaouida, M.D.",
@@ -7956,15 +7771,10 @@
       "birth_date": "1962-08-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "massimo.pacetti@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MountainManMP"
         }
       ],
-      "email": "massimo.pacetti@parl.gc.ca",
       "family_name": "PACETTI",
       "gender": "male",
       "given_name": "Massimo, B.Comm., F.C.G.A.",
@@ -8109,15 +7919,10 @@
       "birth_date": "1965-03-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Bernard.Trottier@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "btrottier"
         }
       ],
-      "email": "Bernard.Trottier@parl.gc.ca",
       "family_name": "TROTTIER",
       "gender": "male",
       "given_name": "Bernard, B.Sc. (Eng), MBA",
@@ -8410,15 +8215,10 @@
       "birth_date": "1962-06-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Paulina.Ayala@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "paulinaayalaNPD"
         }
       ],
-      "email": "Paulina.Ayala@parl.gc.ca",
       "family_name": "AYALA",
       "gender": "female",
       "given_name": "Paulina",
@@ -8482,15 +8282,10 @@
       "birth_date": "1955-12-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Joan.Crockatt@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "Crockatteer"
         }
       ],
-      "email": "Joan.Crockatt@parl.gc.ca",
       "family_name": "CROCKATT",
       "gender": "female",
       "given_name": "Joan, B.A.",
@@ -8573,15 +8368,10 @@
       "birth_date": "1942-08-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "julian.fantino@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JulianFantino"
         }
       ],
-      "email": "julian.fantino@parl.gc.ca",
       "family_name": "FANTINO",
       "gender": "male",
       "given_name": "The Hon. Julian, P.C., C.O.M., O. Ont.",
@@ -8666,10 +8456,6 @@
       "birth_date": "1959-09-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "David.Wilks@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "DavidJohnWilks"
         },
@@ -8678,7 +8464,6 @@
           "value": "electdavidwilks"
         }
       ],
-      "email": "David.Wilks@parl.gc.ca",
       "family_name": "WILKS",
       "gender": "male",
       "given_name": "David",
@@ -8786,15 +8571,10 @@
       "birth_date": "1954-01-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stephen.woodworth@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "WoodworthMP"
         }
       ],
-      "email": "stephen.woodworth@parl.gc.ca",
       "family_name": "WOODWORTH",
       "gender": "male",
       "given_name": "Stephen, LL.B.",
@@ -9247,16 +9027,11 @@
       "birth_date": "1960-08-31",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gord.brown@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "gordbrown"
         }
       ],
       "death_date": "2018-05-02",
-      "email": "gord.brown@parl.gc.ca",
       "family_name": "Brown",
       "gender": "male",
       "given_name": "Gord",
@@ -9345,10 +9120,6 @@
       "birth_date": "1950-04-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "john.mccallum@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JohnMcCallumLPC"
         },
@@ -9357,7 +9128,6 @@
           "value": "JohnMcCallumMP"
         }
       ],
-      "email": "john.mccallum@parl.gc.ca",
       "family_name": "MCCALLUM",
       "gender": "male",
       "given_name": "The Hon. John, P.C., B.A., Ph.D.",
@@ -9505,15 +9275,10 @@
       "birth_date": "1985-01-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Marie-Claude.Morin@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MC_Morin_NPD"
         }
       ],
-      "email": "Marie-Claude.Morin@parl.gc.ca",
       "family_name": "MORIN",
       "gender": "female",
       "given_name": "Marie-Claude",
@@ -9640,15 +9405,10 @@
       "birth_date": "1948-10-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jack.harris@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JackHarrisNDP"
         }
       ],
-      "email": "jack.harris@parl.gc.ca",
       "family_name": "HARRIS",
       "gender": "male",
       "given_name": "Jack, Q.C., B.A., LL.B., LL.M.",
@@ -9969,15 +9729,10 @@
       "birth_date": "1968-09-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Chris.Alexander@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "calxandr"
         }
       ],
-      "email": "Chris.Alexander@parl.gc.ca",
       "family_name": "ALEXANDER",
       "gender": "male",
       "given_name": "The Hon. Chris, P.C., B.A., M.A.",
@@ -10187,15 +9942,10 @@
       "birth_date": "1954-02-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Anne-Marie.Day@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "AnneMarieDay"
         }
       ],
-      "email": "Anne-Marie.Day@parl.gc.ca",
       "family_name": "DAY",
       "gender": "female",
       "given_name": "Anne-Marie, B.Ed., M.A.",
@@ -10261,15 +10011,10 @@
       "birth_date": "1956-09-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Denis.Blanchette@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "DenisBlanchette"
         }
       ],
-      "email": "Denis.Blanchette@parl.gc.ca",
       "family_name": "BLANCHETTE",
       "gender": "male",
       "given_name": "Denis, B.A.",
@@ -10898,13 +10643,6 @@
     },
     {
       "birth_date": "1963-04-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pierre.lemieux@parl.gc.ca"
-        }
-      ],
-      "email": "pierre.lemieux@parl.gc.ca",
       "family_name": "LEMIEUX",
       "gender": "male",
       "given_name": "Pierre, B.Eng, M.Sc.",
@@ -10967,15 +10705,10 @@
       "birth_date": "1973-05-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rod.bruinooge@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "rodbruinooge"
         }
       ],
-      "email": "rod.bruinooge@parl.gc.ca",
       "family_name": "BRUINOOGE",
       "gender": "male",
       "given_name": "Rod, B.A.",
@@ -11411,13 +11144,6 @@
     },
     {
       "birth_date": "1962-01-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Lawrence.Toet@parl.gc.ca"
-        }
-      ],
-      "email": "Lawrence.Toet@parl.gc.ca",
       "family_name": "TOET",
       "gender": "male",
       "given_name": "Lawrence",
@@ -11462,15 +11188,10 @@
       "birth_date": "1967-03-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rob.clarke@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RobClarkeMP"
         }
       ],
-      "email": "rob.clarke@parl.gc.ca",
       "family_name": "CLARKE",
       "gender": "male",
       "given_name": "Rob",
@@ -11771,13 +11492,6 @@
     },
     {
       "birth_date": "1945-10-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "garry.breitkreuz@parl.gc.ca"
-        }
-      ],
-      "email": "garry.breitkreuz@parl.gc.ca",
       "family_name": "BREITKREUZ",
       "gender": "male",
       "given_name": "Garry W., B.Ed.",
@@ -11842,13 +11556,6 @@
     },
     {
       "birth_date": "1966",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Roxanne.James@parl.gc.ca"
-        }
-      ],
-      "email": "Roxanne.James@parl.gc.ca",
       "family_name": "JAMES",
       "gender": "female",
       "given_name": "Roxanne",
@@ -12149,13 +11856,6 @@
     },
     {
       "birth_date": "1955-05-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yvon.godin@parl.gc.ca"
-        }
-      ],
-      "email": "yvon.godin@parl.gc.ca",
       "family_name": "GODIN",
       "gender": "male",
       "given_name": "Yvon",
@@ -12213,13 +11913,6 @@
     },
     {
       "birth_date": "1954-08-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Frank.valeriote@parl.gc.ca"
-        }
-      ],
-      "email": "Frank.valeriote@parl.gc.ca",
       "family_name": "VALERIOTE",
       "gender": "male",
       "given_name": "Frank, B.A., LL.B.",
@@ -12328,10 +12021,6 @@
       "birth_date": "1968-05-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jason.kenney@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "jkenney"
         },
@@ -12340,7 +12029,6 @@
           "value": "kenneyjason"
         }
       ],
-      "email": "jason.kenney@parl.gc.ca",
       "family_name": "KENNEY",
       "gender": "male",
       "given_name": "The Hon. Jason, P.C.",
@@ -12444,15 +12132,10 @@
       "birth_date": "1960-05-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Wai.Young@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "WaiYoung"
         }
       ],
-      "email": "Wai.Young@parl.gc.ca",
       "family_name": "YOUNG",
       "gender": "female",
       "given_name": "Wai, B.A.",
@@ -12535,15 +12218,10 @@
       "birth_date": "1947-10-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "greg.kerr@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MPGregKerr"
         }
       ],
-      "email": "greg.kerr@parl.gc.ca",
       "family_name": "KERR",
       "gender": "male",
       "given_name": "Greg, B.A., B.Ed.",
@@ -12868,13 +12546,6 @@
     },
     {
       "birth_date": "1973-12-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Ryan.Leef@parl.gc.ca"
-        }
-      ],
-      "email": "Ryan.Leef@parl.gc.ca",
       "family_name": "LEEF",
       "gender": "male",
       "given_name": "Ryan, B.A.",
@@ -13011,10 +12682,6 @@
       "birth_date": "1969-03-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rona.ambrose@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RonaAmbrose"
         },
@@ -13023,7 +12690,6 @@
           "value": "MinRonaAmbrose"
         }
       ],
-      "email": "rona.ambrose@parl.gc.ca",
       "gender": "female",
       "given_name": "Rona",
       "id": "493da50c-c1a5-499d-9b56-70126a49b99f",
@@ -13181,10 +12847,6 @@
       "birth_date": "1974-11-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "tim.uppal@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "TimUppal"
         },
@@ -13193,7 +12855,6 @@
           "value": "MinTimUppal"
         }
       ],
-      "email": "tim.uppal@parl.gc.ca",
       "family_name": "UPPAL",
       "gender": "male",
       "given_name": "The Hon. Tim, P.C.",
@@ -13653,15 +13314,10 @@
       "birth_date": "1943-09-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gary.schellenberger@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "GSchellenberger"
         }
       ],
-      "email": "gary.schellenberger@parl.gc.ca",
       "family_name": "SCHELLENBERGER",
       "gender": "male",
       "given_name": "Gary",
@@ -13834,15 +13490,10 @@
       "birth_date": "1948-12-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "john.duncan@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JohnDuncanMP"
         }
       ],
-      "email": "john.duncan@parl.gc.ca",
       "family_name": "DUNCAN",
       "gender": "male",
       "given_name": "The Hon. John , P.C., B.Sc.F.",
@@ -14134,15 +13785,10 @@
       "birth_date": "1942-09-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Nycole.Turmel@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "nycole_turmel"
         }
       ],
-      "email": "Nycole.Turmel@parl.gc.ca",
       "family_name": "TURMEL",
       "gender": "female",
       "given_name": "Nycole",
@@ -14238,15 +13884,10 @@
       "birth_date": "1959-01-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Costas.Menegakis@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "CostasMenegakis"
         }
       ],
-      "email": "Costas.Menegakis@parl.gc.ca",
       "family_name": "MENEGAKIS",
       "gender": "male",
       "given_name": "Costas, B.Comm.",
@@ -14317,15 +13958,10 @@
       "birth_date": "1947-02-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joy.smith@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MPJoySmith"
         }
       ],
-      "email": "joy.smith@parl.gc.ca",
       "family_name": "SMITH",
       "gender": "female",
       "given_name": "Joy, B.Ed., M.Ed.(Hons.)",
@@ -14478,15 +14114,10 @@
       "birth_date": "1964-12-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Matthew.Kellway@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MatthewKellway"
         }
       ],
-      "email": "Matthew.Kellway@parl.gc.ca",
       "family_name": "KELLWAY",
       "gender": "male",
       "given_name": "Matthew, B.A., MIR",
@@ -14704,15 +14335,10 @@
       "birth_date": "1972-04-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jean-Francois.Larose@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "LaroseJF"
         }
       ],
-      "email": "Jean-Francois.Larose@parl.gc.ca",
       "family_name": "LAROSE",
       "gender": "male",
       "given_name": "Jean-François",
@@ -14772,15 +14398,10 @@
       "birth_date": "1955-06-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joe.preston@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "Joe_Preston"
         }
       ],
-      "email": "joe.preston@parl.gc.ca",
       "family_name": "PRESTON",
       "gender": "male",
       "given_name": "Joe",
@@ -15345,15 +14966,10 @@
       "birth_date": "1963-03-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "barry.devolin@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "BarryDevolin_MP"
         }
       ],
-      "email": "barry.devolin@parl.gc.ca",
       "family_name": "DEVOLIN",
       "gender": "male",
       "given_name": "Barry, B.A., M.A.",
@@ -15414,13 +15030,6 @@
     },
     {
       "birth_date": "1970-01-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "John.Williamson@parl.gc.ca"
-        }
-      ],
-      "email": "John.Williamson@parl.gc.ca",
       "family_name": "WILLIAMSON",
       "gender": "male",
       "given_name": "John",
@@ -15752,15 +15361,10 @@
       "birth_date": "1989-03-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Mylene.Freeman@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MyleneFreeman"
         }
       ],
-      "email": "Mylene.Freeman@parl.gc.ca",
       "family_name": "FREEMAN",
       "gender": "female",
       "given_name": "Mylène, B.A.",
@@ -15827,15 +15431,10 @@
       "birth_date": "1947-06-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "daryl.kramp@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "darylkramp"
         }
       ],
-      "email": "daryl.kramp@parl.gc.ca",
       "family_name": "KRAMP",
       "gender": "male",
       "given_name": "Daryl",
@@ -16138,15 +15737,10 @@
       "birth_date": "1980-05-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Annick.Papillon@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "AnnickPapillon"
         }
       ],
-      "email": "Annick.Papillon@parl.gc.ca",
       "family_name": "PAPILLON",
       "gender": "female",
       "given_name": "Annick, B.A.",
@@ -16344,15 +15938,10 @@
       "birth_date": "1960-06-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Francoise.Boivin@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "fboivinnpd"
         }
       ],
-      "email": "Francoise.Boivin@parl.gc.ca",
       "family_name": "BOIVIN",
       "gender": "female",
       "given_name": "Françoise, B.A., LL.L.",
@@ -16509,15 +16098,10 @@
       "birth_date": "1954-07-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ed.holder@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "EdHolder_MP"
         }
       ],
-      "email": "ed.holder@parl.gc.ca",
       "family_name": "HOLDER",
       "gender": "male",
       "given_name": "The Hon. Ed, P.C., B.A.",
@@ -16733,15 +16317,10 @@
       "birth_date": "1969-02-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "russ.hiebert@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "HiebertRuss"
         }
       ],
-      "email": "russ.hiebert@parl.gc.ca",
       "family_name": "HIEBERT",
       "gender": "male",
       "given_name": "Russ, B.A., M.B.A., LL.B.",
@@ -16809,13 +16388,6 @@
     },
     {
       "birth_date": "1945-01-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "alex.atamanenko@parl.gc.ca"
-        }
-      ],
-      "email": "alex.atamanenko@parl.gc.ca",
       "family_name": "ATAMANENKO",
       "gender": "male",
       "given_name": "Alex, B.A., M.A.",
@@ -17239,15 +16811,10 @@
       "birth_date": "1953-03-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "dennis.bevington@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "nwtdennis"
         }
       ],
-      "email": "dennis.bevington@parl.gc.ca",
       "family_name": "BEVINGTON",
       "gender": "male",
       "given_name": "Dennis Fraser, B.A.",
@@ -17375,13 +16942,6 @@
     },
     {
       "birth_date": "1971-03-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jeff.watson@parl.gc.ca"
-        }
-      ],
-      "email": "jeff.watson@parl.gc.ca",
       "family_name": "WATSON",
       "gender": "male",
       "given_name": "Jeff",
@@ -17644,15 +17204,10 @@
       "birth_date": "1974-05-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Parm.Gill@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "ParmGill"
         }
       ],
-      "email": "Parm.Gill@parl.gc.ca",
       "family_name": "GILL",
       "gender": "male",
       "given_name": "Parm",
@@ -17820,15 +17375,10 @@
       "birth_date": "1965-12-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Manon.Perreault@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MPerreaultNPD"
         }
       ],
-      "email": "Manon.Perreault@parl.gc.ca",
       "family_name": "PERREAULT",
       "gender": "female",
       "given_name": "Manon",
@@ -17885,15 +17435,10 @@
       "birth_date": "1946-08-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "bruce.hyer@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "brucehyer"
         }
       ],
-      "email": "bruce.hyer@parl.gc.ca",
       "family_name": "HYER",
       "gender": "male",
       "given_name": "Bruce, M.Sc.F.",
@@ -17983,15 +17528,10 @@
       "birth_date": "1952-07-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jean.crowder@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JeanCrowder"
         }
       ],
-      "email": "jean.crowder@parl.gc.ca",
       "family_name": "CROWDER",
       "gender": "female",
       "given_name": "Jean, B.A.",
@@ -18066,15 +17606,10 @@
       "birth_date": "1976-06-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "james.moore@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JamesMoore_org"
         }
       ],
-      "email": "james.moore@parl.gc.ca",
       "family_name": "MOORE",
       "gender": "male",
       "given_name": "The Hon. James, P.C., B.A., M.A.",
@@ -18198,15 +17733,10 @@
       "birth_date": "1947-05-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "laurie.hawn@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MPLaurieHawn"
         }
       ],
-      "email": "laurie.hawn@parl.gc.ca",
       "family_name": "HAWN",
       "gender": "male",
       "given_name": "The Hon. Laurie, P.C.",
@@ -18617,13 +18147,6 @@
     },
     {
       "birth_date": "1972-04-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rob.anders@parl.gc.ca"
-        }
-      ],
-      "email": "rob.anders@parl.gc.ca",
       "family_name": "ANDERS",
       "gender": "male",
       "given_name": "Rob, B.A.",
@@ -18706,16 +18229,11 @@
       "birth_date": "1952-03-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "keith.ashfield@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "KeithAshfield11"
         }
       ],
       "death_date": "2018-04-22",
-      "email": "keith.ashfield@parl.gc.ca",
       "family_name": "ASHFIELD",
       "gender": "male",
       "given_name": "The Hon. Keith, P.C.",
@@ -19082,15 +18600,10 @@
       "birth_date": "1985-02-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Isabelle.Morin@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "IsabelleMorinMP"
         }
       ],
-      "email": "Isabelle.Morin@parl.gc.ca",
       "family_name": "MORIN",
       "gender": "female",
       "given_name": "Isabelle, B.Ed.",
@@ -19231,13 +18744,6 @@
     },
     {
       "birth_date": "1946-06-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pat.davidson@parl.gc.ca"
-        }
-      ],
-      "email": "pat.davidson@parl.gc.ca",
       "family_name": "DAVIDSON",
       "gender": "female",
       "given_name": "Patricia",
@@ -19356,13 +18862,6 @@
     },
     {
       "birth_date": "1984-04-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Lysane.Blanchette-Lamothe@parl.gc.ca"
-        }
-      ],
-      "email": "Lysane.Blanchette-Lamothe@parl.gc.ca",
       "family_name": "BLANCHETTE-LAMOTHE",
       "gender": "female",
       "given_name": "Lysane, B.Ed.",
@@ -19597,15 +19096,10 @@
       "birth_date": "1984-10-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Rosane.DoreLefebvre@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RosaneDL"
         }
       ],
-      "email": "Rosane.DoreLefebvre@parl.gc.ca",
       "family_name": "DORÉ LEFEBVRE",
       "gender": "female",
       "given_name": "Rosane, B.A.",
@@ -19774,15 +19268,10 @@
       "birth_date": "1961-05-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ron.cannan@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RonCannan"
         }
       ],
-      "email": "ron.cannan@parl.gc.ca",
       "family_name": "CANNAN",
       "gender": "male",
       "given_name": "The Hon. Ronald, P.C.",
@@ -19958,13 +19447,6 @@
     },
     {
       "birth_date": "1946-03-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rejean.Genest@parl.gc.ca"
-        }
-      ],
-      "email": "Rejean.Genest@parl.gc.ca",
       "family_name": "GENEST",
       "gender": "male",
       "given_name": "Réjean",
@@ -20295,13 +19777,6 @@
     },
     {
       "birth_date": "1948-04-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "colin.mayes@parl.gc.ca"
-        }
-      ],
-      "email": "colin.mayes@parl.gc.ca",
       "family_name": "MAYES",
       "gender": "male",
       "given_name": "Colin",
@@ -20373,15 +19848,10 @@
       "birth_date": "1967-01-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "shelly.glover@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "ShellyGloverMIN"
         }
       ],
-      "email": "shelly.glover@parl.gc.ca",
       "family_name": "GLOVER",
       "gender": "female",
       "given_name": "The Hon. Shelly, P.C.",
@@ -20468,15 +19938,10 @@
       "birth_date": "1958-10-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nina.grewal@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MPNinaGrewal"
         }
       ],
-      "email": "nina.grewal@parl.gc.ca",
       "family_name": "GREWAL",
       "gender": "female",
       "given_name": "Nina, B.A.",
@@ -20907,15 +20372,10 @@
       "birth_date": "1978-05-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "patrick.brown@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "brownbarrie"
         }
       ],
-      "email": "patrick.brown@parl.gc.ca",
       "family_name": "BROWN",
       "gender": "male",
       "given_name": "Patrick W., LL.B.",
@@ -21060,15 +20520,10 @@
       "birth_date": "1953-07-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "john.rafferty@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JohnRaffertyMP"
         }
       ],
-      "email": "john.rafferty@parl.gc.ca",
       "family_name": "RAFFERTY",
       "gender": "male",
       "given_name": "John, B.A., B.E.",
@@ -21189,10 +20644,6 @@
       "birth_date": "1959-04-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stephen.harper@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "pmharper"
         },
@@ -21201,7 +20652,6 @@
           "value": "stephenharper"
         }
       ],
-      "email": "stephen.harper@parl.gc.ca",
       "family_name": "HARPER",
       "gender": "male",
       "given_name": "The Right Hon. Stephen, P.C., B.A., M.A.",
@@ -22037,15 +21487,10 @@
       "birth_date": "1966-09-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Stella.Ambler@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "StellaAmbler"
         }
       ],
-      "email": "Stella.Ambler@parl.gc.ca",
       "family_name": "AMBLER",
       "gender": "female",
       "given_name": "Stella, B.A., B.Sc.",
@@ -22384,15 +21829,10 @@
       "birth_date": "1973-01-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Mathieu.Ravignat@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MathieuRavignat"
         }
       ],
-      "email": "Mathieu.Ravignat@parl.gc.ca",
       "family_name": "RAVIGNAT",
       "gender": "male",
       "given_name": "Mathieu, B.A., M.A.",
@@ -22616,15 +22056,10 @@
       "birth_date": "1979-07-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jonathan.Genest-Jourdain@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "GenestJourdain"
         }
       ],
-      "email": "Jonathan.Genest-Jourdain@parl.gc.ca",
       "family_name": "GENEST-JOURDAIN",
       "gender": "male",
       "given_name": "Jonathan, LL.B.",
@@ -22729,13 +22164,6 @@
     },
     {
       "birth_date": "1951-03-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Marc-Andre.Morin@parl.gc.ca"
-        }
-      ],
-      "email": "Marc-Andre.Morin@parl.gc.ca",
       "family_name": "MORIN",
       "gender": "male",
       "given_name": "Marc-André",
@@ -22840,13 +22268,6 @@
     },
     {
       "birth_date": "1962-11-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Sadia.Groguhe@parl.gc.ca"
-        }
-      ],
-      "email": "Sadia.Groguhe@parl.gc.ca",
       "family_name": "GROGUHÉ",
       "gender": "female",
       "given_name": "Sadia, M.A.",
@@ -22908,15 +22329,10 @@
       "birth_date": "1960-11-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mike.allen@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "mpmikea"
         }
       ],
-      "email": "mike.allen@parl.gc.ca",
       "family_name": "ALLEN",
       "gender": "male",
       "given_name": "Mike, B.Admin., M.B.A.(Hons.)",
@@ -23199,15 +22615,10 @@
       "birth_date": "1944-12-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "peter.goldring@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "PeterGoldring"
         }
       ],
-      "email": "peter.goldring@parl.gc.ca",
       "family_name": "GOLDRING",
       "gender": "male",
       "given_name": "Peter",
@@ -23264,15 +22675,10 @@
       "birth_date": "1953-02-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gerald.keddy@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "GeraldKeddy"
         }
       ],
-      "email": "gerald.keddy@parl.gc.ca",
       "family_name": "KEDDY",
       "gender": "male",
       "given_name": "Gerald, B.A.",
@@ -23410,13 +22816,6 @@
     },
     {
       "birth_date": "1949-11-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ed.komarnicki@parl.gc.ca"
-        }
-      ],
-      "email": "ed.komarnicki@parl.gc.ca",
       "family_name": "KOMARNICKI",
       "gender": "male",
       "given_name": "Ed, B.A., LL.B.",
@@ -23479,15 +22878,10 @@
       "birth_date": "1964-03-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "andrew.saxton@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "AndrewSaxton1"
         }
       ],
-      "email": "andrew.saxton@parl.gc.ca",
       "family_name": "SAXTON",
       "gender": "male",
       "given_name": "Andrew, B.A",
@@ -23549,15 +22943,10 @@
       "birth_date": "1962-03-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "craig.scott@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "CraigScottNDP"
         }
       ],
-      "email": "craig.scott@parl.gc.ca",
       "family_name": "SCOTT",
       "gender": "male",
       "given_name": "Craig, B.A., LL.B., LL.M.",
@@ -23699,13 +23088,6 @@
     },
     {
       "birth_date": "1953-09-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Pat.Perkins@parl.gc.ca"
-        }
-      ],
-      "email": "Pat.Perkins@parl.gc.ca",
       "family_name": "PERKINS",
       "gender": "female",
       "given_name": "Patricia (Pat)",
@@ -24037,15 +23419,10 @@
       "birth_date": "1955-12-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pat.martin@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "PatMartinMP"
         }
       ],
-      "email": "pat.martin@parl.gc.ca",
       "family_name": "MARTIN",
       "gender": "male",
       "given_name": "Pat",
@@ -24181,13 +23558,6 @@
     },
     {
       "birth_date": "1961-06-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jean.Rousseau@parl.gc.ca"
-        }
-      ],
-      "email": "Jean.Rousseau@parl.gc.ca",
       "family_name": "ROUSSEAU",
       "gender": "male",
       "given_name": "Jean, B.Sc.",
@@ -24353,13 +23723,6 @@
     },
     {
       "birth_date": "1958-10-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Alain.Giguere@parl.gc.ca"
-        }
-      ],
-      "email": "Alain.Giguere@parl.gc.ca",
       "family_name": "GIGUÈRE",
       "gender": "male",
       "given_name": "Alain, B.A.",
@@ -24696,10 +24059,6 @@
       "birth_date": "1972-06-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "steven.fletcher@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "HonSFletcherMP"
         },
@@ -24708,7 +24067,6 @@
           "value": "stevenjfletcher"
         }
       ],
-      "email": "steven.fletcher@parl.gc.ca",
       "family_name": "FLETCHER",
       "gender": "male",
       "given_name": "The Hon. Steven John, P.C., B.Sc., M.B.A.",
@@ -24846,16 +24204,11 @@
       "birth_date": "1974-07-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jim.Hillyer@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "jimhillyer"
         }
       ],
       "death_date": "2016-03-23",
-      "email": "Jim.Hillyer@parl.gc.ca",
       "family_name": "HILLYER",
       "gender": "male",
       "given_name": "Jim, B.A., M.A.",
@@ -24917,15 +24270,10 @@
       "birth_date": "1958-05-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "bob.dechert@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "BobDechert"
         }
       ],
-      "email": "bob.dechert@parl.gc.ca",
       "family_name": "DECHERT",
       "gender": "male",
       "given_name": "Bob",
@@ -24980,15 +24328,10 @@
       "birth_date": "1948-03-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rick.norlock@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RickNorlock"
         }
       ],
-      "email": "rick.norlock@parl.gc.ca",
       "family_name": "NORLOCK",
       "gender": "male",
       "given_name": "Rick",
@@ -25101,15 +24444,10 @@
       "birth_date": "1964",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Denis.Lemieux@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "DenisLemieuxLib"
         }
       ],
-      "email": "Denis.Lemieux@parl.gc.ca",
       "family_name": "Lemieux",
       "gender": "male",
       "given_name": "Denis",
@@ -25441,13 +24779,6 @@
     },
     {
       "birth_date": "1984-11-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jonathan.Tremblay@parl.gc.ca"
-        }
-      ],
-      "email": "Jonathan.Tremblay@parl.gc.ca",
       "family_name": "TREMBLAY",
       "gender": "male",
       "given_name": "Jonathan",
@@ -25563,15 +24894,10 @@
       "birth_date": "1953-03-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lynne.yelich@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "Lynne_Yelich"
         }
       ],
-      "email": "lynne.yelich@parl.gc.ca",
       "family_name": "YELICH",
       "gender": "female",
       "given_name": "The Hon. Lynne, P.C.",
@@ -25661,15 +24987,10 @@
       "birth_date": "1958-08-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Francois.Pilon@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "francoispilon"
         }
       ],
-      "email": "Francois.Pilon@parl.gc.ca",
       "family_name": "PILON",
       "gender": "male",
       "given_name": "François",
@@ -26489,15 +25810,10 @@
       "birth_date": "1947-02-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "wayne.marston@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "WMarstonNDP"
         }
       ],
-      "email": "wayne.marston@parl.gc.ca",
       "family_name": "MARSTON",
       "gender": "male",
       "given_name": "Wayne",
@@ -26615,13 +25931,6 @@
     },
     {
       "birth_date": "1939-05-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gordon.oconnor@parl.gc.ca"
-        }
-      ],
-      "email": "gordon.oconnor@parl.gc.ca",
       "family_name": "O'CONNOR",
       "gender": "male",
       "given_name": "The Hon. Gordon, P.C., B.A. , B.Sc.",
@@ -26708,15 +26017,10 @@
       "birth_date": "1990-11-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Laurin.Liu@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "laurinliu"
         }
       ],
-      "email": "Laurin.Liu@parl.gc.ca",
       "family_name": "LIU",
       "gender": "female",
       "given_name": "Laurin",
@@ -26784,15 +26088,10 @@
       "birth_date": "1973-09-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jean-Francois.Fortin@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "fortjf"
         }
       ],
-      "email": "Jean-Francois.Fortin@parl.gc.ca",
       "family_name": "FORTIN",
       "gender": "male",
       "given_name": "Jean-François, B.A.",
@@ -27061,15 +26360,10 @@
       "birth_date": "1954-05-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "denis.lebel@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "DenisLebelPCC"
         }
       ],
-      "email": "denis.lebel@parl.gc.ca",
       "family_name": "Lebel",
       "gender": "male",
       "given_name": "Denis",
@@ -27275,15 +26569,10 @@
       "birth_date": "1973-06-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Hoang.Mai@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "hoangmai_npd"
         }
       ],
-      "email": "Hoang.Mai@parl.gc.ca",
       "family_name": "MAI",
       "gender": "male",
       "given_name": "Hoang, LL.B, LL.M.",
@@ -27346,15 +26635,10 @@
       "birth_date": "1949-10-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "claude.gravelle@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "ClaudeGravelle"
         }
       ],
-      "email": "claude.gravelle@parl.gc.ca",
       "family_name": "GRAVELLE",
       "gender": "male",
       "given_name": "Claude",
@@ -27417,13 +26701,6 @@
     },
     {
       "birth_date": "1955-09-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maurice.vellacott@parl.gc.ca"
-        }
-      ],
-      "email": "maurice.vellacott@parl.gc.ca",
       "family_name": "VELLACOTT",
       "gender": "male",
       "given_name": "Dr. Maurice, B.R.E., M.Div., D.Min.",
@@ -27545,15 +26822,10 @@
       "birth_date": "1956-01-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "peter.stoffer@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "PeterStofferMP"
         }
       ],
-      "email": "peter.stoffer@parl.gc.ca",
       "family_name": "STOFFER",
       "gender": "male",
       "given_name": "Peter",
@@ -27745,10 +27017,6 @@
       "birth_date": "1955-09-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "stephane.dion@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "HonStephaneDion"
         },
@@ -27757,7 +27025,6 @@
           "value": "stephanedion"
         }
       ],
-      "email": "stephane.dion@parl.gc.ca",
       "family_name": "DION",
       "gender": "male",
       "given_name": "The Hon. Stéphane, P.C., B.A., M.A., Ph.D.",
@@ -28278,15 +27545,10 @@
       "birth_date": "1963-09-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mike.wallace@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MikeWallaceMP"
         }
       ],
-      "email": "mike.wallace@parl.gc.ca",
       "family_name": "WALLACE",
       "gender": "male",
       "given_name": "Mike, B.A.",
@@ -28556,15 +27818,10 @@
       "birth_date": "1959-08-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Susan.Truppe@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "SusanTruppe"
         }
       ],
-      "email": "Susan.Truppe@parl.gc.ca",
       "family_name": "TRUPPE",
       "gender": "female",
       "given_name": "Susan",
@@ -28620,15 +27877,10 @@
       "birth_date": "1952-02-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Bernard.Valcourt@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "Min_BValcourt"
         }
       ],
-      "email": "Bernard.Valcourt@parl.gc.ca",
       "family_name": "VALCOURT",
       "gender": "male",
       "given_name": "The Hon. Bernard, P.C., Q.C., B.A., LL.B., DHC",
@@ -29057,13 +28309,6 @@
     },
     {
       "birth_date": "1954-12-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Joe.Daniel@parl.gc.ca"
-        }
-      ],
-      "email": "Joe.Daniel@parl.gc.ca",
       "family_name": "DANIEL",
       "gender": "male",
       "given_name": "Joe, B.Sc., M.eng.",
@@ -29184,13 +28429,6 @@
     },
     {
       "birth_date": "1965",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Philip.Toone@parl.gc.ca"
-        }
-      ],
-      "email": "Philip.Toone@parl.gc.ca",
       "family_name": "TOONE",
       "gender": "male",
       "given_name": "Philip",
@@ -29235,15 +28473,10 @@
       "birth_date": "1958-10-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Bryan.Hayes@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "BryanHayesCPC"
         }
       ],
-      "email": "Bryan.Hayes@parl.gc.ca",
       "family_name": "HAYES",
       "gender": "male",
       "given_name": "Bryan, B.A., C.G.A.",
@@ -29306,15 +28539,10 @@
       "birth_date": "1952-07-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "terence.young@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "TerenceYoungMP"
         }
       ],
-      "email": "terence.young@parl.gc.ca",
       "family_name": "YOUNG",
       "gender": "male",
       "given_name": "Terence H., B.A.",
@@ -29469,15 +28697,10 @@
       "birth_date": "1940-05-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Joe.Oliver@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "joeoliver1"
         }
       ],
-      "email": "Joe.Oliver@parl.gc.ca",
       "family_name": "OLIVER",
       "gender": "male",
       "given_name": "The Hon. Joe, P.C.",
@@ -29560,15 +28783,10 @@
       "birth_date": "1953-02-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "libby.davies@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "LibbyDavies"
         }
       ],
-      "email": "libby.davies@parl.gc.ca",
       "family_name": "DAVIES",
       "gender": "female",
       "given_name": "Libby",
@@ -29823,15 +29041,10 @@
       "birth_date": "1967-01-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Raymond.Cote@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RCoteBL2011"
         }
       ],
-      "email": "Raymond.Cote@parl.gc.ca",
       "family_name": "CÔTÉ",
       "gender": "male",
       "given_name": "Raymond, B.A.",
@@ -30333,13 +29546,6 @@
     },
     {
       "birth_date": "1964-06-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "andre.bellavance@parl.gc.ca"
-        }
-      ],
-      "email": "andre.bellavance@parl.gc.ca",
       "family_name": "BELLAVANCE",
       "gender": "male",
       "given_name": "André, B.A.",
@@ -30411,16 +29617,11 @@
       "birth_date": "1947-01-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "royal.galipeau@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "GalipeauOrleans"
         }
       ],
       "death_date": "2018-01-27",
-      "email": "royal.galipeau@parl.gc.ca",
       "family_name": "GALIPEAU",
       "gender": "male",
       "given_name": "Joseph Bernard Royal Neil",
@@ -30666,15 +29867,10 @@
       "birth_date": "1947-12-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "joe.comartin@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "joecomartin"
         }
       ],
-      "email": "joe.comartin@parl.gc.ca",
       "family_name": "COMARTIN",
       "gender": "male",
       "given_name": "Joe, B.A., LL.B.",
@@ -30835,15 +30031,10 @@
       "birth_date": "1974-12-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "scott.andrews@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "ScottAndrewsMP"
         }
       ],
-      "email": "scott.andrews@parl.gc.ca",
       "family_name": "ANDREWS",
       "gender": "male",
       "given_name": "Scott, B.A.",
@@ -31235,15 +30426,10 @@
       "birth_date": "1962-03-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Mark.Adler@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MarkAdlerMP"
         }
       ],
-      "email": "Mark.Adler@parl.gc.ca",
       "family_name": "ADLER",
       "gender": "male",
       "given_name": "Mark, B.A.",
@@ -31314,15 +30500,10 @@
       "birth_date": "1974-11-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Sana.Hassainia@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "SanaNPD"
         }
       ],
-      "email": "Sana.Hassainia@parl.gc.ca",
       "family_name": "HASSAINIA",
       "gender": "female",
       "given_name": "Sana, B.A., M.A.",
@@ -31449,13 +30630,6 @@
     },
     {
       "birth_date": "1954-06-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Wladyslaw.Lizon@parl.gc.ca"
-        }
-      ],
-      "email": "Wladyslaw.Lizon@parl.gc.ca",
       "family_name": "LIZON",
       "gender": "male",
       "given_name": "Wladyslaw, M.Eng.",
@@ -31526,15 +30700,10 @@
       "birth_date": "1971-10-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jamie.Nicholls@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JPNichollsNPD"
         }
       ],
-      "email": "Jamie.Nicholls@parl.gc.ca",
       "family_name": "NICHOLLS",
       "gender": "male",
       "given_name": "Jamie, B.A., M.L.A.",
@@ -32056,15 +31225,10 @@
       "birth_date": "1966-04-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jasbir.Sandhu@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "jasbirsandhu"
         }
       ],
-      "email": "Jasbir.Sandhu@parl.gc.ca",
       "family_name": "SANDHU",
       "gender": "male",
       "given_name": "Jasbir, B.A., M.B.A.",
@@ -32183,15 +31347,10 @@
       "birth_date": "1958-04-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "john.weston@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "johnwestonmp"
         }
       ],
-      "email": "john.weston@parl.gc.ca",
       "family_name": "WESTON",
       "gender": "male",
       "given_name": "John, B.A., LL.B.",
@@ -32353,16 +31512,11 @@
       "birth_date": "1955-06-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "mauril.belanger@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "Mauril_Belanger"
         }
       ],
       "death_date": "2016-08-16",
-      "email": "mauril.belanger@parl.gc.ca",
       "family_name": "BÉLANGER",
       "gender": "male",
       "given_name": "The Hon. Mauril, P.C., B.A.",
@@ -32513,15 +31667,10 @@
       "birth_date": "1974-11-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Eve.Adams@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "mpeveadams"
         }
       ],
-      "email": "Eve.Adams@parl.gc.ca",
       "family_name": "ADAMS",
       "gender": "female",
       "given_name": "Eve, B.A.",
@@ -32690,15 +31839,10 @@
       "birth_date": "1945-02-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lavar.payne@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "LaVarMP"
         }
       ],
-      "email": "lavar.payne@parl.gc.ca",
       "family_name": "PAYNE",
       "gender": "male",
       "given_name": "LaVar",
@@ -32829,15 +31973,10 @@
       "birth_date": "1966-09-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gerry.byrne@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "Gerry_Byrne"
         }
       ],
-      "email": "gerry.byrne@parl.gc.ca",
       "family_name": "BYRNE",
       "gender": "male",
       "given_name": "The Hon. Gerry, P.C., B.Sc.",
@@ -32997,10 +32136,6 @@
       "birth_date": "1952-06-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "judy.foote@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "judy_foote"
         },
@@ -33013,7 +32148,6 @@
           "value": "JudyFoote"
         }
       ],
-      "email": "judy.foote@parl.gc.ca",
       "gender": "female",
       "given_name": "Judy",
       "id": "c9a40139-70a1-4507-99c2-fa85270d2fce",
@@ -33215,15 +32349,10 @@
       "birth_date": "1971-03-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Francois.Lapointe@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "F_Lapointe"
         }
       ],
-      "email": "Francois.Lapointe@parl.gc.ca",
       "family_name": "LAPOINTE",
       "gender": "male",
       "given_name": "François",
@@ -33284,10 +32413,6 @@
       "birth_date": "1959-10-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Dianne.Watts@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "DianneWatts4BC"
         },
@@ -33296,7 +32421,6 @@
           "value": "DianneLWatts"
         }
       ],
-      "email": "Dianne.Watts@parl.gc.ca",
       "family_name": "Watts",
       "gender": "female",
       "given_name": "Dianne",
@@ -33893,15 +33017,10 @@
       "birth_date": "1974-01-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "christian.paradis@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "christianparad"
         }
       ],
-      "email": "christian.paradis@parl.gc.ca",
       "family_name": "PARADIS",
       "gender": "male",
       "given_name": "The Hon. Christian, P.C., LL.B.",
@@ -33977,15 +33096,10 @@
       "birth_date": "1966-07-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "scott.armstrong@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "Armstrong_MP"
         }
       ],
-      "email": "scott.armstrong@parl.gc.ca",
       "family_name": "ARMSTRONG",
       "gender": "male",
       "given_name": "Scott , B.A., M.A., Ph.D.",
@@ -34049,15 +33163,10 @@
       "birth_date": "1952-06-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jinny.Sims@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "jinnysims"
         }
       ],
-      "email": "Jinny.Sims@parl.gc.ca",
       "family_name": "SIMS",
       "gender": "female",
       "given_name": "Jinny Jogindera, B.Ed.",
@@ -34380,15 +33489,10 @@
       "birth_date": "1949-05-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "diane.ablonczy@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "dianeablonczymp"
         }
       ],
-      "email": "diane.ablonczy@parl.gc.ca",
       "family_name": "ABLONCZY",
       "gender": "female",
       "given_name": "The Hon. Diane, P.C., B.Ed., LL.B.",
@@ -35072,15 +34176,10 @@
       "birth_date": "1963-07-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "chris.charlton@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "chrischarltonmp"
         }
       ],
-      "email": "chris.charlton@parl.gc.ca",
       "family_name": "CHARLTON",
       "gender": "female",
       "given_name": "Chris, B.A., M.A.",
@@ -35588,13 +34687,6 @@
     },
     {
       "birth_date": "1940-05-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "irwin.cotler@parl.gc.ca"
-        }
-      ],
-      "email": "irwin.cotler@parl.gc.ca",
       "family_name": "COTLER",
       "gender": "male",
       "given_name": "The Hon. Irwin, P.C., O.C., B.A., B.C.L., LL.M., LL.D., Ph.D.",
@@ -35829,15 +34921,10 @@
       "birth_date": "1966-04-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rick.dykstra@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RickDykstra"
         }
       ],
-      "email": "rick.dykstra@parl.gc.ca",
       "family_name": "DYKSTRA",
       "gender": "male",
       "given_name": "Richard, B.A.",
@@ -36338,15 +35425,10 @@
       "birth_date": "1966-11-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Ryan.Cleary@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "clearyndp"
         }
       ],
-      "email": "Ryan.Cleary@parl.gc.ca",
       "family_name": "CLEARY",
       "gender": "male",
       "given_name": "Ryan",
@@ -36410,15 +35492,10 @@
       "birth_date": "1950-07-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Chungsen.Leung@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "csleungmp"
         }
       ],
-      "email": "Chungsen.Leung@parl.gc.ca",
       "family_name": "LEUNG",
       "gender": "male",
       "given_name": "Chungsen, B.A., M.Sc.",
@@ -36665,15 +35742,10 @@
       "birth_date": "1959-04-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gail.shea@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "CPCGailShea"
         }
       ],
-      "email": "gail.shea@parl.gc.ca",
       "family_name": "SHEA",
       "gender": "female",
       "given_name": "The Hon. Gail, P.C.",
@@ -36796,15 +35868,10 @@
       "birth_date": "1958-03-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Helene.LeBlanc@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "HeleneLeBlanc"
         }
       ],
-      "email": "Helene.LeBlanc@parl.gc.ca",
       "family_name": "LEBLANC",
       "gender": "female",
       "given_name": "Hélène, B.Ed., B.Sc.",
@@ -37204,15 +36271,10 @@
       "birth_date": "1951-08-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gerry.ritz@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "GerryRitzMP"
         }
       ],
-      "email": "gerry.ritz@parl.gc.ca",
       "family_name": "Ritz",
       "gender": "male",
       "given_name": "Gerry",
@@ -37290,15 +36352,10 @@
       "birth_date": "1953-08-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "randy.kamp@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RandyKampMP"
         }
       ],
-      "email": "randy.kamp@parl.gc.ca",
       "family_name": "KAMP",
       "gender": "male",
       "given_name": "Randy, B.A.",
@@ -37972,15 +37029,10 @@
       "birth_date": "1955-01-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Kerry-Lynne.Findlay@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "KLDF2011"
         }
       ],
-      "email": "Kerry-Lynne.Findlay@parl.gc.ca",
       "family_name": "FINDLAY",
       "gender": "female",
       "given_name": "The Hon. Kerry-Lynne D., P.C., Q.C., B.A., J.D.",
@@ -38047,13 +37099,6 @@
       "sort_name": "FINDLAY, The Hon. Kerry-Lynne D., P.C., Q.C., B.A., J.D."
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Joyce.Bateman@parl.gc.ca"
-        }
-      ],
-      "email": "Joyce.Bateman@parl.gc.ca",
       "family_name": "BATEMAN",
       "gender": "female",
       "given_name": "Joyce, C.A.",
@@ -38384,15 +37429,10 @@
       "birth_date": "1955-06-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Pierre.DionneLabelle@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "DionneLabelleMP"
         }
       ],
-      "email": "Pierre.DionneLabelle@parl.gc.ca",
       "family_name": "DIONNE LABELLE",
       "gender": "male",
       "given_name": "Pierre",
@@ -38449,16 +37489,11 @@
       "birth_date": "1953-01-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Pierre.Jacob@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "PJacobNPD"
         }
       ],
       "death_date": "2018-07-21",
-      "email": "Pierre.Jacob@parl.gc.ca",
       "family_name": "JACOB",
       "gender": "male",
       "given_name": "Pierre, B.A.",
@@ -38521,15 +37556,10 @@
       "birth_date": "1955-01-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lois.brown@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MPLoisBrown"
         }
       ],
-      "email": "lois.brown@parl.gc.ca",
       "family_name": "BROWN",
       "gender": "female",
       "given_name": "Lois",
@@ -38934,15 +37964,10 @@
       "birth_date": "1985-10-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Elaine.Michaud@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "emichaudNPD"
         }
       ],
-      "email": "Elaine.Michaud@parl.gc.ca",
       "family_name": "MICHAUD",
       "gender": "female",
       "given_name": "Élaine, B.A.",
@@ -39188,15 +38213,10 @@
       "birth_date": "1967-09-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "greg.rickford@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "GregRickford"
         }
       ],
-      "email": "greg.rickford@parl.gc.ca",
       "family_name": "RICKFORD",
       "gender": "male",
       "given_name": "The Hon. Greg, P.C.",
@@ -39257,13 +38277,6 @@
     },
     {
       "birth_date": "1956-11-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jose.Nunez-Melo@parl.gc.ca"
-        }
-      ],
-      "email": "Jose.Nunez-Melo@parl.gc.ca",
       "family_name": "NUNEZ-MELO",
       "gender": "male",
       "given_name": "José, B. Gest.",
@@ -39380,15 +38393,10 @@
       "birth_date": "1978-02-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "brian.storseth@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "BrianStorseth"
         }
       ],
-      "email": "brian.storseth@parl.gc.ca",
       "family_name": "STORSETH",
       "gender": "male",
       "given_name": "Brian",
@@ -39461,15 +38469,10 @@
       "birth_date": "1984-04-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Alexandrine.Latendresse@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "ALatendresseNPD"
         }
       ],
-      "email": "Alexandrine.Latendresse@parl.gc.ca",
       "family_name": "LATENDRESSE",
       "gender": "female",
       "given_name": "Alexandrine, B.A.",
@@ -39539,15 +38542,10 @@
       "birth_date": "1949-08-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Jay.Aspin@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "JayAspin"
         }
       ],
-      "email": "Jay.Aspin@parl.gc.ca",
       "family_name": "ASPIN",
       "gender": "male",
       "given_name": "Jay, B.A.",
@@ -39660,15 +38658,10 @@
       "birth_date": "1979-08-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Dan.Harris@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "danharrisndp"
         }
       ],
-      "email": "Dan.Harris@parl.gc.ca",
       "family_name": "HARRIS",
       "gender": "male",
       "given_name": "Dan",
@@ -40072,15 +39065,10 @@
       "birth_date": "1968-05-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Tarik.Brahmi@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "TarikBrahmi"
         }
       ],
-      "email": "Tarik.Brahmi@parl.gc.ca",
       "family_name": "BRAHMI",
       "gender": "male",
       "given_name": "Tarik",
@@ -40138,13 +39126,6 @@
     },
     {
       "birth_date": "1969-05-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maria.mourani@parl.gc.ca"
-        }
-      ],
-      "email": "maria.mourani@parl.gc.ca",
       "family_name": "MOURANI",
       "gender": "female",
       "given_name": "Maria, B.A., M.A.",
@@ -40651,15 +39632,10 @@
       "birth_date": "1970-07-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Sylvain.Chicoine@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "sylvainchicoine"
         }
       ],
-      "email": "Sylvain.Chicoine@parl.gc.ca",
       "family_name": "CHICOINE",
       "gender": "male",
       "given_name": "Sylvain",
@@ -40853,15 +39829,10 @@
       "birth_date": "1974-05-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rob.moore@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RobMoore_CPC"
         }
       ],
-      "email": "rob.moore@parl.gc.ca",
       "family_name": "MOORE",
       "gender": "male",
       "given_name": "The Hon. Rob, P.C., B.B.A., LL.B.",
@@ -40998,15 +39969,10 @@
       "birth_date": "1937-05-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ray.boughen@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "RayBoughenMP"
         }
       ],
-      "email": "ray.boughen@parl.gc.ca",
       "family_name": "BOUGHEN",
       "gender": "male",
       "given_name": "Ray, B.Sc., B.Ed., M.Sc.",
@@ -41140,15 +40106,10 @@
       "birth_date": "1953-01-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Claude.Patry@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "claude_patry"
         }
       ],
-      "email": "Claude.Patry@parl.gc.ca",
       "family_name": "PATRY",
       "gender": "male",
       "given_name": "Claude",
@@ -41426,15 +40387,10 @@
       "birth_date": "1952-11-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Mike.Sullivan@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "MikeSullivanMP"
         }
       ],
-      "email": "Mike.Sullivan@parl.gc.ca",
       "family_name": "SULLIVAN",
       "gender": "male",
       "given_name": "Mike, B.Sc.",
@@ -41555,15 +40511,10 @@
       "birth_date": "1958-12-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Tyrone.Benskin@parl.gc.ca"
-        },
-        {
           "type": "twitter",
           "value": "tbenskin"
         }
       ],
-      "email": "Tyrone.Benskin@parl.gc.ca",
       "family_name": "BENSKIN",
       "gender": "male",
       "given_name": "Tyrone",
@@ -41974,13 +40925,6 @@
     },
     {
       "birth_date": "1949-02-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tilly.oneillgordon@parl.gc.ca"
-        }
-      ],
-      "email": "tilly.oneillgordon@parl.gc.ca",
       "family_name": "O'NEILL GORDON",
       "gender": "female",
       "given_name": "Tilly, B.A., B.Ed., M.Ed.",
