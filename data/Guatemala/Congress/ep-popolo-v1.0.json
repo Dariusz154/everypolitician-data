@@ -5,17 +5,6 @@
   "persons": [
     {
       "birth_date": "1963-08-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Cmejia@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "2239-1145 / 2239-1160 Ext 1538"
-        }
-      ],
-      "email": "Cmejia@congreso.gob.gt",
       "gender": "male",
       "id": "0035ffb5-b8d8-4d22-87d5-eec1febbe322",
       "identifiers": [
@@ -72,17 +61,6 @@
     },
     {
       "birth_date": "1957-12-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mrivera@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22203914/22320801/22320746 Ext 2409"
-        }
-      ],
-      "email": "mrivera@congreso.gob.gt",
       "gender": "male",
       "id": "034454a4-a5a2-46ca-b175-2736b909a015",
       "identifiers": [
@@ -120,17 +98,6 @@
     },
     {
       "birth_date": "1944-09-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jgandara@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "2244-7878 Ext 2175 / 2176"
-        }
-      ],
-      "email": "jgandara@congreso.gob.gt",
       "gender": "male",
       "id": "038ef43e-baec-4f64-8f2a-b23cb91068f2",
       "identifiers": [
@@ -283,17 +250,6 @@
     },
     {
       "birth_date": "1957-09-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jfcardenas@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 1441/1442/2546/1418/2547"
-        }
-      ],
-      "email": "jfcardenas@congreso.gob.gt",
       "gender": "male",
       "id": "09667e74-5973-4fba-987e-0947833acc49",
       "identifiers": [
@@ -368,17 +324,6 @@
     },
     {
       "birth_date": "1960-10-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "earevalo@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22204012 Ext 1443/1494"
-        }
-      ],
-      "email": "earevalo@congreso.gob.gt",
       "gender": "male",
       "id": "0ec2d9e5-deb1-4275-b517-a9d7b30c5db5",
       "identifiers": [
@@ -416,17 +361,6 @@
     },
     {
       "birth_date": "1960-07-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mcuellar@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 2454"
-        }
-      ],
-      "email": "mcuellar@congreso.gob.gt",
       "gender": "female",
       "id": "108f7a14-e88f-42c4-92c3-861bdc0e316a",
       "identifiers": [
@@ -445,17 +379,6 @@
     },
     {
       "birth_date": "1960-01-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emartinez@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22391045 Ext"
-        }
-      ],
-      "email": "emartinez@congreso.gob.gt",
       "gender": "male",
       "id": "10e774e5-d604-401e-bb45-1e1a77119851",
       "identifiers": [
@@ -474,17 +397,6 @@
     },
     {
       "birth_date": "1952-07-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mlinares@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 22391112/22391115"
-        }
-      ],
-      "email": "mlinares@congreso.gob.gt",
       "gender": "male",
       "id": "1229e6e6-da53-4336-8783-5a9a2c816eaa",
       "identifiers": [
@@ -579,17 +491,6 @@
     },
     {
       "birth_date": "1955-08-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jponce@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 2369/2370/2388/2371"
-        }
-      ],
-      "email": "jponce@congreso.gob.gt",
       "gender": "male",
       "id": "15bc776a-5fbf-4459-a28b-1886e59ea455",
       "identifiers": [
@@ -637,17 +538,6 @@
     },
     {
       "birth_date": "1976-02-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jgarcia@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Jgarcia@congreso.gob.gt",
       "gender": "male",
       "id": "18545ba2-3a4f-4527-a0a7-18d32c36fcb9",
       "identifiers": [
@@ -724,17 +614,6 @@
     },
     {
       "birth_date": "1976-03-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jecheverria@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Jecheverria@congreso.gob.gt",
       "gender": "male",
       "id": "1ab958a5-8957-4ca0-8d6e-d20fb3da8326",
       "identifiers": [
@@ -782,17 +661,6 @@
     },
     {
       "birth_date": "1956-05-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Lrabbe@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Lrabbe@congreso.gob.gt",
       "gender": "male",
       "given_name": "Luis",
       "id": "1b061e3b-029f-4325-be27-485dd0c49efd",
@@ -956,17 +824,6 @@
     },
     {
       "birth_date": "1958-10-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jcojti@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 1308/1309"
-        }
-      ],
-      "email": "jcojti@congreso.gob.gt",
       "gender": "male",
       "id": "1fb91d7a-9193-494a-b46b-e486b3a5fc6e",
       "identifiers": [
@@ -1004,17 +861,6 @@
     },
     {
       "birth_date": "1971-12-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "spenados@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "spenados@congreso.gob.gt",
       "gender": "male",
       "id": "250c13b5-cd2e-4cbf-bddb-4b3c28615008",
       "identifiers": [
@@ -1052,17 +898,6 @@
     },
     {
       "birth_date": "1968-10-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Aguzman@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Aguzman@congreso.gob.gt",
       "gender": "female",
       "id": "261358c4-1345-4389-b867-7469bebe1314",
       "identifiers": [
@@ -1110,17 +945,6 @@
     },
     {
       "birth_date": "1981-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Phernandez@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Phernandez@congreso.gob.gt",
       "gender": "male",
       "id": "292a28f2-6d45-4c75-b511-04d221231865",
       "identifiers": [
@@ -1158,17 +982,6 @@
     },
     {
       "birth_date": "1975-10-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Sgarcia@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "(502) 2244-7878 Ext 2180"
-        }
-      ],
-      "email": "Sgarcia@congreso.gob.gt",
       "gender": "male",
       "id": "2a0d9302-0440-47eb-858d-9c243e50a14b",
       "identifiers": [
@@ -1263,17 +1076,6 @@
     },
     {
       "birth_date": "1967-09-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mdiaz@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "mdiaz@congreso.gob.gt",
       "gender": "male",
       "id": "2c8af400-981f-410b-9f81-f1299e94f973",
       "identifiers": [
@@ -1329,17 +1131,6 @@
     },
     {
       "birth_date": "1957-02-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lsoto@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "lsoto@congreso.gob.gt",
       "gender": "male",
       "id": "2e3d197f-2c6b-4455-ae8d-f65f84bd1b8e",
       "identifiers": [
@@ -1358,17 +1149,6 @@
     },
     {
       "birth_date": "2012-01-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gecheverria@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Gecheverria@congreso.gob.gt",
       "gender": "male",
       "id": "2e83520f-a15a-41fd-9970-df6d24ee549c",
       "identifiers": [
@@ -1387,17 +1167,6 @@
     },
     {
       "birth_date": "1980-11-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Lfernandez@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Lfernandez@congreso.gob.gt",
       "gender": "male",
       "id": "2f75ca42-3a49-4518-ae61-9a2a711b1e05",
       "identifiers": [
@@ -1416,17 +1185,6 @@
     },
     {
       "birth_date": "1953-12-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bhichos@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 2374"
-        }
-      ],
-      "email": "bhichos@congreso.gob.gt",
       "gender": "male",
       "id": "2fac0565-6cd0-4ea1-92cb-7677d7a59c2a",
       "identifiers": [
@@ -1445,17 +1203,6 @@
     },
     {
       "birth_date": "1954-08-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Fmerida@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Fmerida@congreso.gob.gt",
       "gender": "male",
       "id": "3017bf90-395a-4927-9cbf-283534b28ac4",
       "identifiers": [
@@ -1540,17 +1287,6 @@
     },
     {
       "birth_date": "1954-03-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cgramajo@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22205417 Ext ."
-        }
-      ],
-      "email": "cgramajo@congreso.gob.gt",
       "gender": "male",
       "id": "34598b5e-b665-4354-a31a-d207f75bbb6f",
       "identifiers": [
@@ -1617,17 +1353,6 @@
     },
     {
       "birth_date": "2012-01-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Mosorio@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Mosorio@congreso.gob.gt",
       "gender": "male",
       "id": "36056d15-f68a-44e9-ad43-5d7239434b6f",
       "identifiers": [
@@ -1646,17 +1371,6 @@
     },
     {
       "birth_date": "1969-03-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "luisfernandoperez@pri.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22204014 Ext 1278 y 1249"
-        }
-      ],
-      "email": "luisfernandoperez@pri.gt",
       "gender": "male",
       "id": "36e500d1-17ff-47e7-9d13-dc9189d54272",
       "identifiers": [
@@ -1675,17 +1389,6 @@
     },
     {
       "birth_date": "1953-10-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pduarte@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22301772 Ext 1206"
-        }
-      ],
-      "email": "pduarte@congreso.gob.gt",
       "gender": "male",
       "id": "38070bc0-cea6-4fc4-830d-f401b319b1e5",
       "identifiers": [
@@ -1704,17 +1407,6 @@
     },
     {
       "birth_date": "1965-03-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Aroblero@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22534971 Ext"
-        }
-      ],
-      "email": "Aroblero@congreso.gob.gt",
       "gender": "male",
       "id": "38ad5eed-4419-46e1-8209-c57936c75ce1",
       "identifiers": [
@@ -1935,17 +1627,6 @@
     },
     {
       "birth_date": "1961-10-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eavila@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 1211/1209"
-        }
-      ],
-      "email": "eavila@congreso.gob.gt",
       "gender": "male",
       "id": "3fd904ce-3021-4a20-a1e5-3e00210f3dd0",
       "identifiers": [
@@ -2012,17 +1693,6 @@
     },
     {
       "birth_date": "1965-07-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jbarrios@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22447079 / 22447080 Ext 1477 / 1745"
-        }
-      ],
-      "email": "jbarrios@congreso.gob.gt",
       "gender": "male",
       "id": "42df2f83-b316-4600-940a-8c2493cb7a08",
       "identifiers": [
@@ -2041,17 +1711,6 @@
     },
     {
       "birth_date": "1965-07-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jbracamonte@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Jbracamonte@congreso.gob.gt",
       "gender": "male",
       "id": "435e979c-b0f7-450b-9221-9259eb398324",
       "identifiers": [
@@ -2166,17 +1825,6 @@
     },
     {
       "birth_date": "1977-07-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jmaldonado@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22533462 Ext"
-        }
-      ],
-      "email": "Jmaldonado@congreso.gob.gt",
       "gender": "female",
       "id": "4c9e0d90-c67a-4326-915f-58ed85f5dbcb",
       "identifiers": [
@@ -2329,17 +1977,6 @@
     },
     {
       "birth_date": "1965-05-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gnolasco@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Gnolasco@congreso.gob.gt",
       "gender": "male",
       "id": "53013328-ecde-4eb0-8d79-8f8b0712a71a",
       "identifiers": [
@@ -2454,17 +2091,6 @@
     },
     {
       "birth_date": "1960-10-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jalejos@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22447878 Ext 2407"
-        }
-      ],
-      "email": "jalejos@congreso.gob.gt",
       "gender": "male",
       "given_name": "José",
       "id": "5cb60b8c-4dec-456f-87a9-6ddc6315ac92",
@@ -2506,17 +2132,6 @@
     },
     {
       "birth_date": "1970-01-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jxicay@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Jxicay@congreso.gob.gt",
       "gender": "male",
       "id": "5cea4f6e-9aaa-4ec1-a320-8f0275c60359",
       "identifiers": [
@@ -2601,17 +2216,6 @@
     },
     {
       "birth_date": "1967-08-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vlopez@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 2524/2525/2526"
-        }
-      ],
-      "email": "vlopez@congreso.gob.gt",
       "gender": "female",
       "id": "61e7fdb5-e78d-4b54-8290-00679229bd24",
       "identifiers": [
@@ -2678,17 +2282,6 @@
     },
     {
       "birth_date": "2012-06-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Mlpineda@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Mlpineda@congreso.gob.gt",
       "gender": "female",
       "id": "643273b5-8ce9-452a-9be7-93e7490425fb",
       "identifiers": [
@@ -2726,17 +2319,6 @@
     },
     {
       "birth_date": "1970-12-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Eseidner@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Eseidner@congreso.gob.gt",
       "gender": "male",
       "id": "67fe60c6-ca02-42e7-8070-608eec446bb7",
       "identifiers": [
@@ -2774,17 +2356,6 @@
     },
     {
       "birth_date": "1953-08-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manuelbarquin1802@gmail.com"
-        },
-        {
-          "type": "phone",
-          "value": "2244-7878 Ext 1164"
-        }
-      ],
-      "email": "manuelbarquin1802@gmail.com",
       "gender": "male",
       "id": "6bad4835-568e-4f71-805e-853a2a5a5b1d",
       "identifiers": [
@@ -2822,17 +2393,6 @@
     },
     {
       "birth_date": "1967-07-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "grivera@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 2452/453"
-        }
-      ],
-      "email": "grivera@congreso.gob.gt",
       "gender": "male",
       "id": "6fe358bf-ea5d-469a-a02f-8dcd1fb0c4c7",
       "identifiers": [
@@ -2889,17 +2449,6 @@
     },
     {
       "birth_date": "1961-12-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Cduarte@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Cduarte@congreso.gob.gt",
       "gender": "male",
       "id": "70d2d9ff-3029-4dac-ab65-87434c7ab7df",
       "identifiers": [
@@ -2918,17 +2467,6 @@
     },
     {
       "birth_date": "1951-08-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Cherrera@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22447116 - 22447117 Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Cherrera@congreso.gob.gt",
       "gender": "male",
       "id": "71937123-2a43-4299-a37a-ffc495abcb2e",
       "identifiers": [
@@ -2976,17 +2514,6 @@
     },
     {
       "birth_date": "1955-08-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Mtorres@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Mtorres@congreso.gob.gt",
       "gender": "male",
       "id": "72da54cf-8c87-445e-a8ff-71e44386ce36",
       "identifiers": [
@@ -3072,17 +2599,6 @@
     },
     {
       "birth_date": "1967-03-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jlopez@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22203053/22391117 Ext ."
-        }
-      ],
-      "email": "jlopez@congreso.gob.gt",
       "gender": "male",
       "id": "78ba4250-f61b-4a15-9794-0429a65f6045",
       "identifiers": [
@@ -3159,17 +2675,6 @@
     },
     {
       "birth_date": "1964-01-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "wrecinos@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext"
-        }
-      ],
-      "email": "wrecinos@congreso.gob.gt",
       "gender": "male",
       "id": "7b758b36-8481-41da-bbd7-00e64de54252",
       "identifiers": [
@@ -3225,17 +2730,6 @@
     },
     {
       "birth_date": "2012-01-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Flima@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Flima@congreso.gob.gt",
       "gender": "male",
       "id": "7d029fd3-450d-430e-8c21-6c4ff38cd1fc",
       "identifiers": [
@@ -3254,17 +2748,6 @@
     },
     {
       "birth_date": "1967-06-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Lchavez@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Lchavez@congreso.gob.gt",
       "gender": "male",
       "id": "7d1429d5-be06-4aa9-8e0b-283169601fee",
       "identifiers": [
@@ -3283,17 +2766,6 @@
     },
     {
       "birth_date": "1973-02-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jurrea@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Jurrea@congreso.gob.gt",
       "gender": "male",
       "id": "7d655f67-d57d-4674-938a-b8e7eef31f58",
       "identifiers": [
@@ -3312,17 +2784,6 @@
     },
     {
       "birth_date": "1976-07-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mchuta@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "2244-7250 Ext 2565"
-        }
-      ],
-      "email": "mchuta@congreso.gob.gt",
       "gender": "male",
       "id": "7d700fc4-32b1-4684-b482-5848be3ff468",
       "identifiers": [
@@ -3341,17 +2802,6 @@
     },
     {
       "birth_date": "1957-07-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jmartinez@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 2529/2530"
-        }
-      ],
-      "email": "jmartinez@congreso.gob.gt",
       "gender": "male",
       "id": "802b6cb0-727f-4239-8c05-fd841e3b6692",
       "identifiers": [
@@ -3476,17 +2926,6 @@
     },
     {
       "birth_date": "1962-09-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rsandoval@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22447878 Ext 1549"
-        }
-      ],
-      "email": "rsandoval@congreso.gob.gt",
       "gender": "male",
       "id": "82141a6b-9f8f-413c-aa53-cb05bd06427e",
       "identifiers": [
@@ -3590,17 +3029,6 @@
     },
     {
       "birth_date": "1949-08-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "acrespo@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22515957 Ext"
-        }
-      ],
-      "email": "acrespo@congreso.gob.gt",
       "gender": "male",
       "id": "8c71bb81-2cc1-4c1e-be19-36ffeab9917e",
       "identifiers": [
@@ -3648,17 +3076,6 @@
     },
     {
       "birth_date": "1964-04-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "asalguero@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext"
-        }
-      ],
-      "email": "asalguero@congreso.gob.gt",
       "gender": "male",
       "id": "8ca7b4ff-e225-4e2c-90c6-763d6f60025e",
       "identifiers": [
@@ -3725,17 +3142,6 @@
     },
     {
       "birth_date": "1948-07-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Mvillacorta@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Mvillacorta@congreso.gob.gt",
       "gender": "male",
       "id": "907e4196-79b7-40ee-8007-ac733203cf40",
       "identifiers": [
@@ -3773,17 +3179,6 @@
     },
     {
       "birth_date": "1989-03-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Mestradar@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22447878 Ext 1123 y 1297"
-        }
-      ],
-      "email": "Mestradar@congreso.gob.gt",
       "gender": "male",
       "id": "937887cd-4297-43e6-975f-a3346d4dedae",
       "identifiers": [
@@ -3850,17 +3245,6 @@
     },
     {
       "birth_date": "1969-04-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Nirodas@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Nirodas@congreso.gob.gt",
       "gender": "male",
       "id": "9711d8f7-fecf-44e0-9a5a-2a6e76ccb018",
       "identifiers": [
@@ -4052,17 +3436,6 @@
     },
     {
       "birth_date": "1967-02-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "alvaro.gonzalez.ricci@gmail.com"
-        },
-        {
-          "type": "phone",
-          "value": "22447878 Ext 2185"
-        }
-      ],
-      "email": "alvaro.gonzalez.ricci@gmail.com",
       "gender": "male",
       "id": "a055911b-423f-4f5e-9872-f829ffe800bf",
       "identifiers": [
@@ -4298,17 +3671,6 @@
     },
     {
       "birth_date": "1969-12-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bcanastuj@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext"
-        }
-      ],
-      "email": "bcanastuj@congreso.gob.gt",
       "gender": "female",
       "id": "a6ef64e6-74ae-42b4-8e02-106c7d958b90",
       "identifiers": [
@@ -4327,17 +3689,6 @@
     },
     {
       "birth_date": "2012-02-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gsierra@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Gsierra@congreso.gob.gt",
       "gender": "male",
       "id": "a7ee0010-51ec-4bfe-a452-7a7dea3e0558",
       "identifiers": [
@@ -4519,17 +3870,6 @@
     },
     {
       "birth_date": "1976-10-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "equej@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext"
-        }
-      ],
-      "email": "equej@congreso.gob.gt",
       "gender": "male",
       "id": "ba4a9af9-75a1-44fc-9492-905d4ac872ac",
       "identifiers": [
@@ -4596,17 +3936,6 @@
     },
     {
       "birth_date": "1969-05-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "drivera@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext"
-        }
-      ],
-      "email": "drivera@congreso.gob.gt",
       "gender": "female",
       "id": "bae24331-70af-436b-927a-6c5afcf2c07e",
       "identifiers": [
@@ -4750,17 +4079,6 @@
     },
     {
       "birth_date": "1964-01-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "restrada@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22204525 Ext"
-        }
-      ],
-      "email": "restrada@congreso.gob.gt",
       "gender": "male",
       "id": "c28ad9f7-f836-47cc-9b45-6f288ab04298",
       "identifiers": [
@@ -4846,17 +4164,6 @@
     },
     {
       "birth_date": "1951-01-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Cbatres@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Cbatres@congreso.gob.gt",
       "gender": "male",
       "id": "c73a5d0c-9611-497d-9183-a11aee503f82",
       "identifiers": [
@@ -4875,17 +4182,6 @@
     },
     {
       "birth_date": "1971-03-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "midiputado@gmail.com"
-        },
-        {
-          "type": "phone",
-          "value": "2244-7878 Ext Ext. 1510"
-        }
-      ],
-      "email": "midiputado@gmail.com",
       "gender": "male",
       "id": "c79215e5-0d5e-490f-a8fd-b1198f680156",
       "identifiers": [
@@ -4922,17 +4218,6 @@
     },
     {
       "birth_date": "1972-07-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Ecristiani@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Ecristiani@congreso.gob.gt",
       "gender": "male",
       "id": "c8bdf481-1e73-4af9-ac20-51c1fc8715f8",
       "identifiers": [
@@ -4951,17 +4236,6 @@
     },
     {
       "birth_date": "1967-11-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eajcip@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22447878 Ext"
-        }
-      ],
-      "email": "eajcip@congreso.gob.gt",
       "gender": "male",
       "id": "c9d52b50-dcc0-4de4-8450-2a0f70afb836",
       "identifiers": [
@@ -5009,17 +4283,6 @@
     },
     {
       "birth_date": "1962-06-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jalcazar@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Ext 2444"
-        }
-      ],
-      "email": "jalcazar@congreso.gob.gt",
       "gender": "male",
       "id": "cb859358-8fbc-41e0-93a6-210208c08480",
       "identifiers": [
@@ -5095,17 +4358,6 @@
     },
     {
       "birth_date": "1961-10-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "clopez@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22204017/22391060 Ext 2410"
-        }
-      ],
-      "email": "clopez@congreso.gob.gt",
       "gender": "male",
       "id": "d1e09018-0eea-462d-b8aa-a0d5fa416222",
       "identifiers": [
@@ -5162,17 +4414,6 @@
     },
     {
       "birth_date": "1961-05-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Lbalcarcel@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Lbalcarcel@congreso.gob.gt",
       "gender": "male",
       "id": "d335bb51-7ed1-4054-98f2-7e9d69bea40f",
       "identifiers": [
@@ -5191,17 +4432,6 @@
     },
     {
       "birth_date": "1965-01-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jralda@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Jralda@congreso.gob.gt",
       "gender": "male",
       "id": "d4182a53-8fe7-4ee5-9fb9-eb0563a1b958",
       "identifiers": [
@@ -5220,17 +4450,6 @@
     },
     {
       "birth_date": "2012-01-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Fyojcom@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Fyojcom@congreso.gob.gt",
       "gender": "male",
       "id": "d4394172-3a12-44fd-b366-495ca3153724",
       "identifiers": [
@@ -5297,17 +4516,6 @@
     },
     {
       "birth_date": "1977-08-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Atrujillo@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Atrujillo@congreso.gob.gt",
       "gender": "male",
       "id": "d5df459d-ad9f-41bd-a522-a3df68c70da5",
       "identifiers": [
@@ -5345,17 +4553,6 @@
     },
     {
       "birth_date": "1973-05-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jren@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Jren@congreso.gob.gt",
       "gender": "male",
       "id": "d7c28403-6aa0-4409-84e9-06140c02f0f3",
       "identifiers": [
@@ -5374,17 +4571,6 @@
     },
     {
       "birth_date": "2014-11-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rsmazariegos@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "rsmazariegos@congreso.gob.gt",
       "gender": "male",
       "id": "d9d86d61-4062-4aee-bd50-47df43839cf1",
       "identifiers": [
@@ -5403,17 +4589,6 @@
     },
     {
       "birth_date": "1972-03-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Nrodas@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Nrodas@congreso.gob.gt",
       "gender": "male",
       "id": "d9f318d9-9419-4c91-8452-e0a53908821f",
       "identifiers": [
@@ -5432,17 +4607,6 @@
     },
     {
       "birth_date": "1972-11-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rperez@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Rperez@congreso.gob.gt",
       "gender": "male",
       "id": "db506a49-63fb-441e-9eaf-82b7872ed807",
       "identifiers": [
@@ -5518,17 +4682,6 @@
     },
     {
       "birth_date": "1972-08-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Myanes@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Myanes@congreso.gob.gt",
       "gender": "male",
       "id": "dd1d613c-32d9-4b5f-bc4c-0d56385edde8",
       "identifiers": [
@@ -5631,17 +4784,6 @@
     },
     {
       "birth_date": "1954-07-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Arabbe@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Arabbe@congreso.gob.gt",
       "gender": "male",
       "id": "df00907a-326c-4c44-b765-01066990b0fd",
       "identifiers": [
@@ -5718,17 +4860,6 @@
     },
     {
       "birth_date": "2012-01-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Lbuezo@Congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": ". Ext ."
-        }
-      ],
-      "email": "Lbuezo@Congreso.gob.gt",
       "gender": "female",
       "id": "e0af44d2-d81a-4c0a-b2ee-199361197c5c",
       "identifiers": [
@@ -5766,17 +4897,6 @@
     },
     {
       "birth_date": "1950-11-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cfajardo@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22204022 Ext"
-        }
-      ],
-      "email": "cfajardo@congreso.gob.gt",
       "gender": "male",
       "id": "e409d721-d3c4-441a-ac9e-0922a94a0ffc",
       "identifiers": [
@@ -5833,17 +4953,6 @@
     },
     {
       "birth_date": "1976-02-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "juancarlosrivera@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "2244-7878 Ext 2150"
-        }
-      ],
-      "email": "juancarlosrivera@congreso.gob.gt",
       "gender": "male",
       "id": "e6348979-f813-4f8f-a59b-0c93a45bfac9",
       "identifiers": [
@@ -5862,17 +4971,6 @@
     },
     {
       "birth_date": "1985-05-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Hfmoran@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22447878 Ext 1212"
-        }
-      ],
-      "email": "Hfmoran@congreso.gob.gt",
       "gender": "male",
       "id": "e65b3491-f569-4f8a-95ea-0f09e95427db",
       "identifiers": [
@@ -5891,17 +4989,6 @@
     },
     {
       "birth_date": "1961-08-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Pmuadi@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Pmuadi@congreso.gob.gt",
       "gender": "male",
       "id": "e8bd48fb-b07e-4d8a-9951-d228d8952c58",
       "identifiers": [
@@ -5920,17 +5007,6 @@
     },
     {
       "birth_date": "1964-11-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cmilian@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22447157 Ext 2457"
-        }
-      ],
-      "email": "cmilian@congreso.gob.gt",
       "gender": "male",
       "id": "e99994d4-cf34-41ef-a52a-a029480b57c0",
       "identifiers": [
@@ -5968,17 +5044,6 @@
     },
     {
       "birth_date": "1971-01-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gsanchez@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Gsanchez@congreso.gob.gt",
       "gender": "female",
       "id": "e9b468b6-fcb5-404e-80aa-6ab760f32b3b",
       "identifiers": [
@@ -6014,17 +5079,6 @@
     },
     {
       "birth_date": "1949-04-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rsaravia@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22205919/2220437 Ext 1230"
-        }
-      ],
-      "email": "rsaravia@congreso.gob.gt",
       "gender": "male",
       "id": "eaec60ff-1818-43e4-aea7-e29f80f2f55b",
       "identifiers": [
@@ -6400,17 +5454,6 @@
     },
     {
       "birth_date": "1962-05-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "marreaga@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "2244-7878 y 22301865 Ext ."
-        }
-      ],
-      "email": "marreaga@congreso.gob.gt",
       "gender": "female",
       "id": "f7a7284a-8aa7-4354-8f17-ee3cdbbb3cf9",
       "identifiers": [
@@ -6429,17 +5472,6 @@
     },
     {
       "birth_date": "2012-01-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Acastillo@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "Acastillo@congreso.gob.gt",
       "gender": "male",
       "id": "fcc84e41-7577-47e5-b0b7-23e45531a38e",
       "identifiers": [
@@ -6458,17 +5490,6 @@
     },
     {
       "birth_date": "1980-01-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gaquino@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "Aquí debe de ingresar su teléfono Ext Aquí debe de ingresar su extensión"
-        }
-      ],
-      "email": "gaquino@congreso.gob.gt",
       "gender": "female",
       "id": "fd6723f6-f389-4239-90fc-7a29a780d8f7",
       "identifiers": [
@@ -6537,17 +5558,6 @@
     },
     {
       "birth_date": "1954-05-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rkestler@congreso.gob.gt"
-        },
-        {
-          "type": "phone",
-          "value": "22447016 Ext 2316"
-        }
-      ],
-      "email": "rkestler@congreso.gob.gt",
       "gender": "male",
       "id": "fe29897a-ed38-42e8-bcc2-2c1d22f11034",
       "identifiers": [
