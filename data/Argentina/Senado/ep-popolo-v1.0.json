@@ -7,15 +7,10 @@
       "birth_date": "1954-05-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "lnegre@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "LNegreOficial"
         }
       ],
-      "email": "lnegre@senado.gob.ar",
       "family_name": "Negre de Alonso",
       "gender": "female",
       "given_name": "Liliana Teresita",
@@ -87,15 +82,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "ines.blas@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "SenadoraBlas"
         }
       ],
-      "email": "ines.blas@senado.gob.ar",
       "family_name": "Blas",
       "gender": "female",
       "given_name": "Inés Imelda",
@@ -140,15 +130,10 @@
       "birth_date": "1957-02-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "liliana.fellner@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "Liliana_Fellner"
         }
       ],
-      "email": "liliana.fellner@senado.gob.ar",
       "family_name": "Fellner",
       "gender": "female",
       "given_name": "Liliana Beatriz",
@@ -200,15 +185,10 @@
       "birth_date": "1967-09-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sandra.gimenez@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "SandraSenadora"
         }
       ],
-      "email": "sandra.gimenez@senado.gob.ar",
       "family_name": "Giménez",
       "gender": "female",
       "given_name": "Sandra Daniela",
@@ -256,15 +236,10 @@
       "birth_date": "1967-07-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "luis.petcoffnaidenoff@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "luisnaidenoff"
         }
       ],
-      "email": "luis.petcoffnaidenoff@senado.gob.ar",
       "family_name": "Petcoff Naidenoff",
       "gender": "male",
       "given_name": "Luis Carlos",
@@ -320,15 +295,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "silvia.giacoppo@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "giacopposilvia"
         }
       ],
-      "email": "silvia.giacoppo@senado.gob.ar",
       "family_name": "Giacoppo",
       "gender": "female",
       "given_name": "Silvia del Rosario",
@@ -363,13 +333,6 @@
       "sort_name": "Giacoppo Silvia del Rosario"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carlos.caserio@senado.gob.ar"
-        }
-      ],
-      "email": "carlos.caserio@senado.gob.ar",
       "family_name": "Caserio",
       "gender": "male",
       "given_name": "Carlos Alberto",
@@ -397,15 +360,10 @@
       "birth_date": "1970-08-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.sacnun@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "sacnun"
         }
       ],
-      "email": "maria.sacnun@senado.gob.ar",
       "family_name": "Sacnun",
       "gender": "female",
       "given_name": "María de los Ángeles",
@@ -443,13 +401,6 @@
       "sort_name": "Sacnun María de los Ángeles"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gerardo.montenegro@senado.gob.ar"
-        }
-      ],
-      "email": "gerardo.montenegro@senado.gob.ar",
       "family_name": "Montenegro",
       "gender": "male",
       "given_name": "Gerardo Antenor",
@@ -475,13 +426,6 @@
     },
     {
       "birth_date": "1948-10-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "marcelo.fuentes@senado.gob.ar"
-        }
-      ],
-      "email": "marcelo.fuentes@senado.gob.ar",
       "family_name": "Fuentes",
       "gender": "male",
       "given_name": "Marcelo Jorge",
@@ -532,15 +476,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "pamela.verasay@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "PameVerasay"
         }
       ],
-      "email": "pamela.verasay@senado.gob.ar",
       "family_name": "Verasay",
       "gender": "female",
       "given_name": "Pamela Fernanda",
@@ -583,13 +522,6 @@
     },
     {
       "birth_date": "1954-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nestor.braillardpoccard@senado.gob.ar"
-        }
-      ],
-      "email": "nestor.braillardpoccard@senado.gob.ar",
       "family_name": "Braillard Poccard",
       "gender": "male",
       "given_name": "Néstor Pedro",
@@ -636,15 +568,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "hilda.aguirre@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "bebasoria"
         }
       ],
-      "email": "hilda.aguirre@senado.gob.ar",
       "family_name": "Aguirre",
       "gender": "female",
       "given_name": "Hilda Clelia",
@@ -678,15 +605,10 @@
       "birth_date": "1964-01-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gerardo.zamora@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "GZamoraSDE"
         }
       ],
-      "email": "gerardo.zamora@senado.gob.ar",
       "family_name": "Zamora",
       "gender": "male",
       "given_name": "Gerardo",
@@ -731,15 +653,10 @@
       "birth_date": "1960",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juan.irrazabal@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "JuanchIrrazabal"
         }
       ],
-      "email": "juan.irrazabal@senado.gob.ar",
       "family_name": "Irrazábal",
       "gender": "male",
       "given_name": "Juan Manuel",
@@ -771,13 +688,6 @@
     },
     {
       "birth_date": "1947-07-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "adolfo.rodriguezsaa@senado.gob.ar"
-        }
-      ],
-      "email": "adolfo.rodriguezsaa@senado.gob.ar",
       "family_name": "Rodríguez Saá",
       "gender": "male",
       "given_name": "Adolfo",
@@ -1057,15 +967,10 @@
       "birth_date": "1963-10-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juan.marino@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "Juancmarino"
         }
       ],
-      "email": "juan.marino@senado.gob.ar",
       "family_name": "Marino",
       "gender": "male",
       "given_name": "Juan Carlos",
@@ -1114,15 +1019,10 @@
       "birth_date": "1950-11-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juan.romero@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "romeroxsalta"
         }
       ],
-      "email": "juan.romero@senado.gob.ar",
       "family_name": "Romero",
       "gender": "male",
       "given_name": "Juan Carlos",
@@ -1185,15 +1085,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "nancy.gonzalez@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "nancysgonzalez"
         }
       ],
-      "email": "nancy.gonzalez@senado.gob.ar",
       "family_name": "González",
       "gender": "female",
       "given_name": "Nancy Susana",
@@ -1226,15 +1121,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.labado@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "melabado"
         }
       ],
-      "email": "maria.labado@senado.gob.ar",
       "family_name": "Labado",
       "gender": "female",
       "given_name": "María Ester",
@@ -1270,15 +1160,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "silvia.elias@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "silviaEdePerez"
         }
       ],
-      "email": "silvia.elias@senado.gob.ar",
       "family_name": "Elías de Perez",
       "gender": "female",
       "given_name": "Silvia Beatriz",
@@ -1330,15 +1215,10 @@
       "birth_date": "1968-08-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "julio.catalanmagni@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "j_catalanmagni"
         }
       ],
-      "email": "julio.catalanmagni@senado.gob.ar",
       "family_name": "Catalán Magni",
       "gender": "male",
       "given_name": "Julio César",
@@ -1382,15 +1262,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "lucila.crexell@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "LucilaCrexell"
         }
       ],
-      "email": "lucila.crexell@senado.gob.ar",
       "family_name": "Crexell",
       "gender": "female",
       "given_name": "Carmen Lucila",
@@ -1428,15 +1303,10 @@
       "birth_date": "1974-02-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.fiorevinuales@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "fiore_cristina"
         }
       ],
-      "email": "maria.fiorevinuales@senado.gob.ar",
       "family_name": "Fiore Viñuales",
       "gender": "female",
       "given_name": "María Cristina del Valle",
@@ -1498,13 +1368,6 @@
     },
     {
       "birth_date": "1954-03-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "walter.barrionuevo@senado.gob.ar"
-        }
-      ],
-      "email": "walter.barrionuevo@senado.gob.ar",
       "family_name": "Barrionuevo",
       "gender": "male",
       "given_name": "Walter Basilio",
@@ -1552,15 +1415,10 @@
       "birth_date": "1959-09-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "omar.perotti@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "omarperotti"
         }
       ],
-      "email": "omar.perotti@senado.gob.ar",
       "family_name": "Perotti",
       "gender": "male",
       "given_name": "Omar Ángel",
@@ -1611,15 +1469,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "alfredo.luenzo@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "SenadorLuenzo"
         }
       ],
-      "email": "alfredo.luenzo@senado.gob.ar",
       "family_name": "Luenzo",
       "gender": "male",
       "given_name": "Alfredo Héctor",
@@ -1657,15 +1510,10 @@
       "birth_date": "1968-05-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "juan.abalmedina@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "juanabalmedina"
         }
       ],
-      "email": "juan.abalmedina@senado.gob.ar",
       "family_name": "Abal Medina",
       "gender": "male",
       "given_name": "Juan Manuel",
@@ -1751,15 +1599,10 @@
       "birth_date": "1942-04-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "reuteman@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "ReutemannC"
         }
       ],
-      "email": "reuteman@senado.gob.ar",
       "family_name": "Reutemann",
       "gender": "male",
       "given_name": "Carlos Alberto",
@@ -1963,15 +1806,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "dalmacio.mera@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "dalmaciomera"
         }
       ],
-      "email": "dalmacio.mera@senado.gob.ar",
       "family_name": "Mera",
       "gender": "male",
       "given_name": "Dalmacio",
@@ -2008,15 +1846,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "salvador.cabral@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "SalvadorCabralA"
         }
       ],
-      "email": "salvador.cabral@senado.gob.ar",
       "family_name": "Cabral",
       "gender": "male",
       "given_name": "Salvador",
@@ -2045,15 +1878,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "juan.pais@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "juanmariopais"
         }
       ],
-      "email": "juan.pais@senado.gob.ar",
       "family_name": "Pais",
       "gender": "male",
       "given_name": "Juan Mario",
@@ -2091,19 +1919,10 @@
       "birth_date": "1958-05-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "prensa.senadora.riofrio@senado.gob.ar"
-        },
-        {
-          "type": "email",
-          "value": "marina.riofrio@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "MarinaRRiofrio"
         }
       ],
-      "email": "prensa.senadora.riofrio@senado.gob.ar",
       "family_name": "Riofrío",
       "gender": "female",
       "given_name": "Marina Raquel",
@@ -2152,15 +1971,10 @@
       "birth_date": "1955-04-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jose.alperovich@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "JalperovichOK"
         }
       ],
-      "email": "jose.alperovich@senado.gob.ar",
       "family_name": "Alperovich",
       "gender": "male",
       "given_name": "José Jorge",
@@ -2224,15 +2038,10 @@
       "birth_date": "1955-04-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "julio.cobos@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "juliocobos"
         }
       ],
-      "email": "julio.cobos@senado.gob.ar",
       "family_name": "Cobos",
       "gender": "male",
       "given_name": "Julio César Cleto",
@@ -2418,15 +2227,10 @@
       "birth_date": "1950-03-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "angel.rozas@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "angelrozaschaco"
         }
       ],
-      "email": "angel.rozas@senado.gob.ar",
       "family_name": "Rozas",
       "gender": "male",
       "given_name": "Ángel",
@@ -2468,13 +2272,6 @@
       "sort_name": "Rozas Ángel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "beatriz.mirkin@senado.gob.ar"
-        }
-      ],
-      "email": "beatriz.mirkin@senado.gob.ar",
       "family_name": "Mirkin",
       "gender": "female",
       "given_name": "Beatriz Graciela",
@@ -2502,15 +2299,10 @@
       "birth_date": "1954-07-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pedro.guastavino@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "pemoguastavino"
         }
       ],
-      "email": "pedro.guastavino@senado.gob.ar",
       "family_name": "Guastavino",
       "gender": "male",
       "given_name": "Pedro Guillermo Ángel",
@@ -2556,13 +2348,6 @@
       "sort_name": "Guastavino Pedro Guillermo Ángel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mayans@senado.gob.ar"
-        }
-      ],
-      "email": "mayans@senado.gob.ar",
       "family_name": "Mayans",
       "gender": "male",
       "given_name": "José Miguel Ángel",
@@ -2607,15 +2392,10 @@
       "birth_date": "1936-02-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "fernando.solanas@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "fernandosolanas"
         }
       ],
-      "email": "fernando.solanas@senado.gob.ar",
       "family_name": "Solanas",
       "gender": "male",
       "given_name": "Fernando Ezequiel",
@@ -2914,13 +2694,6 @@
       "sort_name": "Solanas Fernando Ezequiel"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "daniel.lovera@senado.gob.ar"
-        }
-      ],
-      "email": "daniel.lovera@senado.gob.ar",
       "family_name": "Lovera",
       "gender": "male",
       "given_name": "Daniel Aníbal",
@@ -2953,15 +2726,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "norma.durango@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "norma_durango"
         }
       ],
-      "email": "norma.durango@senado.gob.ar",
       "family_name": "Durango",
       "gender": "female",
       "given_name": "Norma Haydée",
@@ -3000,13 +2768,6 @@
     },
     {
       "birth_date": "1956-06-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ernesto.martinez@senado.gob.ar"
-        }
-      ],
-      "email": "ernesto.martinez@senado.gob.ar",
       "family_name": "Martínez",
       "gender": "male",
       "given_name": "Ernesto Félix",
@@ -3043,15 +2804,10 @@
       "birth_date": "1930-07-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carlos.menem@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "CarlosMenem_LR"
         }
       ],
-      "email": "carlos.menem@senado.gob.ar",
       "family_name": "Menem",
       "gender": "male",
       "given_name": "Carlos Saúl",
@@ -3501,13 +3257,6 @@
       "sort_name": "Menem Carlos Saúl"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "virginia.garcia@senado.gob.ar"
-        }
-      ],
-      "email": "virginia.garcia@senado.gob.ar",
       "family_name": "García",
       "gender": "female",
       "given_name": "Virginia María",
@@ -3535,13 +3284,6 @@
     },
     {
       "birth_date": "1950-10-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pichetto@senado.gob.ar"
-        }
-      ],
-      "email": "pichetto@senado.gob.ar",
       "family_name": "Pichetto",
       "gender": "male",
       "given_name": "Miguel Ángel",
@@ -3603,13 +3345,6 @@
     },
     {
       "birth_date": "1969-01-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "silvina.garcialarraburu@senado.gob.ar"
-        }
-      ],
-      "email": "silvina.garcialarraburu@senado.gob.ar",
       "family_name": "García Larraburu",
       "gender": "female",
       "given_name": "Silvina Marcela",
@@ -3657,15 +3392,10 @@
       "birth_date": "1971",
       "contact_details": [
         {
-          "type": "email",
-          "value": "eduardo.aguilar@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "eduar_aguilar"
         }
       ],
-      "email": "eduardo.aguilar@senado.gob.ar",
       "family_name": "Aguilar",
       "gender": "male",
       "given_name": "Eduardo Alberto",
@@ -3722,15 +3452,10 @@
       "birth_date": "1969-06-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sigrid.kunath@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "SigridKunath"
         }
       ],
-      "email": "sigrid.kunath@senado.gob.ar",
       "family_name": "Kunath",
       "gender": "female",
       "given_name": "Sigrid Elisabeth",
@@ -3771,15 +3496,10 @@
       "birth_date": "1965-12-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.odarda@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "MagdalenaOdarda"
         }
       ],
-      "email": "maria.odarda@senado.gob.ar",
       "family_name": "Odarda",
       "gender": "female",
       "given_name": "María Magdalena",
@@ -3835,15 +3555,10 @@
       "birth_date": "1950-09-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marta.varela@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "MLVarela"
         }
       ],
-      "email": "marta.varela@senado.gob.ar",
       "family_name": "Varela",
       "gender": "female",
       "given_name": "Marta",
@@ -3885,15 +3600,10 @@
       "birth_date": "1984-04-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "anabel.fernandezsagasti@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "afernandezk"
         }
       ],
-      "email": "anabel.fernandezsagasti@senado.gob.ar",
       "family_name": "Fernández Sagasti",
       "gender": "female",
       "given_name": "Anabel",
@@ -3936,13 +3646,6 @@
     },
     {
       "birth_date": "1961-10-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "daniel.persico@senado.gob.ar"
-        }
-      ],
-      "email": "daniel.persico@senado.gob.ar",
       "family_name": "Pérsico",
       "gender": "male",
       "given_name": "Daniel Raúl",
@@ -3986,15 +3689,10 @@
       "birth_date": "1954-01-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "castillo@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "Oacastillo"
         }
       ],
-      "email": "castillo@senado.gob.ar",
       "family_name": "Castillo",
       "gender": "male",
       "given_name": "Oscar Aníbal",
@@ -4051,15 +3749,10 @@
       "birth_date": "1965-01-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.leguizamon@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "MLLeguizamon"
         }
       ],
-      "email": "maria.leguizamon@senado.gob.ar",
       "family_name": "Leguizamón",
       "gender": "female",
       "given_name": "María Laura",
@@ -4101,13 +3794,6 @@
       "sort_name": "Leguizamón María Laura"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maria.gonzalez@senado.gob.ar"
-        }
-      ],
-      "email": "maria.gonzalez@senado.gob.ar",
       "family_name": "González",
       "gender": "female",
       "given_name": "María Teresa Margarita",
@@ -4135,15 +3821,10 @@
       "birth_date": "1955-12-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "federico.pinedo@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "PinedoFederico"
         }
       ],
-      "email": "federico.pinedo@senado.gob.ar",
       "family_name": "Pinedo",
       "gender": "male",
       "given_name": "Federico",
@@ -4218,15 +3899,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "miriam.boyadjian@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "BoyadjianMiriam"
         }
       ],
-      "email": "miriam.boyadjian@senado.gob.ar",
       "family_name": "Boyadjian",
       "gender": "female",
       "given_name": "Miriam Ruth",
@@ -4264,15 +3940,10 @@
       "birth_date": "1953-03-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ruperto.godoy@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "RupertoGodoy"
         }
       ],
-      "email": "ruperto.godoy@senado.gob.ar",
       "family_name": "Godoy",
       "gender": "male",
       "given_name": "Ruperto Eduardo",
@@ -4313,15 +3984,10 @@
       "birth_date": "1951-09-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alfredo.martinez@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "martinezsenador"
         }
       ],
-      "email": "alfredo.martinez@senado.gob.ar",
       "family_name": "Martínez",
       "gender": "male",
       "given_name": "Alfredo Anselmo",
@@ -4373,15 +4039,10 @@
       "birth_date": "1956-07-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alfredo.deangeli@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "alfredodeangeli"
         }
       ],
-      "email": "alfredo.deangeli@senado.gob.ar",
       "family_name": "De Angeli",
       "gender": "male",
       "given_name": "Alfredo Luis",
@@ -4441,15 +4102,10 @@
       "birth_date": "1951-03-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jaime.linares@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "LinaresJaime"
         }
       ],
-      "email": "jaime.linares@senado.gob.ar",
       "family_name": "Linares",
       "gender": "male",
       "given_name": "Jaime",
@@ -4489,15 +4145,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "mirtha.luna@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "terelunalarioja"
         }
       ],
-      "email": "mirtha.luna@senado.gob.ar",
       "family_name": "Luna",
       "gender": "female",
       "given_name": "Mirtha María Teresita",
@@ -4526,15 +4177,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "ana.almiron@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "AnitaAlmiron"
         }
       ],
-      "email": "ana.almiron@senado.gob.ar",
       "family_name": "Almirón",
       "gender": "female",
       "given_name": "Ana Claudia",
@@ -4572,15 +4218,10 @@
       "birth_date": "1957-12-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "roberto.basualdo@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "RGBasualdo"
         }
       ],
-      "email": "roberto.basualdo@senado.gob.ar",
       "family_name": "Basualdo",
       "gender": "male",
       "given_name": "Roberto Gustavo",
@@ -4645,15 +4286,10 @@
       "birth_date": "1959-03-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rodolfo.urtubey@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "tolourtubey"
         }
       ],
-      "email": "rodolfo.urtubey@senado.gob.ar",
       "family_name": "Urtubey",
       "gender": "male",
       "given_name": "Rodolfo Julio",
@@ -4701,15 +4337,10 @@
       "birth_date": "1965-04-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "laura.rodriguezmachado@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "laurmachado"
         }
       ],
-      "email": "laura.rodriguezmachado@senado.gob.ar",
       "family_name": "Rodríguez Machado",
       "gender": "female",
       "given_name": "Laura Elena",
@@ -4763,13 +4394,6 @@
       "sort_name": "Rodríguez Machado Laura Elena"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "delarosa@senado.gov.ar"
-        }
-      ],
-      "email": "delarosa@senado.gov.ar",
       "family_name": "de la Rosa",
       "gender": "female",
       "given_name": "María Graciela",
@@ -4793,13 +4417,6 @@
       "sort_name": "de la Rosa María Graciela"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jose.ojeda@senado.gob.ar"
-        }
-      ],
-      "email": "jose.ojeda@senado.gob.ar",
       "family_name": "Ojeda",
       "gender": "male",
       "given_name": "José Anatolio",
@@ -4826,15 +4443,10 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "guillermo.pereyra@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "SenadorPereyra"
         }
       ],
-      "email": "guillermo.pereyra@senado.gob.ar",
       "family_name": "Pereyra",
       "gender": "male",
       "given_name": "Guillermo Juan",
@@ -4866,13 +4478,6 @@
     },
     {
       "birth_date": "1959-06-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ada.iturrez@senado.gob.ar"
-        }
-      ],
-      "email": "ada.iturrez@senado.gob.ar",
       "family_name": "Itúrrez de Cappellini",
       "gender": "female",
       "given_name": "Ada Rosa Del Valle",
@@ -4928,15 +4533,10 @@
       "birth_date": "1965-08-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "maria.pilattivergara@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "pilattivergara"
         }
       ],
-      "email": "maria.pilattivergara@senado.gob.ar",
       "family_name": "Pilatti Vergara",
       "gender": "female",
       "given_name": "María Inés",
@@ -4977,15 +4577,10 @@
       "birth_date": "1971-10-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carlos.espinola@senado.gob.ar"
-        },
-        {
           "type": "twitter",
           "value": "espinolacamau"
         }
       ],
-      "email": "carlos.espinola@senado.gob.ar",
       "family_name": "Espínola",
       "gender": "male",
       "given_name": "Carlos Mauricio",
