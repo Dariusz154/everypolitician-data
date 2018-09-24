@@ -493,13 +493,6 @@
     },
     {
       "birth_date": "1974-06-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gerold.buechel@landtag.li"
-        }
-      ],
-      "email": "gerold.buechel@landtag.li",
       "gender": "male",
       "given_name": "Gerold",
       "id": "1a9e92f1-f6bb-465c-920d-52685f6d9687",
@@ -1336,13 +1329,6 @@
     },
     {
       "birth_date": "1972-09-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "helen.konzett@landtag.li"
-        }
-      ],
-      "email": "helen.konzett@landtag.li",
       "gender": "female",
       "given_name": "Helen",
       "id": "778b1a2d-a54a-4cc2-8723-9d917354c61b",
@@ -2277,13 +2263,6 @@
     },
     {
       "birth_date": "1960-11-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "wolfgang.marxer@landtag.li"
-        }
-      ],
-      "email": "wolfgang.marxer@landtag.li",
       "family_name": "Marxer",
       "gender": "male",
       "given_name": "Wolfgang",
