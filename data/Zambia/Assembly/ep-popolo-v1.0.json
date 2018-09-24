@@ -5,13 +5,6 @@
   "persons": [
     {
       "birth_date": "1943-06-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ngwilombe@parliament.gov.zm"
-        }
-      ],
-      "email": "ngwilombe@parliament.gov.zm",
       "gender": "male",
       "id": "007673f7-ec39-4124-a175-338ee9c5a6b7",
       "identifiers": [
@@ -96,13 +89,6 @@
     },
     {
       "birth_date": "1977-04-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gmonde@parliament.gov.zm"
-        }
-      ],
-      "email": "gmonde@parliament.gov.zm",
       "gender": "male",
       "id": "02fe59c2-27ca-46e5-9501-f7ce5c492265",
       "identifiers": [
@@ -147,13 +133,6 @@
     },
     {
       "birth_date": "1956-02-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pamngoma@parliament.gov.zm"
-        }
-      ],
-      "email": "pamngoma@parliament.gov.zm",
       "id": "03c10119-cb85-4de9-b47c-d2e8aaf5b06f",
       "identifiers": [
         {
@@ -298,13 +277,6 @@
     },
     {
       "birth_date": "1947-12-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rshikapwasha@parliament.gov.zm"
-        }
-      ],
-      "email": "rshikapwasha@parliament.gov.zm",
       "gender": "male",
       "id": "0702c0cf-fe36-4909-b407-6071feecd946",
       "identifiers": [
@@ -389,13 +361,6 @@
     },
     {
       "birth_date": "1950-06-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mkjkatambo@parliament.gov.zm"
-        }
-      ],
-      "email": "mkjkatambo@parliament.gov.zm",
       "gender": "male",
       "id": "0c82d5ae-71ef-4160-97b3-d289dc55b482",
       "identifiers": [
@@ -414,13 +379,6 @@
     },
     {
       "birth_date": "1959-07-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "speaker@parliament.gov.zm"
-        }
-      ],
-      "email": "speaker@parliament.gov.zm",
       "gender": "male",
       "id": "0cc7d830-32c4-4a57-9037-1460dbc61ed6",
       "identifiers": [
@@ -439,13 +397,6 @@
     },
     {
       "birth_date": "1963-12-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dmwila@parliament.gov.zm"
-        }
-      ],
-      "email": "dmwila@parliament.gov.zm",
       "gender": "male",
       "id": "0df4250f-6641-4458-ad97-daa4593cc231",
       "identifiers": [
@@ -532,13 +483,6 @@
     },
     {
       "birth_date": "1970-03-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hhhamududu@parliament.gov.zm"
-        }
-      ],
-      "email": "hhhamududu@parliament.gov.zm",
       "gender": "male",
       "id": "10a8d15e-f2e3-4ac2-9e65-92fe981421ff",
       "identifiers": [
@@ -574,13 +518,6 @@
     },
     {
       "birth_date": "1965-06-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pmucheleka@parliament.gov.zm"
-        }
-      ],
-      "email": "pmucheleka@parliament.gov.zm",
       "gender": "male",
       "id": "10b404bb-8745-43ee-b43a-823db639bbb4",
       "identifiers": [
@@ -646,13 +583,6 @@
     },
     {
       "birth_date": "1955-04-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mamwali@parliament.gov.zm"
-        }
-      ],
-      "email": "mamwali@parliament.gov.zm",
       "gender": "male",
       "id": "146c6ce5-3073-40a7-85b8-c3762a6664f3",
       "identifiers": [
@@ -876,13 +806,6 @@
     },
     {
       "birth_date": "1973-09-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mhabeenzu@parliament.gov.zm"
-        }
-      ],
-      "email": "mhabeenzu@parliament.gov.zm",
       "gender": "male",
       "id": "246e9c62-8210-4e81-8e1d-1c82d29f9285",
       "identifiers": [
@@ -975,13 +898,6 @@
     },
     {
       "birth_date": "1949-07-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jmkapaya@parliament.gov.zm"
-        }
-      ],
-      "email": "jmkapaya@parliament.gov.zm",
       "gender": "male",
       "id": "28a7d7fe-3cbb-4790-9860-28f2715d9632",
       "identifiers": [
@@ -1097,14 +1013,7 @@
     },
     {
       "birth_date": "1949-04-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "himwanza@parliament.gov.zm"
-        }
-      ],
       "death_date": "2015-07-03",
-      "email": "himwanza@parliament.gov.zm",
       "gender": "male",
       "id": "2f7e806f-57c7-4604-bfb9-d1be7f5bc253",
       "identifiers": [
@@ -1220,13 +1129,6 @@
     },
     {
       "birth_date": "1965-07-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ydmukanga@parliament.gov.zm"
-        }
-      ],
-      "email": "ydmukanga@parliament.gov.zm",
       "gender": "male",
       "id": "34e9218b-8325-4c90-a20d-00accbc9f267",
       "identifiers": [
@@ -1245,13 +1147,6 @@
     },
     {
       "birth_date": "1950-09-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fshamenda@parliament.gov.zm"
-        }
-      ],
-      "email": "fshamenda@parliament.gov.zm",
       "gender": "male",
       "id": "36ac900c-a837-4ac9-b6cb-b37939fdbe51",
       "identifiers": [
@@ -1288,13 +1183,6 @@
     },
     {
       "birth_date": "1965-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mmumba@parliament.gov.zm"
-        }
-      ],
-      "email": "mmumba@parliament.gov.zm",
       "gender": "male",
       "id": "381da872-bad2-4c0d-b3f8-972f5644e97c",
       "identifiers": [
@@ -1338,13 +1226,6 @@
     },
     {
       "birth_date": "1966-07-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pnjeulu@parliament.gov.zm"
-        }
-      ],
-      "email": "pnjeulu@parliament.gov.zm",
       "gender": "male",
       "id": "39aa61dd-cad6-47e1-9886-f8aae1abb7ed",
       "identifiers": [
@@ -1388,13 +1269,6 @@
     },
     {
       "birth_date": "1957-03-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "amchungu@parliament.gov.zm"
-        }
-      ],
-      "email": "amchungu@parliament.gov.zm",
       "gender": "female",
       "id": "3a6a8385-2cd7-455f-8f14-0cfb64877bf9",
       "identifiers": [
@@ -1664,13 +1538,6 @@
     },
     {
       "birth_date": "1952-12-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "etchenda@parliament.gov.zm"
-        }
-      ],
-      "email": "etchenda@parliament.gov.zm",
       "gender": "male",
       "given_name": "Emmanuel",
       "id": "48a9cb9a-c10e-45c4-80f3-8e045a1f61df",
@@ -1707,13 +1574,6 @@
     },
     {
       "birth_date": "1978-04-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ssiyanga@parliament.gov.zm"
-        }
-      ],
-      "email": "ssiyanga@parliament.gov.zm",
       "gender": "male",
       "id": "48ae8b16-4831-4d4a-8f70-2c8a318d8766",
       "identifiers": [
@@ -1732,13 +1592,6 @@
     },
     {
       "birth_date": "1960-02-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rmbulo@parliament.gov.zm"
-        }
-      ],
-      "email": "rmbulo@parliament.gov.zm",
       "gender": "male",
       "id": "493a85e9-0e2e-4c20-859d-5fab1aa41f3d",
       "identifiers": [
@@ -1757,13 +1610,6 @@
     },
     {
       "birth_date": "1963-05-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jkufuna@parliament.gov.zmjkafuna@parliament.gov.zm"
-        }
-      ],
-      "email": "jkufuna@parliament.gov.zmjkafuna@parliament.gov.zm",
       "gender": "male",
       "id": "4a251a50-14fb-4f7d-bd27-701f13fbb2f7",
       "identifiers": [
@@ -1830,13 +1676,6 @@
     },
     {
       "birth_date": "1971-11-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dmwango@parliament.gov.zm"
-        }
-      ],
-      "email": "dmwango@parliament.gov.zm",
       "gender": "male",
       "id": "4f7d6518-7622-4c49-802e-5b59e4364144",
       "identifiers": [
@@ -1887,13 +1726,6 @@
     },
     {
       "birth_date": "1950-01-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cbanda@parliament.gov.zm"
-        }
-      ],
-      "email": "cbanda@parliament.gov.zm",
       "gender": "male",
       "id": "50bb1412-1517-466f-9993-c5469194ea02",
       "identifiers": [
@@ -1912,13 +1744,6 @@
     },
     {
       "birth_date": "1963-01-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ssayifwanda@parliament.gov.zm"
-        }
-      ],
-      "email": "ssayifwanda@parliament.gov.zm",
       "gender": "female",
       "id": "5107f527-5083-461d-9940-22a6ec051b33",
       "identifiers": [
@@ -1937,13 +1762,6 @@
     },
     {
       "birth_date": "1968-09-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "amulambo@parliament.gov.zm"
-        }
-      ],
-      "email": "amulambo@parliament.gov.zm",
       "gender": "male",
       "id": "5472b4f8-1e3e-4553-8a2b-0e55dc3014be",
       "identifiers": [
@@ -2058,13 +1876,6 @@
     },
     {
       "birth_date": "1970-12-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "msampa@parliament.gov.zm"
-        }
-      ],
-      "email": "msampa@parliament.gov.zm",
       "gender": "male",
       "given_name": "Miles",
       "id": "56527dd4-8030-49ca-b206-fc7a132e0127",
@@ -2094,13 +1905,6 @@
     },
     {
       "birth_date": "1951-11-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dkazunga@parliament.gov.zm"
-        }
-      ],
-      "email": "dkazunga@parliament.gov.zm",
       "gender": "female",
       "id": "57760d84-7ca2-4081-a7fb-613be78df47d",
       "identifiers": [
@@ -2282,13 +2086,6 @@
     },
     {
       "birth_date": "1950-04-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bmutale@parliament.gov.zm"
-        }
-      ],
-      "email": "bmutale@parliament.gov.zm",
       "gender": "male",
       "id": "5d94607c-9e5c-4f7c-a6a8-ecad3ad144bb",
       "identifiers": [
@@ -2524,13 +2321,6 @@
     },
     {
       "birth_date": "1994-03-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "smasebo@parliament.gov.zm"
-        }
-      ],
-      "email": "smasebo@parliament.gov.zm",
       "gender": "female",
       "given_name": "Sylvia",
       "id": "63e32fa8-c5c0-48ec-b519-1ebdeb359d0e",
@@ -2564,13 +2354,6 @@
     },
     {
       "birth_date": "1965-02-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dchingimbu@parliament.gov.zm"
-        }
-      ],
-      "email": "dchingimbu@parliament.gov.zm",
       "gender": "male",
       "id": "64f00984-7bd9-4f10-be92-0993ffe22116",
       "identifiers": [
@@ -2615,14 +2398,7 @@
     },
     {
       "birth_date": "1938-01-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jkasonde@parliament.gov.zm"
-        }
-      ],
       "death_date": "2017-08-25",
-      "email": "jkasonde@parliament.gov.zm",
       "gender": "male",
       "given_name": "Joseph",
       "id": "65634950-5f76-4da7-b86c-1c1076460f9e",
@@ -2803,13 +2579,6 @@
     },
     {
       "birth_date": "1952-02-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mlkaingu@parliament.gov.zm"
-        }
-      ],
-      "email": "mlkaingu@parliament.gov.zm",
       "gender": "male",
       "id": "7175bd7c-5a28-4aea-8d89-b8838bfba3f2",
       "identifiers": [
@@ -2828,13 +2597,6 @@
     },
     {
       "birth_date": "1947-06-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bchituwo@parliament.gov.zm"
-        }
-      ],
-      "email": "bchituwo@parliament.gov.zm",
       "gender": "male",
       "id": "718a2b87-1124-48ac-ab4c-e264f183d00e",
       "identifiers": [
@@ -3047,13 +2809,6 @@
     },
     {
       "birth_date": "1965-01-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "chitafub@parliament.gov.zm"
-        }
-      ],
-      "email": "chitafub@parliament.gov.zm",
       "gender": "male",
       "id": "78e67db8-65d6-4fbf-b028-88fe46ac860d",
       "identifiers": [
@@ -3091,13 +2846,6 @@
     },
     {
       "birth_date": "1952-10-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rmuntanga@parliament.gov.zm"
-        }
-      ],
-      "email": "rmuntanga@parliament.gov.zm",
       "gender": "male",
       "id": "7929e068-230e-4843-9969-9c634816f001",
       "identifiers": [
@@ -3169,13 +2917,6 @@
     },
     {
       "birth_date": "1954-05-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nsimbyakula@parliament.gov.zm"
-        }
-      ],
-      "email": "nsimbyakula@parliament.gov.zm",
       "id": "7c315c09-861d-4377-b3d7-0ad7291b7acc",
       "identifiers": [
         {
@@ -3211,13 +2952,6 @@
     },
     {
       "birth_date": "1973-08-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mchishimba@parliament.gov.zm"
-        }
-      ],
-      "email": "mchishimba@parliament.gov.zm",
       "gender": "male",
       "id": "7c78f8bf-2db0-45ca-9913-9f9347df3793",
       "identifiers": [
@@ -3303,13 +3037,6 @@
     },
     {
       "birth_date": "1961-07-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "amwamba@parliament.gov.zm"
-        }
-      ],
-      "email": "amwamba@parliament.gov.zm",
       "gender": "female",
       "id": "7efd921e-a4b3-4266-aa97-b4e80f5ec5ef",
       "identifiers": [
@@ -3328,13 +3055,6 @@
     },
     {
       "birth_date": "1953-12-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kchipungu@parliament.gov.zm"
-        }
-      ],
-      "email": "kchipungu@parliament.gov.zm",
       "gender": "male",
       "id": "7f03be65-d40a-40e2-948b-49ebe4fe3361",
       "identifiers": [
@@ -3437,13 +3157,6 @@
     },
     {
       "birth_date": "1979-02-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lchabala@parliament.gov.zm"
-        }
-      ],
-      "email": "lchabala@parliament.gov.zm",
       "gender": "male",
       "id": "80469480-b63c-41df-a321-1aa15ec939b1",
       "identifiers": [
@@ -3498,13 +3211,6 @@
     },
     {
       "birth_date": "1968-04-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "frtembo@parliament.gov.zm"
-        }
-      ],
-      "email": "frtembo@parliament.gov.zm",
       "gender": "male",
       "id": "80cc2d8d-7107-40e0-98c0-26935669d73c",
       "identifiers": [
@@ -3523,13 +3229,6 @@
     },
     {
       "birth_date": "1965-09-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cjantonio@parliament.gov.zm"
-        }
-      ],
-      "email": "cjantonio@parliament.gov.zm",
       "gender": "male",
       "id": "833d39b0-f110-471d-bff3-1e126f06b96b",
       "identifiers": [
@@ -3760,13 +3459,6 @@
     },
     {
       "birth_date": "1948-08-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jmlimata@parliament.gov.zm"
-        }
-      ],
-      "email": "jmlimata@parliament.gov.zm",
       "gender": "female",
       "id": "8cd2b35a-194e-4077-9bf3-dc2a4b3aa99b",
       "identifiers": [
@@ -3785,13 +3477,6 @@
     },
     {
       "birth_date": "1967-05-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gnamulambe@parliament.gov.zm"
-        }
-      ],
-      "email": "gnamulambe@parliament.gov.zm",
       "gender": "male",
       "id": "8d1ef69e-d0b6-41e1-8915-3421ebcb5291",
       "identifiers": [
@@ -3919,13 +3604,6 @@
     },
     {
       "birth_date": "1938-12-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "abchikwanda@parliament.gov.zm"
-        }
-      ],
-      "email": "abchikwanda@parliament.gov.zm",
       "gender": "male",
       "given_name": "Alexander",
       "id": "909c77f6-0ef1-4c1b-ab87-cdafc6ab77f8",
@@ -3986,13 +3664,6 @@
     },
     {
       "birth_date": "1962-07-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ochisala@parliament.gov.zm"
-        }
-      ],
-      "email": "ochisala@parliament.gov.zm",
       "gender": "male",
       "id": "910e231e-9024-42c6-8892-eec5112c5f3c",
       "identifiers": [
@@ -4041,13 +3712,6 @@
     },
     {
       "birth_date": "1963-12-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ocmulomba@parliament.gov.zm"
-        }
-      ],
-      "email": "ocmulomba@parliament.gov.zm",
       "gender": "male",
       "id": "947e315b-927e-4ded-988a-e361172274b0",
       "identifiers": [
@@ -4066,13 +3730,6 @@
     },
     {
       "birth_date": "1964-11-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mushilimalama@parliament.gov.zm"
-        }
-      ],
-      "email": "mushilimalama@parliament.gov.zm",
       "gender": "male",
       "id": "9516d650-d5d3-4f9d-bb54-06d6fd1382f6",
       "identifiers": [
@@ -4091,13 +3748,6 @@
     },
     {
       "birth_date": "1970-07-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "osmwaliteta@parliament.gov.zm"
-        }
-      ],
-      "email": "osmwaliteta@parliament.gov.zm",
       "gender": "male",
       "id": "96eeaacc-1019-47de-bfb0-23b77e8c7ecc",
       "identifiers": [
@@ -4211,13 +3861,6 @@
     },
     {
       "birth_date": "1967-06-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "asichula@parliament.gov.zm"
-        }
-      ],
-      "email": "asichula@parliament.gov.zm",
       "gender": "male",
       "id": "9dbeeee1-63cc-4932-9603-c33bdb159285",
       "identifiers": [
@@ -4236,13 +3879,6 @@
     },
     {
       "birth_date": "1951-05-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mgmmimenda@parliament.gov.zm"
-        }
-      ],
-      "email": "mgmmimenda@parliament.gov.zm",
       "gender": "female",
       "id": "9fa089c0-6215-42d9-aeb4-85cc12cfdee9",
       "identifiers": [
@@ -4279,13 +3915,6 @@
     },
     {
       "birth_date": "1944-06-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "glscott@parliament.gov.zm"
-        }
-      ],
-      "email": "glscott@parliament.gov.zm",
       "family_name": "Scott",
       "gender": "male",
       "given_name": "Guy",
@@ -4545,13 +4174,6 @@
     },
     {
       "birth_date": "1949-09-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vmmooya@parliament.gov.zm"
-        }
-      ],
-      "email": "vmmooya@parliament.gov.zm",
       "gender": "male",
       "id": "a3031005-6506-40c7-8d7a-381bc75c24eb",
       "identifiers": [
@@ -4570,13 +4192,6 @@
     },
     {
       "birth_date": "1943-02-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mkkondolungu@parliament.gov.zm"
-        }
-      ],
-      "email": "mkkondolungu@parliament.gov.zm",
       "gender": "male",
       "id": "a4a81dd8-a63d-4728-9097-d076fcd7d278",
       "identifiers": [
@@ -4595,13 +4210,6 @@
     },
     {
       "birth_date": "1958-03-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kkonga@parliament.gov.zm"
-        }
-      ],
-      "email": "kkonga@parliament.gov.zm",
       "gender": "male",
       "id": "a561cc0e-88fb-4f50-823f-11ee93aba87a",
       "identifiers": [
@@ -4922,13 +4530,6 @@
     },
     {
       "birth_date": "1964-11-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mrphiri@parliament.gov.zm"
-        }
-      ],
-      "email": "mrphiri@parliament.gov.zm",
       "gender": "male",
       "id": "b03e1a81-eaf2-4d13-b0cd-3cd08d7632a1",
       "identifiers": [
@@ -4947,13 +4548,6 @@
     },
     {
       "birth_date": "1976-06-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pkosamu@parliament.gov.zm"
-        }
-      ],
-      "email": "pkosamu@parliament.gov.zm",
       "gender": "male",
       "id": "b1294232-3174-4e0f-8cd0-6cf4727320d7",
       "identifiers": [
@@ -5022,13 +4616,6 @@
     },
     {
       "birth_date": "1994-03-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ambewe@parliament.gov.zm"
-        }
-      ],
-      "email": "ambewe@parliament.gov.zm",
       "gender": "male",
       "id": "b40468a3-ee20-4c45-b18f-d0af24b7b900",
       "identifiers": [
@@ -5141,13 +4728,6 @@
     },
     {
       "birth_date": "1947-11-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bkkawandami@parliament.gov.zm"
-        }
-      ],
-      "email": "bkkawandami@parliament.gov.zm",
       "gender": "female",
       "id": "b6667d98-259c-4473-9433-33b234ff4102",
       "identifiers": [
@@ -5191,13 +4771,6 @@
     },
     {
       "birth_date": "1965-04-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ikbanda@parliament.gov.zm"
-        }
-      ],
-      "email": "ikbanda@parliament.gov.zm",
       "gender": "male",
       "id": "ba298ffb-8121-41e6-b1d0-e07875418ac9",
       "identifiers": [
@@ -5253,13 +4826,6 @@
     },
     {
       "birth_date": "1972-03-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mba@parliament.gov.zm"
-        }
-      ],
-      "email": "mba@parliament.gov.zm",
       "gender": "male",
       "id": "bee58b8a-4421-41ea-b3bf-2e6ade17b609",
       "identifiers": [
@@ -5329,13 +4895,6 @@
     },
     {
       "birth_date": "1953-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "skatuka@parliament.gov.zm"
-        }
-      ],
-      "email": "skatuka@parliament.gov.zm",
       "gender": "male",
       "id": "c18f26ff-d6ea-4ea1-a39d-fa9ff444a19b",
       "identifiers": [
@@ -5354,13 +4913,6 @@
     },
     {
       "birth_date": "1963-05-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jmkapyanga@parliament.gov.zm"
-        }
-      ],
-      "email": "jmkapyanga@parliament.gov.zm",
       "gender": "male",
       "given_name": "James",
       "id": "c2f768a6-4ddf-48e5-af8d-a8f2c15c73e5",
@@ -5415,13 +4967,6 @@
     },
     {
       "birth_date": "1969-08-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lmmufalali@parliament.gov.zm"
-        }
-      ],
-      "email": "lmmufalali@parliament.gov.zm",
       "gender": "male",
       "id": "c5455636-5d02-4063-a1ea-baeca2d4c17a",
       "identifiers": [
@@ -5564,13 +5109,6 @@
     },
     {
       "birth_date": "1966-08-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kkhamudulu@parliament.gov.zm"
-        }
-      ],
-      "email": "kkhamudulu@parliament.gov.zm",
       "gender": "male",
       "id": "ca224dfc-bf76-4d20-9897-431fdb5e2976",
       "identifiers": [
@@ -5651,13 +5189,6 @@
     },
     {
       "birth_date": "1970-03-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nkbanda@parliament.gov.zm"
-        }
-      ],
-      "email": "nkbanda@parliament.gov.zm",
       "gender": "male",
       "id": "cefc0485-5ce9-4ea4-87e6-ab88e32bc0be",
       "identifiers": [
@@ -5835,13 +5366,6 @@
     },
     {
       "birth_date": "1962-09-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "wcsimuusa@parliament.gov.zm"
-        }
-      ],
-      "email": "wcsimuusa@parliament.gov.zm",
       "gender": "male",
       "id": "d1b51107-1a98-4443-a2ae-89e3028cd681",
       "identifiers": [
@@ -5860,13 +5384,6 @@
     },
     {
       "birth_date": "1970-02-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mmuteteka@parliament.gov.zm"
-        }
-      ],
-      "email": "mmuteteka@parliament.gov.zm",
       "gender": "male",
       "id": "d26f7e40-6e6d-4365-92c0-89f1c527909f",
       "identifiers": [
@@ -5991,13 +5508,6 @@
     },
     {
       "birth_date": "1950-08-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jlungu@parliament.gov.zm"
-        }
-      ],
-      "email": "jlungu@parliament.gov.zm",
       "gender": "male",
       "id": "d5c90d6c-b0d8-4cbc-92f7-30e41ee10c5a",
       "identifiers": [
@@ -6042,13 +5552,6 @@
     },
     {
       "birth_date": "1946-04-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fgchanda@parliament.gov.zm"
-        }
-      ],
-      "email": "fgchanda@parliament.gov.zm",
       "gender": "male",
       "id": "d7640a9b-98a3-48a7-a183-3a022e8b9208",
       "identifiers": [
@@ -6436,13 +5939,6 @@
     },
     {
       "birth_date": "1961-11-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jkatema@parliament.gov.zm"
-        }
-      ],
-      "email": "jkatema@parliament.gov.zm",
       "gender": "male",
       "given_name": "Joseph",
       "id": "e5055f5f-f9dd-4c42-9e8f-37c798a7432f",
@@ -6490,13 +5986,6 @@
     },
     {
       "birth_date": "1952-12-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ecglungu@parliament.gov.zm"
-        }
-      ],
-      "email": "ecglungu@parliament.gov.zm",
       "gender": "male",
       "id": "e7c42faf-3d3a-4ab2-89c6-ad51f710b74b",
       "identifiers": [
@@ -6515,13 +6004,6 @@
     },
     {
       "birth_date": "1968-07-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rlmpundu@parliament.gov.zm"
-        }
-      ],
-      "email": "rlmpundu@parliament.gov.zm",
       "gender": "male",
       "id": "e90dcbf4-82d7-40b3-9ae6-482215c275c6",
       "identifiers": [
@@ -6602,14 +6084,7 @@
     },
     {
       "birth_date": "1959-11-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cmatafwali@parliament.gov.zm"
-        }
-      ],
       "death_date": "2015-05-20",
-      "email": "cmatafwali@parliament.gov.zm",
       "gender": "male",
       "id": "ebab221e-0fa5-4e83-8ecf-8f415d6a28c4",
       "identifiers": [
@@ -6937,13 +6412,6 @@
     },
     {
       "birth_date": "1949-11-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jgphiri@parliament.gov.zm"
-        }
-      ],
-      "email": "jgphiri@parliament.gov.zm",
       "gender": "male",
       "id": "f02ef3ec-1207-45a7-b67d-0ba620c62957",
       "identifiers": [
@@ -7128,13 +6596,6 @@
     },
     {
       "birth_date": "1981-03-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "smasumba@parliament.gov.zm"
-        }
-      ],
-      "email": "smasumba@parliament.gov.zm",
       "gender": "male",
       "id": "f6f6943c-f02d-4a69-b4ea-f8d00ba502a1",
       "identifiers": [
@@ -7182,13 +6643,6 @@
     },
     {
       "birth_date": "1959-03-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gbmwamba@parliament.gov.zm"
-        }
-      ],
-      "email": "gbmwamba@parliament.gov.zm",
       "gender": "male",
       "given_name": "Geoffrey",
       "id": "f89f0dcf-f646-4209-9133-ca32fb2ea8d0",
@@ -7234,13 +6688,6 @@
     },
     {
       "birth_date": "1964-03-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cmulenga@parliament.gov.zm"
-        }
-      ],
-      "email": "cmulenga@parliament.gov.zm",
       "gender": "male",
       "id": "fa1ca4ac-4419-4bb9-8800-8de01a61c591",
       "identifiers": [
@@ -7303,13 +6750,6 @@
     },
     {
       "birth_date": "1945-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "iskazuba@parliament.gov.zm"
-        }
-      ],
-      "email": "iskazuba@parliament.gov.zm",
       "gender": "male",
       "id": "fd626315-cf1f-4498-995b-f1213af4fa8b",
       "identifiers": [
@@ -7347,13 +6787,6 @@
     },
     {
       "birth_date": "1963-12-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mlmwenya@parliament.gov.zm"
-        }
-      ],
-      "email": "mlmwenya@parliament.gov.zm",
       "gender": "male",
       "id": "fdf40318-4ca4-44a8-be35-3d45f27d284e",
       "identifiers": [
