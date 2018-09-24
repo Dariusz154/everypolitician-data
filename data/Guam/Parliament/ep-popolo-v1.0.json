@@ -4,21 +4,6 @@
   ],
   "persons": [
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senator@senatorpalacios.com"
-        },
-        {
-          "type": "fax",
-          "value": "(671) 472-5022"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 472-5047/8"
-        }
-      ],
-      "email": "senator@senatorpalacios.com",
       "gender": "male",
       "id": "0677a3dd-7428-4fd8-a7ce-0787db904bfa",
       "identifiers": [
@@ -42,21 +27,6 @@
       "name": "Adolpho B. Palacios, Sr."
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "duenasenator@gmail.com"
-        },
-        {
-          "type": "fax",
-          "value": "(671) 989/9933"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 989-9944/55"
-        }
-      ],
-      "email": "duenasenator@gmail.com",
       "gender": "male",
       "id": "1586553e-7c2b-4f2c-80cf-a3e711287b4b",
       "identifiers": [
@@ -74,21 +44,6 @@
       "name": "Christopher M. Duenas"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "judithguthertz@gmail.com"
-        },
-        {
-          "type": "fax",
-          "value": "(671) 472-3547"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 472-5834"
-        }
-      ],
-      "email": "judithguthertz@gmail.com",
       "gender": "female",
       "id": "176ba216-b566-4673-abbc-4216c36f3a0e",
       "identifiers": [
@@ -181,17 +136,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aline4families@gmail.com"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 648-3474/3476"
-        }
-      ],
-      "email": "aline4families@gmail.com",
       "gender": "female",
       "id": "237b5885-99a8-4c7f-b337-98eeeae18745",
       "identifiers": [
@@ -431,21 +375,6 @@
       "name": "Tina Rose Muña Barnes"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tommy@senatormorrison.com"
-        },
-        {
-          "type": "fax",
-          "value": "(671)"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 478-8669"
-        }
-      ],
-      "email": "tommy@senatormorrison.com",
       "gender": "male",
       "id": "52053f9f-8716-4f15-a05c-2dc0966b7fe1",
       "identifiers": [
@@ -463,17 +392,6 @@
       "name": "Thomas Morrison"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mike@mikelimtiaco.com"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 989-7655/6"
-        }
-      ],
-      "email": "mike@mikelimtiaco.com",
       "gender": "male",
       "id": "5a97e953-7ed8-4863-80ac-4c3f1bb3cf45",
       "identifiers": [
@@ -557,21 +475,6 @@
       "name": "Frank Blas Aguon, Jr."
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senbenp@guam.net"
-        },
-        {
-          "type": "fax",
-          "value": "(671) 473-4238"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 473-4236/7"
-        }
-      ],
-      "email": "senbenp@guam.net",
       "gender": "male",
       "id": "6d660aa2-8990-4700-9a39-c1d0acfd311a",
       "identifiers": [
@@ -596,21 +499,6 @@
     },
     {
       "birth_date": "1966-06-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aguon4guam@gmail.com"
-        },
-        {
-          "type": "fax",
-          "value": "(671)"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 475-4861/2"
-        }
-      ],
-      "email": "aguon4guam@gmail.com",
       "family_name": "Aguon",
       "gender": "male",
       "given_name": "Frank",
@@ -810,21 +698,6 @@
     },
     {
       "birth_date": "1965",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ray@raytenorio.com"
-        },
-        {
-          "type": "fax",
-          "value": "(671) 479-1329"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 479-4826"
-        }
-      ],
-      "email": "ray@raytenorio.com",
       "family_name": "Tenorio",
       "gender": "male",
       "given_name": "Ray",
@@ -889,23 +762,10 @@
       "birth_date": "1961-08-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sencalvo@gmail.com"
-        },
-        {
-          "type": "fax",
-          "value": "(671) 475-8805"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 475-8801/2"
-        },
-        {
           "type": "twitter",
           "value": "governorcalvo"
         }
       ],
-      "email": "sencalvo@gmail.com",
       "family_name": "Calvo",
       "gender": "male",
       "given_name": "Eddie",
@@ -1092,21 +952,6 @@
       "name": "Brant McCreadie"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senatortelo@gmail.com"
-        },
-        {
-          "type": "fax",
-          "value": "(671) 969-8357"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 969-8356"
-        }
-      ],
-      "email": "senatortelo@gmail.com",
       "gender": "female",
       "id": "d59107ab-dcc0-40a4-bf66-028d37c78534",
       "identifiers": [
@@ -1130,21 +975,6 @@
       "name": "Telo Taitague"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "senatormana@gmail.com"
-        },
-        {
-          "type": "fax",
-          "value": "(671) 989-8678"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 989-6878 / 989-7678"
-        }
-      ],
-      "email": "senatormana@gmail.com",
       "gender": "female",
       "id": "e1250680-90d8-4a0e-b467-91577ef516bc",
       "identifiers": [
@@ -1234,21 +1064,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "info@senatormabini.com"
-        },
-        {
-          "type": "fax",
-          "value": "(671) 478-4727"
-        },
-        {
-          "type": "phone",
-          "value": "(671) 478-4726"
-        }
-      ],
-      "email": "info@senatormabini.com",
       "gender": "female",
       "id": "fd4fdf4d-34da-475c-996a-cb6bf9f660f7",
       "identifiers": [
