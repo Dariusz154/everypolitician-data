@@ -5,17 +5,6 @@
   "persons": [
     {
       "birth_date": "1957-03-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kestutis.Masiulis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396636"
-        }
-      ],
-      "email": "Kestutis.Masiulis@lrs.lt",
       "family_name": "Masiulis",
       "gender": "male",
       "given_name": "Kęstutis",
@@ -71,17 +60,6 @@
     },
     {
       "birth_date": "1951-02-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Aleksandras.Zeltinis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396614"
-        }
-      ],
-      "email": "Aleksandras.Zeltinis@lrs.lt",
       "family_name": "Zeltinis",
       "gender": "male",
       "given_name": "Aleksandras",
@@ -121,17 +99,6 @@
     },
     {
       "birth_date": "1979-03-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Paulius.Saudargas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396352"
-        }
-      ],
-      "email": "Paulius.Saudargas@lrs.lt",
       "family_name": "Saudargas",
       "gender": "male",
       "given_name": "Paulius",
@@ -233,17 +200,6 @@
     },
     {
       "birth_date": "1961-05-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Linas.Balsys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396707"
-        }
-      ],
-      "email": "Linas.Balsys@lrs.lt",
       "family_name": "Balsys",
       "gender": "male",
       "given_name": "Linas",
@@ -297,17 +253,6 @@
     },
     {
       "birth_date": "1940-01-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Arimantas.Dumcius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396632"
-        }
-      ],
-      "email": "Arimantas.Dumcius@lrs.lt",
       "family_name": "Dumčius",
       "gender": "male",
       "given_name": "Arimantas",
@@ -347,17 +292,6 @@
     },
     {
       "birth_date": "1987-01-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Viktoras.Fiodorovas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396703"
-        }
-      ],
-      "email": "Viktoras.Fiodorovas@lrs.lt",
       "family_name": "Fiodorovas",
       "gender": "male",
       "given_name": "Viktoras",
@@ -404,17 +338,6 @@
     },
     {
       "birth_date": "1944-11-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Dalia.Teiserskyte@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396692"
-        }
-      ],
-      "email": "Dalia.Teiserskyte@lrs.lt",
       "family_name": "Teišerskytė",
       "gender": "female",
       "given_name": "Dalia",
@@ -466,17 +389,6 @@
     },
     {
       "birth_date": "1943-01-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Benediktas.Juodka@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396649"
-        }
-      ],
-      "email": "Benediktas.Juodka@lrs.lt",
       "family_name": "Juodka",
       "gender": "male",
       "given_name": "Benediktas",
@@ -566,17 +478,6 @@
     },
     {
       "birth_date": "1975-12-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sarunas.gustainis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396699"
-        }
-      ],
-      "email": "sarunas.gustainis@lrs.lt",
       "family_name": "Gustainis",
       "gender": "male",
       "given_name": "Šarūnas",
@@ -623,17 +524,6 @@
     },
     {
       "birth_date": "1949-05-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vince.Margeviciene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396705"
-        }
-      ],
-      "email": "Vince.Margeviciene@lrs.lt",
       "family_name": "Margevičienė",
       "gender": "female",
       "given_name": "Vincė Vaidevutė",
@@ -720,17 +610,6 @@
     },
     {
       "birth_date": "1948-02-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Povilas.Gylys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396737"
-        }
-      ],
-      "email": "Povilas.Gylys@lrs.lt",
       "family_name": "Gylys",
       "gender": "male",
       "given_name": "Povilas",
@@ -786,17 +665,6 @@
     },
     {
       "birth_date": "1958-08-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Donatas.Jankauskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "837313627"
-        }
-      ],
-      "email": "Donatas.Jankauskas@lrs.lt",
       "family_name": "Jankauskas",
       "gender": "male",
       "given_name": "Donatas",
@@ -844,17 +712,6 @@
     },
     {
       "birth_date": "1962-11-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Valentinas.Bukauskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396728"
-        }
-      ],
-      "email": "Valentinas.Bukauskas@lrs.lt",
       "family_name": "Bukauskas",
       "gender": "male",
       "given_name": "Valentinas",
@@ -894,17 +751,6 @@
     },
     {
       "birth_date": "1951-08-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gediminas.Kirkilas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396609"
-        }
-      ],
-      "email": "Gediminas.Kirkilas@lrs.lt",
       "family_name": "Kirkilas",
       "gender": "male",
       "given_name": "Gediminas",
@@ -1174,17 +1020,6 @@
     },
     {
       "birth_date": "1958-01-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Irina.Rozova@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396665"
-        }
-      ],
-      "email": "Irina.Rozova@lrs.lt",
       "family_name": "Rozova",
       "gender": "female",
       "given_name": "Irina",
@@ -1264,17 +1099,6 @@
     },
     {
       "birth_date": "1975-06-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Andrius.Palionis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396612"
-        }
-      ],
-      "email": "Andrius.Palionis@lrs.lt",
       "family_name": "Palionis",
       "gender": "male",
       "given_name": "Andrius",
@@ -1314,17 +1138,6 @@
     },
     {
       "birth_date": "1958-04-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Julius.Sabatauskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396697"
-        }
-      ],
-      "email": "Julius.Sabatauskas@lrs.lt",
       "family_name": "Sabatauskas",
       "gender": "male",
       "given_name": "Julius",
@@ -1509,17 +1322,6 @@
     },
     {
       "birth_date": "1955-02-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Irena.Siauliene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396717"
-        }
-      ],
-      "email": "Irena.Siauliene@lrs.lt",
       "family_name": "Šiaulienė",
       "gender": "female",
       "given_name": "Irena",
@@ -1570,17 +1372,6 @@
     },
     {
       "birth_date": "1963-10-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kestas.Komskis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396721"
-        }
-      ],
-      "email": "Kestas.Komskis@lrs.lt",
       "family_name": "Komskis",
       "gender": "male",
       "given_name": "Kęstas",
@@ -1627,17 +1418,6 @@
     },
     {
       "birth_date": "1951-12-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Valdas.Vasiliauskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396646"
-        }
-      ],
-      "email": "Valdas.Vasiliauskas@lrs.lt",
       "family_name": "Vasiliauskas",
       "gender": "male",
       "given_name": "Valdas",
@@ -1681,17 +1461,6 @@
     },
     {
       "birth_date": "1950-02-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Larisa.Dmitrijeva@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396653"
-        }
-      ],
-      "email": "Larisa.Dmitrijeva@lrs.lt",
       "family_name": "Dmitrijeva",
       "gender": "female",
       "given_name": "Larisa",
@@ -1755,17 +1524,6 @@
     },
     {
       "birth_date": "1956-07-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kazys.Starkevicius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396401"
-        }
-      ],
-      "email": "Kazys.Starkevicius@lrs.lt",
       "family_name": "Starkevičius",
       "gender": "male",
       "given_name": "Kazys",
@@ -1842,17 +1600,6 @@
     },
     {
       "birth_date": "1966-08-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Aurelija.Stancikiene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396691"
-        }
-      ],
-      "email": "Aurelija.Stancikiene@lrs.lt",
       "family_name": "Stancikienė",
       "gender": "female",
       "given_name": "Aurelija",
@@ -1892,17 +1639,6 @@
     },
     {
       "birth_date": "1965-01-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Mindaugas.Bastys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396722"
-        }
-      ],
-      "email": "Mindaugas.Bastys@lrs.lt",
       "family_name": "Bastys",
       "gender": "male",
       "given_name": "Mindaugas",
@@ -1957,17 +1693,6 @@
     },
     {
       "birth_date": "1951-04-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vytautas.Saulis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396672"
-        }
-      ],
-      "email": "Vytautas.Saulis@lrs.lt",
       "family_name": "Saulis",
       "gender": "male",
       "given_name": "Vytautas",
@@ -2007,17 +1732,6 @@
     },
     {
       "birth_date": "1954-02-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rimante.Salaseviciute@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396656"
-        }
-      ],
-      "email": "Rimante.Salaseviciute@lrs.lt",
       "family_name": "Šalaševičiūtė",
       "gender": "female",
       "given_name": "Rimantė",
@@ -2083,17 +1797,6 @@
     },
     {
       "birth_date": "1958-03-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Virginija.Baltraitiene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396719"
-        }
-      ],
-      "email": "Virginija.Baltraitiene@lrs.lt",
       "family_name": "Baltraitienė",
       "gender": "female",
       "given_name": "Virginija",
@@ -2137,17 +1840,6 @@
     },
     {
       "birth_date": "1943-08-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jonas.Kondrotas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396913"
-        }
-      ],
-      "email": "Jonas.Kondrotas@lrs.lt",
       "family_name": "Kondrotas",
       "gender": "male",
       "given_name": "Jonas",
@@ -2187,17 +1879,6 @@
     },
     {
       "birth_date": "1967-10-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Saulius.Bucevicius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396610"
-        }
-      ],
-      "email": "Saulius.Bucevicius@lrs.lt",
       "family_name": "Bucevičius",
       "gender": "male",
       "given_name": "Saulius",
@@ -2405,17 +2086,6 @@
     },
     {
       "birth_date": "1966-08-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Raimundas.Markauskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396624"
-        }
-      ],
-      "email": "Raimundas.Markauskas@lrs.lt",
       "family_name": "Markauskas",
       "gender": "male",
       "given_name": "Raimundas",
@@ -2455,17 +2125,6 @@
     },
     {
       "birth_date": "1955-09-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Zita.Zvikiene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396623"
-        }
-      ],
-      "email": "Zita.Zvikiene@lrs.lt",
       "family_name": "Žvikienė",
       "gender": "female",
       "given_name": "Zita",
@@ -2505,17 +2164,6 @@
     },
     {
       "birth_date": "1972-10-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Mantas.Adomenas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396631"
-        }
-      ],
-      "email": "Mantas.Adomenas@lrs.lt",
       "family_name": "Adomėnas",
       "gender": "male",
       "given_name": "Mantas",
@@ -2598,17 +2246,6 @@
     },
     {
       "birth_date": "1967",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "audrius.nakas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396729"
-        }
-      ],
-      "email": "audrius.nakas@lrs.lt",
       "family_name": "Nakas",
       "gender": "male",
       "given_name": "Audrius",
@@ -2651,18 +2288,7 @@
     },
     {
       "birth_date": "1982-04-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Juras.Pozela@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396696"
-        }
-      ],
       "death_date": "2016-10-16",
-      "email": "Juras.Pozela@lrs.lt",
       "family_name": "Požela",
       "gender": "male",
       "given_name": "Juras",
@@ -2737,17 +2363,6 @@
     },
     {
       "birth_date": "1947-02-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Stasys.Brundza@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396603"
-        }
-      ],
-      "email": "Stasys.Brundza@lrs.lt",
       "family_name": "Brundza",
       "gender": "male",
       "given_name": "Stasys",
@@ -2802,17 +2417,6 @@
     },
     {
       "birth_date": "1949-06-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Irena.Degutiene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396651"
-        }
-      ],
-      "email": "Irena.Degutiene@lrs.lt",
       "family_name": "Degutienė",
       "gender": "female",
       "given_name": "Irena",
@@ -2938,17 +2542,6 @@
     },
     {
       "birth_date": "1946-03-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Mecislovas.Zasciurinskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396657"
-        }
-      ],
-      "email": "Mecislovas.Zasciurinskas@lrs.lt",
       "family_name": "Zasčiurinskas",
       "gender": "male",
       "given_name": "Mečislovas",
@@ -2988,17 +2581,6 @@
     },
     {
       "birth_date": "1952-04-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rimantas.Sinkevicius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396731"
-        }
-      ],
-      "email": "Rimantas.Sinkevicius@lrs.lt",
       "family_name": "Sinkevičius",
       "gender": "male",
       "given_name": "Rimantas",
@@ -3064,17 +2646,6 @@
     },
     {
       "birth_date": "1973-09-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rita.Tamasuniene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396706"
-        }
-      ],
-      "email": "Rita.Tamasuniene@lrs.lt",
       "family_name": "Tamašunienė",
       "gender": "female",
       "given_name": "Rita",
@@ -3121,17 +2692,6 @@
     },
     {
       "birth_date": "1959-12-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gintautas.Mikolaitis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396736"
-        }
-      ],
-      "email": "Gintautas.Mikolaitis@lrs.lt",
       "family_name": "Mikolaitis",
       "gender": "male",
       "given_name": "Gintautas",
@@ -3171,17 +2731,6 @@
     },
     {
       "birth_date": "1947-09-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Raimundas.Paliukas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396604"
-        }
-      ],
-      "email": "Raimundas.Paliukas@lrs.lt",
       "family_name": "Paliukas",
       "gender": "male",
       "given_name": "Raimundas",
@@ -3224,17 +2773,6 @@
     },
     {
       "birth_date": "1958-03-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Egidijus.Vareikis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396606"
-        }
-      ],
-      "email": "Egidijus.Vareikis@lrs.lt",
       "family_name": "Vareikis",
       "gender": "male",
       "given_name": "Egidijus",
@@ -3290,17 +2828,6 @@
     },
     {
       "birth_date": "1936-10-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vida.Cigriejiene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396655"
-        }
-      ],
-      "email": "Vida.Cigriejiene@lrs.lt",
       "family_name": "Čigriejienė",
       "gender": "female",
       "given_name": "Vida Marija",
@@ -3340,17 +2867,6 @@
     },
     {
       "birth_date": "1957-02-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Pranas.Zeimys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396270"
-        }
-      ],
-      "email": "Pranas.Zeimys@lrs.lt",
       "family_name": "Žeimys",
       "gender": "male",
       "given_name": "Pranas",
@@ -3528,17 +3044,6 @@
     },
     {
       "birth_date": "1958-06-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Algimantas.Dumbrava@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396713"
-        }
-      ],
-      "email": "Algimantas.Dumbrava@lrs.lt",
       "family_name": "Dumbrava",
       "gender": "male",
       "given_name": "Algimantas",
@@ -3578,17 +3083,6 @@
     },
     {
       "birth_date": "1962-03-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Arvydas.Vidziunas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396701"
-        }
-      ],
-      "email": "Arvydas.Vidziunas@lrs.lt",
       "family_name": "Vidžiūnas",
       "gender": "male",
       "given_name": "Arvydas",
@@ -3648,17 +3142,6 @@
     },
     {
       "birth_date": "1966-08-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Valerijus.Simulik@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396687"
-        }
-      ],
-      "email": "Valerijus.Simulik@lrs.lt",
       "family_name": "Simulik",
       "gender": "male",
       "given_name": "Valerijus",
@@ -3717,17 +3200,6 @@
     },
     {
       "birth_date": "1956-07-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Antanas.Matulas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396671"
-        }
-      ],
-      "email": "Antanas.Matulas@lrs.lt",
       "family_name": "Matulas",
       "gender": "male",
       "given_name": "Antanas",
@@ -3767,17 +3239,6 @@
     },
     {
       "birth_date": "1954-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Algirdas.Sysas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396702"
-        }
-      ],
-      "email": "Algirdas.Sysas@lrs.lt",
       "family_name": "Sysas",
       "gender": "male",
       "given_name": "Algirdas",
@@ -3836,17 +3297,6 @@
     },
     {
       "birth_date": "1958-03-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jurgis.Razma@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396693"
-        }
-      ],
-      "email": "Jurgis.Razma@lrs.lt",
       "family_name": "Razma",
       "gender": "male",
       "given_name": "Jurgis",
@@ -3890,17 +3340,6 @@
     },
     {
       "birth_date": "1970-05-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Raminta.Popoviene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396335"
-        }
-      ],
-      "email": "Raminta.Popoviene@lrs.lt",
       "family_name": "Popovienė",
       "gender": "female",
       "given_name": "Raminta",
@@ -3944,17 +3383,6 @@
     },
     {
       "birth_date": "1957-05-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ViAlek@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396983"
-        }
-      ],
-      "email": "ViAlek@lrs.lt",
       "family_name": "Aleknaitė Abramikienė",
       "gender": "female",
       "given_name": "Vilija",
@@ -4030,17 +3458,6 @@
     },
     {
       "birth_date": "1982-01-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Agne.Bilotaite@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396629"
-        }
-      ],
-      "email": "Agne.Bilotaite@lrs.lt",
       "family_name": "Bilotaitė",
       "gender": "female",
       "given_name": "Agnė",
@@ -4088,17 +3505,6 @@
     },
     {
       "birth_date": "1970-09-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jolita.Vaickiene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396670"
-        }
-      ],
-      "email": "Jolita.Vaickiene@lrs.lt",
       "family_name": "Vaickienė",
       "gender": "female",
       "given_name": "Jolita",
@@ -4138,17 +3544,6 @@
     },
     {
       "birth_date": "1949-02-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rytas.Kupcinskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396635"
-        }
-      ],
-      "email": "Rytas.Kupcinskas@lrs.lt",
       "family_name": "Kupčinskas",
       "gender": "male",
       "given_name": "Rytas",
@@ -4195,17 +3590,6 @@
     },
     {
       "birth_date": "1959-11-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Sergej.Dmitrijev@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396689"
-        }
-      ],
-      "email": "Sergej.Dmitrijev@lrs.lt",
       "family_name": "Dmitrijev",
       "gender": "male",
       "given_name": "Sergej",
@@ -4287,17 +3671,6 @@
     },
     {
       "birth_date": "1962-01-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Dalia.Kuodyte@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396695"
-        }
-      ],
-      "email": "Dalia.Kuodyte@lrs.lt",
       "family_name": "Kuodytė",
       "gender": "female",
       "given_name": "Dalia",
@@ -4377,17 +3750,6 @@
     },
     {
       "birth_date": "1960-03-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Eugenijus.Gentvilas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396311"
-        }
-      ],
-      "email": "Eugenijus.Gentvilas@lrs.lt",
       "family_name": "Gentvilas",
       "gender": "male",
       "given_name": "Eugenijus",
@@ -4481,17 +3843,6 @@
     },
     {
       "birth_date": "1959-05-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vydas.Gedvilas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396341"
-        }
-      ],
-      "email": "Vydas.Gedvilas@lrs.lt",
       "family_name": "Gedvilas",
       "gender": "male",
       "given_name": "Vydas",
@@ -4583,17 +3934,6 @@
     },
     {
       "birth_date": "1962-09-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Povilas.Urbsys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396621"
-        }
-      ],
-      "email": "Povilas.Urbsys@lrs.lt",
       "family_name": "Urbšys",
       "gender": "male",
       "given_name": "Povilas",
@@ -4633,17 +3973,6 @@
     },
     {
       "birth_date": "1963-09-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Arvydas.Anusauskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396652"
-        }
-      ],
-      "email": "Arvydas.Anusauskas@lrs.lt",
       "family_name": "Anušauskas",
       "gender": "male",
       "given_name": "Arvydas",
@@ -4742,17 +4071,6 @@
     },
     {
       "birth_date": "1960-09-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Algis.Strelciunas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396608"
-        }
-      ],
-      "email": "Algis.Strelciunas@lrs.lt",
       "family_name": "Strelčiūnas",
       "gender": "male",
       "given_name": "Algis",
@@ -4795,17 +4113,6 @@
     },
     {
       "birth_date": "1956-01-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Antanas.Nesteckis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396959"
-        }
-      ],
-      "email": "Antanas.Nesteckis@lrs.lt",
       "family_name": "Nesteckis",
       "gender": "male",
       "given_name": "Antanas",
@@ -4845,17 +4152,6 @@
     },
     {
       "birth_date": "1963-12-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vytautas.Juozapaitis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396559"
-        }
-      ],
-      "email": "Vytautas.Juozapaitis@lrs.lt",
       "family_name": "Juozapaitis",
       "gender": "male",
       "given_name": "Vytautas",
@@ -4960,17 +4256,6 @@
     },
     {
       "birth_date": "1949-04-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kestutis.Glaveckas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "837320548"
-        }
-      ],
-      "email": "Kestutis.Glaveckas@lrs.lt",
       "family_name": "Glaveckas",
       "gender": "male",
       "given_name": "Kęstutis",
@@ -5025,17 +4310,6 @@
     },
     {
       "birth_date": "1980-01-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vitalija.Vonzutaite@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396620"
-        }
-      ],
-      "email": "Vitalija.Vonzutaite@lrs.lt",
       "family_name": "Vonžutaitė",
       "gender": "female",
       "given_name": "Vitalija",
@@ -5075,17 +4349,6 @@
     },
     {
       "birth_date": "1955-10-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Juozas.Olekas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396677"
-        }
-      ],
-      "email": "Juozas.Olekas@lrs.lt",
       "family_name": "Olekas",
       "gender": "male",
       "given_name": "Juozas",
@@ -5199,19 +4462,10 @@
       "birth_date": "1983-08-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Viktorija.Cmilyte@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396347"
-        },
-        {
           "type": "twitter",
           "value": "VCmilyte"
         }
       ],
-      "email": "Viktorija.Cmilyte@lrs.lt",
       "family_name": "Čmilytė-Nielsen",
       "gender": "female",
       "given_name": "Viktorija",
@@ -5403,17 +4657,6 @@
     },
     {
       "birth_date": "1959-01-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Zbignev.Jedinskij@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396893"
-        }
-      ],
-      "email": "Zbignev.Jedinskij@lrs.lt",
       "family_name": "Jedinskij",
       "gender": "male",
       "given_name": "Zbignev",
@@ -5470,17 +4713,6 @@
     },
     {
       "birth_date": "1955-12-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Petras.Narkevicius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396979"
-        }
-      ],
-      "email": "Petras.Narkevicius@lrs.lt",
       "family_name": "Narkevičius",
       "gender": "male",
       "given_name": "Petras",
@@ -5516,17 +4748,6 @@
     },
     {
       "birth_date": "1969-08-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vanda.Kravcionok@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396675"
-        }
-      ],
-      "email": "Vanda.Kravcionok@lrs.lt",
       "family_name": "Kravčionok",
       "gender": "female",
       "given_name": "Vanda",
@@ -5577,18 +4798,7 @@
     },
     {
       "birth_date": "1972-07-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rokas.Zilinskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396550"
-        }
-      ],
       "death_date": "2017-06-06",
-      "email": "Rokas.Zilinskas@lrs.lt",
       "family_name": "Žilinskas",
       "gender": "male",
       "given_name": "Rokas",
@@ -5662,17 +4872,6 @@
     },
     {
       "birth_date": "1967-09-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Petras.Cimbaras@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396957"
-        }
-      ],
-      "email": "Petras.Cimbaras@lrs.lt",
       "family_name": "Čimbaras",
       "gender": "male",
       "given_name": "Petras",
@@ -5712,17 +4911,6 @@
     },
     {
       "birth_date": "1961-09-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Sarunas.Birutis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396733"
-        }
-      ],
-      "email": "Sarunas.Birutis@lrs.lt",
       "family_name": "Birutis",
       "gender": "male",
       "given_name": "Šarūnas",
@@ -5786,17 +4974,6 @@
     },
     {
       "birth_date": "1958-07-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Audrone.Pitreniene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396622"
-        }
-      ],
-      "email": "Audrone.Pitreniene@lrs.lt",
       "family_name": "Pitrėnienė",
       "gender": "female",
       "given_name": "Audronė",
@@ -5840,17 +5017,6 @@
     },
     {
       "birth_date": "1954-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kazys.Grybauskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396684"
-        }
-      ],
-      "email": "Kazys.Grybauskas@lrs.lt",
       "family_name": "Grybauskas",
       "gender": "male",
       "given_name": "Kazys",
@@ -5890,17 +5056,6 @@
     },
     {
       "birth_date": "1952-05-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Edmundas.Jonyla@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396678"
-        }
-      ],
-      "email": "Edmundas.Jonyla@lrs.lt",
       "family_name": "Jonyla",
       "gender": "male",
       "given_name": "Edmundas",
@@ -5940,17 +5095,6 @@
     },
     {
       "birth_date": "1969-07-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vitalijus.Gailius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396640"
-        }
-      ],
-      "email": "Vitalijus.Gailius@lrs.lt",
       "family_name": "Gailius",
       "gender": "male",
       "given_name": "Vitalijus",
@@ -5993,17 +5137,6 @@
     },
     {
       "birth_date": "1953-03-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Albinas.Mitrulevicius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396680"
-        }
-      ],
-      "email": "Albinas.Mitrulevicius@lrs.lt",
       "family_name": "Mitrulevičius",
       "gender": "male",
       "given_name": "Albinas",
@@ -6043,17 +5176,6 @@
     },
     {
       "birth_date": "1957-10-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Eduardas.Sablinskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396698"
-        }
-      ],
-      "email": "Eduardas.Sablinskas@lrs.lt",
       "family_name": "Šablinskas",
       "gender": "male",
       "given_name": "Eduardas",
@@ -6093,17 +5215,6 @@
     },
     {
       "birth_date": "1939-03-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Juzef.Kvetkovskij@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396337"
-        }
-      ],
-      "email": "Juzef.Kvetkovskij@lrs.lt",
       "family_name": "Kvetkovskij",
       "gender": "male",
       "given_name": "Juzef",
@@ -6169,17 +5280,6 @@
     },
     {
       "birth_date": "1961-03-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kestutis.Bartkevicius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396617"
-        }
-      ],
-      "email": "Kestutis.Bartkevicius@lrs.lt",
       "family_name": "Bartkevičius",
       "gender": "male",
       "given_name": "Kęstutis",
@@ -6226,17 +5326,6 @@
     },
     {
       "birth_date": "1968-02-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Arminas.Lydeka@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396660"
-        }
-      ],
-      "email": "Arminas.Lydeka@lrs.lt",
       "family_name": "Lydeka",
       "gender": "male",
       "given_name": "Arminas",
@@ -6284,17 +5373,6 @@
     },
     {
       "birth_date": "1982-01-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vytautas.Gapsys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396709"
-        }
-      ],
-      "email": "Vytautas.Gapsys@lrs.lt",
       "family_name": "Gapšys",
       "gender": "male",
       "given_name": "Vytautas",
@@ -6338,17 +5416,6 @@
     },
     {
       "birth_date": "1973-01-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Orinta.Leipute@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396625"
-        }
-      ],
-      "email": "Orinta.Leipute@lrs.lt",
       "family_name": "Leiputė",
       "gender": "female",
       "given_name": "Orinta",
@@ -6388,17 +5455,6 @@
     },
     {
       "birth_date": "1974-10-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Eligijus.Masiulis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396647"
-        }
-      ],
-      "email": "Eligijus.Masiulis@lrs.lt",
       "family_name": "Masiulis",
       "gender": "male",
       "given_name": "Eligijus",
@@ -6468,17 +5524,6 @@
     },
     {
       "birth_date": "1963-01-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Loreta.Grauziniene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396001"
-        }
-      ],
-      "email": "Loreta.Grauziniene@lrs.lt",
       "family_name": "Graužinienė",
       "gender": "female",
       "given_name": "Loreta",
@@ -6562,18 +5607,7 @@
     },
     {
       "birth_date": "1961-04-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Alma.Monkauskaite@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396641"
-        }
-      ],
       "death_date": "2018-04-02",
-      "email": "Alma.Monkauskaite@lrs.lt",
       "family_name": "Monkauskaitė",
       "gender": "female",
       "given_name": "Alma",
@@ -6613,17 +5647,6 @@
     },
     {
       "birth_date": "1958-11-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Algirdas.Butkevicius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396920"
-        }
-      ],
-      "email": "Algirdas.Butkevicius@lrs.lt",
       "family_name": "Butkevičius",
       "gender": "male",
       "given_name": "Algirdas",
@@ -6892,17 +5915,6 @@
     },
     {
       "birth_date": "1950-11-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vytautas.Kamblevicius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396441"
-        }
-      ],
-      "email": "Vytautas.Kamblevicius@lrs.lt",
       "family_name": "Kamblevičius",
       "gender": "male",
       "given_name": "Vytautas",
@@ -6942,17 +5954,6 @@
     },
     {
       "birth_date": "1947-03-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kazimieras.Kuzminskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396732"
-        }
-      ],
-      "email": "Kazimieras.Kuzminskas@lrs.lt",
       "family_name": "Kuzminskas",
       "gender": "male",
       "given_name": "Kazimieras",
@@ -6992,17 +5993,6 @@
     },
     {
       "birth_date": "1960-01-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kestutis.Dauksys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396958"
-        }
-      ],
-      "email": "Kestutis.Dauksys@lrs.lt",
       "family_name": "Daukšys",
       "gender": "male",
       "given_name": "Kęstutis",
@@ -7057,17 +6047,6 @@
     },
     {
       "birth_date": "1956-11-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Leonard.Talmont@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396755"
-        }
-      ],
-      "email": "Leonard.Talmont@lrs.lt",
       "family_name": "Talmont",
       "gender": "male",
       "given_name": "Leonard",
@@ -7226,17 +6205,6 @@
     },
     {
       "birth_date": "1953-09-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Juozas.Bernatonis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396328"
-        }
-      ],
-      "email": "Juozas.Bernatonis@lrs.lt",
       "family_name": "Bernatonis",
       "gender": "male",
       "given_name": "Juozas",
@@ -7311,17 +6279,6 @@
     },
     {
       "birth_date": "1945-03-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Giedre.Purvaneckiene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396626"
-        }
-      ],
-      "email": "Giedre.Purvaneckiene@lrs.lt",
       "family_name": "Purvaneckienė",
       "gender": "female",
       "given_name": "Giedrė",
@@ -7380,17 +6337,6 @@
     },
     {
       "birth_date": "1959-07-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vilija.Filipoviciene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396726"
-        }
-      ],
-      "email": "Vilija.Filipoviciene@lrs.lt",
       "family_name": "Filipovičienė",
       "gender": "female",
       "given_name": "Vilija",
@@ -7437,17 +6383,6 @@
     },
     {
       "birth_date": "1981-09-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Domas.Petrulis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396618"
-        }
-      ],
-      "email": "Domas.Petrulis@lrs.lt",
       "family_name": "Petrulis",
       "gender": "male",
       "given_name": "Domas",
@@ -7591,17 +6526,6 @@
     },
     {
       "birth_date": "1958-02-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Stasys.Sedbaras@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396011"
-        }
-      ],
-      "email": "Stasys.Sedbaras@lrs.lt",
       "family_name": "Šedbaras",
       "gender": "male",
       "given_name": "Stasys",
@@ -7653,17 +6577,6 @@
     },
     {
       "birth_date": "1960-11-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Arturas.Skardzius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396648"
-        }
-      ],
-      "email": "Arturas.Skardzius@lrs.lt",
       "family_name": "Skardžius",
       "gender": "male",
       "given_name": "Artūras",
@@ -7699,17 +6612,6 @@
     },
     {
       "birth_date": "1983-08-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Arunas.Dudenas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396676"
-        }
-      ],
-      "email": "Arunas.Dudenas@lrs.lt",
       "family_name": "Dudėnas",
       "gender": "male",
       "given_name": "Arūnas",
@@ -7749,17 +6651,6 @@
     },
     {
       "birth_date": "1958-05-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gediminas.Jakavonis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396627"
-        }
-      ],
-      "email": "Gediminas.Jakavonis@lrs.lt",
       "family_name": "Jakavonis",
       "gender": "male",
       "given_name": "Gediminas",
@@ -7799,17 +6690,6 @@
     },
     {
       "birth_date": "1955-08-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vidas.Mikalauskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396685"
-        }
-      ],
-      "email": "Vidas.Mikalauskas@lrs.lt",
       "family_name": "Mikalauskas",
       "gender": "male",
       "given_name": "Vidas",
@@ -7853,17 +6733,6 @@
     },
     {
       "birth_date": "1951-08-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Birute.Vesaite@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396615"
-        }
-      ],
-      "email": "Birute.Vesaite@lrs.lt",
       "family_name": "Vėsaitė",
       "gender": "female",
       "given_name": "Birutė",
@@ -7919,17 +6788,6 @@
     },
     {
       "birth_date": "1967-07-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gintaras.Steponavicius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396020"
-        }
-      ],
-      "email": "Gintaras.Steponavicius@lrs.lt",
       "family_name": "Steponavičius",
       "gender": "male",
       "given_name": "Gintaras",
@@ -8016,17 +6874,6 @@
     },
     {
       "birth_date": "1957-07-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rimantas.Dagys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "837363430"
-        }
-      ],
-      "email": "Rimantas.Dagys@lrs.lt",
       "family_name": "Dagys",
       "gender": "male",
       "given_name": "Rimantas Jonas",
@@ -8088,17 +6935,6 @@
     },
     {
       "birth_date": "1964-09-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Naglis.Puteikis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396616"
-        }
-      ],
-      "email": "Naglis.Puteikis@lrs.lt",
       "family_name": "Puteikis",
       "gender": "male",
       "given_name": "Naglis",
@@ -8142,17 +6978,6 @@
     },
     {
       "birth_date": "1957-07-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Emanuelis.Zingeris@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396644"
-        }
-      ],
-      "email": "Emanuelis.Zingeris@lrs.lt",
       "family_name": "Zingeris",
       "gender": "male",
       "given_name": "Emanuelis",
@@ -8324,17 +7149,6 @@
     },
     {
       "birth_date": "1941-07-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Bronius.Pauza@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396720"
-        }
-      ],
-      "email": "Bronius.Pauza@lrs.lt",
       "family_name": "Pauža",
       "gender": "male",
       "given_name": "Bronius",
@@ -8381,17 +7195,6 @@
     },
     {
       "birth_date": "1960-10-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Valentinas.Stundys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396723"
-        }
-      ],
-      "email": "Valentinas.Stundys@lrs.lt",
       "family_name": "Stundys",
       "gender": "male",
       "given_name": "Valentinas",
@@ -8431,17 +7234,6 @@
     },
     {
       "birth_date": "1962-01-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jaroslav.Narkevic@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396630"
-        }
-      ],
-      "email": "Jaroslav.Narkevic@lrs.lt",
       "family_name": "Narkevič",
       "gender": "male",
       "given_name": "Jaroslav",
@@ -8506,17 +7298,6 @@
     },
     {
       "birth_date": "1958-10-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Petras.Grazulis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396638"
-        }
-      ],
-      "email": "Petras.Grazulis@lrs.lt",
       "family_name": "Gražulis",
       "gender": "male",
       "given_name": "Petras",
@@ -8584,17 +7365,6 @@
     },
     {
       "birth_date": "1982-05-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Remigijus.Zemaitaitis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396972"
-        }
-      ],
-      "email": "Remigijus.Zemaitaitis@lrs.lt",
       "family_name": "Žemaitaitis",
       "gender": "male",
       "given_name": "Remigijus",
@@ -8642,17 +7412,6 @@
     },
     {
       "birth_date": "1962-12-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Remigijus.Acas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396674"
-        }
-      ],
-      "email": "Remigijus.Acas@lrs.lt",
       "family_name": "Ačas",
       "gender": "male",
       "given_name": "Remigijus",
@@ -8692,17 +7451,6 @@
     },
     {
       "birth_date": "1954-05-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rimas.Rucys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396642"
-        }
-      ],
-      "email": "Rimas.Rucys@lrs.lt",
       "family_name": "Ručys",
       "gender": "male",
       "given_name": "Rimas Antanas",
@@ -8742,17 +7490,6 @@
     },
     {
       "birth_date": "1949-02-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Milda.Petrauskiene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396827"
-        }
-      ],
-      "email": "Milda.Petrauskiene@lrs.lt",
       "family_name": "Petrauskienė",
       "gender": "female",
       "given_name": "Milda",
@@ -8792,17 +7529,6 @@
     },
     {
       "birth_date": "1951-03-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Jonas.Varkala@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396601"
-        }
-      ],
-      "email": "Jonas.Varkala@lrs.lt",
       "family_name": "Varkala",
       "gender": "male",
       "given_name": "Jonas",
@@ -8858,17 +7584,6 @@
     },
     {
       "birth_date": "1983-08-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "valdas.skarbalius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396334"
-        }
-      ],
-      "email": "valdas.skarbalius@lrs.lt",
       "family_name": "Skarbalius",
       "gender": "male",
       "given_name": "Valdas",
@@ -8908,17 +7623,6 @@
     },
     {
       "birth_date": "1971-04-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Darius.Ulickas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396668"
-        }
-      ],
-      "email": "Darius.Ulickas@lrs.lt",
       "family_name": "Ulickas",
       "gender": "male",
       "given_name": "Darius",
@@ -8958,17 +7662,6 @@
     },
     {
       "birth_date": "1944-04-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "marija.pavilioniene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396661"
-        }
-      ],
-      "email": "marija.pavilioniene@lrs.lt",
       "family_name": "Pavilionienė",
       "gender": "female",
       "given_name": "Marija Aušrinė",
@@ -9035,17 +7728,6 @@
     },
     {
       "birth_date": "1953-08-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Arturas.Paulauskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "852396659"
-        }
-      ],
-      "email": "Arturas.Paulauskas@lrs.lt",
       "family_name": "Paulauskas",
       "gender": "male",
       "given_name": "Artūras",
@@ -9279,17 +7961,6 @@
     },
     {
       "birth_date": "1970-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Dainius.Kreivys@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396605"
-        }
-      ],
-      "email": "Dainius.Kreivys@lrs.lt",
       "family_name": "Kreivys",
       "gender": "male",
       "given_name": "Dainius",
@@ -9348,17 +8019,6 @@
     },
     {
       "birth_date": "1975-07-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Darius.Petrosius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396673"
-        }
-      ],
-      "email": "Darius.Petrosius@lrs.lt",
       "family_name": "Petrošius",
       "gender": "male",
       "given_name": "Darius",
@@ -9398,17 +8058,6 @@
     },
     {
       "birth_date": "1952-09-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Algimantas.Salamakinas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396662"
-        }
-      ],
-      "email": "Algimantas.Salamakinas@lrs.lt",
       "family_name": "Salamakinas",
       "gender": "male",
       "given_name": "Algimantas",
@@ -9448,17 +8097,6 @@
     },
     {
       "birth_date": "1952-07-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vytautas.Matulevicius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396679"
-        }
-      ],
-      "email": "Vytautas.Matulevicius@lrs.lt",
       "family_name": "Matulevičius",
       "gender": "male",
       "given_name": "Vytautas Antanas",
@@ -9505,17 +8143,6 @@
     },
     {
       "birth_date": "1952-01-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Sergej.Ursul@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396690"
-        }
-      ],
-      "email": "Sergej.Ursul@lrs.lt",
       "family_name": "Ursul",
       "gender": "male",
       "given_name": "Sergej",
@@ -9557,19 +8184,10 @@
       "birth_date": "1956-12-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Andrius.Kubilius@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396658"
-        },
-        {
           "type": "twitter",
           "value": "andriuskubilius"
         }
       ],
-      "email": "Andrius.Kubilius@lrs.lt",
       "family_name": "Kubilius",
       "gender": "male",
       "given_name": "Andrius",
@@ -9888,17 +8506,6 @@
     },
     {
       "birth_date": "1966-08-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Dangute.Mikutiene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396683"
-        }
-      ],
-      "email": "Dangute.Mikutiene@lrs.lt",
       "family_name": "Mikutienė",
       "gender": "female",
       "given_name": "Dangutė",
@@ -9982,17 +8589,6 @@
     },
     {
       "birth_date": "1979-07-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Andrius.Mazuronis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396634"
-        }
-      ],
-      "email": "Andrius.Mazuronis@lrs.lt",
       "family_name": "Mazuronis",
       "gender": "male",
       "given_name": "Andrius",
@@ -10043,17 +8639,6 @@
     },
     {
       "birth_date": "1945-08-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Ona.Valiukeviciute@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396326"
-        }
-      ],
-      "email": "Ona.Valiukeviciute@lrs.lt",
       "family_name": "Valiukevičiūtė",
       "gender": "female",
       "given_name": "Ona",
@@ -10105,17 +8690,6 @@
     },
     {
       "birth_date": "1960-10-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kristina.Miskiniene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396667"
-        }
-      ],
-      "email": "Kristina.Miskiniene@lrs.lt",
       "family_name": "Miškinienė",
       "gender": "female",
       "given_name": "Kristina",
@@ -10170,17 +8744,6 @@
     },
     {
       "birth_date": "1954-09-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Ricardas.Sargunas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396664"
-        }
-      ],
-      "email": "Ricardas.Sargunas@lrs.lt",
       "family_name": "Sargūnas",
       "gender": "male",
       "given_name": "Ričardas",
@@ -10220,17 +8783,6 @@
     },
     {
       "birth_date": "1960-02-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Arvydas.Mockus@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396710"
-        }
-      ],
-      "email": "Arvydas.Mockus@lrs.lt",
       "family_name": "Mockus",
       "gender": "male",
       "given_name": "Arvydas",
@@ -10270,17 +8822,6 @@
     },
     {
       "birth_date": "1981-04-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Liutauras.Kazlavickas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396718"
-        }
-      ],
-      "email": "Liutauras.Kazlavickas@lrs.lt",
       "family_name": "Kazlavickas",
       "gender": "male",
       "given_name": "Liutauras",
@@ -10316,17 +8857,6 @@
     },
     {
       "birth_date": "1953-10-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Michal.Mackevic@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396613"
-        }
-      ],
-      "email": "Michal.Mackevic@lrs.lt",
       "family_name": "Mackevič",
       "gender": "male",
       "given_name": "Michal",
@@ -10389,17 +8919,6 @@
     },
     {
       "birth_date": "1976-08-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gintaras.tamosiunas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396663"
-        }
-      ],
-      "email": "gintaras.tamosiunas@lrs.lt",
       "family_name": "Tamošiūnas",
       "gender": "male",
       "given_name": "Gintaras",
@@ -10435,17 +8954,6 @@
     },
     {
       "birth_date": "1958-01-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rasa.Jukneviciene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396711"
-        }
-      ],
-      "email": "Rasa.Jukneviciene@lrs.lt",
       "family_name": "Juknevičienė",
       "gender": "female",
       "given_name": "Rasa",
@@ -10558,17 +9066,6 @@
     },
     {
       "birth_date": "1954-12-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Sergejus.Jovaisa@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396694"
-        }
-      ],
-      "email": "Sergejus.Jovaisa@lrs.lt",
       "family_name": "Jovaiša",
       "gender": "male",
       "given_name": "Sergejus",
@@ -10664,17 +9161,6 @@
     },
     {
       "birth_date": "1958-01-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Audronius.Azubalis@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396321"
-        }
-      ],
-      "email": "Audronius.Azubalis@lrs.lt",
       "family_name": "Ažubalis",
       "gender": "male",
       "given_name": "Audronius",
@@ -10795,17 +9281,6 @@
     },
     {
       "birth_date": "1952-05-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Edvardas.Zakaris@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396725"
-        }
-      ],
-      "email": "Edvardas.Zakaris@lrs.lt",
       "family_name": "Žakaris",
       "gender": "male",
       "given_name": "Edvardas",
@@ -10845,17 +9320,6 @@
     },
     {
       "birth_date": "1944-02-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Bronius.Bradauskas@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396015"
-        }
-      ],
-      "email": "Bronius.Bradauskas@lrs.lt",
       "family_name": "Bradauskas",
       "gender": "male",
       "given_name": "Bronius",
@@ -10902,17 +9366,6 @@
     },
     {
       "birth_date": "1960-10-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rima.Baskiene@lrs.lt"
-        },
-        {
-          "type": "phone",
-          "value": "(8 5) 2396654"
-        }
-      ],
-      "email": "Rima.Baskiene@lrs.lt",
       "family_name": "Baškienė",
       "gender": "female",
       "given_name": "Rima",
