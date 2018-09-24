@@ -5,21 +5,6 @@
   "persons": [
     {
       "birth_date": "1947-01-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tpc@jamestien.com"
-        },
-        {
-          "type": "fax",
-          "value": "2368-5292"
-        },
-        {
-          "type": "phone",
-          "value": "2319-0720 / 2598-0001"
-        }
-      ],
-      "email": "tpc@jamestien.com",
       "family_name": "Tien",
       "gender": "male",
       "given_name": "James",
@@ -295,21 +280,6 @@
     },
     {
       "birth_date": "1979",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kptang@ftulegco.org.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2509-9092"
-        },
-        {
-          "type": "phone",
-          "value": "2537-9618"
-        }
-      ],
-      "email": "kptang@ftulegco.org.hk",
       "family_name": "Deng",
       "gender": "male",
       "honorific_prefix": "Hon",
@@ -754,21 +724,6 @@
     },
     {
       "birth_date": "1949-03-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "khwong@ftulegco.org.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2509-9092"
-        },
-        {
-          "type": "phone",
-          "value": "2537-9618"
-        }
-      ],
-      "email": "khwong@ftulegco.org.hk",
       "family_name": "Wang",
       "gender": "male",
       "honorific_prefix": "Hon",
@@ -1986,21 +1941,6 @@
     },
     {
       "birth_date": "1959",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tflam@tflam.com.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2375-43382375-4338"
-        },
-        {
-          "type": "phone",
-          "value": "2739-2822"
-        }
-      ],
-      "email": "tflam@tflam.com.hk",
       "family_name": "Lin",
       "gender": "male",
       "honorific_prefix": "Dr Hon",
@@ -2852,21 +2792,6 @@
     },
     {
       "birth_date": "1949-07-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lsngoffice2012@gmail.com"
-        },
-        {
-          "type": "fax",
-          "value": "2319-5133"
-        },
-        {
-          "type": "phone",
-          "value": "2319-5166"
-        }
-      ],
-      "email": "lsngoffice2012@gmail.com",
       "family_name": "Wu",
       "gender": "male",
       "honorific_prefix": "Hon",
@@ -2937,21 +2862,6 @@
     },
     {
       "birth_date": "1955-03-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "albert.wychan@yahoo.com.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2417-9985"
-        },
-        {
-          "type": "phone",
-          "value": "2411-3107"
-        }
-      ],
-      "email": "albert.wychan@yahoo.com.hk",
       "family_name": "Chen",
       "gender": "male",
       "given_name": "Albert",
@@ -3743,21 +3653,6 @@
     },
     {
       "birth_date": "1943-05-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vfang@vincentfang.idv.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2428-2848"
-        },
-        {
-          "type": "phone",
-          "value": "2401-1801 / 2401-1802"
-        }
-      ],
-      "email": "vfang@vincentfang.idv.hk",
       "family_name": "Fang",
       "gender": "male",
       "given_name": "Vincent",
@@ -4267,21 +4162,6 @@
     },
     {
       "birth_date": "1952-01-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "elau@dphk.org"
-        },
-        {
-          "type": "fax",
-          "value": "2845-6203"
-        },
-        {
-          "type": "phone",
-          "value": "2607-3139"
-        }
-      ],
-      "email": "elau@dphk.org",
       "family_name": "Liu",
       "gender": "female",
       "given_name": "Emily",
@@ -4677,21 +4557,6 @@
     },
     {
       "birth_date": "1951-11-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "info@cheungkwokche.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2523-3518"
-        },
-        {
-          "type": "phone",
-          "value": "2537-3608"
-        }
-      ],
-      "email": "info@cheungkwokche.hk",
       "family_name": "Zhang",
       "gender": "male",
       "honorific_prefix": "Hon",
@@ -4758,21 +4623,6 @@
     },
     {
       "birth_date": "1951-12-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hotsewai@netvigator.com"
-        },
-        {
-          "type": "fax",
-          "value": "2877-0561"
-        },
-        {
-          "type": "phone",
-          "value": "2868-2919 / 2463-0399"
-        }
-      ],
-      "email": "hotsewai@netvigator.com",
       "family_name": "He",
       "gender": "male",
       "given_name": "Albert",
@@ -5467,21 +5317,6 @@
     },
     {
       "birth_date": "1951-10-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ymwongopinion@gmail.com"
-        },
-        {
-          "type": "fax",
-          "value": "2537-7053"
-        },
-        {
-          "type": "phone",
-          "value": "2537-3150"
-        }
-      ],
-      "email": "ymwongopinion@gmail.com",
       "family_name": "Huang",
       "gender": "male",
       "given_name": "Raymond",
@@ -6012,21 +5847,6 @@
     },
     {
       "birth_date": "1957-02-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yanlee@hkctu.org.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2332-3584"
-        },
-        {
-          "type": "phone",
-          "value": "2740-9292"
-        }
-      ],
-      "email": "yanlee@hkctu.org.hk",
       "family_name": "Li",
       "gender": "male",
       "honorific_prefix": "Hon",
@@ -6243,21 +6063,6 @@
     },
     {
       "birth_date": "1962",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "leungkl@leungkl.org"
-        },
-        {
-          "type": "fax",
-          "value": "3020-0205"
-        },
-        {
-          "type": "phone",
-          "value": "2537-3592"
-        }
-      ],
-      "email": "leungkl@leungkl.org",
       "family_name": "Liang",
       "gender": "male",
       "honorific_prefix": "Dr Hon",
@@ -6943,21 +6748,6 @@
     },
     {
       "birth_date": "1949-12-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yctam@dab.org.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2528-2326"
-        },
-        {
-          "type": "phone",
-          "value": "2528-6888"
-        }
-      ],
-      "email": "yctam@dab.org.hk",
       "family_name": "Tan",
       "gender": "male",
       "honorific_prefix": "Hon",
@@ -7379,21 +7169,6 @@
     },
     {
       "birth_date": "1951-11-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ipkh@dab.org.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2537-9868"
-        },
-        {
-          "type": "phone",
-          "value": "2537-3502"
-        }
-      ],
-      "email": "ipkh@dab.org.hk",
       "family_name": "Ye",
       "gender": "male",
       "honorific_prefix": "Hon",
@@ -7461,21 +7236,6 @@
     },
     {
       "birth_date": "1949-01-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "klclegco@gmail.com"
-        },
-        {
-          "type": "fax",
-          "value": "2509-9955"
-        },
-        {
-          "type": "phone",
-          "value": "2509-3207"
-        }
-      ],
-      "email": "klclegco@gmail.com",
       "family_name": "Chen",
       "gender": "male",
       "honorific_prefix": "Hon",
@@ -7725,21 +7485,6 @@
     },
     {
       "birth_date": "1946-11-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "yhchan@ftulegco.org.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2509-9092"
-        },
-        {
-          "type": "phone",
-          "value": "2537-9618"
-        }
-      ],
-      "email": "yhchan@ftulegco.org.hk",
       "family_name": "Chen",
       "gender": "female",
       "honorific_prefix": "Hon",
@@ -8225,21 +7970,6 @@
     },
     {
       "birth_date": "1958-02-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "contact@alanleong.net"
-        },
-        {
-          "type": "fax",
-          "value": "2509-3101"
-        },
-        {
-          "type": "phone",
-          "value": "2509-3100"
-        }
-      ],
-      "email": "contact@alanleong.net",
       "family_name": "Liang",
       "gender": "male",
       "given_name": "Alan",
@@ -8985,16 +8715,6 @@
     },
     {
       "birth_date": "1936-10-15",
-      "contact_details": [
-        {
-          "type": "fax",
-          "value": "2440-9017"
-        },
-        {
-          "type": "phone",
-          "value": "2457-2822"
-        }
-      ],
       "death_date": "2017-07-23",
       "family_name": "Liu",
       "gender": "male",
@@ -9098,21 +8818,6 @@
     },
     {
       "birth_date": "1968-06-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "info@chankalok.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2521-8660"
-        },
-        {
-          "type": "phone",
-          "value": "2521-6292"
-        }
-      ],
-      "email": "info@chankalok.hk",
       "family_name": "Chen",
       "gender": "male",
       "given_name": "Kenneth",
@@ -9204,16 +8909,6 @@
     },
     {
       "birth_date": "1950-08-28",
-      "contact_details": [
-        {
-          "type": "fax",
-          "value": "2509-3101"
-        },
-        {
-          "type": "phone",
-          "value": "2509-3132"
-        }
-      ],
       "family_name": "Tang",
       "gender": "male",
       "given_name": "Ronny",
@@ -9547,21 +9242,6 @@
     },
     {
       "birth_date": "1960-06-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "scklegco@sinchungkai.org.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2537-4874"
-        },
-        {
-          "type": "phone",
-          "value": "2537-2315"
-        }
-      ],
-      "email": "scklegco@sinchungkai.org.hk",
       "family_name": "Shan",
       "gender": "male",
       "honorific_prefix": "Hon",
@@ -9812,21 +9492,6 @@
     },
     {
       "birth_date": "1957",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "chris@chungsk.com"
-        },
-        {
-          "type": "fax",
-          "value": "3003-3094"
-        },
-        {
-          "type": "phone",
-          "value": "2522-8291"
-        }
-      ],
-      "email": "chris@chungsk.com",
       "family_name": "Zhong",
       "gender": "male",
       "given_name": "Christopher",
@@ -9935,21 +9600,6 @@
     },
     {
       "birth_date": "1947-05-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "plc@legco.gov.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2180-7578"
-        },
-        {
-          "type": "phone",
-          "value": "3919-3001"
-        }
-      ],
-      "email": "plc@legco.gov.hk",
       "family_name": "Zeng",
       "gender": "male",
       "given_name": "Jasper",
@@ -10090,21 +9740,6 @@
     },
     {
       "birth_date": "1954-07-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "info@cydho.org.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2151-9011"
-        },
-        {
-          "type": "phone",
-          "value": "2156-1621 / 2504-3733"
-        }
-      ],
-      "email": "info@cydho.org.hk",
       "family_name": "He",
       "gender": "female",
       "honorific_prefix": "Hon",
@@ -10338,21 +9973,6 @@
     },
     {
       "birth_date": "1953-03-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "info@adpl.org.hk"
-        },
-        {
-          "type": "fax",
-          "value": "2782-3137 / 2537-1453"
-        },
-        {
-          "type": "phone",
-          "value": "2782-2699 / 2537-1424"
-        }
-      ],
-      "email": "info@adpl.org.hk",
       "family_name": "Féng",
       "gender": "male",
       "given_name": "Frederick",
