@@ -5,13 +5,6 @@
   "persons": [
     {
       "birth_date": "1966-08-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Ingmars.Lidaka@saeima.lv"
-        }
-      ],
-      "email": "Ingmars.Lidaka@saeima.lv",
       "family_name": "Līdaka",
       "gender": "male",
       "given_name": "Ingmārs",
@@ -77,13 +70,6 @@
     },
     {
       "birth_date": "1983",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Karlis.Engelis@saeima.lv"
-        }
-      ],
-      "email": "Karlis.Engelis@saeima.lv",
       "family_name": "Engelis",
       "gender": "male",
       "given_name": "Karlis",
@@ -485,13 +471,6 @@
     },
     {
       "birth_date": "1959-08-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Livija.Plavinska@saeima.lv"
-        }
-      ],
-      "email": "Livija.Plavinska@saeima.lv",
       "family_name": "Plavinska",
       "gender": "female",
       "given_name": "Livija",
@@ -979,13 +958,6 @@
     },
     {
       "birth_date": "1952-09-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Dzintars.Kudums@saeima.lv"
-        }
-      ],
-      "email": "Dzintars.Kudums@saeima.lv",
       "family_name": "Kudums",
       "gender": "male",
       "given_name": "Dzintars",
@@ -1218,13 +1190,6 @@
     },
     {
       "birth_date": "1971-08-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Valdis.Dombrovskis@saeima.lv"
-        }
-      ],
-      "email": "Valdis.Dombrovskis@saeima.lv",
       "family_name": "Dombrovskis",
       "gender": "male",
       "given_name": "Valdis",
@@ -1630,13 +1595,6 @@
     },
     {
       "birth_date": "1963-02-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gunta.Liepina@saeima.lv"
-        }
-      ],
-      "email": "Gunta.Liepina@saeima.lv",
       "family_name": "Liepina",
       "gender": "female",
       "given_name": "Gunta",
@@ -1792,13 +1750,6 @@
     },
     {
       "birth_date": "1983-09-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Nikita.Nikiforovs@saeima.lv"
-        }
-      ],
-      "email": "Nikita.Nikiforovs@saeima.lv",
       "family_name": "Ņikiforovs",
       "gender": "male",
       "given_name": "Ņikita",
@@ -2065,13 +2016,6 @@
     },
     {
       "birth_date": "1966-07-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Raimonds.Bergmanis@saeima.lv"
-        }
-      ],
-      "email": "Raimonds.Bergmanis@saeima.lv",
       "family_name": "Bergmanis",
       "gender": "male",
       "given_name": "Raimonds",
@@ -2206,13 +2150,6 @@
     },
     {
       "birth_date": "1959-10-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Karlis.Sadurskis@saeima.lv"
-        }
-      ],
-      "email": "Karlis.Sadurskis@saeima.lv",
       "family_name": "Šadurskis",
       "gender": "male",
       "given_name": "Kārlis",
@@ -3022,15 +2959,10 @@
       "birth_date": "1958-09-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Guntis.Belevics@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "guntisbelevics"
         }
       ],
-      "email": "Guntis.Belevics@saeima.lv",
       "family_name": "Belēvičs",
       "gender": "male",
       "given_name": "Guntis",
@@ -3252,13 +3184,6 @@
     },
     {
       "birth_date": "1971-11-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Ilze.Vinkele@saeima.lv"
-        }
-      ],
-      "email": "Ilze.Vinkele@saeima.lv",
       "family_name": "Viņķele",
       "gender": "female",
       "given_name": "Ilze",
@@ -3435,13 +3360,6 @@
     },
     {
       "birth_date": "1973-08-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Irina.Cvetkova@saeima.lv"
-        }
-      ],
-      "email": "Irina.Cvetkova@saeima.lv",
       "family_name": "Cvetkova",
       "gender": "female",
       "given_name": "Irina",
@@ -4156,13 +4074,6 @@
     },
     {
       "birth_date": "1976-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Janis.Ozolins@saeima.lv"
-        }
-      ],
-      "email": "Janis.Ozolins@saeima.lv",
       "family_name": "Ozolins",
       "gender": "male",
       "given_name": "Janis",
@@ -4315,13 +4226,6 @@
     },
     {
       "birth_date": "1966",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Regina.Locmele-Lunova@saeima.lv"
-        }
-      ],
-      "email": "Regina.Locmele-Lunova@saeima.lv",
       "family_name": "Ločmele-Luņova",
       "gender": "female",
       "given_name": "Regīna",
@@ -4433,15 +4337,10 @@
       "birth_date": "1966-03-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Artis.Pabriks@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "Pabriks"
         }
       ],
-      "email": "Artis.Pabriks@saeima.lv",
       "family_name": "Pabriks",
       "gender": "male",
       "given_name": "Artis",
@@ -4788,13 +4687,6 @@
     },
     {
       "birth_date": "1982-09-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Marjana.Ivanova-Jevsejeva@saeima.lv"
-        }
-      ],
-      "email": "Marjana.Ivanova-Jevsejeva@saeima.lv",
       "family_name": "Ivanova-Jevsejeva",
       "gender": "female",
       "given_name": "Marjana",
@@ -4853,15 +4745,10 @@
       "birth_date": "1971-04-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Ingmars.Caklais@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "ingmarscaklais"
         }
       ],
-      "email": "Ingmars.Caklais@saeima.lv",
       "family_name": "Caklais",
       "gender": "male",
       "given_name": "Ingmars",
@@ -5126,13 +5013,6 @@
     },
     {
       "birth_date": "1982-12-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Andrejs.Elksnins@saeima.lv"
-        }
-      ],
-      "email": "Andrejs.Elksnins@saeima.lv",
       "family_name": "Elksniņš",
       "gender": "male",
       "given_name": "Andrejs",
@@ -5300,13 +5180,6 @@
     },
     {
       "birth_date": "1983-04-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Klavs.Olsteins@saeima.lv"
-        }
-      ],
-      "email": "Klavs.Olsteins@saeima.lv",
       "family_name": "Olsteins",
       "gender": "male",
       "given_name": "Klavs",
@@ -5353,15 +5226,10 @@
       "birth_date": "1982-02-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Davis.Stalts@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "Stalts"
         }
       ],
-      "email": "Davis.Stalts@saeima.lv",
       "family_name": "Stalts",
       "gender": "male",
       "given_name": "Davis",
@@ -5412,15 +5280,10 @@
       "birth_date": "1967-11-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Dainis.Liepins@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "DLiepins"
         }
       ],
-      "email": "Dainis.Liepins@saeima.lv",
       "family_name": "Liepiņš",
       "gender": "male",
       "given_name": "Dainis",
@@ -6483,13 +6346,6 @@
     },
     {
       "birth_date": "1963-10-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Viktors.Jakovlevs@saeima.lv"
-        }
-      ],
-      "email": "Viktors.Jakovlevs@saeima.lv",
       "family_name": "Jakovlevs",
       "gender": "male",
       "given_name": "Viktors",
@@ -6539,13 +6395,6 @@
     },
     {
       "birth_date": "1965-06-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gunars.Igaunis@saeima.lv"
-        }
-      ],
-      "email": "Gunars.Igaunis@saeima.lv",
       "family_name": "Igaunis",
       "gender": "male",
       "given_name": "Gunars",
@@ -6588,15 +6437,10 @@
       "birth_date": "1964-09-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Iveta.Grigule@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "ivetagrigule"
         }
       ],
-      "email": "Iveta.Grigule@saeima.lv",
       "family_name": "Grigule",
       "gender": "female",
       "given_name": "Iveta",
@@ -6666,13 +6510,6 @@
     },
     {
       "birth_date": "1970-09-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Nikolajs.Kabanovs@saeima.lv"
-        }
-      ],
-      "email": "Nikolajs.Kabanovs@saeima.lv",
       "family_name": "Kabanovs",
       "gender": "male",
       "given_name": "Nikolajs",
@@ -6754,13 +6591,6 @@
     },
     {
       "birth_date": "1952",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Lelde.Stumbre@saeima.lv"
-        }
-      ],
-      "email": "Lelde.Stumbre@saeima.lv",
       "family_name": "Stumbre",
       "gender": "female",
       "given_name": "Lelde",
@@ -7259,13 +7089,6 @@
     },
     {
       "birth_date": "1952-09-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Guntars.Bilsens@saeima.lv"
-        }
-      ],
-      "email": "Guntars.Bilsens@saeima.lv",
       "family_name": "Bilsens",
       "gender": "male",
       "given_name": "Guntars",
@@ -7310,13 +7133,6 @@
     },
     {
       "birth_date": "1955-03-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Valdis.Zatlers@saeima.lv"
-        }
-      ],
-      "email": "Valdis.Zatlers@saeima.lv",
       "family_name": "Zatlers",
       "gender": "male",
       "given_name": "Valdis",
@@ -8057,13 +7873,6 @@
     },
     {
       "birth_date": "1941-09-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Janis.Strazdins@saeima.lv"
-        }
-      ],
-      "email": "Janis.Strazdins@saeima.lv",
       "family_name": "Strazdins",
       "gender": "male",
       "given_name": "Janis",
@@ -8192,13 +8001,6 @@
     },
     {
       "birth_date": "1971-12-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Martins.Bondars@saeima.lv"
-        }
-      ],
-      "email": "Martins.Bondars@saeima.lv",
       "family_name": "Bondars",
       "gender": "male",
       "given_name": "Mārtiņš",
@@ -8510,13 +8312,6 @@
     },
     {
       "birth_date": "1962-05-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rihards.Eigims@saeima.lv"
-        }
-      ],
-      "email": "Rihards.Eigims@saeima.lv",
       "family_name": "Eigims",
       "gender": "male",
       "given_name": "Rihards",
@@ -8678,13 +8473,6 @@
     },
     {
       "birth_date": "1974-09-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Inita.Bisofa@saeima.lv"
-        }
-      ],
-      "email": "Inita.Bisofa@saeima.lv",
       "family_name": "Bisofa",
       "gender": "female",
       "given_name": "Inita",
@@ -8725,13 +8513,6 @@
     },
     {
       "birth_date": "1980-06-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Inga.Vanaga@saeima.lv"
-        }
-      ],
-      "email": "Inga.Vanaga@saeima.lv",
       "family_name": "Vanaga",
       "gender": "female",
       "given_name": "Inga",
@@ -9236,13 +9017,6 @@
     },
     {
       "birth_date": "1980-09-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gatis.Spruds@saeima.lv"
-        }
-      ],
-      "email": "Gatis.Spruds@saeima.lv",
       "family_name": "Spruds",
       "gender": "male",
       "given_name": "Gatis",
@@ -9287,13 +9061,6 @@
     },
     {
       "birth_date": "1977-02-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Elina.Silina@saeima.lv"
-        }
-      ],
-      "email": "Elina.Silina@saeima.lv",
       "family_name": "Silina",
       "gender": "female",
       "given_name": "Elina",
@@ -9347,13 +9114,6 @@
     },
     {
       "birth_date": "1965",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Aleksandrs.Sakovskis@saeima.lv"
-        }
-      ],
-      "email": "Aleksandrs.Sakovskis@saeima.lv",
       "family_name": "Sakovskis",
       "gender": "male",
       "given_name": "Aleksandrs",
@@ -9461,13 +9221,6 @@
     },
     {
       "birth_date": "1970-07-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vineta.Porina@saeima.lv"
-        }
-      ],
-      "email": "Vineta.Porina@saeima.lv",
       "family_name": "Porina",
       "gender": "female",
       "given_name": "Vineta",
@@ -9568,13 +9321,6 @@
     },
     {
       "birth_date": "1963-06-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Edmunds.Demiters@saeima.lv"
-        }
-      ],
-      "email": "Edmunds.Demiters@saeima.lv",
       "family_name": "Demiters",
       "gender": "male",
       "given_name": "Edmunds",
@@ -9701,13 +9447,6 @@
     },
     {
       "birth_date": "1972-06-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Valerijs.Agesins@saeima.lv"
-        }
-      ],
-      "email": "Valerijs.Agesins@saeima.lv",
       "family_name": "Agešins",
       "gender": "male",
       "given_name": "Valērijs",
@@ -9863,13 +9602,6 @@
     },
     {
       "birth_date": "1953-02-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Olegs.Hlebnikovs@saeima.lv"
-        }
-      ],
-      "email": "Olegs.Hlebnikovs@saeima.lv",
       "family_name": "Hlebnikovs",
       "gender": "male",
       "given_name": "Olegs",
@@ -10069,13 +9801,6 @@
     },
     {
       "birth_date": "1977-12-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vjaceslavs.Dombrovskis@saeima.lv"
-        }
-      ],
-      "email": "Vjaceslavs.Dombrovskis@saeima.lv",
       "family_name": "Dombrovskis",
       "gender": "male",
       "given_name": "Vjačeslavs",
@@ -10165,13 +9890,6 @@
     },
     {
       "birth_date": "1939",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Valdis.Liepins@saeima.lv"
-        }
-      ],
-      "email": "Valdis.Liepins@saeima.lv",
       "family_name": "Liepins",
       "gender": "male",
       "given_name": "Valdis",
@@ -10229,13 +9947,6 @@
     },
     {
       "birth_date": "1958-10-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Janis.Lacplesis@saeima.lv"
-        }
-      ],
-      "email": "Janis.Lacplesis@saeima.lv",
       "family_name": "Lacplesis",
       "gender": "male",
       "given_name": "Janis",
@@ -10638,13 +10349,6 @@
     },
     {
       "birth_date": "1980-09-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Dmitrijs.Rodionovs@saeima.lv"
-        }
-      ],
-      "email": "Dmitrijs.Rodionovs@saeima.lv",
       "family_name": "Rodionovs",
       "gender": "male",
       "given_name": "Dmitrijs",
@@ -10842,13 +10546,6 @@
     },
     {
       "birth_date": "1946-06-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Rasma.Karklina@saeima.lv"
-        }
-      ],
-      "email": "Rasma.Karklina@saeima.lv",
       "family_name": "Karklina",
       "gender": "female",
       "given_name": "Rasma",
@@ -10968,15 +10665,10 @@
       "birth_date": "1961-11-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Maris.Kucinskis@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "MarisKucinskis"
         }
       ],
-      "email": "Maris.Kucinskis@saeima.lv",
       "family_name": "Kučinskis",
       "gender": "male",
       "given_name": "Māris",
@@ -11223,13 +10915,6 @@
     },
     {
       "birth_date": "1966",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Askolds.Klavins@saeima.lv"
-        }
-      ],
-      "email": "Askolds.Klavins@saeima.lv",
       "family_name": "Kļaviņš",
       "gender": "male",
       "given_name": "Askolds",
@@ -11252,15 +10937,10 @@
       "birth_date": "1984-11-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Vladimirs.Reskajs@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "VladimirReskajs"
         }
       ],
-      "email": "Vladimirs.Reskajs@saeima.lv",
       "family_name": "Reskajs",
       "gender": "male",
       "given_name": "Vladimirs",
@@ -11311,15 +10991,10 @@
       "birth_date": "1969-06-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Igors.Melnikovs@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "IMelnikovs"
         }
       ],
-      "email": "Igors.Melnikovs@saeima.lv",
       "family_name": "Melnikovs",
       "gender": "male",
       "given_name": "Igors",
@@ -11375,15 +11050,10 @@
       "birth_date": "1963-06-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Andris.Vilks@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "AndrisVilks"
         }
       ],
-      "email": "Andris.Vilks@saeima.lv",
       "family_name": "Vilks",
       "gender": "male",
       "given_name": "Andris",
@@ -11497,15 +11167,10 @@
       "birth_date": "1980-06-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Edmunds.Sprudzs@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "EdmundsSprudzs"
         }
       ],
-      "email": "Edmunds.Sprudzs@saeima.lv",
       "family_name": "Sprudzs",
       "gender": "male",
       "given_name": "Edmunds",
@@ -12021,13 +11686,6 @@
     },
     {
       "birth_date": "1957-04-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Ivars.Brivers@saeima.lv"
-        }
-      ],
-      "email": "Ivars.Brivers@saeima.lv",
       "family_name": "Brīvers",
       "gender": "male",
       "given_name": "Ivars",
@@ -12160,13 +11818,6 @@
     },
     {
       "birth_date": "1980-08-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Vilnis.Kirsis@saeima.lv"
-        }
-      ],
-      "email": "Vilnis.Kirsis@saeima.lv",
       "family_name": "Ķirsis",
       "gender": "male",
       "given_name": "Vilnis",
@@ -12527,15 +12178,10 @@
       "birth_date": "1982",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Raivis.Blumfelds@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "RBlumfelds"
         }
       ],
-      "email": "Raivis.Blumfelds@saeima.lv",
       "family_name": "Blumfelds",
       "gender": "male",
       "given_name": "Raivis",
@@ -12631,13 +12277,6 @@
     },
     {
       "birth_date": "1960-03-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Gunars.Rusins@saeima.lv"
-        }
-      ],
-      "email": "Gunars.Rusins@saeima.lv",
       "family_name": "Rusiņš",
       "gender": "male",
       "given_name": "Gunārs",
@@ -12711,13 +12350,6 @@
     },
     {
       "birth_date": "1963-02-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Solvita.Aboltina@saeima.lv"
-        }
-      ],
-      "email": "Solvita.Aboltina@saeima.lv",
       "family_name": "Āboltiņa",
       "gender": "female",
       "given_name": "Solvita",
@@ -12863,13 +12495,6 @@
     },
     {
       "birth_date": "1964",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Kursite.Janina@saeima.lv"
-        }
-      ],
-      "email": "Kursite.Janina@saeima.lv",
       "family_name": "Kursīte",
       "gender": "female",
       "given_name": "Janīna",
@@ -12944,13 +12569,6 @@
     },
     {
       "birth_date": "1957-07-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Liene.Liepina@saeima.lv"
-        }
-      ],
-      "email": "Liene.Liepina@saeima.lv",
       "family_name": "Liepina",
       "gender": "female",
       "given_name": "Liene",
@@ -13065,15 +12683,10 @@
       "birth_date": "1974",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Daina.Kazaka@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "DainaKazaka"
         }
       ],
-      "email": "Daina.Kazaka@saeima.lv",
       "family_name": "Kazāka",
       "gender": "female",
       "given_name": "Daina",
@@ -13255,13 +12868,6 @@
     },
     {
       "birth_date": "1984-07-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Janis.Junkurs@saeima.lv"
-        }
-      ],
-      "email": "Janis.Junkurs@saeima.lv",
       "family_name": "Junkurs",
       "gender": "male",
       "given_name": "Janis",
@@ -13308,15 +12914,10 @@
       "birth_date": "1970-08-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Ilona.Jursevska@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "IlonaJursevska"
         }
       ],
-      "email": "Ilona.Jursevska@saeima.lv",
       "family_name": "Jursevska",
       "gender": "female",
       "given_name": "Ilona",
@@ -14037,13 +13638,6 @@
     },
     {
       "birth_date": "1978",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Zanda.Kalnina-Lukasevica@saeima.lv"
-        }
-      ],
-      "email": "Zanda.Kalnina-Lukasevica@saeima.lv",
       "family_name": "Kalnina-Lukasevica",
       "gender": "female",
       "given_name": "Zanda",
@@ -14457,15 +14051,10 @@
       "birth_date": "1962-12-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Arvils.Aseradens@saeima.lv"
-        },
-        {
           "type": "twitter",
           "value": "aseradens"
         }
       ],
-      "email": "Arvils.Aseradens@saeima.lv",
       "family_name": "Aseradens",
       "gender": "male",
       "given_name": "Arvils",
@@ -14653,13 +14242,6 @@
     },
     {
       "birth_date": "1947-04-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Ilma.Cepane@saeima.lv"
-        }
-      ],
-      "email": "Ilma.Cepane@saeima.lv",
       "family_name": "Cepane",
       "gender": "female",
       "given_name": "Ilma",
