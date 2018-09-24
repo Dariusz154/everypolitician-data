@@ -4,13 +4,6 @@
   ],
   "persons": [
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "henry.mora@asamblea.go.cr"
-        }
-      ],
-      "email": "henry.mora@asamblea.go.cr",
       "family_name": "MORA JIMÉNEZ",
       "gender": "male",
       "given_name": "HENRY MANUEL",
@@ -55,13 +48,6 @@
       "sort_name": "MORA JIMÉNEZ, HENRY MANUEL"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lvasquez@asamblea.go.cr"
-        }
-      ],
-      "email": "lvasquez@asamblea.go.cr",
       "family_name": "VÁSQUEZ CASTRO",
       "gender": "male",
       "given_name": "LUIS ALBERTO",
@@ -88,13 +74,6 @@
       "sort_name": "VÁSQUEZ CASTRO, LUIS ALBERTO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ruperto.atencio@asamblea.go.cr"
-        }
-      ],
-      "email": "ruperto.atencio@asamblea.go.cr",
       "family_name": "ATENCIO DELGADO",
       "gender": "male",
       "given_name": "MARVIN",
@@ -135,15 +114,10 @@
       "birth_date": "1960-10-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "otto.guevara@asamblea.go.cr"
-        },
-        {
           "type": "twitter",
           "value": "OttoPresidente"
         }
       ],
-      "email": "otto.guevara@asamblea.go.cr",
       "family_name": "GUEVARA GUTH",
       "gender": "male",
       "given_name": "OTTO",
@@ -221,13 +195,6 @@
       "sort_name": "GUEVARA GUTH, OTTO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "karla.prendas@asamblea.go.cr"
-        }
-      ],
-      "email": "karla.prendas@asamblea.go.cr",
       "family_name": "PRENDAS MATARRITA",
       "gender": "female",
       "given_name": "KARLA VANESSA",
@@ -248,13 +215,6 @@
       "sort_name": "PRENDAS MATARRITA, KARLA VANESSA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carmen.quesada@asamblea.go.cr"
-        }
-      ],
-      "email": "carmen.quesada@asamblea.go.cr",
       "family_name": "QUESADA SANTAMARÍA",
       "gender": "female",
       "given_name": "CARMEN",
@@ -296,13 +256,6 @@
       "sort_name": "QUESADA SANTAMARÍA, CARMEN"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "laura.garro@asamblea.go.cr"
-        }
-      ],
-      "email": "laura.garro@asamblea.go.cr",
       "family_name": "GARRO SÁNCHEZ",
       "gender": "female",
       "given_name": "LAURA MARÍA",
@@ -340,13 +293,6 @@
       "sort_name": "GARRO SÁNCHEZ, LAURA MARÍA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ndiaz@asamblea.go.cr"
-        }
-      ],
-      "email": "ndiaz@asamblea.go.cr",
       "family_name": "DÍAZ QUINTANA",
       "gender": "female",
       "given_name": "NATALIA",
@@ -387,13 +333,6 @@
       "sort_name": "DÍAZ QUINTANA, NATALIA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "paulina.ramirez@asamblea.go.cr"
-        }
-      ],
-      "email": "paulina.ramirez@asamblea.go.cr",
       "family_name": "RAMÍREZ PORTUGUEZ",
       "gender": "female",
       "given_name": "PAULINA MARÍA",
@@ -420,13 +359,6 @@
       "sort_name": "RAMÍREZ PORTUGUEZ, PAULINA MARÍA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rosibel.ramos@asamblea.go.cr"
-        }
-      ],
-      "email": "rosibel.ramos@asamblea.go.cr",
       "family_name": "RAMOS MADRIGAL",
       "gender": "female",
       "given_name": "ROSIBEL",
@@ -447,13 +379,6 @@
       "sort_name": "RAMOS MADRIGAL, ROSIBEL"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "olivier.jimenez@asamblea.go.cr"
-        }
-      ],
-      "email": "olivier.jimenez@asamblea.go.cr",
       "family_name": "JIMÉNEZ ROJAS",
       "gender": "male",
       "given_name": "OLIVIER IBO",
@@ -480,13 +405,6 @@
       "sort_name": "JIMÉNEZ ROJAS, OLIVIER IBO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "emilia.molina@asamblea.go.cr"
-        }
-      ],
-      "email": "emilia.molina@asamblea.go.cr",
       "family_name": "MOLINA CRUZ",
       "gender": "female",
       "given_name": "EMILIA",
@@ -524,13 +442,6 @@
       "sort_name": "MOLINA CRUZ, EMILIA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "javier.cambronero@asamblea.go.cr"
-        }
-      ],
-      "email": "javier.cambronero@asamblea.go.cr",
       "family_name": "CAMBRONERO ARGUEDAS",
       "gender": "male",
       "given_name": "JAVIER FRANCISCO",
@@ -561,13 +472,6 @@
       "sort_name": "CAMBRONERO ARGUEDAS, JAVIER FRANCISCO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mguerrero@asamblea.go.cr"
-        }
-      ],
-      "email": "mguerrero@asamblea.go.cr",
       "family_name": "GUERRERO CAMPOS",
       "gender": "female",
       "given_name": "MARCELA",
@@ -605,13 +509,6 @@
       "sort_name": "GUERRERO CAMPOS, MARCELA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ronny.monge@asamblea.go.cr"
-        }
-      ],
-      "email": "ronny.monge@asamblea.go.cr",
       "family_name": "MONGE SALAS",
       "gender": "male",
       "given_name": "RONNY",
@@ -638,13 +535,6 @@
       "sort_name": "MONGE SALAS, RONNY"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "marta.arauz@asamblea.go.cr"
-        }
-      ],
-      "email": "marta.arauz@asamblea.go.cr",
       "family_name": "ARAUZ MORA",
       "gender": "female",
       "given_name": "MARTA ARABELA",
@@ -665,13 +555,6 @@
       "sort_name": "ARAUZ MORA, MARTA ARABELA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rolando.gonzalez@asamblea.go.cr"
-        }
-      ],
-      "email": "rolando.gonzalez@asamblea.go.cr",
       "family_name": "GONZÁLEZ ULLOA",
       "gender": "male",
       "given_name": "ROLANDO",
@@ -698,13 +581,6 @@
       "sort_name": "GONZÁLEZ ULLOA, ROLANDO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "danny.hayling@asamblea.go.cr"
-        }
-      ],
-      "email": "danny.hayling@asamblea.go.cr",
       "family_name": "HAYLING CARCACHE",
       "gender": "male",
       "given_name": "DANNY",
@@ -725,13 +601,6 @@
       "sort_name": "HAYLING CARCACHE, DANNY"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "franklin.corella@asamblea.go.cr"
-        }
-      ],
-      "email": "franklin.corella@asamblea.go.cr",
       "family_name": "CORELLA VARGAS",
       "gender": "male",
       "given_name": "FRANKLIN",
@@ -762,13 +631,6 @@
       "sort_name": "CORELLA VARGAS, FRANKLIN"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gonzalo.ramírez@asamblea.go.cr"
-        }
-      ],
-      "email": "gonzalo.ramírez@asamblea.go.cr",
       "family_name": "RAMÍREZ ZAMORA",
       "gender": "male",
       "given_name": "GONZALO ALBERTO",
@@ -795,13 +657,6 @@
       "sort_name": "RAMÍREZ ZAMORA, GONZALO ALBERTO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "humberto.vargas@asamblea.go.cr"
-        }
-      ],
-      "email": "humberto.vargas@asamblea.go.cr",
       "family_name": "VARGAS CORRALES",
       "gender": "male",
       "given_name": "HUMBERTO",
@@ -832,13 +687,6 @@
       "sort_name": "VARGAS CORRALES, HUMBERTO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jose.ramirez@asamblea.go.cr"
-        }
-      ],
-      "email": "jose.ramirez@asamblea.go.cr",
       "family_name": "RAMÍREZ AGUILAR",
       "gender": "male",
       "given_name": "JOSÉ ANTONIO",
@@ -865,13 +713,6 @@
       "sort_name": "RAMÍREZ AGUILAR, JOSÉ ANTONIO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "silvia.sanchez@asamblea.go.cr"
-        }
-      ],
-      "email": "silvia.sanchez@asamblea.go.cr",
       "family_name": "SÁNCHEZ VENEGAS",
       "gender": "female",
       "given_name": "SILVIA VANESSA",
@@ -898,13 +739,6 @@
       "sort_name": "SÁNCHEZ VENEGAS, SILVIA VANESSA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "juan.Jimenez@asamblea.go.cr"
-        }
-      ],
-      "email": "juan.Jimenez@asamblea.go.cr",
       "family_name": "JIMÉNEZ SUCCAR",
       "gender": "male",
       "given_name": "JUAN LUIS",
@@ -931,13 +765,6 @@
       "sort_name": "JIMÉNEZ SUCCAR, JUAN LUIS"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "juan.marin@asamblea.go.cr"
-        }
-      ],
-      "email": "juan.marin@asamblea.go.cr",
       "family_name": "MARÍN QUIRÓS",
       "gender": "male",
       "given_name": "JUAN RAFAEL",
@@ -964,13 +791,6 @@
       "sort_name": "MARÍN QUIRÓS, JUAN RAFAEL"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "abelino.esquivel@asamblea.go.cr"
-        }
-      ],
-      "email": "abelino.esquivel@asamblea.go.cr",
       "family_name": "ESQUIVEL QUESADA",
       "gender": "male",
       "given_name": "ABELINO",
@@ -991,13 +811,6 @@
       "sort_name": "ESQUIVEL QUESADA, ABELINO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carlos.hernandez@asamblea.go.cr"
-        }
-      ],
-      "email": "carlos.hernandez@asamblea.go.cr",
       "family_name": "HERNÁNDEZ ÁLVAREZ",
       "gender": "male",
       "given_name": "CARLOS ENRIQUE",
@@ -1025,13 +838,6 @@
     },
     {
       "birth_date": "1974-05-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "fabricio.alvarado@asamblea.go.cr"
-        }
-      ],
-      "email": "fabricio.alvarado@asamblea.go.cr",
       "family_name": "ALVARADO MUÑOZ",
       "gender": "male",
       "given_name": "GERARDO FABRICIO",
@@ -1136,13 +942,6 @@
     },
     {
       "birth_date": "1962-10-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mario.redondo@asamblea.go.cr"
-        }
-      ],
-      "email": "mario.redondo@asamblea.go.cr",
       "family_name": "REDONDO POVEDA",
       "gender": "male",
       "given_name": "MARIO",
@@ -1174,13 +973,6 @@
     },
     {
       "birth_date": "1954-05-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "otton.solis@asamblea.go.cr"
-        }
-      ],
-      "email": "otton.solis@asamblea.go.cr",
       "family_name": "SOLÍS FALLAS",
       "gender": "male",
       "given_name": "OTTÓN",
@@ -1290,13 +1082,6 @@
     },
     {
       "birth_date": "1958",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "antonio.alvarez@asamblea.go.cr"
-        }
-      ],
-      "email": "antonio.alvarez@asamblea.go.cr",
       "family_name": "ÁLVAREZ DESANTI",
       "gender": "male",
       "given_name": "ANTONIO",
@@ -1354,13 +1139,6 @@
       "sort_name": "ÁLVAREZ DESANTI, ANTONIO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "patricia.mora@asamblea.go.cr"
-        }
-      ],
-      "email": "patricia.mora@asamblea.go.cr",
       "family_name": "MORA CASTELLANOS",
       "gender": "female",
       "given_name": "ANA PATRICIA",
@@ -1401,13 +1179,6 @@
       "sort_name": "MORA CASTELLANOS, ANA PATRICIA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "julio.rojas@asamblea.go.cr"
-        }
-      ],
-      "email": "julio.rojas@asamblea.go.cr",
       "family_name": "ROJAS ASTORGA",
       "gender": "male",
       "given_name": "JULIO ANTONIO",
@@ -1429,13 +1200,6 @@
     },
     {
       "birth_date": "1963-07-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "epsy.campbell@asamblea.go.cr"
-        }
-      ],
-      "email": "epsy.campbell@asamblea.go.cr",
       "family_name": "CAMPBELL BARR",
       "gender": "female",
       "given_name": "EPSY ALEJANDRA",
@@ -1510,13 +1274,6 @@
       "sort_name": "CAMPBELL BARR, EPSY ALEJANDRA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "marlene.madrigal@asamblea.go.cr"
-        }
-      ],
-      "email": "marlene.madrigal@asamblea.go.cr",
       "family_name": "MADRIGAL FLORES",
       "gender": "female",
       "given_name": "MARLENE",
@@ -1550,13 +1307,6 @@
       "sort_name": "MADRIGAL FLORES, MARLENE"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "johnny.leiva@asamblea.go.cr"
-        }
-      ],
-      "email": "johnny.leiva@asamblea.go.cr",
       "family_name": "LEIVA BADILLA",
       "gender": "male",
       "given_name": "JOHNNY",
@@ -1577,13 +1327,6 @@
       "sort_name": "LEIVA BADILLA, JOHNNY"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "suray.carrillo@asamblea.go.cr"
-        }
-      ],
-      "email": "suray.carrillo@asamblea.go.cr",
       "family_name": "CARRILLO GUEVARA",
       "gender": "female",
       "given_name": "SURAY",
@@ -1604,17 +1347,6 @@
       "sort_name": "CARRILLO GUEVARA, SURAY"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jose.camacho@asamblea.go.cr"
-        },
-        {
-          "type": "email",
-          "value": "jose.francisco.camacho@asamblea.go.cr"
-        }
-      ],
-      "email": "jose.camacho@asamblea.go.cr",
       "family_name": "CAMACHO LEIVA",
       "gender": "male",
       "given_name": "JOSÉ FRANCISCO",
@@ -1642,13 +1374,6 @@
     },
     {
       "birth_date": "1959-09-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ligia.fallas@asamblea.go.cr"
-        }
-      ],
-      "email": "ligia.fallas@asamblea.go.cr",
       "family_name": "FALLAS RODRÍGUEZ",
       "gender": "female",
       "given_name": "LIGIA ELENA",
@@ -1694,13 +1419,6 @@
     },
     {
       "birth_date": "1973-02-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "edgardo.araya@asamblea.go.cr"
-        }
-      ],
-      "email": "edgardo.araya@asamblea.go.cr",
       "family_name": "ARAYA SIBAJA",
       "gender": "male",
       "given_name": "EDGARDO VINICIO",
@@ -1745,13 +1463,6 @@
       "sort_name": "ARAYA SIBAJA, EDGARDO VINICIO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lorelly.trejos@asamblea.go.cr"
-        }
-      ],
-      "email": "lorelly.trejos@asamblea.go.cr",
       "family_name": "TREJOS SALAS",
       "gender": "female",
       "given_name": "LORELLY",
@@ -1773,13 +1484,6 @@
     },
     {
       "birth_date": "1948",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sandra.piszk@asamblea.go.cr"
-        }
-      ],
-      "email": "sandra.piszk@asamblea.go.cr",
       "family_name": "PISZK FEINZILBER",
       "gender": "female",
       "given_name": "SANDRA",
@@ -1823,13 +1527,6 @@
       "sort_name": "PISZK FEINZILBER, SANDRA"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "marco.redondo@asamblea.go.cr"
-        }
-      ],
-      "email": "marco.redondo@asamblea.go.cr",
       "family_name": "REDONDO QUIRÓS",
       "gender": "male",
       "given_name": "MARCO VINICIO",
@@ -1867,13 +1564,6 @@
       "sort_name": "REDONDO QUIRÓS, MARCO VINICIO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rafael.ortiz@asamblea.go.cr"
-        }
-      ],
-      "email": "rafael.ortiz@asamblea.go.cr",
       "family_name": "ORTIZ FÁBREGA",
       "gender": "male",
       "given_name": "RAFAEL ÁNGEL",
@@ -1915,13 +1605,6 @@
       "sort_name": "ORTIZ FÁBREGA, RAFAEL ÁNGEL"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gerardo.vargas.rojas@asamblea.go.cr"
-        }
-      ],
-      "email": "gerardo.vargas.rojas@asamblea.go.cr",
       "family_name": "VARGAS ROJAS",
       "gender": "male",
       "given_name": "GERARDO",
@@ -1952,13 +1635,6 @@
       "sort_name": "VARGAS ROJAS, GERARDO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carlos.arguedas@asamblea.go.cr"
-        }
-      ],
-      "email": "carlos.arguedas@asamblea.go.cr",
       "family_name": "ARGUEDAS RAMÍREZ",
       "gender": "male",
       "given_name": "CARLOS MANUEL",
@@ -1985,13 +1661,6 @@
       "sort_name": "ARGUEDAS RAMÍREZ, CARLOS MANUEL"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jose.alfaro@asamblea.go.cr"
-        }
-      ],
-      "email": "jose.alfaro@asamblea.go.cr",
       "family_name": "ALFARO JIMÉNEZ",
       "gender": "male",
       "given_name": "JOSÉ ALBERTO",
@@ -2018,13 +1687,6 @@
       "sort_name": "ALFARO JIMÉNEZ, JOSÉ ALBERTO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jorge.rodriguez@asamblea.go.cr"
-        }
-      ],
-      "email": "jorge.rodriguez@asamblea.go.cr",
       "family_name": "RODRÍGUEZ ARAYA",
       "gender": "male",
       "given_name": "JORGE",
@@ -2051,13 +1713,6 @@
       "sort_name": "RODRÍGUEZ ARAYA, JORGE"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jorge.arguedas@asamblea.go.cr"
-        }
-      ],
-      "email": "jorge.arguedas@asamblea.go.cr",
       "family_name": "ARGUEDAS MORA",
       "gender": "male",
       "given_name": "JORGE ARTURO",
@@ -2099,13 +1754,6 @@
     },
     {
       "birth_date": "1952-11-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maureen.clarke@asamblea.go.cr"
-        }
-      ],
-      "email": "maureen.clarke@asamblea.go.cr",
       "family_name": "CLARKE CLARKE",
       "gender": "female",
       "given_name": "MAUREEN CECILIA",
@@ -2144,13 +1792,6 @@
     },
     {
       "birth_date": "1970-02-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "oscar.lopez@asamblea.go.cr"
-        }
-      ],
-      "email": "oscar.lopez@asamblea.go.cr",
       "family_name": "LÓPEZ",
       "gender": "male",
       "given_name": "ÓSCAR",
@@ -2264,13 +1905,6 @@
       "sort_name": "LÓPEZ, ÓSCAR"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "william.alvarado@asamblea.go.cr"
-        }
-      ],
-      "email": "william.alvarado@asamblea.go.cr",
       "family_name": "ALVARADO BOGANTES",
       "gender": "male",
       "given_name": "WILLIAM",
@@ -2291,13 +1925,6 @@
       "sort_name": "ALVARADO BOGANTES, WILLIAM"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nidia.jimenez@asámblea.go.cr"
-        }
-      ],
-      "email": "nidia.jimenez@asámblea.go.cr",
       "family_name": "JIMÉNEZ VÁSQUEZ",
       "gender": "female",
       "given_name": "NIDIA MARÍA",
@@ -2336,13 +1963,6 @@
     },
     {
       "birth_date": "1960-09-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gvargas@asamblea.go.cr"
-        }
-      ],
-      "email": "gvargas@asamblea.go.cr",
       "family_name": "VARGAS VARELA",
       "gender": "male",
       "given_name": "GERARDO",
@@ -2373,13 +1993,6 @@
       "sort_name": "VARGAS VARELA, GERARDO"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "michael.arce@asamblea.go.cr"
-        }
-      ],
-      "email": "michael.arce@asamblea.go.cr",
       "family_name": "ARCE SANCHO",
       "gender": "male",
       "given_name": "MICHAEL JAKE",
@@ -2400,13 +2013,6 @@
       "sort_name": "ARCE SANCHO, MICHAEL JAKE"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aracelli.segura@asamblea.go.cr"
-        }
-      ],
-      "email": "aracelli.segura@asamblea.go.cr",
       "family_name": "SEGURA RETANA",
       "gender": "female",
       "given_name": "ARACELLI",
@@ -2427,13 +2033,6 @@
       "sort_name": "SEGURA RETANA, ARACELLI"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "victor.morales@asamblea.go.cr"
-        }
-      ],
-      "email": "victor.morales@asamblea.go.cr",
       "family_name": "MORALES ZAPATA",
       "gender": "male",
       "given_name": "VÍCTOR HUGO",
