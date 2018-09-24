@@ -103,12 +103,6 @@
     },
     {
       "birth_date": "1957-10-01",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407440"
-        }
-      ],
       "gender": "male",
       "id": "0aa70bef-a146-413b-ad63-060b671dc648",
       "identifiers": [
@@ -147,12 +141,6 @@
     },
     {
       "birth_date": "1961-05-31",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407229"
-        }
-      ],
       "gender": "male",
       "given_name": "Marios",
       "id": "0b5e6200-f5c0-460e-a67f-1ec17617d2c7",
@@ -376,12 +364,6 @@
     },
     {
       "birth_date": "1965-08-06",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407216"
-        }
-      ],
       "gender": "male",
       "id": "11021b19-d92c-4d72-b702-cf8fbe957626",
       "identifiers": [
@@ -461,12 +443,6 @@
     },
     {
       "birth_date": "1959-09-23",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407258"
-        }
-      ],
       "gender": "male",
       "id": "135294a5-fd41-44cd-8980-0f316bb09891",
       "identifiers": [
@@ -535,10 +511,6 @@
     {
       "birth_date": "1963-08-31",
       "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407210"
-        },
         {
           "type": "twitter",
           "value": "LefChristoforou"
@@ -619,12 +591,6 @@
     },
     {
       "birth_date": "1954-10-18",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407261"
-        }
-      ],
       "gender": "female",
       "id": "1a89df8b-970b-4ed7-ab40-6660f851865f",
       "identifiers": [
@@ -859,12 +825,6 @@
     },
     {
       "birth_date": "1962-04-15",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407204"
-        }
-      ],
       "gender": "male",
       "id": "28cc782d-fd7d-4f4d-b217-45be9bed4598",
       "identifiers": [
@@ -1104,12 +1064,6 @@
     },
     {
       "birth_date": "1947-03-31",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407226"
-        }
-      ],
       "gender": "male",
       "id": "385a9288-2c65-4e2e-9e93-1b3a583f711b",
       "identifiers": [
@@ -2334,10 +2288,6 @@
       "birth_date": "1958-11-23",
       "contact_details": [
         {
-          "type": "phone",
-          "value": "(+357) 22 407232"
-        },
-        {
           "type": "twitter",
           "value": "pprodromou"
         }
@@ -2437,12 +2387,6 @@
     },
     {
       "birth_date": "1954-12-16",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407231"
-        }
-      ],
       "gender": "male",
       "id": "6092cfb1-4a17-4275-ba20-a115a611c22c",
       "identifiers": [
@@ -2481,12 +2425,6 @@
     },
     {
       "birth_date": "1957-07-16",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407233"
-        }
-      ],
       "gender": "female",
       "id": "661f04db-440d-41d2-873f-b7350f0c0134",
       "identifiers": [
@@ -2838,12 +2776,6 @@
     },
     {
       "birth_date": "1951-12-14",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407243"
-        }
-      ],
       "gender": "male",
       "given_name": "Nikos",
       "id": "78650983-5536-447f-934a-f5f1d1eedb7f",
@@ -2982,12 +2914,6 @@
     },
     {
       "birth_date": "1946-11-09",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407205"
-        }
-      ],
       "gender": "male",
       "id": "81ff6684-720f-433e-85b7-071f057970a6",
       "identifiers": [
@@ -3026,12 +2952,6 @@
     },
     {
       "birth_date": "1953-11-02",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407220"
-        }
-      ],
       "gender": "male",
       "given_name": "Nikos",
       "id": "8951debc-321c-4db3-9513-c695cc5ba1ba",
@@ -3280,12 +3200,6 @@
     },
     {
       "birth_date": "1963-06-15",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407244"
-        }
-      ],
       "gender": "male",
       "given_name": "Charalampos",
       "id": "8ab3aab7-0bc7-4b4f-a114-3fdf5839690d",
@@ -3506,12 +3420,6 @@
     },
     {
       "birth_date": "1959-11-30",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407222"
-        }
-      ],
       "gender": "male",
       "given_name": "Antonis",
       "id": "97573f91-7557-4bfd-ae6d-e85cd3547e00",
@@ -3610,12 +3518,6 @@
     },
     {
       "birth_date": "1952-12-29",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407212"
-        }
-      ],
       "gender": "male",
       "given_name": "Andreas",
       "id": "9cfd6082-c13b-49d9-9d26-0adec3f4a65f",
@@ -3688,12 +3590,6 @@
     },
     {
       "birth_date": "1957-08-25",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407223"
-        }
-      ],
       "gender": "male",
       "id": "9dd4f745-ec15-4273-8fc3-e74a20ea0a35",
       "identifiers": [
@@ -3810,12 +3706,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407225"
-        }
-      ],
       "gender": "female",
       "id": "a265d19d-c56e-4caa-b512-065342e02bc8",
       "identifiers": [
@@ -4003,12 +3893,6 @@
     },
     {
       "birth_date": "1950-09-26",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407206"
-        }
-      ],
       "gender": "female",
       "id": "b220307f-2f9d-48c6-b120-6247bfe8e719",
       "identifiers": [
@@ -4047,12 +3931,6 @@
     },
     {
       "birth_date": "1953-10-01",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407218"
-        }
-      ],
       "gender": "male",
       "id": "b6a704e9-9e0e-4678-acf3-863cdebc949d",
       "identifiers": [
@@ -4215,12 +4093,6 @@
     },
     {
       "birth_date": "1964-02-07",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407251"
-        }
-      ],
       "gender": "male",
       "id": "c422f834-1259-4559-9585-30a73db76c49",
       "identifiers": [
@@ -4466,12 +4338,6 @@
     },
     {
       "birth_date": "1961-07-17",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407259"
-        }
-      ],
       "gender": "male",
       "id": "c9483a57-f90f-42a5-9997-6f91a2c56b84",
       "identifiers": [
@@ -4796,12 +4662,6 @@
     },
     {
       "birth_date": "1951-09-18",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407301"
-        }
-      ],
       "gender": "male",
       "id": "d310e419-abaa-433c-8f09-13fddf482a61",
       "identifiers": [
@@ -5163,12 +5023,6 @@
     },
     {
       "birth_date": "1955-10-14",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407260"
-        }
-      ],
       "gender": "male",
       "id": "e2dc3255-04e8-4069-963e-df81a24aea5e",
       "identifiers": [
@@ -5263,12 +5117,6 @@
     },
     {
       "birth_date": "1968-09-13",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407228"
-        }
-      ],
       "gender": "male",
       "id": "e58e3fc9-d354-4374-9d7d-a95ae503a715",
       "identifiers": [
@@ -5586,12 +5434,6 @@
     },
     {
       "birth_date": "1959-12-02",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407256"
-        }
-      ],
       "gender": "male",
       "id": "fb4260b7-1c75-41df-8cee-079fbb9c3c21",
       "identifiers": [
@@ -5671,12 +5513,6 @@
     },
     {
       "birth_date": "1959-07-14",
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "(+357) 22 407214"
-        }
-      ],
       "gender": "male",
       "id": "feca5485-8be4-44b9-a18b-b94eaa6a4f9b",
       "identifiers": [
