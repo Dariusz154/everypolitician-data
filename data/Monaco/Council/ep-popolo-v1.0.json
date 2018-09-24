@@ -7,15 +7,10 @@
       "birth_date": "1969-12-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "t.crovetto@conseil-national.mc"
-        },
-        {
           "type": "twitter",
           "value": "thierrycrovetto"
         }
       ],
-      "email": "t.crovetto@conseil-national.mc",
       "family_name": "Crovetto",
       "gender": "male",
       "given_name": "Thierry",
@@ -56,15 +51,10 @@
       "birth_date": "1960-10-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jc.allavena@conseil-national.mc"
-        },
-        {
           "type": "twitter",
           "value": "jc_allavena"
         }
       ],
-      "email": "jc.allavena@conseil-national.mc",
       "family_name": "Allavena",
       "gender": "male",
       "given_name": "Jean-Charles",
@@ -103,13 +93,6 @@
     },
     {
       "birth_date": "1965-07-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "s.lavagna@conseil-national.mc"
-        }
-      ],
-      "email": "s.lavagna@conseil-national.mc",
       "gender": "female",
       "given_name": "Sophie",
       "id": "0633c42c-6d36-49cf-8427-245ffc12bfe3",
@@ -198,13 +181,6 @@
     },
     {
       "birth_date": "1962-05-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jf.robillon@conseil-national.mc"
-        }
-      ],
-      "email": "jf.robillon@conseil-national.mc",
       "family_name": "Robillon",
       "gender": "male",
       "given_name": "Jean-François",
@@ -239,13 +215,6 @@
     },
     {
       "birth_date": "1961-07-14",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jm.cucchi@conseil-national.mc"
-        }
-      ],
-      "email": "jm.cucchi@conseil-national.mc",
       "gender": "male",
       "given_name": "Jean-Michel",
       "id": "1ca4231f-195d-46da-aae8-bd13b0403a70",
@@ -457,13 +426,6 @@
     },
     {
       "birth_date": "1962-03-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "m.burini@conseil-national.mc"
-        }
-      ],
-      "email": "m.burini@conseil-national.mc",
       "family_name": "Burini",
       "gender": "male",
       "given_name": "Marc",
@@ -591,13 +553,6 @@
     },
     {
       "birth_date": "1955-01-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "c.boisson@conseil-national.mc"
-        }
-      ],
-      "email": "c.boisson@conseil-national.mc",
       "gender": "male",
       "given_name": "Claude",
       "id": "4eb0dab7-0f82-4138-86fd-c919a8bfeeb0",
@@ -794,13 +749,6 @@
     },
     {
       "birth_date": "1953-07-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "p.clerissi@conseil-national.mc"
-        }
-      ],
-      "email": "p.clerissi@conseil-national.mc",
       "gender": "male",
       "given_name": "Philippe",
       "id": "6085eb00-212f-405e-b1f0-54dbafdadd71",
@@ -902,13 +850,6 @@
     },
     {
       "birth_date": "1967-09-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "v.rossi@conseil-national.mc"
-        }
-      ],
-      "email": "v.rossi@conseil-national.mc",
       "gender": "female",
       "given_name": "Valérie",
       "id": "6ea1c2ed-3ae5-412b-9ec9-938fb8db35c0",
@@ -989,15 +930,10 @@
       "birth_date": "1958-12-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "c.steiner@conseil-national.mc"
-        },
-        {
           "type": "twitter",
           "value": "ChrisSteinerMC"
         }
       ],
-      "email": "c.steiner@conseil-national.mc",
       "gender": "male",
       "given_name": "Christophe",
       "id": "783a2833-98fb-4a4b-8957-c2f00fd49f49",
@@ -1071,13 +1007,6 @@
     },
     {
       "birth_date": "1954-02-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "b.pasquier@conseil-national.mc"
-        }
-      ],
-      "email": "b.pasquier@conseil-national.mc",
       "gender": "male",
       "given_name": "Bernard",
       "id": "78eff3d1-a27f-4d2a-989f-3ba1c0c98e05",
@@ -1144,13 +1073,6 @@
     },
     {
       "birth_date": "1965-10-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "c.barilaro@conseil-national.mc"
-        }
-      ],
-      "email": "c.barilaro@conseil-national.mc",
       "family_name": "Barilaro",
       "gender": "male",
       "given_name": "Christian",
@@ -1280,13 +1202,6 @@
     },
     {
       "birth_date": "1968-03-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lnp@conseil-national.mc"
-        }
-      ],
-      "email": "lnp@conseil-national.mc",
       "gender": "male",
       "given_name": "Laurent",
       "id": "95d751a1-ceb8-44a2-a26e-49cc15fcec36",
@@ -1359,13 +1274,6 @@
     },
     {
       "birth_date": "1965-03-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "t.poyet@conseil-national.mc"
-        }
-      ],
-      "email": "t.poyet@conseil-national.mc",
       "family_name": "Poyet",
       "gender": "male",
       "given_name": "Thierry",
@@ -1582,13 +1490,6 @@
     },
     {
       "birth_date": "1950-02-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "a.ficini@conseil-national.mc"
-        }
-      ],
-      "email": "a.ficini@conseil-national.mc",
       "family_name": "Ficini",
       "gender": "male",
       "given_name": "Alain",
@@ -1619,13 +1520,6 @@
     },
     {
       "birth_date": "1969-04-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "c.rougaignon-vernin@conseil-national.mc"
-        }
-      ],
-      "email": "c.rougaignon-vernin@conseil-national.mc",
       "family_name": "Rougaignon",
       "gender": "female",
       "given_name": "Caroline",
@@ -1700,13 +1594,6 @@
     },
     {
       "birth_date": "1962-08-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "e.elena@conseil-national.mc"
-        }
-      ],
-      "email": "e.elena@conseil-national.mc",
       "gender": "male",
       "given_name": "Éric",
       "id": "c1272a5a-5439-4500-870d-2293cf7a66e5",
@@ -1787,13 +1674,6 @@
     },
     {
       "birth_date": "1956-10-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "p.svara@conseil-national.mc"
-        }
-      ],
-      "email": "p.svara@conseil-national.mc",
       "gender": "male",
       "given_name": "Pierre",
       "id": "c541384f-8172-4bdf-95f5-eaca8370a821",
