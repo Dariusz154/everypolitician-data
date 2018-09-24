@@ -175,13 +175,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bnesi@parliament.gov.za"
-        }
-      ],
-      "email": "bnesi@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "02757ec8-7afc-4536-8d33-cab799bac22f",
@@ -208,13 +201,6 @@
       "name": "Bonisile Alfred Nesi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "alovemore@parliament.gov.za"
-        }
-      ],
-      "email": "alovemore@parliament.gov.za",
       "gender": "female",
       "given_name": "Annette",
       "honorific_prefix": "Ms",
@@ -343,14 +329,7 @@
       "name": "Angie Motshekga"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tkhoza@parliament.gov.za"
-        }
-      ],
       "death_date": "2017-08-02",
-      "email": "tkhoza@parliament.gov.za",
       "gender": "male",
       "given_name": "Timothy",
       "honorific_prefix": "Mr",
@@ -451,13 +430,6 @@
       "name": "Madala Louis David Ntombela"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rnyalungu@parliament.gov.za"
-        }
-      ],
-      "email": "rnyalungu@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "0529c3c1-96c9-42b8-a56d-d5be65c93acd",
@@ -497,17 +469,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kmubu@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "ksmubu@yahoo.com"
-        }
-      ],
-      "email": "kmubu@parliament.gov.za",
       "gender": "male",
       "given_name": "Kenneth",
       "honorific_prefix": "Mr",
@@ -547,13 +508,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mgoqwana@parliament.gov.za"
-        }
-      ],
-      "email": "mgoqwana@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Dr",
       "id": "0628015d-7afe-427c-8216-9ef7f0be48dd",
@@ -1154,13 +1108,6 @@
     },
     {
       "birth_date": "1983-08-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gana@vodamail.co.za"
-        }
-      ],
-      "email": "gana@vodamail.co.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "0d715409-1c64-43ca-bb78-403248f866b3",
@@ -1261,13 +1208,6 @@
       "name": "Leigh-Ann Mathys"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tmanyoni@parliament.gov.za"
-        }
-      ],
-      "email": "tmanyoni@parliament.gov.za",
       "gender": "male",
       "given_name": "Thabo",
       "honorific_prefix": "Mr",
@@ -1928,13 +1868,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pntobongwana@parliament.gov.za"
-        }
-      ],
-      "email": "pntobongwana@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "1591b26b-50b2-4628-a68e-712f33eb3ce0",
@@ -3139,13 +3072,6 @@
     },
     {
       "birth_date": "1952-11-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "president@po.gov.za"
-        }
-      ],
-      "email": "president@po.gov.za",
       "gender": "male",
       "given_name": "Cyril",
       "honorific_prefix": "Mr",
@@ -3755,13 +3681,6 @@
       "name": "Sarel Jacobus Francois Marais"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "whitfield.andrew@gmail.com"
-        }
-      ],
-      "email": "whitfield.andrew@gmail.com",
       "gender": "male",
       "given_name": "Andrew",
       "honorific_prefix": "Mr",
@@ -4235,13 +4154,6 @@
       "name": "James Vos"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jterblanche@parliament.gov.za"
-        }
-      ],
-      "email": "jterblanche@parliament.gov.za",
       "gender": "female",
       "given_name": "Johanna",
       "honorific_prefix": "Ms",
@@ -4463,13 +4375,6 @@
       "name": "Nthibane Rebecca Mokoto"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mmoonsamy@parliament.gov.za"
-        }
-      ],
-      "email": "mmoonsamy@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "2a8fcde8-4b49-48c3-8441-642a044128a0",
@@ -4616,13 +4521,6 @@
       "name": "Dipuo Bertha Letsatsi-Duba"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jmoropa@parliament.gov.za"
-        }
-      ],
-      "email": "jmoropa@parliament.gov.za",
       "gender": "female",
       "given_name": "Joyce",
       "honorific_prefix": "Ms",
@@ -4822,16 +4720,11 @@
       "birth_date": "1967",
       "contact_details": [
         {
-          "type": "email",
-          "value": "tarniabaker8@gmail.com"
-        },
-        {
           "type": "twitter",
           "value": "TarniaBaker"
         }
       ],
       "death_date": "2017-10-06",
-      "email": "tarniabaker8@gmail.com",
       "family_name": "Baker",
       "gender": "female",
       "honorific_prefix": "Ms",
@@ -5130,13 +5023,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aqikani@parliament.gov.za"
-        }
-      ],
-      "email": "aqikani@parliament.gov.za",
       "gender": "female",
       "given_name": "Agnes",
       "honorific_prefix": "Ms",
@@ -5283,13 +5169,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "sboshielo@parliament.gov.za"
-        }
-      ],
-      "email": "sboshielo@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "304975a5-02ac-4cae-88b7-f1c433d771d6",
@@ -5700,14 +5579,7 @@
     },
     {
       "birth_date": "1960-10-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "moriani-ambrosini@parliament.gov.za"
-        }
-      ],
       "death_date": "2014-08-16",
-      "email": "moriani-ambrosini@parliament.gov.za",
       "gender": "male",
       "given_name": "Mario",
       "honorific_prefix": "Dr",
@@ -6252,13 +6124,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "amatlhoko@parliament.gov.za"
-        }
-      ],
-      "email": "amatlhoko@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "39781c4c-8d20-4c81-a16f-fbca5a8eca9c",
@@ -6504,13 +6369,6 @@
       "name": "Gwede Mantashe"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "klitchfield-tshabalala@parliament.gov.za"
-        }
-      ],
-      "email": "klitchfield-tshabalala@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "3b7816d7-f594-4504-882c-d7582e4abdca",
@@ -7192,13 +7050,6 @@
     },
     {
       "birth_date": "1963-12-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Caroline.Nobevu@energy.gov.za"
-        }
-      ],
-      "email": "Caroline.Nobevu@energy.gov.za",
       "gender": "female",
       "given_name": "Tina",
       "honorific_prefix": "Ms",
@@ -7375,17 +7226,6 @@
       "name": "Nontando Nolutshungu"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mkhoza@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "drmakhosikhoza@yahoo.com"
-        }
-      ],
-      "email": "mkhoza@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Dr",
       "id": "47d82630-80db-4895-98ff-078d573a5c09",
@@ -7499,13 +7339,6 @@
       "name": "Nhlanhla Xaba"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bjoseph@wcpp.gov.za"
-        }
-      ],
-      "email": "bjoseph@wcpp.gov.za",
       "gender": "male",
       "given_name": "Bernard",
       "honorific_prefix": "Mr",
@@ -7631,13 +7464,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stlhaole@parliament.gov.za"
-        }
-      ],
-      "email": "stlhaole@parliament.gov.za",
       "gender": "male",
       "id": "4b843766-a5bc-46b2-be61-3fa943fd6af8",
       "identifiers": [
@@ -8318,13 +8144,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hvolmink@parliament.gov.za"
-        }
-      ],
-      "email": "hvolmink@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Dr",
       "id": "511738a9-d0f9-4189-90c8-9c7590c0b38a",
@@ -8607,13 +8426,6 @@
     },
     {
       "birth_date": "1951-07-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pmulder@parliament.gov.za"
-        }
-      ],
-      "email": "pmulder@parliament.gov.za",
       "family_name": "Mulder",
       "gender": "male",
       "given_name": "Pieter",
@@ -8862,13 +8674,6 @@
       "name": "Tsholofelo Katlego Motshidi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pmogotsi@parliament.gov.za"
-        }
-      ],
-      "email": "pmogotsi@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "55dd2925-994f-4a2b-9c36-85cf05d8fcd9",
@@ -9169,13 +8974,6 @@
     },
     {
       "birth_date": "1961-09-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lbrown@parliament.gov.za"
-        }
-      ],
-      "email": "lbrown@parliament.gov.za",
       "family_name": "Brown",
       "gender": "female",
       "given_name": "Lynne",
@@ -9305,13 +9103,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mtshishonga@parliament.gov.za"
-        }
-      ],
-      "email": "mtshishonga@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "5c5bb3a8-4221-453e-b160-e235b9cca4f2",
@@ -9457,13 +9248,6 @@
       "name": "Mcebisi Skwatsha"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "amngxitama@parliament.gov.za"
-        }
-      ],
-      "email": "amngxitama@parliament.gov.za",
       "gender": "male",
       "given_name": "John",
       "honorific_prefix": "Mr",
@@ -9911,17 +9695,6 @@
       "name": "Sahlulele Luzipo"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lgreyling@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "lanceg@id.org.za"
-        }
-      ],
-      "email": "lgreyling@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "621350a8-89c6-4a71-8943-efad7db1d826",
@@ -10093,13 +9866,6 @@
       "name": "Stevens Mokgalapa"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pkhoza@parliament.gov.za"
-        }
-      ],
-      "email": "pkhoza@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "62ff32c0-166b-4e92-a5ae-43d0660c8971",
@@ -10313,17 +10079,6 @@
       "name": "Sheila Coleen Nkhensani Shope-Sithole"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mmncwango@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "mncwango@ifp.org.za"
-        }
-      ],
-      "email": "mmncwango@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "66de2926-e7fb-406b-ac1b-d6f097f6120d",
@@ -10823,17 +10578,6 @@
       "name": "Simphiwe Donatus Bekwa"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jmcgluwa@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "joem@id.org.za"
-        }
-      ],
-      "email": "jmcgluwa@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "6c793c31-b30b-4769-919a-3f16b16d92dc",
@@ -11591,13 +11335,6 @@
       "name": "Pebane George Moteka"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dtg@wol.co.za"
-        }
-      ],
-      "email": "dtg@wol.co.za",
       "family_name": "George",
       "gender": "male",
       "given_name": "Dion",
@@ -11860,13 +11597,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nmdaka@parliament.gov.za"
-        }
-      ],
-      "email": "nmdaka@parliament.gov.za",
       "honorific_prefix": "Ms",
       "id": "7c0133aa-26d8-4368-a3bc-1b24a6c1f23b",
       "identifiers": [
@@ -12104,13 +11834,6 @@
     },
     {
       "birth_date": "1945-08-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "speaker@parliament.gov.za"
-        }
-      ],
-      "email": "speaker@parliament.gov.za",
       "gender": "male",
       "given_name": "Max",
       "honorific_prefix": "Mr",
@@ -12314,13 +12037,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tmabudafhasi@parliament.gov.za"
-        }
-      ],
-      "email": "tmabudafhasi@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "814bb901-ed5b-4aec-8073-083907f02c81",
@@ -12896,13 +12612,6 @@
     },
     {
       "birth_date": "1954-03-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "psizani@parliament.gov.za"
-        }
-      ],
-      "email": "psizani@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "88e6b139-3bdc-477d-b1ad-a4091392ca4f",
@@ -13067,13 +12776,6 @@
       "name": "Cathrine Matsimbi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mscheepers@parliament.gov.za"
-        }
-      ],
-      "email": "mscheepers@parliament.gov.za",
       "gender": "female",
       "given_name": "Maureen",
       "honorific_prefix": "Ms",
@@ -14384,13 +14086,6 @@
     },
     {
       "birth_date": "1955-08-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nramatlhodi@parliament.gov.za"
-        }
-      ],
-      "email": "nramatlhodi@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "9d37aa5d-0a86-4978-ace6-b358115c556c",
@@ -14633,13 +14328,6 @@
       "name": "Neliswa Peggy Nkonyeni"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "molefe.mudau@gmail.com"
-        }
-      ],
-      "email": "molefe.mudau@gmail.com",
       "gender": "male",
       "given_name": "Abram",
       "honorific_prefix": "Mr",
@@ -14701,17 +14389,6 @@
       "name": "Dennis Richard Ryder"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mmokause@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "mmokausem@gmail.com"
-        }
-      ],
-      "email": "mmokause@parliament.gov.za",
       "id": "a1c5ef13-c2a7-4cf2-b0bc-b301974faffa",
       "identifiers": [
         {
@@ -16703,13 +16380,6 @@
       "name": "Nthako Sam Matiase"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "esiwela@parliament.gov.za"
-        }
-      ],
-      "email": "esiwela@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "b569cc6c-a197-4531-9a8c-b2a17f8318e2",
@@ -16786,13 +16456,6 @@
       "name": "Joseph Phaahla"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lyengeni@parliament.gov.za"
-        }
-      ],
-      "email": "lyengeni@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "b5e744c2-de8c-424f-825f-208fb1d59374",
@@ -16915,17 +16578,6 @@
     },
     {
       "birth_date": "1980",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pmabe@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "pulemabe@icloud.com"
-        }
-      ],
-      "email": "pmabe@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "ba4801f4-cdc1-4b4c-a215-f9a3785d0fdd",
@@ -17144,13 +16796,6 @@
       "name": "Mathews Wolmarans"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tbonhomme@parliament.gov.za"
-        }
-      ],
-      "email": "tbonhomme@parliament.gov.za",
       "gender": "male",
       "given_name": "Trevor",
       "honorific_prefix": "Mr",
@@ -17282,13 +16927,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jamesm@jantar.co.za"
-        }
-      ],
-      "email": "jamesm@jantar.co.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "be43047d-fbd2-4b69-8b5a-1ad91e3db4db",
@@ -17658,13 +17296,6 @@
     },
     {
       "birth_date": "1960",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "andiswa.kamba@deaet.ecape.gov.za"
-        }
-      ],
-      "email": "andiswa.kamba@deaet.ecape.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "c24c69fc-d584-44a3-a912-f72e24fd9cd5",
@@ -17778,13 +17409,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cmsimang@parliament.gov.za"
-        }
-      ],
-      "email": "cmsimang@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Prof",
       "id": "c4e3374e-12ba-477b-b654-abd17a9b343c",
@@ -18179,13 +17803,6 @@
     },
     {
       "birth_date": "1961-10-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "paulm@dac.gov.za"
-        }
-      ],
-      "email": "paulm@dac.gov.za",
       "gender": "male",
       "given_name": "Paul",
       "honorific_prefix": "Mr",
@@ -19070,17 +18687,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mmbatha@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "siphombatha43@gmail.com"
-        }
-      ],
-      "email": "mmbatha@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "d256eb70-0856-472e-b276-0a8968631556",
@@ -19391,13 +18997,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ampontshane@parliament.gov.za"
-        }
-      ],
-      "email": "ampontshane@parliament.gov.za",
       "gender": "male",
       "given_name": "Alfred",
       "honorific_prefix": "Mr",
@@ -19462,14 +19061,7 @@
     },
     {
       "birth_date": "1959-09-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nntwanambi@parliament.gov.za"
-        }
-      ],
       "death_date": "2014-07-08",
-      "email": "nntwanambi@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "d5c501fe-65c8-4580-b768-c8a289899fd1",
@@ -20463,13 +20055,6 @@
     },
     {
       "birth_date": "1958-12-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mary.marumo@treasury.gov.za"
-        }
-      ],
-      "email": "mary.marumo@treasury.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "e0dd1766-033c-4137-80d5-4aaa91f13eca",
@@ -20529,13 +20114,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ybotha@parliament.gov.za"
-        }
-      ],
-      "email": "ybotha@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "e15b4675-2e1d-462c-b969-2b061f60b246",
@@ -20558,17 +20136,6 @@
       "name": "Yolanda Rachel Botha"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jmaluleke@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "jmaluleke1972@gmail.com"
-        }
-      ],
-      "email": "jmaluleke@parliament.gov.za",
       "gender": "female",
       "given_name": "Johanna",
       "honorific_prefix": "Ms",
@@ -20736,13 +20303,6 @@
       "name": "Nomsa Innocencia Tarabella-Marchesi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jramokhoase@parliament.gov.za"
-        }
-      ],
-      "email": "jramokhoase@parliament.gov.za",
       "honorific_prefix": "Mr",
       "id": "e29ee895-eabd-4483-a68b-4d7f818f4f76",
       "identifiers": [
@@ -20925,17 +20485,6 @@
       "name": "Hlayiseka Crucief Chewane"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "amphethi@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "info@bataufc.com"
-        }
-      ],
-      "email": "amphethi@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "e64b1d81-d8dd-44e9-b307-f5e336f172b9",
@@ -21216,13 +20765,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "wongamasina@gmail.com"
-        }
-      ],
-      "email": "wongamasina@gmail.com",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "ea8a7bbe-dcc8-45d4-a761-b6dc1102a82c",
@@ -21263,17 +20805,6 @@
     },
     {
       "birth_date": "1953-07-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "wjames@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "wjames@agei.co.za"
-        }
-      ],
-      "email": "wjames@parliament.gov.za",
       "family_name": "James",
       "gender": "male",
       "given_name": "Wilmot",
@@ -22003,14 +21534,7 @@
     },
     {
       "birth_date": "1936-09-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mamelodi@ancpco-gp.co.za"
-        }
-      ],
       "death_date": "2018-04-02",
-      "email": "mamelodi@ancpco-gp.co.za",
       "gender": "female",
       "given_name": "Winnie",
       "honorific_prefix": "Ms",
@@ -22867,17 +22391,6 @@
     },
     {
       "birth_date": "1949-11-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zbalindlela@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "khayamnandi@webmail.co.za"
-        }
-      ],
-      "email": "zbalindlela@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Mrs",
       "id": "f45fe41d-7e21-41f6-b273-8f9a670bbc34",
@@ -22924,13 +22437,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nbhanga@gmail.com"
-        }
-      ],
-      "email": "nbhanga@gmail.com",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "f5176fe2-fcf5-4f57-93cf-3f6678380687",
@@ -22957,13 +22463,6 @@
       "name": "Bennet Mzwenqaba Bhanga"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "smabilo@parliament.gov.za"
-        }
-      ],
-      "email": "smabilo@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "f59f63c0-c5be-421d-9c4c-63c323715e7a",
