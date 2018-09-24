@@ -3539,13 +3539,6 @@
     },
     {
       "birth_date": "1960-05-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "zoltan.gogos@parlament.hu"
-        }
-      ],
-      "email": "zoltan.gogos@parlament.hu",
       "gender": "male",
       "given_name": "Zoltán",
       "id": "3350ce56-cadc-45ab-8795-89e695c91555",
@@ -5150,13 +5143,6 @@
     },
     {
       "birth_date": "1986-12-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bosz.anett@parlament.hu"
-        }
-      ],
-      "email": "bosz.anett@parlament.hu",
       "gender": "female",
       "given_name": "Anett",
       "id": "4ad9cb90-ab1b-4978-9441-7121f50f615e",
@@ -5329,13 +5315,6 @@
     },
     {
       "birth_date": "1971-06-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "andras.schiffer@parlament.hu"
-        }
-      ],
-      "email": "andras.schiffer@parlament.hu",
       "family_name": "Schiffer",
       "gender": "male",
       "given_name": "András",
@@ -5425,14 +5404,7 @@
     },
     {
       "birth_date": "1944-02-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gyorgy.rubovszky@parlament.hu"
-        }
-      ],
       "death_date": "2017-06-21",
-      "email": "gyorgy.rubovszky@parlament.hu",
       "gender": "male",
       "given_name": "György",
       "id": "50376f0f-ad4a-4274-9c31-1bfde7ee5885",
@@ -11145,13 +11117,6 @@
     },
     {
       "birth_date": "1987-03-05",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "duro.dora@parlament.hu"
-        }
-      ],
-      "email": "duro.dora@parlament.hu",
       "gender": "female",
       "given_name": "Dora",
       "id": "a94f8ca3-ebe6-4a6a-9d49-bd47d8f04b3b",
@@ -11585,13 +11550,6 @@
     },
     {
       "birth_date": "1954-03-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mellar.tamas@parlament.hu"
-        }
-      ],
-      "email": "mellar.tamas@parlament.hu",
       "gender": "male",
       "given_name": "Tamás",
       "id": "acc81066-c2e8-437f-84c0-7d6158ccd64c",
@@ -12068,13 +12026,6 @@
     },
     {
       "birth_date": "1978-08-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vona.gabor@parlament.hu"
-        }
-      ],
-      "email": "vona.gabor@parlament.hu",
       "family_name": "Vona",
       "gender": "male",
       "given_name": "Gábor",
@@ -15796,13 +15747,6 @@
     },
     {
       "birth_date": "1974-03-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hadhazy.akos@parlament.hu"
-        }
-      ],
-      "email": "hadhazy.akos@parlament.hu",
       "gender": "male",
       "given_name": "Ákos",
       "id": "e902bb96-f4b9-4be0-9c32-6f55f84a9d84",
