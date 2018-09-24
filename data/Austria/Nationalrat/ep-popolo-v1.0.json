@@ -7,15 +7,10 @@
       "birth_date": "1956-04-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "erwin.spindelberger@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "espindelberger1"
         }
       ],
-      "email": "erwin.spindelberger@parlament.gv.at",
       "family_name": "Spindelberger",
       "gender": "male",
       "given_name": "Erwin",
@@ -66,15 +61,10 @@
       "birth_date": "1977-08-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "matthias.koechl@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "matthiaskoechl"
         }
       ],
-      "email": "matthias.koechl@parlament.gv.at",
       "family_name": "Köchl",
       "gender": "male",
       "given_name": "Matthias",
@@ -133,15 +123,10 @@
       "birth_date": "1968-09-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "judith.schwentner@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "JSchwentner"
         }
       ],
-      "email": "judith.schwentner@parlament.gv.at",
       "family_name": "Schwentner",
       "gender": "female",
       "given_name": "Judith",
@@ -204,15 +189,10 @@
       "birth_date": "1956-06-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jessi.lintl@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "jessilintl"
         }
       ],
-      "email": "jessi.lintl@parlament.gv.at",
       "family_name": "Lintl",
       "gender": "female",
       "given_name": "Jessi",
@@ -282,13 +262,6 @@
     },
     {
       "birth_date": "1966-01-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "axel.kassegger@parlament.gv.at"
-        }
-      ],
-      "email": "axel.kassegger@parlament.gv.at",
       "family_name": "Kassegger",
       "gender": "male",
       "given_name": "MMMag. Dr. Axel",
@@ -336,15 +309,10 @@
       "birth_date": "1964-03-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "elisabeth.pfurtscheller@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "jessilintl"
         }
       ],
-      "email": "elisabeth.pfurtscheller@parlament.gv.at",
       "family_name": "Pfurtscheller",
       "gender": "female",
       "given_name": "Elisabeth",
@@ -394,13 +362,6 @@
     },
     {
       "birth_date": "1975-05-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "andreas.ottenschlaeger@parlament.gv.at"
-        }
-      ],
-      "email": "andreas.ottenschlaeger@parlament.gv.at",
       "family_name": "Ottenschläger",
       "gender": "male",
       "given_name": "Andreas",
@@ -489,15 +450,10 @@
       "birth_date": "1983-09-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "katharina.kucharowits@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "kathi_kuch"
         }
       ],
-      "email": "katharina.kucharowits@parlament.gv.at",
       "family_name": "Kucharowits",
       "gender": "female",
       "given_name": "Katharina",
@@ -556,13 +512,6 @@
     },
     {
       "birth_date": "1962-07-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "walter.rosenkranz@parlament.gv.at"
-        }
-      ],
-      "email": "walter.rosenkranz@parlament.gv.at",
       "family_name": "Rosenkranz",
       "gender": "male",
       "given_name": "Walter",
@@ -618,15 +567,10 @@
       "birth_date": "1976-09-23",
       "contact_details": [
         {
-          "type": "email",
-          "value": "christiane.brunner@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "OekoBrunner"
         }
       ],
-      "email": "christiane.brunner@parlament.gv.at",
       "family_name": "Brunner",
       "gender": "female",
       "given_name": "Christiane",
@@ -702,15 +646,10 @@
       "birth_date": "1971-10-15",
       "contact_details": [
         {
-          "type": "email",
-          "value": "albert.steinhauser@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "a_steinhauser"
         }
       ],
-      "email": "albert.steinhauser@gruene.at",
       "family_name": "Steinhauser",
       "gender": "male",
       "given_name": "Albert",
@@ -832,13 +771,6 @@
     },
     {
       "birth_date": "1964-11-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "andrea.gessl-ranftl@aon.at"
-        }
-      ],
-      "email": "andrea.gessl-ranftl@aon.at",
       "family_name": "Gessl-Ranftl",
       "gender": "female",
       "given_name": "Andrea",
@@ -886,15 +818,10 @@
       "birth_date": "1968-08-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "dagmar.belakowitsch-jenewein@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "BelaDagmar"
         }
       ],
-      "email": "dagmar.belakowitsch-jenewein@parlament.gv.at",
       "family_name": "Belakowitsch-Jenewein",
       "gender": "female",
       "given_name": "Dagmar",
@@ -973,13 +900,6 @@
     },
     {
       "birth_date": "1976-02-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cornelia.ecker@parlament.gv.at"
-        }
-      ],
-      "email": "cornelia.ecker@parlament.gv.at",
       "family_name": "Ecker",
       "gender": "female",
       "given_name": "Cornelia",
@@ -1029,13 +949,6 @@
     },
     {
       "birth_date": "1969-01-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "norbert.sieber@parlament.gv.at"
-        }
-      ],
-      "email": "norbert.sieber@parlament.gv.at",
       "family_name": "Sieber",
       "gender": "male",
       "given_name": "Norbert",
@@ -1081,13 +994,6 @@
     },
     {
       "birth_date": "1976-09-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rouven.ertlschweiger@parlament.gv.at"
-        }
-      ],
-      "email": "rouven.ertlschweiger@parlament.gv.at",
       "family_name": "Ertlschweiger",
       "gender": "male",
       "given_name": "Rouven",
@@ -1146,13 +1052,6 @@
     },
     {
       "birth_date": "1969-12-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "christian.lausch@parlament.gv.at"
-        }
-      ],
-      "email": "christian.lausch@parlament.gv.at",
       "family_name": "Lausch",
       "gender": "male",
       "given_name": "Christian",
@@ -1195,13 +1094,6 @@
     },
     {
       "birth_date": "1957-01-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "reinhard.boesch@fpoe.at"
-        }
-      ],
-      "email": "reinhard.boesch@fpoe.at",
       "family_name": "Bösch",
       "gender": "male",
       "given_name": "Dr. Reinhard Eugen",
@@ -1314,15 +1206,10 @@
       "birth_date": "1955-10-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "johann.hell@spoe.at"
-        },
-        {
           "type": "twitter",
           "value": "JohannHell"
         }
       ],
-      "email": "johann.hell@spoe.at",
       "family_name": "Hell",
       "gender": "male",
       "given_name": "Johann",
@@ -1373,15 +1260,10 @@
       "birth_date": "1960-01-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "reinhold.lopatka@oevpklub.at"
-        },
-        {
           "type": "twitter",
           "value": "ReinholdLopatka"
         }
       ],
-      "email": "reinhold.lopatka@oevpklub.at",
       "family_name": "Lopatka",
       "gender": "male",
       "given_name": "Dr. Reinhold",
@@ -1465,13 +1347,6 @@
     },
     {
       "birth_date": "1956-10-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "wolfgang.katzian@parlament.gv.at"
-        }
-      ],
-      "email": "wolfgang.katzian@parlament.gv.at",
       "family_name": "Katzian",
       "gender": "male",
       "given_name": "Wolfgang",
@@ -1549,13 +1424,6 @@
     },
     {
       "birth_date": "1969-05-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "werner.amon@parlament.gv.at"
-        }
-      ],
-      "email": "werner.amon@parlament.gv.at",
       "family_name": "Amon",
       "gender": "male",
       "given_name": "Werner",
@@ -1616,15 +1484,10 @@
       "birth_date": "1980-03-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "wendelin.moelzer@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "wendemoelzer"
         }
       ],
-      "email": "wendelin.moelzer@parlament.gv.at",
       "family_name": "Mölzer",
       "gender": "male",
       "given_name": "Wendelin",
@@ -1674,13 +1537,6 @@
     },
     {
       "birth_date": "1964-07-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "thomas.schellenbacher@parlament.gv.at"
-        }
-      ],
-      "email": "thomas.schellenbacher@parlament.gv.at",
       "family_name": "Schellenbacher",
       "gender": "male",
       "given_name": "Thomas",
@@ -1729,15 +1585,10 @@
       "birth_date": "1968-09-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "jan.krainer@spoe.at"
-        },
-        {
           "type": "twitter",
           "value": "KrainerJan"
         }
       ],
-      "email": "jan.krainer@spoe.at",
       "family_name": "Krainer",
       "gender": "male",
       "given_name": "Kai Jan",
@@ -1796,13 +1647,6 @@
     },
     {
       "birth_date": "1971-06-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "georg.strasser@parlament.gv.at"
-        }
-      ],
-      "email": "georg.strasser@parlament.gv.at",
       "family_name": "Strasser",
       "gender": "male",
       "given_name": "Georg",
@@ -1848,13 +1692,6 @@
     },
     {
       "birth_date": "1956-12-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "angela.fichtinger@parlament.gv.at"
-        }
-      ],
-      "email": "angela.fichtinger@parlament.gv.at",
       "family_name": "Fichtinger",
       "gender": "female",
       "given_name": "Angela",
@@ -1895,15 +1732,10 @@
       "birth_date": "1971-08-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "helene.jarmer@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "hjarmer"
         }
       ],
-      "email": "helene.jarmer@gruene.at",
       "family_name": "Jarmer",
       "gender": "female",
       "given_name": "Helene",
@@ -2006,15 +1838,10 @@
       "birth_date": "1973-01-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "friedrich.ofenauer@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "fritzof"
         }
       ],
-      "email": "friedrich.ofenauer@parlament.gv.at",
       "family_name": "Ofenauer",
       "gender": "male",
       "given_name": "Friedrich",
@@ -2071,13 +1898,6 @@
     },
     {
       "birth_date": "1958-02-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rupert.doppler@parlament.gv.at"
-        }
-      ],
-      "email": "rupert.doppler@parlament.gv.at",
       "family_name": "Doppler",
       "gender": "male",
       "given_name": "Rupert",
@@ -2114,15 +1934,10 @@
       "birth_date": "1959-05-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "georg.willi@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "DenGeorgWilli"
         }
       ],
-      "email": "georg.willi@gruene.at",
       "family_name": "Willi",
       "gender": "male",
       "given_name": "Georg",
@@ -2209,13 +2024,6 @@
     },
     {
       "birth_date": "1959-02-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "leo.steinbichler@teamstronach.at"
-        }
-      ],
-      "email": "leo.steinbichler@teamstronach.at",
       "family_name": "Steinbichler",
       "gender": "male",
       "given_name": "Leopold",
@@ -2250,13 +2058,6 @@
     },
     {
       "birth_date": "1959-07-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anneliese.kitzmueller@parlament.gv.at"
-        }
-      ],
-      "email": "anneliese.kitzmueller@parlament.gv.at",
       "family_name": "Kitzmüller",
       "gender": "female",
       "given_name": "Anneliese",
@@ -2333,13 +2134,6 @@
     },
     {
       "birth_date": "1968-10-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "herbert.kickl@parlament.gv.at"
-        }
-      ],
-      "email": "herbert.kickl@parlament.gv.at",
       "family_name": "Kickl",
       "gender": "male",
       "given_name": "Herbert",
@@ -2417,13 +2211,6 @@
     },
     {
       "birth_date": "1953-09-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hermann.schultes@parlament.gv.at"
-        }
-      ],
-      "email": "hermann.schultes@parlament.gv.at",
       "family_name": "Schultes",
       "gender": "male",
       "given_name": "Hermann",
@@ -2479,15 +2266,10 @@
       "birth_date": "1968-11-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "elisabeth.grossmann@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "sissigrossmann"
         }
       ],
-      "email": "elisabeth.grossmann@parlament.gv.at",
       "family_name": "Grossmann",
       "gender": "female",
       "given_name": "Elisabeth",
@@ -2554,15 +2336,10 @@
       "birth_date": "1969-06-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "heinz-christian.strache@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "HCStracheFP"
         }
       ],
-      "email": "heinz-christian.strache@parlament.gv.at",
       "family_name": "Strache",
       "gender": "male",
       "given_name": "Heinz-Christian",
@@ -2871,13 +2648,6 @@
     },
     {
       "birth_date": "1957-07-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gisela.wurm@spoe.at"
-        }
-      ],
-      "email": "gisela.wurm@spoe.at",
       "family_name": "Wurm",
       "gender": "female",
       "given_name": "Mag. Gisela",
@@ -2930,13 +2700,6 @@
     },
     {
       "birth_date": "1977-06-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "michael.hammer@parlament.gv.at"
-        }
-      ],
-      "email": "michael.hammer@parlament.gv.at",
       "family_name": "Hammer",
       "gender": "male",
       "given_name": "Mag. Michael",
@@ -2994,13 +2757,6 @@
     },
     {
       "birth_date": "1967-04-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roman.haider@parlament.gv.at"
-        }
-      ],
-      "email": "roman.haider@parlament.gv.at",
       "family_name": "Haider",
       "gender": "male",
       "given_name": "Mag. Roman",
@@ -3126,15 +2882,10 @@
       "birth_date": "1981-09-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "philip.kucher@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "philipkucher"
         }
       ],
-      "email": "philip.kucher@parlament.gv.at",
       "family_name": "Kucher",
       "gender": "male",
       "given_name": "Philip",
@@ -3187,13 +2938,6 @@
     },
     {
       "birth_date": "1968-11-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dieter.brosz@gruene.at"
-        }
-      ],
-      "email": "dieter.brosz@gruene.at",
       "family_name": "Brosz",
       "gender": "male",
       "given_name": "Dieter",
@@ -3243,13 +2987,6 @@
     },
     {
       "birth_date": "1968-12-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "wolfgang.zanger@parlament.gv.at"
-        }
-      ],
-      "email": "wolfgang.zanger@parlament.gv.at",
       "family_name": "Zanger",
       "gender": "male",
       "given_name": "Wolfgang",
@@ -3298,15 +3035,10 @@
       "birth_date": "1961-10-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "wolfgang.gerstl@oevp-wien.at"
-        },
-        {
           "type": "twitter",
           "value": "wolfganggerstl"
         }
       ],
-      "email": "wolfgang.gerstl@oevp-wien.at",
       "family_name": "Gerstl",
       "gender": "male",
       "given_name": "Mag. Wolfgang",
@@ -3363,13 +3095,6 @@
     },
     {
       "birth_date": "1961-05-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "christoph.vavrik@parlament.gv.at"
-        }
-      ],
-      "email": "christoph.vavrik@parlament.gv.at",
       "family_name": "Vavrik",
       "gender": "male",
       "given_name": "Christoph",
@@ -3419,13 +3144,6 @@
     },
     {
       "birth_date": "1962-05-26",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "andreas.zakostelsky@parlament.gv.at"
-        }
-      ],
-      "email": "andreas.zakostelsky@parlament.gv.at",
       "family_name": "Zakostelsky",
       "gender": "male",
       "given_name": "Andreas",
@@ -3486,15 +3204,10 @@
       "birth_date": "1969-09-27",
       "contact_details": [
         {
-          "type": "email",
-          "value": "alev.korun@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "AlevKorun"
         }
       ],
-      "email": "alev.korun@gruene.at",
       "family_name": "Korun",
       "gender": "female",
       "given_name": "Alev",
@@ -3584,13 +3297,6 @@
     },
     {
       "birth_date": "1978-09-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "johannes.schmuckenschlager@parlament.gv.at"
-        }
-      ],
-      "email": "johannes.schmuckenschlager@parlament.gv.at",
       "family_name": "Schmuckenschlager",
       "gender": "male",
       "given_name": "Johannes",
@@ -3631,15 +3337,10 @@
       "birth_date": "1966-03-29",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gabriele.tamandl@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "GTamandl"
         }
       ],
-      "email": "gabriele.tamandl@parlament.gv.at",
       "family_name": "Tamandl",
       "gender": "female",
       "given_name": "Gabriele",
@@ -3691,13 +3392,6 @@
     },
     {
       "birth_date": "1969-01-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hubert.fuchs@parlament.gv.at"
-        }
-      ],
-      "email": "hubert.fuchs@parlament.gv.at",
       "family_name": "Fuchs",
       "gender": "male",
       "given_name": "MMag. DDr. Hubert",
@@ -3772,15 +3466,10 @@
       "birth_date": "1960-06-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "hermann.lipitsch@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "HLipitsch"
         }
       ],
-      "email": "hermann.lipitsch@parlament.gv.at",
       "family_name": "Lipitsch",
       "gender": "male",
       "given_name": "Hermann",
@@ -3825,13 +3514,6 @@
     },
     {
       "birth_date": "1956-01-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ruth.becher@parlament.gv.at"
-        }
-      ],
-      "email": "ruth.becher@parlament.gv.at",
       "family_name": "Becher",
       "gender": "female",
       "given_name": "Ruth",
@@ -3922,13 +3604,6 @@
     },
     {
       "birth_date": "1972-08-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "martina.schenk@parlament.gv.at"
-        }
-      ],
-      "email": "martina.schenk@parlament.gv.at",
       "family_name": "Schenk",
       "gender": "female",
       "given_name": "Martina",
@@ -3966,13 +3641,6 @@
     },
     {
       "birth_date": "1957-06-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "johann.hechtl@parlament.gv.at"
-        }
-      ],
-      "email": "johann.hechtl@parlament.gv.at",
       "family_name": "Hechtl",
       "gender": "male",
       "given_name": "Johann",
@@ -4014,13 +3682,6 @@
     },
     {
       "birth_date": "1970-12-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "josef.lettenbichler@parlament.gv.at"
-        }
-      ],
-      "email": "josef.lettenbichler@parlament.gv.at",
       "family_name": "Lettenbichler",
       "gender": "male",
       "given_name": "Mag. Josef",
@@ -4073,13 +3734,6 @@
     },
     {
       "birth_date": "1952-01-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "josef.cap@spoe.at"
-        }
-      ],
-      "email": "josef.cap@spoe.at",
       "family_name": "Cap",
       "gender": "male",
       "given_name": "Dr. Josef",
@@ -4154,15 +3808,10 @@
       "birth_date": "1954-07-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gabriela.moser@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "Gabi_Moser"
         }
       ],
-      "email": "gabriela.moser@gruene.at",
       "family_name": "Moser",
       "gender": "female",
       "given_name": "Gabriela",
@@ -4234,15 +3883,10 @@
       "birth_date": "1975-07-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gernot.darmann@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "GernotDarmann"
         }
       ],
-      "email": "gernot.darmann@parlament.gv.at",
       "family_name": "Darmann",
       "gender": "male",
       "given_name": "Mag. Gernot",
@@ -4303,13 +3947,6 @@
     },
     {
       "birth_date": "1967-12-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "beatrix.karl@parlament.gv.at"
-        }
-      ],
-      "email": "beatrix.karl@parlament.gv.at",
       "family_name": "Karl",
       "gender": "female",
       "given_name": "Beatrix",
@@ -4389,15 +4026,10 @@
       "birth_date": "1953-04-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "harald.walser@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "haraldwalser"
         }
       ],
-      "email": "harald.walser@gruene.at",
       "family_name": "Walser",
       "gender": "male",
       "given_name": "Harald",
@@ -4486,13 +4118,6 @@
     },
     {
       "birth_date": "1965-02-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "peter.wurm@parlament.gv.at"
-        }
-      ],
-      "email": "peter.wurm@parlament.gv.at",
       "family_name": "Wurm",
       "gender": "male",
       "given_name": "Peter",
@@ -4539,13 +4164,6 @@
     },
     {
       "birth_date": "1951-07-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gertrude.aubauer@parlament.gv.at"
-        }
-      ],
-      "email": "gertrude.aubauer@parlament.gv.at",
       "family_name": "Aubauer",
       "gender": "female",
       "given_name": "Gertrude",
@@ -4607,13 +4225,6 @@
     },
     {
       "birth_date": "1972-05-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "harald.jannach@fpoe.at"
-        }
-      ],
-      "email": "harald.jannach@fpoe.at",
       "family_name": "Jannach",
       "gender": "male",
       "given_name": "Harald",
@@ -4658,15 +4269,10 @@
       "birth_date": "1961-11-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "werner.kogler@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "wkogler"
         }
       ],
-      "email": "werner.kogler@gruene.at",
       "family_name": "Kogler",
       "gender": "male",
       "given_name": "Mag. Werner",
@@ -4738,13 +4344,6 @@
     },
     {
       "birth_date": "1962-09-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "walter.bacher@parlament.gv.at"
-        }
-      ],
-      "email": "walter.bacher@parlament.gv.at",
       "family_name": "Bacher",
       "gender": "male",
       "given_name": "Walter",
@@ -4786,13 +4385,6 @@
     },
     {
       "birth_date": "1954-07-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "christine.muttonen@parlament.gv.at"
-        }
-      ],
-      "email": "christine.muttonen@parlament.gv.at",
       "family_name": "Muttonen",
       "gender": "female",
       "given_name": "Christine",
@@ -4860,13 +4452,6 @@
     },
     {
       "birth_date": "1968-12-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "christoph.hagen@parlament.gv.at"
-        }
-      ],
-      "email": "christoph.hagen@parlament.gv.at",
       "family_name": "Hagen",
       "gender": "male",
       "given_name": "Christoph",
@@ -4901,13 +4486,6 @@
     },
     {
       "birth_date": "1961-05-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hannes.weninger@spoe.at"
-        }
-      ],
-      "email": "hannes.weninger@spoe.at",
       "family_name": "Weninger",
       "gender": "male",
       "given_name": "Hannes",
@@ -4961,13 +4539,6 @@
     },
     {
       "birth_date": "1958-08-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "claudia.durchschlag@parlament.gv.at"
-        }
-      ],
-      "email": "claudia.durchschlag@parlament.gv.at",
       "family_name": "Durchschlag",
       "gender": "female",
       "given_name": "Claudia",
@@ -5002,13 +4573,6 @@
     },
     {
       "birth_date": "1965-09-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "harald.stefan@parlament.gv.at"
-        }
-      ],
-      "email": "harald.stefan@parlament.gv.at",
       "family_name": "Stefan",
       "gender": "male",
       "given_name": "Harald",
@@ -5060,15 +4624,10 @@
       "birth_date": "1962-04-26",
       "contact_details": [
         {
-          "type": "email",
-          "value": "georg.vetter@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "GeorgVetter1"
         }
       ],
-      "email": "georg.vetter@parlament.gv.at",
       "family_name": "Vetter",
       "gender": "male",
       "given_name": "Georg",
@@ -5134,13 +4693,6 @@
     },
     {
       "birth_date": "1960-01-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "p.haubner@wirtschaftsbund.at"
-        }
-      ],
-      "email": "p.haubner@wirtschaftsbund.at",
       "family_name": "Haubner",
       "gender": "male",
       "given_name": "Peter",
@@ -5196,15 +4748,10 @@
       "birth_date": "1966-06-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "franz.huainigg@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "fjhuainigg"
         }
       ],
-      "email": "franz.huainigg@parlament.gv.at",
       "family_name": "Huainigg",
       "gender": "male",
       "given_name": "Dr. Franz-Joseph",
@@ -5301,13 +4848,6 @@
     },
     {
       "birth_date": "1959-05-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "harald.troch@parlament.gv.at"
-        }
-      ],
-      "email": "harald.troch@parlament.gv.at",
       "family_name": "Troch",
       "gender": "male",
       "given_name": "Harald",
@@ -5375,15 +4915,10 @@
       "birth_date": "1985-03-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "sigi.maurer@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "sigi_maurer"
         }
       ],
-      "email": "sigi.maurer@gruene.at",
       "family_name": "Maurer",
       "gender": "female",
       "given_name": "Sigrid",
@@ -5451,13 +4986,6 @@
     },
     {
       "birth_date": "1949-05-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "karlheinz.toechterle@parlament.gv.at"
-        }
-      ],
-      "email": "karlheinz.toechterle@parlament.gv.at",
       "family_name": "Töchterle",
       "gender": "male",
       "given_name": "Karlheinz",
@@ -5576,15 +5104,10 @@
       "birth_date": "1952-04-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "bruno.rossmann@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "rossmannbruno"
         }
       ],
-      "email": "bruno.rossmann@gruene.at",
       "family_name": "Rossmann",
       "gender": "male",
       "given_name": "Bruno",
@@ -5667,15 +5190,10 @@
       "birth_date": "1970-09-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "daniela.musiol@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "d_musiol"
         }
       ],
-      "email": "daniela.musiol@parlament.gv.at",
       "family_name": "Musiol",
       "gender": "female",
       "given_name": "Daniela",
@@ -5733,13 +5251,6 @@
     },
     {
       "birth_date": "1960-07-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hermann.gahr@parlament.gv.at"
-        }
-      ],
-      "email": "hermann.gahr@parlament.gv.at",
       "family_name": "Gahr",
       "gender": "male",
       "given_name": "Hermann",
@@ -5785,13 +5296,6 @@
     },
     {
       "birth_date": "1968-02-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "martina.diesner-wais@parlament.gv.at"
-        }
-      ],
-      "email": "martina.diesner-wais@parlament.gv.at",
       "family_name": "Diesner-Wais",
       "gender": "female",
       "given_name": "Martina",
@@ -5890,13 +5394,6 @@
     },
     {
       "birth_date": "1970-02-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "manfred.hofinger@parlament.gv.at"
-        }
-      ],
-      "email": "manfred.hofinger@parlament.gv.at",
       "family_name": "Hofinger",
       "gender": "male",
       "given_name": "Ing. Manfred",
@@ -5938,13 +5435,6 @@
     },
     {
       "birth_date": "1957-03-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "peter.wittmann@spoe.at"
-        }
-      ],
-      "email": "peter.wittmann@spoe.at",
       "family_name": "Wittmann",
       "gender": "male",
       "given_name": "Peter",
@@ -6043,13 +5533,6 @@
     },
     {
       "birth_date": "1957-07-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "franz.essl@parlament.gv.at"
-        }
-      ],
-      "email": "franz.essl@parlament.gv.at",
       "family_name": "Eßl",
       "gender": "male",
       "given_name": "Franz Leonhard",
@@ -6093,15 +5576,10 @@
       "birth_date": "1981-04-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "michael.pock@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "michi_bernhard"
         }
       ],
-      "email": "michael.pock@parlament.gv.at",
       "family_name": "Pock",
       "gender": "male",
       "given_name": "Michael",
@@ -6165,13 +5643,6 @@
     },
     {
       "birth_date": "1951-09-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "brigitte.jank@parlament.gv.at"
-        }
-      ],
-      "email": "brigitte.jank@parlament.gv.at",
       "family_name": "Jank",
       "gender": "female",
       "given_name": "Brigitte",
@@ -6217,13 +5688,6 @@
     },
     {
       "birth_date": "1987-10-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "petra.steger@parlament.gv.at"
-        }
-      ],
-      "email": "petra.steger@parlament.gv.at",
       "family_name": "Steger",
       "gender": "female",
       "given_name": "Petra",
@@ -6309,13 +5773,6 @@
     },
     {
       "birth_date": "1979-04-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kathrin.nachbaur@parlament.gv.at"
-        }
-      ],
-      "email": "kathrin.nachbaur@parlament.gv.at",
       "family_name": "Nachbaur",
       "gender": "female",
       "given_name": "Kathrin",
@@ -6368,15 +5825,10 @@
       "birth_date": "1976-11-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "tanja.windbuechler@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "windbuechler"
         }
       ],
-      "email": "tanja.windbuechler@gruene.at",
       "family_name": "Windbüchler-Souschill",
       "gender": "female",
       "given_name": "Tanja",
@@ -6441,15 +5893,10 @@
       "birth_date": "1969-02-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "eva.glawischnig@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "Eva_Glawischnig"
         }
       ],
-      "email": "eva.glawischnig@gruene.at",
       "family_name": "Glawischnig-Piesczek",
       "gender": "female",
       "given_name": "Eva",
@@ -6598,15 +6045,10 @@
       "birth_date": "1968-04-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "petra.bayr@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "BayrPetra"
         }
       ],
-      "email": "petra.bayr@parlament.gv.at",
       "family_name": "Bayr",
       "gender": "female",
       "given_name": "Petra",
@@ -6669,15 +6111,10 @@
       "birth_date": "1965-06-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "ruperta.lichtenecker@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "RLichtenecker"
         }
       ],
-      "email": "ruperta.lichtenecker@gruene.at",
       "family_name": "Lichtenecker",
       "gender": "female",
       "given_name": "Ruperta",
@@ -6758,13 +6195,6 @@
     },
     {
       "birth_date": "1977-01-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bernd.schoenegger@parlament.gv.at"
-        }
-      ],
-      "email": "bernd.schoenegger@parlament.gv.at",
       "family_name": "Schönegger",
       "gender": "male",
       "given_name": "Bernd",
@@ -6820,15 +6250,10 @@
       "birth_date": "1965-06-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carmen.schimanek@fpoe.at"
-        },
-        {
           "type": "twitter",
           "value": "CarmenSchimanek"
         }
       ],
-      "email": "carmen.schimanek@fpoe.at",
       "family_name": "Schimanek",
       "gender": "female",
       "given_name": "Carmen",
@@ -6892,13 +6317,6 @@
     },
     {
       "birth_date": "1957-07-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "susanne.winter@parlament.gv.at"
-        }
-      ],
-      "email": "susanne.winter@parlament.gv.at",
       "family_name": "Winter",
       "gender": "female",
       "given_name": "Dr. Susanne",
@@ -6944,13 +6362,6 @@
     },
     {
       "birth_date": "1962-06-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "michaela.steinacker@parlament.gv.at"
-        }
-      ],
-      "email": "michaela.steinacker@parlament.gv.at",
       "family_name": "Steinacker",
       "gender": "female",
       "given_name": "Michaela",
@@ -6993,13 +6404,6 @@
     },
     {
       "birth_date": "1970-11-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "klaus-uwe.feichtinger@parlament.gv.at"
-        }
-      ],
-      "email": "klaus-uwe.feichtinger@parlament.gv.at",
       "family_name": "Feichtinger",
       "gender": "male",
       "given_name": "Mag. Dr. Klaus Uwe",
@@ -7050,15 +6454,10 @@
       "birth_date": "1975-06-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "christian.hoebart@fpoe.at"
-        },
-        {
           "type": "twitter",
           "value": "Hoebi75"
         }
       ],
-      "email": "christian.hoebart@fpoe.at",
       "family_name": "Höbart",
       "gender": "male",
       "given_name": "Ing. Christian",
@@ -7119,13 +6518,6 @@
     },
     {
       "birth_date": "1953-07-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anton.heinzl@spoe.at"
-        }
-      ],
-      "email": "anton.heinzl@spoe.at",
       "family_name": "Heinzl",
       "gender": "male",
       "given_name": "Anton",
@@ -7171,13 +6563,6 @@
     },
     {
       "birth_date": "1968-06-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mail@andreas-hanger.at"
-        }
-      ],
-      "email": "mail@andreas-hanger.at",
       "family_name": "Hanger",
       "gender": "male",
       "given_name": "Mag. Andreas",
@@ -7223,13 +6608,6 @@
     },
     {
       "birth_date": "1961-09-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gerald.hauser@parlament.gv.at"
-        }
-      ],
-      "email": "gerald.hauser@parlament.gv.at",
       "family_name": "Hauser",
       "gender": "male",
       "given_name": "Mag. Gerald",
@@ -7277,15 +6655,10 @@
       "birth_date": "1955-05-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gabriel.obernosterer@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "G_Obernosterer"
         }
       ],
-      "email": "gabriel.obernosterer@parlament.gv.at",
       "family_name": "Obernosterer",
       "gender": "male",
       "given_name": "Gabriel",
@@ -7339,13 +6712,6 @@
     },
     {
       "birth_date": "1962-07-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nikolaus.prinz@parlament.gv.at"
-        }
-      ],
-      "email": "nikolaus.prinz@parlament.gv.at",
       "family_name": "Prinz",
       "gender": "male",
       "given_name": "Nikolaus",
@@ -7387,13 +6753,6 @@
     },
     {
       "birth_date": "1956-10-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "johannes.huebner@parlament.gv.at"
-        }
-      ],
-      "email": "johannes.huebner@parlament.gv.at",
       "family_name": "Hübner",
       "gender": "male",
       "given_name": "Dr. Johannes",
@@ -7448,13 +6807,6 @@
     },
     {
       "birth_date": "1974-11-02",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "august.woeginger@parlament.gv.at"
-        }
-      ],
-      "email": "august.woeginger@parlament.gv.at",
       "family_name": "Wöginger",
       "gender": "male",
       "given_name": "August",
@@ -7506,15 +6858,10 @@
       "birth_date": "1977-12-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "elisabeth.hakel@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "ElisabethHakel"
         }
       ],
-      "email": "elisabeth.hakel@parlament.gv.at",
       "family_name": "Hakel",
       "gender": "female",
       "given_name": "Elisabeth",
@@ -7671,15 +7018,10 @@
       "birth_date": "1972-05-04",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rainer.hable@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "RainerHable"
         }
       ],
-      "email": "rainer.hable@parlament.gv.at",
       "family_name": "Hable",
       "gender": "male",
       "given_name": "Dr. Rainer",
@@ -7738,15 +7080,10 @@
       "birth_date": "1959-06-08",
       "contact_details": [
         {
-          "type": "email",
-          "value": "christoph.matznetter@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "Matznetter"
         }
       ],
-      "email": "christoph.matznetter@parlament.gv.at",
       "family_name": "Matznetter",
       "gender": "male",
       "given_name": "Dr. Christoph",
@@ -7832,15 +7169,10 @@
       "birth_date": "1954-12-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "wolfgang.zinggl@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "wolfgang_zinggl"
         }
       ],
-      "email": "wolfgang.zinggl@gruene.at",
       "family_name": "Zinggl",
       "gender": "male",
       "given_name": "Wolfgang",
@@ -7923,15 +7255,10 @@
       "birth_date": "1963-03-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "marcus.franz@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "MD_Franz"
         }
       ],
-      "email": "marcus.franz@parlament.gv.at",
       "family_name": "Franz",
       "gender": "male",
       "given_name": "Dr. Marcus",
@@ -7994,15 +7321,10 @@
       "birth_date": "1986-12-24",
       "contact_details": [
         {
-          "type": "email",
-          "value": "eva-maria.himmelbauer@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "EHimmelbauer"
         }
       ],
-      "email": "eva-maria.himmelbauer@parlament.gv.at",
       "family_name": "Himmelbauer",
       "gender": "female",
       "given_name": "Eva-Maria",
@@ -8061,13 +7383,6 @@
     },
     {
       "birth_date": "1964-02-20",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maximilian.unterrainer@parlament.gv.at"
-        }
-      ],
-      "email": "maximilian.unterrainer@parlament.gv.at",
       "family_name": "Unterrainer",
       "gender": "male",
       "given_name": "Maximilian",
@@ -8125,13 +7440,6 @@
     },
     {
       "birth_date": "1957-01-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "h.buchmayr@aon.at"
-        }
-      ],
-      "email": "h.buchmayr@aon.at",
       "family_name": "Buchmayr",
       "gender": "male",
       "given_name": "Harry",
@@ -8176,13 +7484,6 @@
     },
     {
       "birth_date": "1961-04-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "wolfgang.pirklhuber@gruene.at"
-        }
-      ],
-      "email": "wolfgang.pirklhuber@gruene.at",
       "family_name": "Pirklhuber",
       "gender": "male",
       "given_name": "Wolfgang",
@@ -8238,15 +7539,10 @@
       "birth_date": "1973-06-10",
       "contact_details": [
         {
-          "type": "email",
-          "value": "matthias.strolz@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "matstrolz"
         }
       ],
-      "email": "matthias.strolz@parlament.gv.at",
       "family_name": "Strolz",
       "gender": "male",
       "given_name": "Matthias",
@@ -8349,15 +7645,10 @@
       "birth_date": "1971-08-03",
       "contact_details": [
         {
-          "type": "email",
-          "value": "johannes.rauch@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "Hannes_Rauch"
         }
       ],
-      "email": "johannes.rauch@parlament.gv.at",
       "family_name": "Rauch",
       "gender": "male",
       "given_name": "Johannes",
@@ -8426,13 +7717,6 @@
     },
     {
       "birth_date": "1969-07-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "johann.hoefinger@parlament.gv.at"
-        }
-      ],
-      "email": "johann.hoefinger@parlament.gv.at",
       "family_name": "Höfinger",
       "gender": "male",
       "given_name": "Johann",
@@ -8471,14 +7755,7 @@
     },
     {
       "birth_date": "1953-09-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "franz.kirchgatterer@parlament.gv.at"
-        }
-      ],
       "death_date": "2017-11",
-      "email": "franz.kirchgatterer@parlament.gv.at",
       "family_name": "Kirchgatterer",
       "gender": "male",
       "given_name": "Franz",
@@ -8518,15 +7795,10 @@
       "birth_date": "1971-03-02",
       "contact_details": [
         {
-          "type": "email",
-          "value": "norbert.hofer@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "norbertghofer"
         }
       ],
-      "email": "norbert.hofer@parlament.gv.at",
       "family_name": "Kopf",
       "gender": "male",
       "given_name": "Ing. Norbert",
@@ -8789,15 +8061,10 @@
       "birth_date": "1963-01-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gerhard.deimek@fpoe.at"
-        },
-        {
           "type": "twitter",
           "value": "GerhardDeimek"
         }
       ],
-      "email": "gerhard.deimek@fpoe.at",
       "family_name": "Deimek",
       "gender": "male",
       "given_name": "Dipl.-Ing. Gerhard",
@@ -8857,13 +8124,6 @@
     },
     {
       "birth_date": "1958-01-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "johann.singer@parlament.gv.at"
-        }
-      ],
-      "email": "johann.singer@parlament.gv.at",
       "family_name": "Singer",
       "gender": "male",
       "given_name": "Johann",
@@ -8904,15 +8164,10 @@
       "birth_date": "1958-01-07",
       "contact_details": [
         {
-          "type": "email",
-          "value": "elmar.podgorschek@fpoe.at"
-        },
-        {
           "type": "twitter",
           "value": "podgorschek"
         }
       ],
-      "email": "elmar.podgorschek@fpoe.at",
       "family_name": "Podgorschek",
       "gender": "male",
       "given_name": "Elmar",
@@ -8962,13 +8217,6 @@
     },
     {
       "birth_date": "1954-05-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "heinz-peter.hackl@parlament.gv.at"
-        }
-      ],
-      "email": "heinz-peter.hackl@parlament.gv.at",
       "family_name": "Hackl",
       "gender": "male",
       "given_name": "Ing. Heinz-Peter",
@@ -9010,13 +8258,6 @@
     },
     {
       "birth_date": "1951-10-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "otto.pendl@parlament.gv.at"
-        }
-      ],
-      "email": "otto.pendl@parlament.gv.at",
       "family_name": "Pendl",
       "gender": "male",
       "given_name": "Otto",
@@ -9062,13 +8303,6 @@
     },
     {
       "birth_date": "1955-08-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rainer.wimmer@parlament.gv.at"
-        }
-      ],
-      "email": "rainer.wimmer@parlament.gv.at",
       "family_name": "Wimmer",
       "gender": "male",
       "given_name": "Rainer",
@@ -9114,13 +8348,6 @@
     },
     {
       "birth_date": "1965-05-12",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ulrike.koenigsberger-ludwig@parlament.gv.at"
-        }
-      ],
-      "email": "ulrike.koenigsberger-ludwig@parlament.gv.at",
       "family_name": "Königsberger-Ludwig",
       "gender": "female",
       "given_name": "Ulrike",
@@ -9172,15 +8399,10 @@
       "birth_date": "1958-06-20",
       "contact_details": [
         {
-          "type": "email",
-          "value": "barbara.rosenkranz@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "B_Rosenkranz"
         }
       ],
-      "email": "barbara.rosenkranz@parlament.gv.at",
       "family_name": "Rosenkranz",
       "gender": "female",
       "given_name": "Barbara",
@@ -9335,13 +8557,6 @@
     },
     {
       "birth_date": "1967-12-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "werner.groiss@parlament.gv.at"
-        }
-      ],
-      "email": "werner.groiss@parlament.gv.at",
       "family_name": "Groiß",
       "gender": "male",
       "given_name": "Ing. Mag. Werner",
@@ -9383,13 +8598,6 @@
     },
     {
       "birth_date": "1964-05-04",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "konrad.antoni@parlament.gv.at"
-        }
-      ],
-      "email": "konrad.antoni@parlament.gv.at",
       "family_name": "Antoni",
       "gender": "male",
       "given_name": "Konrad",
@@ -9431,13 +8639,6 @@
     },
     {
       "birth_date": "1978-02-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "walter.rauch@parlament.gv.at"
-        }
-      ],
-      "email": "walter.rauch@parlament.gv.at",
       "family_name": "Rauch",
       "gender": "male",
       "given_name": "Walter",
@@ -9476,13 +8677,6 @@
     },
     {
       "birth_date": "1954-05-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dorothea.schittenhelm@parlament.gv.at"
-        }
-      ],
-      "email": "dorothea.schittenhelm@parlament.gv.at",
       "family_name": "Schittenhelm",
       "gender": "female",
       "given_name": "Dorothea",
@@ -9529,13 +8723,6 @@
     },
     {
       "birth_date": "1975-05-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "michael.ehmann@parlament.gv.at"
-        }
-      ],
-      "email": "michael.ehmann@parlament.gv.at",
       "family_name": "Ehmann",
       "gender": "male",
       "given_name": "Michael",
@@ -9579,15 +8766,10 @@
       "birth_date": "1985-03-14",
       "contact_details": [
         {
-          "type": "email",
-          "value": "philipp.schrangl@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "PhilippSchrangl"
         }
       ],
-      "email": "philipp.schrangl@parlament.gv.at",
       "family_name": "Schrangl",
       "gender": "male",
       "given_name": "Philipp",
@@ -9647,15 +8829,10 @@
       "birth_date": "1980-08-11",
       "contact_details": [
         {
-          "type": "email",
-          "value": "christian.hafenecker@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "hafi1980"
         }
       ],
-      "email": "christian.hafenecker@parlament.gv.at",
       "family_name": "Hafenecker",
       "gender": "male",
       "given_name": "Christian",
@@ -9726,15 +8903,10 @@
       "birth_date": "1970-07-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "robert.lugar@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "LugarRobert"
         }
       ],
-      "email": "robert.lugar@parlament.gv.at",
       "family_name": "Lugar",
       "gender": "male",
       "given_name": "Ing. Robert",
@@ -9790,13 +8962,6 @@
     },
     {
       "birth_date": "1956-02-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maria.fekter@parlament.gv.at"
-        }
-      ],
-      "email": "maria.fekter@parlament.gv.at",
       "family_name": "Fekter",
       "gender": "female",
       "given_name": "Maria Theresia",
@@ -9899,13 +9064,6 @@
     },
     {
       "birth_date": "1965-10-17",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "angela.lueger@parlament.gv.at"
-        }
-      ],
-      "email": "angela.lueger@parlament.gv.at",
       "family_name": "Lueger",
       "gender": "female",
       "given_name": "Angela",
@@ -9943,13 +9101,6 @@
     },
     {
       "birth_date": "1969-12-09",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "birgit.schatz@parlament.gv.at"
-        }
-      ],
-      "email": "birgit.schatz@parlament.gv.at",
       "family_name": "Schatz",
       "gender": "female",
       "given_name": "Birgit",
@@ -10003,13 +9154,6 @@
     },
     {
       "birth_date": "1953-03-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "elmar.mayer@spoe.at"
-        }
-      ],
-      "email": "elmar.mayer@spoe.at",
       "family_name": "Mayer",
       "gender": "male",
       "given_name": "Elmar",
@@ -10051,13 +9195,6 @@
     },
     {
       "birth_date": "1956-10-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "werner.neubauer@fpoe.at"
-        }
-      ],
-      "email": "werner.neubauer@fpoe.at",
       "family_name": "Neubauer",
       "gender": "male",
       "given_name": "Werner",
@@ -10119,13 +9256,6 @@
     },
     {
       "birth_date": "1956-11-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "walter.schopf@proge.at"
-        }
-      ],
-      "email": "walter.schopf@proge.at",
       "family_name": "Schopf",
       "gender": "male",
       "given_name": "Walter",
@@ -10166,15 +9296,10 @@
       "birth_date": "1969-04-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "andreas.schieder@spoe.at"
-        },
-        {
           "type": "twitter",
           "value": "SCHIEDER"
         }
       ],
-      "email": "andreas.schieder@spoe.at",
       "family_name": "Schieder",
       "gender": "male",
       "given_name": "Andreas",
@@ -10243,13 +9368,6 @@
     },
     {
       "birth_date": "1948-08-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jakob.auer@parlament.gv.at"
-        }
-      ],
-      "email": "jakob.auer@parlament.gv.at",
       "family_name": "Auer",
       "gender": "male",
       "given_name": "Jakob",
@@ -10293,15 +9411,10 @@
       "birth_date": "1960-11-18",
       "contact_details": [
         {
-          "type": "email",
-          "value": "andreas.karlsboeck@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "AKarlsboeck"
         }
       ],
-      "email": "andreas.karlsboeck@parlament.gv.at",
       "family_name": "Karlsböck",
       "gender": "male",
       "given_name": "Dr. Andreas F.",
@@ -10358,13 +9471,6 @@
     },
     {
       "birth_date": "1950-03-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "josef.riemer@parlament.gv.at"
-        }
-      ],
-      "email": "josef.riemer@parlament.gv.at",
       "family_name": "Riemer",
       "gender": "male",
       "given_name": "Josef A.",
@@ -10414,13 +9520,6 @@
     },
     {
       "birth_date": "1958-12-07",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eva.mueckstein@gruene.at"
-        }
-      ],
-      "email": "eva.mueckstein@gruene.at",
       "family_name": "Mückstein",
       "gender": "female",
       "given_name": "Eva",
@@ -10473,15 +9572,10 @@
       "birth_date": "1981-10-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "berivan.aslan@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "Berivan_Aslan_"
         }
       ],
-      "email": "berivan.aslan@gruene.at",
       "family_name": "Aslan",
       "gender": "female",
       "given_name": "Aygül Berivan",
@@ -10545,15 +9639,10 @@
       "birth_date": "1967-01-12",
       "contact_details": [
         {
-          "type": "email",
-          "value": "rudolf.plessl@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "RPlessl"
         }
       ],
-      "email": "rudolf.plessl@parlament.gv.at",
       "family_name": "Plessl",
       "gender": "male",
       "given_name": "Rudolf",
@@ -10602,13 +9691,6 @@
     },
     {
       "birth_date": "1959-10-19",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "waltraud.dietrich@parlament.gv.at"
-        }
-      ],
-      "email": "waltraud.dietrich@parlament.gv.at",
       "family_name": "Dietrich",
       "gender": "female",
       "given_name": "Waltraud",
@@ -10653,15 +9735,10 @@
       "birth_date": "1989-04-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "julian.schmid@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "_julianschmid"
         }
       ],
-      "email": "julian.schmid@parlament.gv.at",
       "family_name": "Schmid",
       "gender": "male",
       "given_name": "Julian",
@@ -10740,13 +9817,6 @@
     },
     {
       "birth_date": "1962-08-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "doris.bures@parlament.gv.at"
-        }
-      ],
-      "email": "doris.bures@parlament.gv.at",
       "family_name": "Bures",
       "gender": "female",
       "given_name": "Doris",
@@ -10899,15 +9969,10 @@
       "birth_date": "1954-01-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "pilz@gruene.at"
-        },
-        {
           "type": "twitter",
           "value": "Peter_Pilz"
         }
       ],
-      "email": "pilz@gruene.at",
       "family_name": "Pilz",
       "gender": "male",
       "given_name": "Peter",
@@ -11035,15 +10100,10 @@
       "birth_date": "1978-04-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "beate.meinl-reisinger@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "bmeinl"
         }
       ],
-      "email": "beate.meinl-reisinger@parlament.gv.at",
       "family_name": "Meinl-Reisinger",
       "gender": "female",
       "given_name": "Beate",
@@ -11114,13 +10174,6 @@
     },
     {
       "birth_date": "1967-08-16",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ulrike.weigerstorfer@parlament.gv.at"
-        }
-      ],
-      "email": "ulrike.weigerstorfer@parlament.gv.at",
       "family_name": "Weigerstorfer",
       "gender": "female",
       "given_name": "Ulrike",
@@ -11214,13 +10267,6 @@
     },
     {
       "birth_date": "1962-09-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "erwin.preiner@parlament.gv.at"
-        }
-      ],
-      "email": "erwin.preiner@parlament.gv.at",
       "family_name": "Preiner",
       "gender": "male",
       "given_name": "Erwin",
@@ -11260,15 +10306,10 @@
       "birth_date": "1963-05-09",
       "contact_details": [
         {
-          "type": "email",
-          "value": "angelika.winzig@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "AngelikaWinzig"
         }
       ],
-      "email": "angelika.winzig@parlament.gv.at",
       "family_name": "Winzig",
       "gender": "female",
       "given_name": "Dr. Angelika",
@@ -11317,13 +10358,6 @@
     },
     {
       "birth_date": "1970-11-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "markus.vogl@parlament.gv.at"
-        }
-      ],
-      "email": "markus.vogl@parlament.gv.at",
       "family_name": "Vogl",
       "gender": "male",
       "given_name": "Markus",
@@ -11379,15 +10413,10 @@
       "birth_date": "1987-10-21",
       "contact_details": [
         {
-          "type": "email",
-          "value": "daniela.holzinger@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "DanielaNRW13"
         }
       ],
-      "email": "daniela.holzinger@parlament.gv.at",
       "family_name": "Holzinger-Vogtenhuber",
       "gender": "female",
       "given_name": "Daniela",
@@ -11471,13 +10500,6 @@
     },
     {
       "birth_date": "1957-06-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "karlheinz.kopf@parlament.gv.at"
-        }
-      ],
-      "email": "karlheinz.kopf@parlament.gv.at",
       "family_name": "Kopf",
       "gender": "male",
       "given_name": "Karlheinz",
@@ -11600,15 +10622,10 @@
       "birth_date": "1986-10-16",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nikolaus.scherak@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "NikiScherak"
         }
       ],
-      "email": "nikolaus.scherak@parlament.gv.at",
       "family_name": "Scherak",
       "gender": "male",
       "given_name": "Nikolaus",
@@ -11717,15 +10734,10 @@
       "birth_date": "1973-11-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "gerald.loacker@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "GLoacker"
         }
       ],
-      "email": "gerald.loacker@parlament.gv.at",
       "family_name": "Loacker",
       "gender": "male",
       "given_name": "Mag. Gerald",
@@ -11800,15 +10812,10 @@
       "birth_date": "1957-09-17",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nurten.yilmaz@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "FCNurtenYilmaz"
         }
       ],
-      "email": "nurten.yilmaz@parlament.gv.at",
       "family_name": "Yılmaz",
       "gender": "female",
       "given_name": "Nurten",
@@ -11872,13 +10879,6 @@
     },
     {
       "birth_date": "1967-08-21",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "josef.muchitsch@parlament.gv.at"
-        }
-      ],
-      "email": "josef.muchitsch@parlament.gv.at",
       "family_name": "Muchitsch",
       "gender": "male",
       "given_name": "Josef",
@@ -11961,13 +10961,6 @@
     },
     {
       "birth_date": "1964-02-24",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "wolfgang.knes@parlament.gv.at"
-        }
-      ],
-      "email": "wolfgang.knes@parlament.gv.at",
       "family_name": "Knes",
       "gender": "male",
       "given_name": "Wolfgang",
@@ -12005,13 +10998,6 @@
     },
     {
       "birth_date": "1954-12-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hannes.jarolim@parlament.gv.at"
-        }
-      ],
-      "email": "hannes.jarolim@parlament.gv.at",
       "family_name": "Jarolim",
       "gender": "male",
       "given_name": "Dr. Johannes",
@@ -12064,13 +11050,6 @@
     },
     {
       "birth_date": "1948-09-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gerhard.schmid@parlament.gv.at"
-        }
-      ],
-      "email": "gerhard.schmid@parlament.gv.at",
       "family_name": "Schmid",
       "gender": "male",
       "given_name": "Gerhard",
@@ -12117,13 +11096,6 @@
     },
     {
       "birth_date": "1952-06-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "johann.raedler@parlament.gv.at"
-        }
-      ],
-      "email": "johann.raedler@parlament.gv.at",
       "family_name": "Rädler",
       "gender": "male",
       "given_name": "Johann",
@@ -12215,13 +11187,6 @@
     },
     {
       "birth_date": "1958-03-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "andrea.kuntzl@spoe.at"
-        }
-      ],
-      "email": "andrea.kuntzl@spoe.at",
       "family_name": "Kuntzl",
       "gender": "female",
       "given_name": "Andrea",
@@ -12285,15 +11250,10 @@
       "birth_date": "1975-08-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "nikolaus.alm@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "nikoalm"
         }
       ],
-      "email": "nikolaus.alm@parlament.gv.at",
       "family_name": "Alm",
       "gender": "male",
       "given_name": "Mag. Nikolaus",
@@ -12372,15 +11332,10 @@
       "birth_date": "1952-07-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "erwin.rasinger@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "nikoalm"
         }
       ],
-      "email": "erwin.rasinger@parlament.gv.at",
       "family_name": "Rasinger",
       "gender": "male",
       "given_name": "Erwin",
@@ -12444,15 +11399,10 @@
       "birth_date": "1964-10-22",
       "contact_details": [
         {
-          "type": "email",
-          "value": "edith.muehlberghuber@parlament.gv.at"
-        },
-        {
           "type": "twitter",
           "value": "nikoalm"
         }
       ],
-      "email": "edith.muehlberghuber@parlament.gv.at",
       "family_name": "Mühlberghuber",
       "gender": "female",
       "given_name": "Edith",
