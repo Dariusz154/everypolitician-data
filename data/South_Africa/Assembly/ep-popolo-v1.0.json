@@ -6657,7 +6657,26 @@
       "name": "Vincent George Smith"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bndlovu@parliament.gov.za"
+        }
+      ],
+      "email": "bndlovu@parliament.gov.za",
       "id": "3f9f3a08-8189-402f-91d3-67526a6ca7a7",
+      "identifiers": [
+        {
+          "identifier": "4549",
+          "scheme": "peoples_assembly"
+        }
+      ],
+      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
+        }
+      ],
       "name": "Busisiwe Clarah Ndlovu"
     },
     {
@@ -8679,6 +8698,18 @@
     },
     {
       "id": "55cda8d6-923a-424d-930d-4134b267d9d3",
+      "identifiers": [
+        {
+          "identifier": "9685",
+          "scheme": "peoples_assembly"
+        }
+      ],
+      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
+        }
+      ],
       "name": "Yoliswa Nomampondomise Yako"
     },
     {
@@ -18399,6 +18430,18 @@
     },
     {
       "id": "cf7c52c1-6675-4332-901f-ec72d1237a02",
+      "identifiers": [
+        {
+          "identifier": "6476",
+          "scheme": "peoples_assembly"
+        }
+      ],
+      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
+        }
+      ],
       "name": "Michael Stephen Shackleton"
     },
     {
@@ -21987,6 +22030,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nshabalala@parliament.gov.za"
+        }
+      ],
+      "email": "nshabalala@parliament.gov.za",
       "id": "f271f802-6eaa-43e4-acac-a81350c64209",
       "identifiers": [
         {
@@ -22871,7 +22921,27 @@
       "name": "Maesela David Kekana"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jlondt@parliament.gov.za"
+        }
+      ],
+      "email": "jlondt@parliament.gov.za",
+      "honorific_prefix": "Mr",
       "id": "fbddd01b-0bef-4827-b331-9361f8457ed7",
+      "identifiers": [
+        {
+          "identifier": "6236",
+          "scheme": "peoples_assembly"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/53/e8/53e86e51a3a37c6ce888abcaeb059ab6.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/53/e8/53e86e51a3a37c6ce888abcaeb059ab6.jpg"
+        }
+      ],
       "name": "Johan Jaco Londt"
     },
     {
