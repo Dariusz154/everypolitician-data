@@ -2835,6 +2835,10 @@
           "url": "https://pl.wikiquote.org/wiki/Jacob_Zuma"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/Jacob-Zuma"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/sapresident"
         }
@@ -5628,6 +5632,7 @@
       ],
       "email": "bkekana@parliament.gov.za",
       "gender": "female",
+      "given_name": "Hellen",
       "honorific_prefix": "Ms",
       "id": "35af082b-b29f-42e0-a411-0b497f8268fd",
       "identifiers": [
@@ -5650,7 +5655,25 @@
           "url": "https://www.pa.org.za/media_root/cache/ba/f9/baf94157be69038e68d679a8f7dc73ab.jpg"
         }
       ],
-      "name": "Hellen Boikhutso Kekana"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Hellen_Kekana"
+        }
+      ],
+      "name": "Hellen Boikhutso Kekana",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Hellen Kekana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hellen Kekana",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -5740,6 +5763,10 @@
         {
           "type": "email",
           "value": "voxprimus@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "zakhelembhele"
         }
       ],
       "email": "voxprimus@gmail.com",
@@ -5778,6 +5805,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Zakhele_Mbhele"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/zakhelembhele"
         }
       ],
       "name": "Zakhele Njabulo Mbhele",
@@ -6669,6 +6700,10 @@
         {
           "identifier": "4549",
           "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q56738079",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
@@ -7158,6 +7193,7 @@
         }
       ],
       "email": "cdudley@parliament.gov.za",
+      "family_name": "Dudley",
       "gender": "female",
       "honorific_prefix": "Mrs",
       "id": "46cdb710-2a76-4dc8-8421-c417fc1ac3cf",
@@ -8105,6 +8141,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "306239183",
+          "scheme": "nta"
+        },
+        {
           "identifier": "669",
           "scheme": "peoples_assembly"
         },
@@ -8702,6 +8742,10 @@
         {
           "identifier": "9685",
           "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q56738078",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
@@ -10026,7 +10070,14 @@
           "url": "https://simple.wikipedia.org/wiki/Bathabile_Dlamini"
         }
       ],
-      "name": "Bathabile Dlamini"
+      "name": "Bathabile Dlamini",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "باثابيل دلاميني",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -14101,10 +14152,14 @@
           "url": "https://www.pa.org.za/media_root/cache/87/9e/879ed32caee19904ea7627720d4e0645.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ms._Nomvula_Mokonyane,_Minister_of_Water_and_Sanitation,_South_Africa_(33142724886)_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Nomvula_Paula_Mokonyane_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Nomvula_Paula_Mokonyane"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Nomvula_Mokonyane"
@@ -14912,6 +14967,10 @@
         {
           "identifier": "12035283b",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "biography/Mangosuthu-G-Buthelezi",
+          "scheme": "britannica"
         },
         {
           "identifier": "buth002",
@@ -16247,6 +16306,7 @@
     },
     {
       "birth_date": "1957-03-23",
+      "death_date": "2018-09-22",
       "gender": "female",
       "given_name": "Edna",
       "honorific_prefix": "Ms",
@@ -16294,6 +16354,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Edna_Molewa"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Edna_Molewa"
         }
       ],
       "name": "Edna Molewa",
@@ -18434,6 +18498,10 @@
         {
           "identifier": "6476",
           "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q56738076",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
@@ -18551,10 +18619,14 @@
           "url": "https://www.pa.org.za/media_root/cache/25/6d/256d33bc856c86b4ffe40b4597d5c9a6.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Siyabonga_Cwele.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Siyabonga_Cyprian_Cwele_-_2018_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Siyabonga_Cyprian_Cwele"
+        },
         {
           "note": "Wikipedia (af)",
           "url": "https://af.wikipedia.org/wiki/Siyabonga_Cwele"
@@ -22934,6 +23006,10 @@
         {
           "identifier": "6236",
           "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q56738077",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.pa.org.za/media_root/cache/53/e8/53e86e51a3a37c6ce888abcaeb059ab6.jpg",
@@ -24869,6 +24945,12 @@
         {
           "lang": "es",
           "name": "Congreso Panafricanista de Azania",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fa",
+          "name": "کنگره پان‌آفریقا آزانیا",
           "note": "multilingual",
           "source": "wikidata-label"
         },
