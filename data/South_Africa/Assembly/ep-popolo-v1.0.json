@@ -6691,33 +6691,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "bndlovu@parliament.gov.za"
-        }
-      ],
-      "email": "bndlovu@parliament.gov.za",
-      "id": "3f9f3a08-8189-402f-91d3-67526a6ca7a7",
-      "identifiers": [
-        {
-          "identifier": "4549",
-          "scheme": "peoples_assembly"
-        },
-        {
-          "identifier": "Q56738079",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
-        }
-      ],
-      "name": "Busisiwe Clarah Ndlovu"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "NMashigo@ruraldevelopment.gov.za"
         }
       ],
@@ -26099,14 +26072,6 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "3f15602c-36c8-457c-a981-8cc05a5712e1",
       "role": "member"
-    },
-    {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "3f9f3a08-8189-402f-91d3-67526a6ca7a7",
-      "role": "member",
-      "start_date": "2018-08-17"
     },
     {
       "legislative_period_id": "term/26",
