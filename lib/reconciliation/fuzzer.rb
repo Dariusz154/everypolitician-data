@@ -78,7 +78,7 @@ module Reconciliation
           TwitterUsernameExtractor.extract(h) rescue nil
         end.compact.uniq.join(';')
       end
-      UnicodeUtils.downcase(str.to_s)
+      str.to_s.to_lower
     end
 
     def display(row)

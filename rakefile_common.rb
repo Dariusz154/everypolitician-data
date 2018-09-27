@@ -67,6 +67,14 @@ Numeric.class_eval do
   end
 end
 
+String.class_eval do
+  # When we upgrade to 2.4, this can become a simple `downcase`, but
+  # under 2.3 we need to be Unicode-aware.
+  def to_lower
+    UnicodeUtils.downcase(self)
+  end
+end
+
 def deep_sort(element)
   if element.is_a?(Hash)
     element.keys.sort.each_with_object({}) { |k, newhash| newhash[k] = deep_sort(element[k]) }

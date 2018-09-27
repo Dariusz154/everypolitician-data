@@ -15,7 +15,7 @@ class String
   def idify
     return if to_s.empty?
 
-    downcase.gsub(/\s+/, '_')
+    to_lower.gsub(/\s+/, '_')
   end
 end
 

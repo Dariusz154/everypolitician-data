@@ -49,7 +49,7 @@ namespace :term_csvs do
   task name_list: :top_identifiers do
     names = @popolo.persons.flat_map do |p|
       Set.new([p.name]).merge(p.other_names.map { |n| n[:name] }).map { |n| [n, p.id] }
-    end.uniq { |name, id| [name.downcase, id] }.sort_by { |name, id| [name.downcase, id] }
+    end.uniq { |name, id| [name.to_lower, id] }.sort_by { |name, id| [name.to_lower, id] }
 
     filename = 'names.csv'
     header = %w[name id].to_csv
@@ -107,7 +107,7 @@ task :convert_position_filter do
   csv_headers = %w[id label description type].to_csv
   csv_data = src.as_table.group_by { |r| r[:position] }.map do |id, ps|
     [id, ps.first[:label], ps.first[:description], map.type(id) || 'unknown']
-  end.sort_by { |d| [d[3].to_s, d[1].to_s.downcase] }.map(&:to_csv)
+  end.sort_by { |d| [d[3].to_s, d[1].to_s.to_lower] }.map(&:to_csv)
 
   POSITION_FILTER_CSV.dirname.mkpath
   POSITION_FILTER_CSV.write(csv_headers + csv_data.join)

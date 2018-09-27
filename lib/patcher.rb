@@ -49,12 +49,12 @@ class Patcher
 
       # Accept values from multiple sources for given fields
       if %i[email twitter facebook image].include? h
-        existing[h] = [existing[h], incoming[h]].join(';').split(';').map(&:strip).uniq(&:downcase).join(';')
+        existing[h] = [existing[h], incoming[h]].join(';').split(';').map(&:strip).uniq(&:to_lower).join(';')
         next
       end
 
       # If we have the same as before (case insensitively), that's OK
-      next if existing[h].casecmp(incoming[h].downcase).zero?
+      next if existing[h].casecmp(incoming[h].to_lower).zero?
 
       # Accept more precise dates
       if h.to_s.include?('date')

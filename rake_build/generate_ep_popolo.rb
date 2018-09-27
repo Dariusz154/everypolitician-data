@@ -158,9 +158,9 @@ namespace :transform do
   task fallback_names: :area_wikidata do
     # TODO: remove these from parties / elections / terms etc. too
     (@json[:persons] + @json[:areas]).reject { |p| p[:other_names].to_a.empty? }.each do |p|
-      skip = Set.new([p[:name].downcase]) + p[:other_names].select { |n| n[:lang] == 'en' }.map { |n| n[:name].downcase }
-      p[:other_names].delete_if { |n| n[:lang] != 'en' && skip.include?(n[:name].downcase) }
-      p[:other_names].delete_if { |n| n[:lang] == 'en' && n[:name].downcase == p[:name].downcase }
+      skip = Set.new([p[:name].to_lower]) + p[:other_names].select { |n| n[:lang] == 'en' }.map { |n| n[:name].to_lower }
+      p[:other_names].delete_if { |n| n[:lang] != 'en' && skip.include?(n[:name].to_lower) }
+      p[:other_names].delete_if { |n| n[:lang] == 'en' && n[:name].to_lower == p[:name].to_lower }
       p.delete(:other_names) if p[:other_names].empty?
     end
   end
@@ -169,7 +169,7 @@ namespace :transform do
   # Rule: Legislative Memberships must have `on_behalf_of`
   #---------------------------------------------------------------------
   def unknown_party
-    if unknown = @json[:organizations].find { |o| o[:classification] == 'party' && o[:name].downcase == 'unknown' }
+    if unknown = @json[:organizations].find { |o| o[:classification] == 'party' && o[:name].to_lower == 'unknown' }
       unknown[:id] = 'party/_unknown' if unknown[:id].to_s.empty?
       return unknown
     end
@@ -213,7 +213,7 @@ namespace :transform do
     @json[:persons].each do |p|
       next if p[:gender].to_s.empty?
 
-      p[:gender] = remap[p[:gender].downcase.strip] || raise("Unknown gender: #{p[:gender]}")
+      p[:gender] = remap[p[:gender].to_lower.strip] || raise("Unknown gender: #{p[:gender]}")
     end
   end
 
@@ -262,7 +262,7 @@ namespace :transform do
       src.to_popolo[:organizations].each do |org|
         matched = @json[:organizations].select do |o|
           o[:classification] == 'party' &&
-            o[:id].split('/').last.downcase == org[:id].split('/').last.downcase
+            o[:id].split('/').last.to_lower == org[:id].split('/').last.to_lower
         end
         warn "Party #{org[:id]} not in Popolo" unless matched.any?
         matched.each do |existing|

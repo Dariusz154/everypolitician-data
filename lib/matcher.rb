@@ -11,7 +11,7 @@ class Matcher
   end
 
   def existing
-    @_existing_rows.group_by { |r| r[@_existing_field].to_s.downcase }
+    @_existing_rows.group_by { |r| r[@_existing_field].to_s.to_lower }
   end
 
   def existing_by_uuid
@@ -32,7 +32,7 @@ class Matcher::Exact < Matcher
   def find_all(incoming_row)
     return [] if incoming_row[@_incoming_field].to_s.empty?
 
-    if exact_match = existing[incoming_row[@_incoming_field].downcase]
+    if exact_match = existing[incoming_row[@_incoming_field].to_lower]
       return exact_match
     end
 
