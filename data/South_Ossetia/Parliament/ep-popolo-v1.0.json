@@ -4,344 +4,140 @@
   ],
   "persons": [
     {
-      "id": "0373d728-9e91-4427-8675-128014e84ccc",
-      "identifiers": [
-        {
-          "identifier": "Дьяконов_Амиран_Евгенович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Дьяконов Амиран Евгенович"
-    },
-    {
-      "id": "0521db7e-55d7-41c3-9aa8-3a3d6c531c2b",
-      "identifiers": [
-        {
-          "identifier": "Лохов_Мендик_Феликсович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Лохов Мендик Феликсович"
-    },
-    {
-      "id": "17d72f15-e73a-4f25-aed2-bfdc97bceadb",
-      "identifiers": [
-        {
-          "identifier": "Дзукаев_Вилорд_Сергеевич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Дзукаев Вилорд Сергеевич"
-    },
-    {
-      "id": "22f12a24-ee8e-4ed6-b413-53a1ec992f64",
-      "identifiers": [
-        {
-          "identifier": "Кочиева_Жанна_Герсановна",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Кочиева Жанна Герсановна"
-    },
-    {
-      "id": "25f52715-2047-4bf7-910e-7d279b004f01",
-      "identifiers": [
-        {
-          "identifier": "Бекоев_Геннадий_Борисович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Бекоев Геннадий Борисович"
-    },
-    {
-      "id": "2fdf263c-dccb-4e75-8412-95539e6dbed8",
-      "identifiers": [
-        {
-          "identifier": "Келехсаев_Георгий_Геноевич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Келехсаев Георгий Геноевич"
-    },
-    {
-      "id": "35b114a4-c4db-4c9f-912b-bb695bdb44d9",
-      "identifiers": [
-        {
-          "identifier": "Плиев_Александр_Михайлович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Плиев Александр Михайлович"
-    },
-    {
-      "id": "3ed2156b-489d-45ca-bd7e-b9b210c6903c",
-      "identifiers": [
-        {
-          "identifier": "Валиева_Роза_Сергеевна",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Валиева Роза Сергеевна"
-    },
-    {
-      "id": "4132daed-57a0-41f4-96cc-aaf48461b158",
-      "identifiers": [
-        {
-          "identifier": "Каджаев_Филипп_Григорьевич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Каджаев Филипп Григорьевич"
-    },
-    {
-      "id": "5a17290e-c083-48da-9403-0bf536f1a73d",
-      "identifiers": [
-        {
-          "identifier": "Мамиев_Инал_Димитриевич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Мамиев Инал Димитриевич"
-    },
-    {
-      "id": "6253b9be-f4fe-4d37-9fc5-d8d018a4d47a",
-      "identifiers": [
-        {
-          "identifier": "Тедеев_Бахва_Отарович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Тедеев Бахва Отарович"
-    },
-    {
-      "id": "70bb2faa-f550-445b-9df9-c5171385aa0d",
-      "identifiers": [
-        {
-          "identifier": "Хубулов_Илья_Франгелович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Хубулов Илья Франгелович"
-    },
-    {
-      "id": "72668ccd-1252-4614-8cfe-8a4c952ba346",
-      "identifiers": [
-        {
-          "identifier": "Парастаев_Дмитрий_Зелимханович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Парастаев Дмитрий Зелимханович"
-    },
-    {
-      "id": "80c378ee-6ee6-4cec-b9d4-594cc2ef8055",
-      "identifiers": [
-        {
-          "identifier": "Харебаты_Сергей_Владимирович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Харебаты Сергей Владимирович"
-    },
-    {
-      "id": "80d664de-d2fe-4c23-9a5c-145e9c0b19f2",
-      "identifiers": [
-        {
-          "identifier": "Тасоев_Борис_Леонидович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Тасоев Борис Леонидович"
-    },
-    {
-      "id": "8181456c-2a9d-4a37-b23f-c1100b5eeaf7",
-      "identifiers": [
-        {
-          "identifier": "Гассиев_Петр_Леонидович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Гассиев Петр Леонидович"
-    },
-    {
-      "id": "81c0b4e7-d4f1-4179-97be-574a7940b657",
-      "identifiers": [
-        {
-          "identifier": "Бесаева_Зита_Григорьевна",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Бесаева Зита Григорьевна"
-    },
-    {
-      "id": "83ae1eca-d65d-4dbe-868f-3d04635a0c56",
-      "identifiers": [
-        {
-          "identifier": "Козонов_Алан_Дударович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Козонов Алан Дударович"
-    },
-    {
-      "id": "864481bb-ab1e-48b3-a9ec-14034f8e63b5",
-      "identifiers": [
-        {
-          "identifier": "Дудайты_Эрик_Владимирович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Дудайты Эрик Владимирович"
-    },
-    {
-      "id": "87e13a14-435a-449d-9be8-fc6fa3c060fc",
-      "identifiers": [
-        {
-          "identifier": "Кочиева_Олеся_Ахсаровна",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Кочиева Олеся Ахсаровна"
-    },
-    {
-      "id": "8d3b6510-1c17-495b-bb48-35b851a9c062",
-      "identifiers": [
-        {
-          "identifier": "Джиоев_Инал_Иванович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Джиоев Инал Иванович"
-    },
-    {
-      "id": "908f4c10-4e6d-4f18-9bd6-51ba17db119c",
-      "identifiers": [
-        {
-          "identifier": "Габараев_Юрий_Константинович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Габараев Юрий Константинович"
-    },
-    {
-      "id": "9405ca10-39df-46b8-8f16-e5d93b290da6",
-      "identifiers": [
-        {
-          "identifier": "Кочиев_Игорь_Иванович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Кочиев Игорь Иванович"
-    },
-    {
-      "id": "96c10249-8a4f-471c-998a-6e606c56870d",
-      "identifiers": [
-        {
-          "identifier": "Тедеев_Руслан_Рутенович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Тедеев Руслан Рутенович"
-    },
-    {
-      "id": "b3e20a47-e573-48bb-9927-8f5cc386942c",
-      "identifiers": [
-        {
-          "identifier": "Бибилов_Анатолий_Ильич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Бибилов Анатолий Ильич"
-    },
-    {
-      "id": "b48ab770-1dd4-41a1-945f-1f5093dd6fec",
-      "identifiers": [
-        {
-          "identifier": "Келехсаев_Владимир_Степанович",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Келехсаев Владимир Степанович"
-    },
-    {
-      "id": "b6a2467e-e4cc-40a2-9110-7edb7a1cbbff",
-      "identifiers": [
-        {
-          "identifier": "Хубаев_Альберт_Юрьевич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Хубаев Альберт Юрьевич"
-    },
-    {
-      "id": "bbf7fd8a-35e2-40d6-b31c-dfd3563c1ca4",
-      "identifiers": [
-        {
-          "identifier": "Тадтаев_Анатолий_Григорьевич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Тадтаев Анатолий Григорьевич"
-    },
-    {
-      "id": "bc93493f-46f2-4ca0-bb2f-4d27273c8164",
-      "identifiers": [
-        {
-          "identifier": "Туаев_Алан_Андреевич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Туаев Алан Андреевич"
-    },
-    {
-      "id": "c45aaecd-7ffb-46ef-bf9e-0da51ac5b3ca",
-      "identifiers": [
-        {
-          "identifier": "Габараев_Алан_Георгиевич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
+      "id": "03fc1041-b92b-4c35-a34d-fdaba2dea1a4",
       "name": "Габараев Алан Георгиевич"
     },
     {
-      "id": "d55bf320-f9cd-448f-8d0d-bd831a395000",
-      "identifiers": [
-        {
-          "identifier": "Джиоева_Алла_Алексеевна",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Джиоева Алла Алексеевна"
+      "id": "075538c6-df2e-4355-b416-a9f7f123a95e",
+      "name": "Мамиев Инал Димитриевич"
     },
     {
-      "id": "f1dd8a5d-eb26-4e72-8d4f-f0a3ade0e2c7",
-      "identifiers": [
-        {
-          "identifier": "Плиева_Агунда_Феликсовна",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Плиева Агунда Феликсовна"
+      "id": "082be175-33ba-4a9c-8bbf-a0b8cac0c079",
+      "name": "Туаев Алан Андреевич"
     },
     {
-      "id": "f62a81d4-caea-4cff-ae62-2d79021edc8b",
-      "identifiers": [
-        {
-          "identifier": "Тасоев_Дмитрий_Николаевич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
+      "id": "139097f1-cb4b-4550-a5d8-fb547a02ff0f",
+      "name": "Каджаев Филипп Григорьевич"
+    },
+    {
+      "id": "168bc68d-9311-449a-b355-446e4850570e",
+      "name": "Дьяконов Амиран Евгенович"
+    },
+    {
+      "id": "34fc2824-9da3-4c33-8801-7028ffa8bc89",
+      "name": "Келехсаев Георгий Геноевич"
+    },
+    {
+      "id": "38e0c016-3966-486b-96ae-9f0422551bcc",
+      "name": "Лохов Мендик Феликсович"
+    },
+    {
+      "id": "3968e966-12c7-4501-94e5-ea529e293e78",
+      "name": "Хубулов Илья Франгелович"
+    },
+    {
+      "id": "40a1c946-5c7f-40b2-9665-17d1f6a3e59b",
+      "name": "Козонов Алан Дударович"
+    },
+    {
+      "id": "43cfb11e-a54f-44e7-9046-0440077dc02b",
+      "name": "Дзукаев Вилорд Сергеевич"
+    },
+    {
+      "id": "4a109cf0-6ec8-4760-8f61-21ae9b0b56a0",
+      "name": "Парастаев Дмитрий Зелимханович"
+    },
+    {
+      "id": "4b729d6e-45d9-43d4-a675-ed677baf26ad",
+      "name": "Базаев Владимир Гелаевич"
+    },
+    {
+      "id": "54a58509-7939-46bb-a1b9-4f2acc0d11c1",
       "name": "Тасоев Дмитрий Николаевич"
     },
     {
-      "id": "fac4c546-163d-4b77-8b1c-86af79c63372",
-      "identifiers": [
-        {
-          "identifier": "Базаев_Владимир_Гелаевич",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Базаев Владимир Гелаевич"
+      "id": "5a089503-4daf-43c1-9f21-8739c2222540",
+      "name": "Тадтаев Анатолий Григорьевич"
+    },
+    {
+      "id": "5ce76ba1-4fed-4afb-927c-bb5dc99e698a",
+      "name": "Бибилов Анатолий Ильич"
+    },
+    {
+      "id": "5dff5818-79fa-405a-b6b2-f4a52a870bb1",
+      "name": "Кочиева Олеся Ахсаровна"
+    },
+    {
+      "id": "5e1c41d7-dae1-4e77-8699-994e9f910e23",
+      "name": "Келехсаев Владимир Степанович"
+    },
+    {
+      "id": "7319d9d1-72c4-4037-880d-135076ea7bec",
+      "name": "Плиева Агунда Феликсовна"
+    },
+    {
+      "id": "7b7dc8da-ea22-4a96-9f25-7fb7a8f0f0bd",
+      "name": "Кочиева Жанна Герсановна"
+    },
+    {
+      "id": "7bb4f381-41e5-411f-8254-6cf7c89f589e",
+      "name": "Тедеев Бахва Отарович"
+    },
+    {
+      "id": "8c8d8872-0357-41be-99ac-278ab58e50ef",
+      "name": "Тасоев Борис Леонидович"
+    },
+    {
+      "id": "926e7243-a4ec-4bd3-919c-cb61dc5e1ca5",
+      "name": "Гассиев Петр Леонидович"
+    },
+    {
+      "id": "92b4191a-8d20-4691-b00d-22d22d2655b5",
+      "name": "Джиоева Алла Алексеевна"
+    },
+    {
+      "id": "99cb9294-b60a-47f7-aaee-514187c43167",
+      "name": "Дудайты Эрик Владимирович"
+    },
+    {
+      "id": "ba19cd56-1227-4422-ac9b-67903f9ce680",
+      "name": "Кочиев Игорь Иванович"
+    },
+    {
+      "id": "bc9ec5c9-600c-481e-85cf-8a850442fe24",
+      "name": "Бекоев Геннадий Борисович"
+    },
+    {
+      "id": "c522beb3-5698-4730-beba-84999e4d5ddf",
+      "name": "Хубаев Альберт Юрьевич"
+    },
+    {
+      "id": "cae7ec3b-dff6-42bd-ac6a-14e4a791f754",
+      "name": "Валиева Роза Сергеевна"
+    },
+    {
+      "id": "d2a2c3a0-d05f-4e8e-91ef-393ece38b509",
+      "name": "Джиоев Инал Иванович"
+    },
+    {
+      "id": "e43d42f9-0b6e-4d44-a4d0-142519bcf14a",
+      "name": "Бесаева Зита Григорьевна"
+    },
+    {
+      "id": "e5ff4817-1f92-4464-bbfb-d408f7399e1b",
+      "name": "Тедеев Руслан Рутенович"
+    },
+    {
+      "id": "f5859afa-c98c-479e-b583-1fe2211e6a50",
+      "name": "Габараев Юрий Константинович"
+    },
+    {
+      "id": "f86a343c-c04c-4c1d-8443-e86689f618c0",
+      "name": "Плиев Александр Михайлович"
+    },
+    {
+      "id": "ff486690-965e-46ec-9d47-514122e8872f",
+      "name": "Харебаты Сергей Владимирович"
     }
   ],
   "organizations": [
@@ -360,7 +156,7 @@
     },
     {
       "classification": "party",
-      "id": "ПП_«Народная_партия_РЮО»",
+      "id": "пп_«народная_партия_рюо»",
       "identifiers": [
         {
           "identifier": "Q606955",
@@ -430,7 +226,7 @@
     },
     {
       "classification": "party",
-      "id": "ПП_«Ныхас»",
+      "id": "пп_«ныхас»",
       "identifiers": [
         {
           "identifier": "Q4444762",
@@ -453,7 +249,7 @@
     },
     {
       "classification": "party",
-      "id": "РПП_«Единая_Осетия»",
+      "id": "рпп_«единая_осетия»",
       "identifiers": [
         {
           "identifier": "Q17279744",
@@ -481,7 +277,7 @@
     },
     {
       "classification": "party",
-      "id": "СП_«Единство_Народа»",
+      "id": "сп_«единство_народа»",
       "identifiers": [
         {
           "identifier": "Q23691632",
@@ -511,9 +307,9 @@
   "memberships": [
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "ПП_«Народная_партия_РЮО»",
+      "on_behalf_of_id": "пп_«ныхас»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "0373d728-9e91-4427-8675-128014e84ccc",
+      "person_id": "03fc1041-b92b-4c35-a34d-fdaba2dea1a4",
       "role": "member",
       "sources": [
         {
@@ -523,9 +319,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "0521db7e-55d7-41c3-9aa8-3a3d6c531c2b",
+      "person_id": "075538c6-df2e-4355-b416-a9f7f123a95e",
       "role": "member",
       "sources": [
         {
@@ -535,9 +331,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "17d72f15-e73a-4f25-aed2-bfdc97bceadb",
+      "person_id": "082be175-33ba-4a9c-8bbf-a0b8cac0c079",
       "role": "member",
       "sources": [
         {
@@ -547,9 +343,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "22f12a24-ee8e-4ed6-b413-53a1ec992f64",
+      "person_id": "139097f1-cb4b-4550-a5d8-fb547a02ff0f",
       "role": "member",
       "sources": [
         {
@@ -559,9 +355,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "пп_«народная_партия_рюо»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "25f52715-2047-4bf7-910e-7d279b004f01",
+      "person_id": "168bc68d-9311-449a-b355-446e4850570e",
       "role": "member",
       "sources": [
         {
@@ -571,9 +367,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "2fdf263c-dccb-4e75-8412-95539e6dbed8",
+      "person_id": "34fc2824-9da3-4c33-8801-7028ffa8bc89",
       "role": "member",
       "sources": [
         {
@@ -583,9 +379,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "ПП_«Народная_партия_РЮО»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "35b114a4-c4db-4c9f-912b-bb695bdb44d9",
+      "person_id": "38e0c016-3966-486b-96ae-9f0422551bcc",
       "role": "member",
       "sources": [
         {
@@ -595,9 +391,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "3ed2156b-489d-45ca-bd7e-b9b210c6903c",
+      "person_id": "3968e966-12c7-4501-94e5-ea529e293e78",
       "role": "member",
       "sources": [
         {
@@ -607,9 +403,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "сп_«единство_народа»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "4132daed-57a0-41f4-96cc-aaf48461b158",
+      "person_id": "40a1c946-5c7f-40b2-9665-17d1f6a3e59b",
       "role": "member",
       "sources": [
         {
@@ -619,9 +415,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "5a17290e-c083-48da-9403-0bf536f1a73d",
+      "person_id": "43cfb11e-a54f-44e7-9046-0440077dc02b",
       "role": "member",
       "sources": [
         {
@@ -631,9 +427,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "сп_«единство_народа»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "6253b9be-f4fe-4d37-9fc5-d8d018a4d47a",
+      "person_id": "4a109cf0-6ec8-4760-8f61-21ae9b0b56a0",
       "role": "member",
       "sources": [
         {
@@ -643,9 +439,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "70bb2faa-f550-445b-9df9-c5171385aa0d",
+      "person_id": "4b729d6e-45d9-43d4-a675-ed677baf26ad",
       "role": "member",
       "sources": [
         {
@@ -655,9 +451,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "СП_«Единство_Народа»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "72668ccd-1252-4614-8cfe-8a4c952ba346",
+      "person_id": "54a58509-7939-46bb-a1b9-4f2acc0d11c1",
       "role": "member",
       "sources": [
         {
@@ -667,9 +463,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "ПП_«Народная_партия_РЮО»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "80c378ee-6ee6-4cec-b9d4-594cc2ef8055",
+      "person_id": "5a089503-4daf-43c1-9f21-8739c2222540",
       "role": "member",
       "sources": [
         {
@@ -679,9 +475,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "80d664de-d2fe-4c23-9a5c-145e9c0b19f2",
+      "person_id": "5ce76ba1-4fed-4afb-927c-bb5dc99e698a",
       "role": "member",
       "sources": [
         {
@@ -691,9 +487,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "8181456c-2a9d-4a37-b23f-c1100b5eeaf7",
+      "person_id": "5dff5818-79fa-405a-b6b2-f4a52a870bb1",
       "role": "member",
       "sources": [
         {
@@ -703,9 +499,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "ПП_«Ныхас»",
+      "on_behalf_of_id": "сп_«единство_народа»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "81c0b4e7-d4f1-4179-97be-574a7940b657",
+      "person_id": "5e1c41d7-dae1-4e77-8699-994e9f910e23",
       "role": "member",
       "sources": [
         {
@@ -715,9 +511,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "СП_«Единство_Народа»",
+      "on_behalf_of_id": "сп_«единство_народа»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "83ae1eca-d65d-4dbe-868f-3d04635a0c56",
+      "person_id": "7319d9d1-72c4-4037-880d-135076ea7bec",
       "role": "member",
       "sources": [
         {
@@ -727,9 +523,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "ПП_«Народная_партия_РЮО»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "864481bb-ab1e-48b3-a9ec-14034f8e63b5",
+      "person_id": "7b7dc8da-ea22-4a96-9f25-7fb7a8f0f0bd",
       "role": "member",
       "sources": [
         {
@@ -739,9 +535,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "87e13a14-435a-449d-9be8-fc6fa3c060fc",
+      "person_id": "7bb4f381-41e5-411f-8254-6cf7c89f589e",
       "role": "member",
       "sources": [
         {
@@ -751,9 +547,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "8d3b6510-1c17-495b-bb48-35b851a9c062",
+      "person_id": "8c8d8872-0357-41be-99ac-278ab58e50ef",
       "role": "member",
       "sources": [
         {
@@ -763,9 +559,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "908f4c10-4e6d-4f18-9bd6-51ba17db119c",
+      "person_id": "926e7243-a4ec-4bd3-919c-cb61dc5e1ca5",
       "role": "member",
       "sources": [
         {
@@ -775,9 +571,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "ПП_«Ныхас»",
+      "on_behalf_of_id": "пп_«ныхас»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "9405ca10-39df-46b8-8f16-e5d93b290da6",
+      "person_id": "92b4191a-8d20-4691-b00d-22d22d2655b5",
       "role": "member",
       "sources": [
         {
@@ -787,9 +583,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "СП_«Единство_Народа»",
+      "on_behalf_of_id": "пп_«народная_партия_рюо»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "96c10249-8a4f-471c-998a-6e606c56870d",
+      "person_id": "99cb9294-b60a-47f7-aaee-514187c43167",
       "role": "member",
       "sources": [
         {
@@ -799,9 +595,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "пп_«ныхас»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "b3e20a47-e573-48bb-9927-8f5cc386942c",
+      "person_id": "ba19cd56-1227-4422-ac9b-67903f9ce680",
       "role": "member",
       "sources": [
         {
@@ -811,9 +607,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "СП_«Единство_Народа»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "b48ab770-1dd4-41a1-945f-1f5093dd6fec",
+      "person_id": "bc9ec5c9-600c-481e-85cf-8a850442fe24",
       "role": "member",
       "sources": [
         {
@@ -823,9 +619,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "СП_«Единство_Народа»",
+      "on_behalf_of_id": "сп_«единство_народа»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "b6a2467e-e4cc-40a2-9110-7edb7a1cbbff",
+      "person_id": "c522beb3-5698-4730-beba-84999e4d5ddf",
       "role": "member",
       "sources": [
         {
@@ -835,9 +631,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "bbf7fd8a-35e2-40d6-b31c-dfd3563c1ca4",
+      "person_id": "cae7ec3b-dff6-42bd-ac6a-14e4a791f754",
       "role": "member",
       "sources": [
         {
@@ -847,9 +643,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "bc93493f-46f2-4ca0-bb2f-4d27273c8164",
+      "person_id": "d2a2c3a0-d05f-4e8e-91ef-393ece38b509",
       "role": "member",
       "sources": [
         {
@@ -859,9 +655,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "ПП_«Ныхас»",
+      "on_behalf_of_id": "пп_«ныхас»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "c45aaecd-7ffb-46ef-bf9e-0da51ac5b3ca",
+      "person_id": "e43d42f9-0b6e-4d44-a4d0-142519bcf14a",
       "role": "member",
       "sources": [
         {
@@ -871,9 +667,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "ПП_«Ныхас»",
+      "on_behalf_of_id": "сп_«единство_народа»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "d55bf320-f9cd-448f-8d0d-bd831a395000",
+      "person_id": "e5ff4817-1f92-4464-bbfb-d408f7399e1b",
       "role": "member",
       "sources": [
         {
@@ -883,9 +679,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "СП_«Единство_Народа»",
+      "on_behalf_of_id": "рпп_«единая_осетия»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "f1dd8a5d-eb26-4e72-8d4f-f0a3ade0e2c7",
+      "person_id": "f5859afa-c98c-479e-b583-1fe2211e6a50",
       "role": "member",
       "sources": [
         {
@@ -895,9 +691,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "пп_«народная_партия_рюо»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "f62a81d4-caea-4cff-ae62-2d79021edc8b",
+      "person_id": "f86a343c-c04c-4c1d-8443-e86689f618c0",
       "role": "member",
       "sources": [
         {
@@ -907,9 +703,9 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "РПП_«Единая_Осетия»",
+      "on_behalf_of_id": "пп_«народная_партия_рюо»",
       "organization_id": "6ace9785-8aad-4bca-88b5-418640558929",
-      "person_id": "fac4c546-163d-4b77-8b1c-86af79c63372",
+      "person_id": "ff486690-965e-46ec-9d47-514122e8872f",
       "role": "member",
       "sources": [
         {

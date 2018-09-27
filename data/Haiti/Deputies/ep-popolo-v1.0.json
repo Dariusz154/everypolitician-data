@@ -4,14 +4,8 @@
   ],
   "persons": [
     {
-      "id": "01253e8a-5f05-44bb-b87f-3042c69b921e",
-      "identifiers": [
-        {
-          "identifier": "beguens_thÉus",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Beguens THÉUS"
+      "id": "03753b47-bbb7-4a61-8e47-0fae91dabf14",
+      "name": "Dupner CLÉMENT"
     },
     {
       "id": "03ca2db0-eac0-4b4a-962a-24436434443c",
@@ -64,16 +58,6 @@
       "name": "Louinor SAINTIMA"
     },
     {
-      "id": "0fd59660-4e64-430e-9a21-9479d2223804",
-      "identifiers": [
-        {
-          "identifier": "astrel_dolnÉ",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Astrel DOLNÉ"
-    },
-    {
       "id": "10b34a12-dce7-4287-afb8-be61a714886a",
       "identifiers": [
         {
@@ -124,14 +108,8 @@
       "name": "Renaud JEAN-BAPTISTE"
     },
     {
-      "id": "180bff5e-25df-4313-b999-97fd2796c0eb",
-      "identifiers": [
-        {
-          "identifier": "dupner_clÉment",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Dupner CLÉMENT"
+      "id": "19a4b360-7312-4231-9389-291d884b0428",
+      "name": "Beguens THÉUS"
     },
     {
       "id": "1da8f2fe-a2eb-438e-b28e-9f7b1a8a38e5",
@@ -249,16 +227,6 @@
       "name": "Guy Gérard GEORGES"
     },
     {
-      "id": "3d7acced-1e2b-4bfa-af73-da7c5a4dcbd3",
-      "identifiers": [
-        {
-          "identifier": "joseph_martial_dÉpas",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Joseph Martial DÉPAS"
-    },
-    {
       "id": "3e96c2fe-f9ca-4928-a15b-8af2511fd835",
       "identifiers": [
         {
@@ -287,16 +255,6 @@
         }
       ],
       "name": "Romain MUSSET"
-    },
-    {
-      "id": "4397e30f-7ff7-4b50-bc99-81a6125ad78c",
-      "identifiers": [
-        {
-          "identifier": "louystz_amyot_franÇois",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Louystz Amyot FRANÇOIS"
     },
     {
       "id": "43e82d1f-8d3d-4478-ba05-e4d1f74234bf",
@@ -329,6 +287,10 @@
       "name": "Teophile GLUCK"
     },
     {
+      "id": "4eb7fcdd-eb7d-4e44-810f-9eb66c912da9",
+      "name": "Louystz Amyot FRANÇOIS"
+    },
+    {
       "id": "523501fc-c52d-4add-bd98-3b27bb7ea50a",
       "identifiers": [
         {
@@ -347,16 +309,6 @@
         }
       ],
       "name": "Poly FAUSTIN"
-    },
-    {
-      "id": "5759ad87-7f81-470d-8d5a-7bd434ef0b9e",
-      "identifiers": [
-        {
-          "identifier": "luckner_noËl",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Luckner NOËL"
     },
     {
       "id": "577bde55-acc8-465d-9c3e-d84da12da402",
@@ -399,16 +351,6 @@
       "name": "Kenston JEAN-BAPTISTE"
     },
     {
-      "id": "617b21d9-3a16-476c-9223-0189e0dbdeba",
-      "identifiers": [
-        {
-          "identifier": "rodriguez_sÉjour",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Rodriguez SÉJOUR"
-    },
-    {
       "id": "61c43012-ad71-4742-a7e2-ede2cdd44f57",
       "identifiers": [
         {
@@ -439,24 +381,8 @@
       "name": "Bertrand SINAL"
     },
     {
-      "id": "69664fa8-696a-4bc8-9307-9f1b304a2488",
-      "identifiers": [
-        {
-          "identifier": "a._rodon_bien-aimÉ",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
+      "id": "6d19fa7b-52e1-493b-b2d4-11e91750dbae",
       "name": "A. Rodon BIEN-AIMÉ"
-    },
-    {
-      "id": "6d964b0c-1966-4ae3-ba81-b9b6c8f37f9b",
-      "identifiers": [
-        {
-          "identifier": "julner_lainÉ",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Julner LAINÉ"
     },
     {
       "id": "74eed9f4-41c0-472c-94c0-98652898751e",
@@ -519,6 +445,10 @@
       "name": "Ogline PIERRE"
     },
     {
+      "id": "7b7869c1-be66-4bf7-b079-a421cf57df61",
+      "name": "Arnel BÉLIZAIRE"
+    },
+    {
       "id": "7d32070f-7c07-4266-941c-bfbc5a899826",
       "identifiers": [
         {
@@ -539,33 +469,8 @@
       "name": "Jean Bertold BASTIEN"
     },
     {
-      "birth_date": "1970-05-10",
-      "gender": "male",
-      "id": "858f08c1-d9c2-4847-9c15-75e6c03c8220",
-      "identifiers": [
-        {
-          "identifier": "stevenson_jacques_thimolÉon",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21030784",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Stevenson_Jacques_Thimoléon"
-        }
-      ],
-      "name": "Stevenson Jacques THIMOLÉON",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Stevenson Jacques Thimoléon",
-          "note": "multilingual"
-        }
-      ]
+      "id": "864fd62e-4d67-4235-9390-dfea49dbdbf4",
+      "name": "Joseph Martial DÉPAS"
     },
     {
       "id": "8c8367c5-063f-4ec5-b5a2-06520c5903f8",
@@ -578,6 +483,10 @@
       "name": "Frédély GEORGES"
     },
     {
+      "id": "8d2b3d73-04d2-43d1-a5b0-4ce794d31edb",
+      "name": "Luckner NOËL"
+    },
+    {
       "id": "90522354-f4c9-4ea4-8d09-b13ca9e17c91",
       "identifiers": [
         {
@@ -588,14 +497,8 @@
       "name": "Jean Tholbert ALEXIS"
     },
     {
-      "id": "912a3c23-8ce7-45e4-9db0-2017f49b3e98",
-      "identifiers": [
-        {
-          "identifier": "rony_cÉlestin",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Rony CÉLESTIN"
+      "id": "9143e847-bc86-4ddc-a3b1-271419c3fd9e",
+      "name": "Stevenson Jacques THIMOLÉON"
     },
     {
       "id": "917cde1e-2cd6-479e-b71f-35acd17e7ff5",
@@ -618,6 +521,10 @@
       "name": "Pierre TATOUTE"
     },
     {
+      "id": "9386f71f-2ae6-487c-b341-4e3664934ef7",
+      "name": "Jean Rigaud BÉLIZAIRE"
+    },
+    {
       "id": "9578e5b6-f6bc-416c-aa19-eaf0b338c21a",
       "identifiers": [
         {
@@ -626,6 +533,10 @@
         }
       ],
       "name": "Luberne PIERRE"
+    },
+    {
+      "id": "96526ec9-e18d-414a-9e9c-33bf3b8ee20f",
+      "name": "Astrel DOLNÉ"
     },
     {
       "id": "97cd402b-b68c-4087-9b73-040598199054",
@@ -668,24 +579,12 @@
       "name": "Elie BLAISE"
     },
     {
-      "id": "9ef82a96-cd87-49d6-8768-586ce10e26fb",
-      "identifiers": [
-        {
-          "identifier": "Éloune_dorÉus",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Éloune DORÉUS"
+      "id": "9c891b61-2385-4c88-a064-b8feaa170f83",
+      "name": "Acilus GROS-NÈGRE"
     },
     {
-      "id": "a064441e-4440-4200-9149-24fa346de627",
-      "identifiers": [
-        {
-          "identifier": "acilus_gros-nÈgre",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Acilus GROS-NÈGRE"
+      "id": "9fdf6865-1587-418e-948e-70358f9e2871",
+      "name": "Harold CHÉRY"
     },
     {
       "id": "a4776a60-1a42-45e2-9a13-b82c1e8ca313",
@@ -708,16 +607,6 @@
       "name": "Jean René LOCHARD"
     },
     {
-      "id": "a8d646a2-e9ab-42a3-a85d-9cc40acdb6ab",
-      "identifiers": [
-        {
-          "identifier": "harold_chÉry",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Harold CHÉRY"
-    },
-    {
       "id": "abd910c0-d40a-4d57-a75c-eb873f27f5f6",
       "identifiers": [
         {
@@ -728,6 +617,10 @@
       "name": "Paul Olivar MICHEL"
     },
     {
+      "id": "aebd164f-feb0-4ff8-b5c8-6ee7bcdadda4",
+      "name": "Sadrac DIEUDONNÉ"
+    },
+    {
       "id": "aef0b172-49b2-463f-ab37-c75df78a276b",
       "identifiers": [
         {
@@ -736,26 +629,6 @@
         }
       ],
       "name": "Orélien JOACHIM"
-    },
-    {
-      "id": "b4513456-bf26-494b-9b26-814b00e43e24",
-      "identifiers": [
-        {
-          "identifier": "sadrac_dieudonnÉ",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Sadrac DIEUDONNÉ"
-    },
-    {
-      "id": "b7ee32f4-6b54-4837-86aa-a89ed04d830d",
-      "identifiers": [
-        {
-          "identifier": "jean_rigaud_bÉlizaire",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Jean Rigaud BÉLIZAIRE"
     },
     {
       "id": "ba12be9e-dde1-47fc-b9a1-80b9202fb8c0",
@@ -901,6 +774,18 @@
       ]
     },
     {
+      "id": "d64928b7-41f5-434e-be7f-7e02b7edda63",
+      "name": "Rodriguez SÉJOUR"
+    },
+    {
+      "id": "d805328f-5218-49b0-95c3-c059da91221a",
+      "name": "Éloune DORÉUS"
+    },
+    {
+      "id": "d86eff5f-ab94-496e-842c-9252d49407ad",
+      "name": "Rony CÉLESTIN"
+    },
+    {
       "id": "dc6b9d75-bb05-4987-bebf-b8cfcbd704fb",
       "identifiers": [
         {
@@ -951,16 +836,6 @@
       "name": "Jean Fenel THANIS"
     },
     {
-      "id": "eb5d3cb3-e861-49bc-b06d-01de76c56cac",
-      "identifiers": [
-        {
-          "identifier": "arnel_bÉlizaire",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Arnel BÉLIZAIRE"
-    },
-    {
       "id": "ec38cc52-0dcc-470f-928f-1b6086065042",
       "identifiers": [
         {
@@ -979,6 +854,10 @@
         }
       ],
       "name": "Jean-Pierre ROSSINI"
+    },
+    {
+      "id": "ed77a31b-7afd-485e-b4ad-1545e74c9b0c",
+      "name": "Julner LAINÉ"
     },
     {
       "id": "ee5c1fc4-26f1-4d80-aae6-95a64a72eee7",
@@ -1094,7 +973,7 @@
     },
     {
       "classification": "party",
-      "id": "ansanm_nou_fÒ",
+      "id": "ansanm_nou_fò",
       "name": "ANSANM NOU FÒ"
     },
     {
@@ -1112,7 +991,7 @@
     },
     {
       "classification": "party",
-      "id": "indÉp.",
+      "id": "indép.",
       "identifiers": [
         {
           "identifier": "Q327591",
@@ -2066,7 +1945,7 @@
     },
     {
       "classification": "party",
-      "id": "libÉration",
+      "id": "libération",
       "name": "LIBÉRATION"
     },
     {
@@ -2164,7 +2043,7 @@
     },
     {
       "classification": "party",
-      "id": "respÈ",
+      "id": "respè",
       "name": "RESPÈ"
     },
     {
@@ -2181,11 +2060,11 @@
   },
   "memberships": [
     {
-      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:la_gonave/circonscription:1",
+      "area_id": "ocd-division/country:ht/departement:nippes/arrondissement:baradères/circonscription:1",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "mochrena",
+      "on_behalf_of_id": "alternative",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "01253e8a-5f05-44bb-b87f-3042c69b921e",
+      "person_id": "03753b47-bbb7-4a61-8e47-0fae91dabf14",
       "role": "member",
       "sources": [
         {
@@ -2196,7 +2075,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:léogâne/circonscription:1",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "ansanm_nou_fÒ",
+      "on_behalf_of_id": "ansanm_nou_fò",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "03ca2db0-eac0-4b4a-962a-24436434443c",
       "role": "member",
@@ -2259,19 +2138,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:sud/arrondissement:côteaux/circonscription:1",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "libÉration",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "0fd59660-4e64-430e-9a21-9479d2223804",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ht/departement:artibonite/arrondissement:dessalines/circonscription:2",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "rasanble",
@@ -2300,7 +2166,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:grande_anse/arrondissement:corail/circonscription:1",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "respÈ",
+      "on_behalf_of_id": "respè",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "150cb273-4dc2-4ac2-9580-abd02c95bb9d",
       "role": "member",
@@ -2337,11 +2203,11 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:nippes/arrondissement:baradères/circonscription:1",
+      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:la_gonave/circonscription:1",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "alternative",
+      "on_behalf_of_id": "mochrena",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "180bff5e-25df-4313-b999-97fd2796c0eb",
+      "person_id": "19a4b360-7312-4231-9389-291d884b0428",
       "role": "member",
       "sources": [
         {
@@ -2365,7 +2231,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:centre/arrondissement:lascahobas/circonscription:3",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "ansanm_nou_fÒ",
+      "on_behalf_of_id": "ansanm_nou_fò",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "2003adfc-b1cd-4c2b-9014-280219d409ee",
       "role": "member",
@@ -2417,7 +2283,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:artibonite/arrondissement:saint_marc/circonscription:3",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "ansanm_nou_fÒ",
+      "on_behalf_of_id": "ansanm_nou_fò",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "29b325f7-ffde-49f7-9e94-ff134c6d5a0f",
       "role": "member",
@@ -2430,7 +2296,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:sud/arrondissement:chardonnières/circonscription:1",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "libÉration",
+      "on_behalf_of_id": "libération",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "2d7c9a3f-953d-42ad-be0d-c0b2a11e9f57",
       "role": "member",
@@ -2443,7 +2309,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:sud-est/arrondissement:jacmel/circonscription:3",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "indÉp.",
+      "on_behalf_of_id": "indép.",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "352411ef-c255-45d4-af10-cd55b4c8204d",
       "role": "member",
@@ -2459,19 +2325,6 @@
       "on_behalf_of_id": "inite",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "3d573a73-e960-4a72-8b18-1526f337685a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
-      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:arcahaie/circonscription:2",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "aaa",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "3d7acced-1e2b-4bfa-af73-da7c5a4dcbd3",
       "role": "member",
       "sources": [
         {
@@ -2519,22 +2372,9 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:nord-ouest/arrondissement:port-de-paix/circonscription:1",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "inite",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "4397e30f-7ff7-4b50-bc99-81a6125ad78c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ht/departement:nippes/arrondissement:miragoâne/circonscription:2",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "ansanm_nou_fÒ",
+      "on_behalf_of_id": "ansanm_nou_fò",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "43e82d1f-8d3d-4478-ba05-e4d1f74234bf",
       "role": "member",
@@ -2571,6 +2411,19 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:ht/departement:nord-ouest/arrondissement:port-de-paix/circonscription:1",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "inite",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "4eb7fcdd-eb7d-4e44-810f-9eb66c912da9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:port-au-prince/circonscription:7",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "alternative",
@@ -2589,19 +2442,6 @@
       "on_behalf_of_id": "inite",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "54178011-20af-4406-8eed-e6ece19c29ce",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
-      "area_id": "ocd-division/country:ht/departement:nord-est/arrondissement:ouanaminthe/circonscription:1",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "alternative",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "5759ad87-7f81-470d-8d5a-7bd434ef0b9e",
       "role": "member",
       "sources": [
         {
@@ -2662,19 +2502,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:port-au-prince/circonscription:1",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "libÉration",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "617b21d9-3a16-476c-9223-0189e0dbdeba",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ht/departement:nippes/arrondissement:anse_à_veau/circonscription:2",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "inite",
@@ -2718,20 +2545,7 @@
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "inite",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "69664fa8-696a-4bc8-9307-9f1b304a2488",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
-      "area_id": "ocd-division/country:ht/departement:sud/arrondissement:côteaux/circonscription:3",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "inite",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "6d964b0c-1966-4ae3-ba81-b9b6c8f37f9b",
+      "person_id": "6d19fa7b-52e1-493b-b2d4-11e91750dbae",
       "role": "member",
       "sources": [
         {
@@ -2768,7 +2582,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:léogâne/circonscription:3",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "ansanm_nou_fÒ",
+      "on_behalf_of_id": "ansanm_nou_fò",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "7797f86e-c737-493b-9128-a416cac92b5e",
       "role": "member",
@@ -2818,6 +2632,19 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:port-au-prince/circonscription:6",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "veye-yo",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "7b7869c1-be66-4bf7-b079-a421cf57df61",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:port-au-prince/circonscription:9",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "alternative",
@@ -2844,11 +2671,11 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:léogâne/circonscription:2",
+      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:arcahaie/circonscription:2",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "lavni",
+      "on_behalf_of_id": "aaa",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "858f08c1-d9c2-4847-9c15-75e6c03c8220",
+      "person_id": "864fd62e-4d67-4235-9390-dfea49dbdbf4",
       "role": "member",
       "sources": [
         {
@@ -2870,9 +2697,22 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:ht/departement:nord-est/arrondissement:ouanaminthe/circonscription:1",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "alternative",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "8d2b3d73-04d2-43d1-a5b0-4ce794d31edb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:croix_des_bouquets/circonscription:1",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "ansanm_nou_fÒ",
+      "on_behalf_of_id": "ansanm_nou_fò",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "90522354-f4c9-4ea4-8d09-b13ca9e17c91",
       "role": "member",
@@ -2883,11 +2723,11 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:centre/arrondissement:cerca_la_source/circonscription:1",
+      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:léogâne/circonscription:2",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "lavni",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "912a3c23-8ce7-45e4-9db0-2017f49b3e98",
+      "person_id": "9143e847-bc86-4ddc-a3b1-271419c3fd9e",
       "role": "member",
       "sources": [
         {
@@ -2922,11 +2762,37 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:ht/departement:grande_anse/arrondissement:jérémie/circonscription:2",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "inite",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "9386f71f-2ae6-487c-b341-4e3664934ef7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:ht/departement:nippes/arrondissement:anse_à_veau/circonscription:3",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "lavni",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "9578e5b6-f6bc-416c-aa19-eaf0b338c21a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ht/departement:sud/arrondissement:côteaux/circonscription:1",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "libération",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "96526ec9-e18d-414a-9e9c-33bf3b8ee20f",
       "role": "member",
       "sources": [
         {
@@ -2963,7 +2829,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:artibonite/arrondissement:gonaives/circonscription:2",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "ansanm_nou_fÒ",
+      "on_behalf_of_id": "ansanm_nou_fò",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "9aaf3181-36f7-44c1-bf6e-80661f719877",
       "role": "member",
@@ -2987,11 +2853,11 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:nord-ouest/arrondissement:môle_saint_nicolas/circonscription:1",
+      "area_id": "ocd-division/country:ht/departement:nord-ouest/arrondissement:port-de-paix/circonscription:3",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "alternative",
+      "on_behalf_of_id": "inite",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "9ef82a96-cd87-49d6-8768-586ce10e26fb",
+      "person_id": "9c891b61-2385-4c88-a064-b8feaa170f83",
       "role": "member",
       "sources": [
         {
@@ -3000,11 +2866,11 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:nord-ouest/arrondissement:port-de-paix/circonscription:3",
+      "area_id": "ocd-division/country:ht/departement:nord/arrondissement:saint_raphael/circonscription:1",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "inite",
+      "on_behalf_of_id": "rasanble",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "a064441e-4440-4200-9149-24fa346de627",
+      "person_id": "9fdf6865-1587-418e-948e-70358f9e2871",
       "role": "member",
       "sources": [
         {
@@ -3039,19 +2905,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ht/departement:nord/arrondissement:saint_raphael/circonscription:1",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "rasanble",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "a8d646a2-e9ab-42a3-a85d-9cc40acdb6ab",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ht/departement:sud/arrondissement:côteaux/circonscription:2",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "inite",
@@ -3065,37 +2918,24 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:ht/departement:artibonite/arrondissement:gonaives/circonscription:1",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "mochrena",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "aebd164f-feb0-4ff8-b5c8-6ee7bcdadda4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:ht/departement:grande_anse/arrondissement:anse_d’hainault/circonscription:1",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "inite",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "aef0b172-49b2-463f-ab37-c75df78a276b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
-      "area_id": "ocd-division/country:ht/departement:artibonite/arrondissement:gonaives/circonscription:1",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "mochrena",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "b4513456-bf26-494b-9b26-814b00e43e24",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
-      "area_id": "ocd-division/country:ht/departement:grande_anse/arrondissement:jérémie/circonscription:2",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "inite",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "b7ee32f4-6b54-4837-86aa-a89ed04d830d",
       "role": "member",
       "sources": [
         {
@@ -3184,7 +3024,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:sud-est/arrondissement:jacmel/circonscription:2",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "ansanm_nou_fÒ",
+      "on_behalf_of_id": "ansanm_nou_fò",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "c6723b6b-eb7a-4975-ac45-f310fa60902b",
       "role": "member",
@@ -3260,6 +3100,45 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:port-au-prince/circonscription:1",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "libération",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "d64928b7-41f5-434e-be7f-7e02b7edda63",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ht/departement:nord-ouest/arrondissement:môle_saint_nicolas/circonscription:1",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "alternative",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "d805328f-5218-49b0-95c3-c059da91221a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ht/departement:centre/arrondissement:cerca_la_source/circonscription:1",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "lavni",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "d86eff5f-ab94-496e-842c-9252d49407ad",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:ht/departement:centre/arrondissement:hinche/circonscription:2",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "lavni",
@@ -3301,7 +3180,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:sud/arrondissement:aquin/circonscription:2",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "ansanm_nou_fÒ",
+      "on_behalf_of_id": "ansanm_nou_fò",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "e5940b97-1a33-4565-80bb-4d5f27de3f0f",
       "role": "member",
@@ -3317,19 +3196,6 @@
       "on_behalf_of_id": "repons_peyizan",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "e5d4c33f-1af8-4de1-b5a5-66b317518d33",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
-        }
-      ]
-    },
-    {
-      "area_id": "ocd-division/country:ht/departement:ouest/arrondissement:port-au-prince/circonscription:6",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "veye-yo",
-      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
-      "person_id": "eb5d3cb3-e861-49bc-b06d-01de76c56cac",
       "role": "member",
       "sources": [
         {
@@ -3356,6 +3222,19 @@
       "on_behalf_of_id": "inite",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "ec40f5c1-4817-4452-87f2-222ffd0238fb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.haiti-reference.com/pages/plan/politique/pouvoir-legislatif/49eme-legislature/"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ht/departement:sud/arrondissement:côteaux/circonscription:3",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "inite",
+      "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
+      "person_id": "ed77a31b-7afd-485e-b4ad-1545e74c9b0c",
       "role": "member",
       "sources": [
         {
@@ -3392,7 +3271,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:artibonite/arrondissement:gros_morne/circonscription:2",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "indÉp.",
+      "on_behalf_of_id": "indép.",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "f68e363c-86f4-4e38-acec-436795173971",
       "role": "member",
@@ -3457,7 +3336,7 @@
     {
       "area_id": "ocd-division/country:ht/departement:nippes/arrondissement:anse_à_veau/circonscription:1",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "ansanm_nou_fÒ",
+      "on_behalf_of_id": "ansanm_nou_fò",
       "organization_id": "18bdd20a-4fbc-4238-bf27-d58ca1ec5ac5",
       "person_id": "fd5ecba4-8b6a-445f-b95c-e60aa1c6862c",
       "role": "member",

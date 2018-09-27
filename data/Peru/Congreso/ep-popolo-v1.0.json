@@ -7828,7 +7828,7 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "acciÓn_popular_-_frente_amplio",
+      "id": "acción_popular_-_frente_amplio",
       "identifiers": [
         {
           "identifier": "Q5656221",
@@ -7853,7 +7853,7 @@
     },
     {
       "classification": "party",
-      "id": "concertaciÓn_parlamentaria",
+      "id": "concertación_parlamentaria",
       "identifiers": [
         {
           "identifier": "Q16491345",
@@ -8020,7 +8020,7 @@
     },
     {
       "classification": "party",
-      "id": "nacionalista_gana_perÚ",
+      "id": "nacionalista_gana_perú",
       "identifiers": [
         {
           "identifier": "Q669307",
@@ -9067,7 +9067,7 @@
     },
     {
       "classification": "party",
-      "id": "perÚ_posible",
+      "id": "perú_posible",
       "identifiers": [
         {
           "identifier": "Q1420702",
@@ -9389,7 +9389,7 @@
     },
     {
       "classification": "party",
-      "id": "uniÓn_regional",
+      "id": "unión_regional",
       "identifiers": [
         {
           "identifier": "Q16644737",
@@ -9451,7 +9451,7 @@
     {
       "area_id": "huanuco",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "perÚ_posible",
+      "on_behalf_of_id": "perú_posible",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "0357023f-f218-42d8-b924-76b6617afbae",
       "role": "member",
@@ -9516,7 +9516,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "concertaciÓn_parlamentaria",
+      "on_behalf_of_id": "concertación_parlamentaria",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "0de30301-b1d7-414b-aeb2-f30bf9b16089",
       "role": "member",
@@ -9542,7 +9542,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "concertaciÓn_parlamentaria",
+      "on_behalf_of_id": "concertación_parlamentaria",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "0e446aec-4ebc-4a9a-9ef7-82f4b01edc13",
       "role": "member",
@@ -9568,7 +9568,7 @@
     {
       "area_id": "ancash",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "1221d205-d87b-4d9d-9daf-592c2a18015b",
       "role": "member",
@@ -9581,7 +9581,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "concertaciÓn_parlamentaria",
+      "on_behalf_of_id": "concertación_parlamentaria",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "15c265e9-ac97-493e-a85f-95d0419e5f5c",
       "role": "member",
@@ -9607,7 +9607,7 @@
     {
       "area_id": "junin",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "perÚ_posible",
+      "on_behalf_of_id": "perú_posible",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "18211ee8-5cef-4187-ae81-24d2a09d7cde",
       "role": "member",
@@ -9620,7 +9620,7 @@
     {
       "area_id": "huancavelica",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "uniÓn_regional",
+      "on_behalf_of_id": "unión_regional",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "19bbf7d1-d8e6-4af2-bc46-7f0260984e8d",
       "role": "member",
@@ -9633,7 +9633,7 @@
     {
       "area_id": "puno",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "1b02ad62-bde4-4e8d-94aa-2e3d14a8e7eb",
       "role": "member",
@@ -9659,7 +9659,7 @@
     {
       "area_id": "piura",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "20be963e-502e-4ce2-b7b4-c3366f95b37b",
       "role": "member",
@@ -9724,7 +9724,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "2e6335a8-e1ee-4b08-b350-c0392295bce6",
       "role": "member",
@@ -9750,7 +9750,7 @@
     {
       "area_id": "junin",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "3065dd78-0733-4106-af55-01f52c677ed0",
       "role": "member",
@@ -9828,7 +9828,7 @@
     {
       "area_id": "arequipa",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "uniÓn_regional",
+      "on_behalf_of_id": "unión_regional",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "3bf10e6a-c1d5-4964-a0de-d44b24be3c7d",
       "role": "member",
@@ -9841,7 +9841,7 @@
     {
       "area_id": "apurimac",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "3e81cc4f-badf-4378-bc07-bc5ce6c73dff",
       "role": "member",
@@ -9854,7 +9854,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "perÚ_posible",
+      "on_behalf_of_id": "perú_posible",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "3e90eda8-9ee4-45be-957e-e0dad0b2c7d3",
       "role": "member",
@@ -9880,7 +9880,7 @@
     {
       "area_id": "cusco",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "3f372d7c-391c-42f6-b43c-d63034709c75",
       "role": "member",
@@ -9893,7 +9893,7 @@
     {
       "area_id": "cusco",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "acciÓn_popular_-_frente_amplio",
+      "on_behalf_of_id": "acción_popular_-_frente_amplio",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "3fada2b4-55a4-4b27-abc8-faf7f993bdc7",
       "role": "member",
@@ -9919,7 +9919,7 @@
     {
       "area_id": "lambayeque",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "429fc2ca-c641-4b79-9b2d-7662e14045f6",
       "role": "member",
@@ -9945,7 +9945,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "uniÓn_regional",
+      "on_behalf_of_id": "unión_regional",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "46da7d42-1c25-4cda-97bc-467fea464967",
       "role": "member",
@@ -9972,7 +9972,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "perÚ_posible",
+      "on_behalf_of_id": "perú_posible",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "46f59f00-be6e-4ce4-aed6-048425ed917d",
       "role": "member",
@@ -9985,7 +9985,7 @@
     {
       "area_id": "huancavelica",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "47f807ad-5c5d-42de-b4a3-fe3a7efacf98",
       "role": "member",
@@ -9998,7 +9998,7 @@
     {
       "area_id": "la_libertad",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "perÚ_posible",
+      "on_behalf_of_id": "perú_posible",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "5620f452-1388-438b-b4e3-09517bd4eebd",
       "role": "member",
@@ -10011,7 +10011,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "acciÓn_popular_-_frente_amplio",
+      "on_behalf_of_id": "acción_popular_-_frente_amplio",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "56891c84-317f-475f-a496-dd8e495e1356",
       "role": "member",
@@ -10050,7 +10050,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "concertaciÓn_parlamentaria",
+      "on_behalf_of_id": "concertación_parlamentaria",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "580fa74c-6f3e-472d-86e3-8032aa9ffc37",
       "role": "member",
@@ -10063,7 +10063,7 @@
     {
       "area_id": "callao",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "perÚ_posible",
+      "on_behalf_of_id": "perú_posible",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "5a2d8cf4-9e5f-42b2-a9db-693945e2f9c8",
       "role": "member",
@@ -10076,7 +10076,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "acciÓn_popular_-_frente_amplio",
+      "on_behalf_of_id": "acción_popular_-_frente_amplio",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "5a8c326e-71b3-4ef7-abc4-27ca9f9f17c9",
       "role": "member",
@@ -10102,7 +10102,7 @@
     {
       "area_id": "lambayeque",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "perÚ_posible",
+      "on_behalf_of_id": "perú_posible",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "5e390f6b-8fe6-40ba-bde4-b4a4b7ce6645",
       "role": "member",
@@ -10128,7 +10128,7 @@
     {
       "area_id": "ica",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "643a06a0-90e9-45d5-ae05-eea99a6838ca",
       "role": "member",
@@ -10154,7 +10154,7 @@
     {
       "area_id": "ancash",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "perÚ_posible",
+      "on_behalf_of_id": "perú_posible",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "665605a8-5406-4aad-8de3-51b92af67466",
       "role": "member",
@@ -10167,7 +10167,7 @@
     {
       "area_id": "amazonas",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "67bd17da-61ab-4b54-9c31-d1ed0894b29a",
       "role": "member",
@@ -10180,7 +10180,7 @@
     {
       "area_id": "la_libertad",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "concertaciÓn_parlamentaria",
+      "on_behalf_of_id": "concertación_parlamentaria",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "68d5eba2-24d2-40c4-b5f3-c66262e369a6",
       "role": "member",
@@ -10193,7 +10193,7 @@
     {
       "area_id": "loreto",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "uniÓn_regional",
+      "on_behalf_of_id": "unión_regional",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "6d362074-ba17-402f-b226-ab95fbe27331",
       "role": "member",
@@ -10206,7 +10206,7 @@
     {
       "area_id": "loreto",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "6e8462dd-1e1b-4b97-bd07-04ae1cea7ac8",
       "role": "member",
@@ -10219,7 +10219,7 @@
     {
       "area_id": "tumbes",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "acciÓn_popular_-_frente_amplio",
+      "on_behalf_of_id": "acción_popular_-_frente_amplio",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "6e95e986-3cbc-4d1f-b47e-9d99286ad1c7",
       "role": "member",
@@ -10258,7 +10258,7 @@
     {
       "area_id": "moquegua",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "71d54d85-a422-43e6-92f4-632c58c938e9",
       "role": "member",
@@ -10271,7 +10271,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "77e4c464-f28f-499e-8d97-cdf758d2625c",
       "role": "member",
@@ -10297,7 +10297,7 @@
     {
       "area_id": "cusco",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "7e7126f9-8a28-4385-a51a-e57246790153",
       "role": "member",
@@ -10362,7 +10362,7 @@
     {
       "area_id": "la_libertad",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "concertaciÓn_parlamentaria",
+      "on_behalf_of_id": "concertación_parlamentaria",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "8b0103c5-36dc-41e6-b17d-4525fd3a9a41",
       "role": "member",
@@ -10428,7 +10428,7 @@
     {
       "area_id": "puno",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "96b9c5f0-c357-4e68-b187-8b549cbc0622",
       "role": "member",
@@ -10467,7 +10467,7 @@
     {
       "area_id": "piura",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "a0a4eb29-54ec-4d97-b28b-b9f4849664d2",
       "role": "member",
@@ -10480,7 +10480,7 @@
     {
       "area_id": "puno",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "uniÓn_regional",
+      "on_behalf_of_id": "unión_regional",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "a1f43dbf-3478-459a-bd06-bed82612668d",
       "role": "member",
@@ -10545,7 +10545,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "aaa2b30f-cb24-433e-bbaa-d6e09ab3cbe9",
       "role": "member",
@@ -10558,7 +10558,7 @@
     {
       "area_id": "piura",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "ac5d9d1d-4a17-434a-bad6-302fdc6e7075",
       "role": "member",
@@ -10571,7 +10571,7 @@
     {
       "area_id": "ucayali",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "ac8102d9-24a5-40b1-9228-b00543b38c32",
       "role": "member",
@@ -10597,7 +10597,7 @@
     {
       "area_id": "junin",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "aca72eb5-6ced-4907-abb0-4bda88c955cf",
       "role": "member",
@@ -10610,7 +10610,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "acciÓn_popular_-_frente_amplio",
+      "on_behalf_of_id": "acción_popular_-_frente_amplio",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "ad665197-d7d1-4782-8586-7ff961304485",
       "role": "member",
@@ -10637,7 +10637,7 @@
     {
       "area_id": "loreto",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "acciÓn_popular_-_frente_amplio",
+      "on_behalf_of_id": "acción_popular_-_frente_amplio",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "af1fc0f7-9eb2-41cb-b62e-36aabb4a77aa",
       "role": "member",
@@ -10650,7 +10650,7 @@
     {
       "area_id": "cajamarca",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "b2cc20a2-615c-4e1f-a268-8ac291a10639",
       "role": "member",
@@ -10689,7 +10689,7 @@
     {
       "area_id": "pasco",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "perÚ_posible",
+      "on_behalf_of_id": "perú_posible",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "b57d094b-9dd8-4355-be69-25f81ba142b5",
       "role": "member",
@@ -10702,7 +10702,7 @@
     {
       "area_id": "huanuco",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "b8c2fe93-a8e7-4953-8cb5-85eea962b031",
       "role": "member",
@@ -10715,7 +10715,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "b988b485-168b-40c9-a79e-547b6095e835",
       "role": "member",
@@ -10728,7 +10728,7 @@
     {
       "area_id": "cusco",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "bb422ac7-ca22-4657-8a84-99c27c588a0c",
       "role": "member",
@@ -10754,7 +10754,7 @@
     {
       "area_id": "piura",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "perÚ_posible",
+      "on_behalf_of_id": "perú_posible",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "bd2ff536-8145-4956-8728-7489ce2a6a77",
       "role": "member",
@@ -10767,7 +10767,7 @@
     {
       "area_id": "arequipa",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "cc1cad60-b3ff-448c-89a2-fea88e53d01d",
       "role": "member",
@@ -10780,7 +10780,7 @@
     {
       "area_id": "ayacucho",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "d0052e6b-2ead-41f5-9a9d-9ca450587008",
       "role": "member",
@@ -10793,7 +10793,7 @@
     {
       "area_id": "lambayeque",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "concertaciÓn_parlamentaria",
+      "on_behalf_of_id": "concertación_parlamentaria",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "d2382df0-60ef-406f-894e-b24d8b029216",
       "role": "member",
@@ -10806,7 +10806,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "concertaciÓn_parlamentaria",
+      "on_behalf_of_id": "concertación_parlamentaria",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "d32c9ec0-8a18-4eb8-97a3-d482d0833c21",
       "role": "member",
@@ -10832,7 +10832,7 @@
     {
       "area_id": "callao",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "uniÓn_regional",
+      "on_behalf_of_id": "unión_regional",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "d61d4ab7-bb5e-4645-9034-6e619f910fbb",
       "role": "member",
@@ -10845,7 +10845,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "concertaciÓn_parlamentaria",
+      "on_behalf_of_id": "concertación_parlamentaria",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "d7386571-c492-43a0-adcf-9ee759133c8f",
       "role": "member",
@@ -10871,7 +10871,7 @@
     {
       "area_id": "cusco",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "dff47c8a-4b86-46ae-a5a8-df2bdb982cfe",
       "role": "member",
@@ -10897,7 +10897,7 @@
     {
       "area_id": "arequipa",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "e486714a-624c-4c49-ba40-92f589aaa90c",
       "role": "member",
@@ -10910,7 +10910,7 @@
     {
       "area_id": "san_martin",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "e5da0f36-b965-437f-a6db-d23df02eac21",
       "role": "member",
@@ -10949,7 +10949,7 @@
     {
       "area_id": "cajamarca",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "acciÓn_popular_-_frente_amplio",
+      "on_behalf_of_id": "acción_popular_-_frente_amplio",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "ef41fe10-a881-4f7d-9642-63faa006d5c5",
       "role": "member",
@@ -10988,7 +10988,7 @@
     {
       "area_id": "lima",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "acciÓn_popular_-_frente_amplio",
+      "on_behalf_of_id": "acción_popular_-_frente_amplio",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "f7440021-ab9a-4291-8d73-a76310fb2789",
       "role": "member",
@@ -11053,7 +11053,7 @@
     {
       "area_id": "ayacucho",
       "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "nacionalista_gana_perÚ",
+      "on_behalf_of_id": "nacionalista_gana_perú",
       "organization_id": "31b88399-5b9e-4b50-9518-43ecfe65be2f",
       "person_id": "f935bb3d-a2b1-408a-be2a-bb39e4338125",
       "role": "member",

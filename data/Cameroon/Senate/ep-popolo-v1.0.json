@@ -15,17 +15,6 @@
       "name": "NNEMDE Emmanuel"
     },
     {
-      "gender": "male",
-      "id": "06cc2b73-75c8-4321-a78f-9037e7d681c9",
-      "identifiers": [
-        {
-          "identifier": "dakole_daÏssala",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "DAKOLE DAÏSSALA"
-    },
-    {
       "gender": "female",
       "id": "09237596-4bb4-4519-a24d-5fa048b6be9b",
       "identifiers": [
@@ -244,17 +233,6 @@
         }
       ],
       "name": "ALIOUM ALADJI HAMADOU"
-    },
-    {
-      "gender": "male",
-      "id": "41d41de9-82b8-4589-8af2-185e667841c3",
-      "identifiers": [
-        {
-          "identifier": "mme_okala_bilaÎ_nicole",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Mme OKALA BILAÎ Nicole"
     },
     {
       "gender": "female",
@@ -564,6 +542,11 @@
         }
       ],
       "name": "SONKIN ETIENNE"
+    },
+    {
+      "gender": "male",
+      "id": "87ce8d71-227a-436d-9a59-71c531ff22d6",
+      "name": "DAKOLE DAÏSSALA"
     },
     {
       "gender": "male",
@@ -1087,6 +1070,11 @@
     },
     {
       "gender": "male",
+      "id": "fbec6b30-8271-4194-9e12-ae06ca2487f6",
+      "name": "Mme OKALA BILAÎ Nicole"
+    },
+    {
+      "gender": "male",
       "id": "fd843d8e-ef6c-4fa6-95c6-83b22daea08e",
       "identifiers": [
         {
@@ -1492,14 +1480,6 @@
       "role": "member"
     },
     {
-      "area_id": "far-north",
-      "legislative_period_id": "term/9",
-      "on_behalf_of_id": "mdr",
-      "organization_id": "eed761a0-3d01-4631-8141-e2a2edde2fb8",
-      "person_id": "06cc2b73-75c8-4321-a78f-9037e7d681c9",
-      "role": "member"
-    },
-    {
       "area_id": "adamaoua",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "sdf",
@@ -1657,14 +1637,6 @@
       "on_behalf_of_id": "rdpc",
       "organization_id": "eed761a0-3d01-4631-8141-e2a2edde2fb8",
       "person_id": "40849140-71e4-43b6-b09b-fdd591261537",
-      "role": "member"
-    },
-    {
-      "area_id": "centre",
-      "legislative_period_id": "term/9",
-      "on_behalf_of_id": "rdpc",
-      "organization_id": "eed761a0-3d01-4631-8141-e2a2edde2fb8",
-      "person_id": "41d41de9-82b8-4589-8af2-185e667841c3",
       "role": "member"
     },
     {
@@ -1889,6 +1861,14 @@
       "on_behalf_of_id": "sdf",
       "organization_id": "eed761a0-3d01-4631-8141-e2a2edde2fb8",
       "person_id": "83b23824-7dc1-4961-b3c5-97bfa53915df",
+      "role": "member"
+    },
+    {
+      "area_id": "far-north",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "mdr",
+      "organization_id": "eed761a0-3d01-4631-8141-e2a2edde2fb8",
+      "person_id": "87ce8d71-227a-436d-9a59-71c531ff22d6",
       "role": "member"
     },
     {
@@ -2265,6 +2245,14 @@
       "on_behalf_of_id": "rdpc",
       "organization_id": "eed761a0-3d01-4631-8141-e2a2edde2fb8",
       "person_id": "fa2afe7b-d05c-4e78-8be7-47e016845ab8",
+      "role": "member"
+    },
+    {
+      "area_id": "centre",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "rdpc",
+      "organization_id": "eed761a0-3d01-4631-8141-e2a2edde2fb8",
+      "person_id": "fbec6b30-8271-4194-9e12-ae06ca2487f6",
       "role": "member"
     },
     {

@@ -515,6 +515,10 @@
       "name": "Héctor Pinto"
     },
     {
+      "id": "1abca097-7157-4d7f-9c3b-9ce366e970cc",
+      "name": "Ángel Sandoval"
+    },
+    {
       "gender": "male",
       "id": "1e0df0c0-cbc7-4836-a892-79fe9142e80f",
       "identifiers": [
@@ -598,6 +602,10 @@
       ]
     },
     {
+      "id": "276be292-6790-4709-9406-40b7655bae65",
+      "name": "Óscar Álvarez"
+    },
+    {
       "gender": "male",
       "id": "2b8f2404-5355-4777-ade0-ca12fdccc142",
       "identifiers": [
@@ -629,6 +637,10 @@
         }
       ],
       "name": "Héctor Padilla"
+    },
+    {
+      "id": "32c86b31-616e-4139-937e-e5a9e83629e8",
+      "name": "Óscar Najera"
     },
     {
       "gender": "female",
@@ -1002,17 +1014,6 @@
     },
     {
       "gender": "male",
-      "id": "6267b07e-28b5-4ac8-a738-d6de4b580419",
-      "identifiers": [
-        {
-          "identifier": "Ángel_banegas",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Ángel Banegas"
-    },
-    {
-      "gender": "male",
       "id": "62791b38-faa4-478f-a196-12af1e51ffb2",
       "identifiers": [
         {
@@ -1188,6 +1189,10 @@
       "name": "Abel Benítez"
     },
     {
+      "id": "7fb607bf-f534-4bc4-99e8-9503a796003d",
+      "name": "Ángel Banegas"
+    },
+    {
       "gender": "male",
       "id": "80c67255-7dfd-46b6-87b3-bebb600204c5",
       "identifiers": [
@@ -1324,17 +1329,6 @@
     },
     {
       "gender": "male",
-      "id": "9bfa3d2a-6ec0-4078-b8d7-412c2ab7704c",
-      "identifiers": [
-        {
-          "identifier": "Ángel_sandoval",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Ángel Sandoval"
-    },
-    {
-      "gender": "male",
       "id": "9d346873-b58e-4f33-baf1-9aadf4f78cb3",
       "identifiers": [
         {
@@ -1420,17 +1414,6 @@
         }
       ],
       "name": "Marco Andino"
-    },
-    {
-      "gender": "male",
-      "id": "adf5a651-7378-4012-9c62-66af916014ba",
-      "identifiers": [
-        {
-          "identifier": "Óscar_Álvarez",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Óscar Álvarez"
     },
     {
       "gender": "male",
@@ -1563,17 +1546,6 @@
         }
       ],
       "name": "María Leiva"
-    },
-    {
-      "gender": "male",
-      "id": "d5fa2ccd-b4b1-4393-9138-294fda8ef990",
-      "identifiers": [
-        {
-          "identifier": "Óscar_najera",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Óscar Najera"
     },
     {
       "gender": "male",
@@ -2660,6 +2632,14 @@
       "role": "member"
     },
     {
+      "area_id": "choluteca",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "libre",
+      "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
+      "person_id": "1abca097-7157-4d7f-9c3b-9ce366e970cc",
+      "role": "member"
+    },
+    {
       "area_id": "el_paraíso",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "liberal",
@@ -2700,6 +2680,14 @@
       "role": "member"
     },
     {
+      "area_id": "francisco_morazán",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "nacional",
+      "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
+      "person_id": "276be292-6790-4709-9406-40b7655bae65",
+      "role": "member"
+    },
+    {
       "area_id": "valle",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "liberal",
@@ -2721,6 +2709,14 @@
       "on_behalf_of_id": "libre",
       "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
       "person_id": "3262495b-236d-4a8d-936e-49e66674bb75",
+      "role": "member"
+    },
+    {
+      "area_id": "colón",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "nacional",
+      "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
+      "person_id": "32c86b31-616e-4139-937e-e5a9e83629e8",
       "role": "member"
     },
     {
@@ -2996,14 +2992,6 @@
       "role": "member"
     },
     {
-      "area_id": "cortés",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "liberal",
-      "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
-      "person_id": "6267b07e-28b5-4ac8-a738-d6de4b580419",
-      "role": "member"
-    },
-    {
       "area_id": "santa_bárbara",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "libre",
@@ -3134,6 +3122,14 @@
     {
       "area_id": "cortés",
       "legislative_period_id": "term/8",
+      "on_behalf_of_id": "liberal",
+      "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
+      "person_id": "7fb607bf-f534-4bc4-99e8-9503a796003d",
+      "role": "member"
+    },
+    {
+      "area_id": "cortés",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "pac",
       "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
       "person_id": "80c67255-7dfd-46b6-87b3-bebb600204c5",
@@ -3236,14 +3232,6 @@
       "role": "member"
     },
     {
-      "area_id": "choluteca",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "libre",
-      "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
-      "person_id": "9bfa3d2a-6ec0-4078-b8d7-412c2ab7704c",
-      "role": "member"
-    },
-    {
       "area_id": "lempira",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "nacional",
@@ -3305,14 +3293,6 @@
       "on_behalf_of_id": "liberal",
       "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
       "person_id": "ac0a57df-34ee-48e6-b766-dfbba00994d5",
-      "role": "member"
-    },
-    {
-      "area_id": "francisco_morazán",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "nacional",
-      "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
-      "person_id": "adf5a651-7378-4012-9c62-66af916014ba",
       "role": "member"
     },
     {
@@ -3409,14 +3389,6 @@
       "on_behalf_of_id": "liberal",
       "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
       "person_id": "d43699ce-3a0f-47ed-8b2e-e960c083b118",
-      "role": "member"
-    },
-    {
-      "area_id": "colón",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "nacional",
-      "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
-      "person_id": "d5fa2ccd-b4b1-4393-9138-294fda8ef990",
       "role": "member"
     },
     {

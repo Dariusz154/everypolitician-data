@@ -38,23 +38,6 @@
       "name": "H.D. CARLOS AGUSTIN AFU DECEREGA"
     },
     {
-      "gender": "male",
-      "id": "0738e0f7-a3da-438d-9c42-24abbd1af8c1",
-      "identifiers": [
-        {
-          "identifier": "h.d._jose_muÑoz_molina",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.asamblea.gob.pa/img/320x240_1491152189.9576.jpg",
-      "images": [
-        {
-          "url": "http://www.asamblea.gob.pa/img/320x240_1491152189.9576.jpg"
-        }
-      ],
-      "name": "H.D. JOSE MUÑOZ MOLINA"
-    },
-    {
       "gender": "female",
       "id": "09e0618f-4b95-40e0-ac5e-5595284c376a",
       "identifiers": [
@@ -80,17 +63,6 @@
         }
       ],
       "name": "H.D. JUAN BAUTISTA MOYA MONTES"
-    },
-    {
-      "gender": "male",
-      "id": "1561aeab-2eaa-416b-a03f-b29f53c938ba",
-      "identifiers": [
-        {
-          "identifier": "hd_josÉ_luis_castillo_gÓmez",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "HD JOSÉ LUIS CASTILLO GÓMEZ"
     },
     {
       "gender": "male",
@@ -142,6 +114,16 @@
         }
       ],
       "name": "H.D. MARYLIN E. VALLARINO DE SELLHORN"
+    },
+    {
+      "id": "26977d2e-adb4-40a0-a2dd-0ac9d82ca334",
+      "image": "http://www.asamblea.gob.pa/img/320x240_1491152410.6503.jpg",
+      "images": [
+        {
+          "url": "http://www.asamblea.gob.pa/img/320x240_1491152410.6503.jpg"
+        }
+      ],
+      "name": "H.D. MELITÓN ALEJANDRO ARROCHA RUIZ"
     },
     {
       "gender": "male",
@@ -467,6 +449,16 @@
       "name": "H.D. MARIA DEL CARMEN DELGADO BLANDON"
     },
     {
+      "id": "6f2f92fb-a1a8-46f1-9ccf-af84b50aedc7",
+      "image": "http://www.asamblea.gob.pa/img/320x240_1491152189.9576.jpg",
+      "images": [
+        {
+          "url": "http://www.asamblea.gob.pa/img/320x240_1491152189.9576.jpg"
+        }
+      ],
+      "name": "H.D. JOSE MUÑOZ MOLINA"
+    },
+    {
       "gender": "male",
       "id": "7037fe81-3c4b-4175-9c20-b85b4709ffbf",
       "identifiers": [
@@ -482,16 +474,6 @@
         }
       ],
       "name": "H.D. LUIS ALEXANDER BARRIA MOSCOSO"
-    },
-    {
-      "id": "70778a8f-c975-4a21-8535-6576c20bca15",
-      "image": "http://www.asamblea.gob.pa/img/320x240_1491152410.6503.jpg",
-      "images": [
-        {
-          "url": "http://www.asamblea.gob.pa/img/320x240_1491152410.6503.jpg"
-        }
-      ],
-      "name": "H.D. MELITÓN ALEJANDRO ARROCHA RUIZ"
     },
     {
       "gender": "male",
@@ -775,6 +757,16 @@
       "name": "H.D. MANUEL COHEN SALERNO"
     },
     {
+      "id": "9f4fae84-2af7-4ce1-8356-afd1d80b201a",
+      "image": "http://www.asamblea.gob.pa/img/320x240_1491148035.4393.jpg",
+      "images": [
+        {
+          "url": "http://www.asamblea.gob.pa/img/320x240_1491148035.4393.jpg"
+        }
+      ],
+      "name": "H.D. DANA D. CASTAÑEDA G."
+    },
+    {
       "gender": "male",
       "id": "a424481b-db59-424b-b452-ba06ab6f0c1f",
       "identifiers": [
@@ -894,21 +886,8 @@
       "name": "H.D. LUIS EDUARDO QUIROS"
     },
     {
-      "gender": "male",
-      "id": "bb14920d-a17d-4bbe-9796-1539568995d4",
-      "identifiers": [
-        {
-          "identifier": "h.d._edwin_alberto_zuÑiga",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.asamblea.gob.pa/img/320x240_1491148818.3814.D-EDWIN_ZUNIGA_PWC.jpg",
-      "images": [
-        {
-          "url": "http://www.asamblea.gob.pa/img/320x240_1491148818.3814.D-EDWIN_ZUNIGA_PWC.jpg"
-        }
-      ],
-      "name": "H.D. EDWIN ALBERTO ZUÑIGA"
+      "id": "c0d938fa-efe1-47b5-82d9-276c84f1cbd5",
+      "name": "HD JOSÉ LUIS CASTILLO GÓMEZ"
     },
     {
       "gender": "female",
@@ -962,6 +941,16 @@
       "name": "H.D. MARIELA DEL C. VEGA DE DONOSO"
     },
     {
+      "id": "c34952ba-bad7-4f8f-ac40-0845d7ce4e41",
+      "image": "http://www.asamblea.gob.pa/img/320x240_1491148076.142.jpg",
+      "images": [
+        {
+          "url": "http://www.asamblea.gob.pa/img/320x240_1491148076.142.jpg"
+        }
+      ],
+      "name": "H.D. JOSÉ LUIS CASTILLO GÓMEZ"
+    },
+    {
       "gender": "male",
       "id": "c773baa6-0ce0-4a46-90eb-6873049b09ff",
       "identifiers": [
@@ -996,16 +985,6 @@
       "name": "H.D. CARLOS ALBERTO MOTTA NUQUES"
     },
     {
-      "id": "d7f12aa2-5ded-4312-83ac-0b240f6f904e",
-      "image": "http://www.asamblea.gob.pa/img/320x240_1491148076.142.jpg",
-      "images": [
-        {
-          "url": "http://www.asamblea.gob.pa/img/320x240_1491148076.142.jpg"
-        }
-      ],
-      "name": "H.D. JOSÉ LUIS CASTILLO GÓMEZ"
-    },
-    {
       "gender": "male",
       "id": "d833d06e-25cb-4ff4-85f4-d342df52c77d",
       "identifiers": [
@@ -1038,6 +1017,16 @@
         }
       ],
       "name": "H.D. HECTOR VALDES CARRASQUILLA"
+    },
+    {
+      "id": "e415e843-c500-4f15-b613-faac0f86c93c",
+      "image": "http://www.asamblea.gob.pa/img/320x240_1491148818.3814.D-EDWIN_ZUNIGA_PWC.jpg",
+      "images": [
+        {
+          "url": "http://www.asamblea.gob.pa/img/320x240_1491148818.3814.D-EDWIN_ZUNIGA_PWC.jpg"
+        }
+      ],
+      "name": "H.D. EDWIN ALBERTO ZUÑIGA"
     },
     {
       "gender": "male",
@@ -1124,23 +1113,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "gender": "female",
-      "id": "ea11345d-1ac9-4510-9a58-41c53050fe70",
-      "identifiers": [
-        {
-          "identifier": "h.d._dana_d._castaÑeda_g.",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.asamblea.gob.pa/img/320x240_1491148035.4393.jpg",
-      "images": [
-        {
-          "url": "http://www.asamblea.gob.pa/img/320x240_1491148035.4393.jpg"
-        }
-      ],
-      "name": "H.D. DANA D. CASTAÑEDA G."
     },
     {
       "gender": "male",
@@ -2651,19 +2623,6 @@
       ]
     },
     {
-      "area_id": "8-10",
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_cambio_democrático",
-      "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
-      "person_id": "0738e0f7-a3da-438d-9c42-24abbd1af8c1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.asamblea.gob.pa/diputados/"
-        }
-      ]
-    },
-    {
       "area_id": "12-3",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "partido_revolucionario_democrático",
@@ -2682,19 +2641,6 @@
       "on_behalf_of_id": "partido_panameñista",
       "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
       "person_id": "1504b937-af37-4aec-987e-2cd30bf0ea78",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.asamblea.gob.pa/diputados/"
-        }
-      ]
-    },
-    {
-      "area_id": "4-3",
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_panameñista",
-      "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
-      "person_id": "1561aeab-2eaa-416b-a03f-b29f53c938ba",
       "role": "member",
       "sources": [
         {
@@ -2734,6 +2680,19 @@
       "on_behalf_of_id": "partido_cambio_democrático",
       "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
       "person_id": "25e1b4d1-caff-4ae1-89be-6d5e56d86a2c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.asamblea.gob.pa/diputados/"
+        }
+      ]
+    },
+    {
+      "area_id": "8-8",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "partido_panameñista",
+      "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
+      "person_id": "26977d2e-adb4-40a0-a2dd-0ac9d82ca334",
       "role": "member",
       "sources": [
         {
@@ -2989,11 +2948,11 @@
       ]
     },
     {
-      "area_id": "8-9",
+      "area_id": "8-10",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_panameñista",
+      "on_behalf_of_id": "partido_cambio_democrático",
       "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
-      "person_id": "7037fe81-3c4b-4175-9c20-b85b4709ffbf",
+      "person_id": "6f2f92fb-a1a8-46f1-9ccf-af84b50aedc7",
       "role": "member",
       "sources": [
         {
@@ -3002,11 +2961,11 @@
       ]
     },
     {
-      "area_id": "8-8",
+      "area_id": "8-9",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "partido_panameñista",
       "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
-      "person_id": "70778a8f-c975-4a21-8535-6576c20bca15",
+      "person_id": "7037fe81-3c4b-4175-9c20-b85b4709ffbf",
       "role": "member",
       "sources": [
         {
@@ -3210,6 +3169,19 @@
       ]
     },
     {
+      "area_id": "2-3",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "partido_cambio_democrático",
+      "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
+      "person_id": "9f4fae84-2af7-4ce1-8356-afd1d80b201a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.asamblea.gob.pa/diputados/"
+        }
+      ]
+    },
+    {
       "area_id": "4-1",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "partido_panameñista",
@@ -3301,11 +3273,11 @@
       ]
     },
     {
-      "area_id": "8-10",
+      "area_id": "4-3",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_cambio_democrático",
+      "on_behalf_of_id": "partido_panameñista",
       "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
-      "person_id": "bb14920d-a17d-4bbe-9796-1539568995d4",
+      "person_id": "c0d938fa-efe1-47b5-82d9-276c84f1cbd5",
       "role": "member",
       "sources": [
         {
@@ -3353,6 +3325,19 @@
       ]
     },
     {
+      "area_id": "4-3",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "partido_panameñista",
+      "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
+      "person_id": "c34952ba-bad7-4f8f-ac40-0845d7ce4e41",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.asamblea.gob.pa/diputados/"
+        }
+      ]
+    },
+    {
       "area_id": "4-1",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "partido_molirena",
@@ -3379,19 +3364,6 @@
       ]
     },
     {
-      "area_id": "4-3",
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_panameñista",
-      "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
-      "person_id": "d7f12aa2-5ded-4312-83ac-0b240f6f904e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.asamblea.gob.pa/diputados/"
-        }
-      ]
-    },
-    {
       "area_id": "2-2",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "partido_cambio_democrático",
@@ -3410,6 +3382,19 @@
       "on_behalf_of_id": "partido_cambio_democrático",
       "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
       "person_id": "da27ea79-bb6d-4f5d-98bd-cbdb1220a8d3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.asamblea.gob.pa/diputados/"
+        }
+      ]
+    },
+    {
+      "area_id": "8-10",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "partido_cambio_democrático",
+      "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
+      "person_id": "e415e843-c500-4f15-b613-faac0f86c93c",
       "role": "member",
       "sources": [
         {
@@ -3462,19 +3447,6 @@
       "on_behalf_of_id": "partido_revolucionario_democrático",
       "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
       "person_id": "e896aaf7-421e-4e7e-93f5-5cabd6d41b8f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.asamblea.gob.pa/diputados/"
-        }
-      ]
-    },
-    {
-      "area_id": "2-3",
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_cambio_democrático",
-      "organization_id": "8946fbd5-f635-42d0-b43a-47b426fe0135",
-      "person_id": "ea11345d-1ac9-4510-9a58-41c53050fe70",
       "role": "member",
       "sources": [
         {

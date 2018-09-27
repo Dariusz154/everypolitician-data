@@ -36,6 +36,16 @@
       "name": "Natalino dos S. Nascimento"
     },
     {
+      "id": "0a8aa496-6c38-42e6-ac4d-f1bbc4a7f5c4",
+      "image": "http://parlamento.tl/deputadus/fotos/fretilin/Joseva.jpg",
+      "images": [
+        {
+          "url": "http://parlamento.tl/deputadus/fotos/fretilin/Joseva.jpg"
+        }
+      ],
+      "name": "Josefa Álvares Pereira Soares"
+    },
+    {
       "id": "0cb1603d-ab22-4acf-b1e2-c9ff976ba330",
       "identifiers": [
         {
@@ -132,22 +142,6 @@
       "name": "Aniceto L. G.Lopes"
     },
     {
-      "id": "1d149408-271a-4d9f-95a5-bcb3111518ba",
-      "identifiers": [
-        {
-          "identifier": "domingas_Álves_da_silva",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlamento.tl/deputadus/fotos/cnrt/domingas.jpg",
-      "images": [
-        {
-          "url": "http://parlamento.tl/deputadus/fotos/cnrt/domingas.jpg"
-        }
-      ],
-      "name": "Domingas Álves da Silva"
-    },
-    {
       "id": "21680657-cf3f-4112-bb30-9fc83fb613f4",
       "identifiers": [
         {
@@ -198,6 +192,16 @@
         }
       ],
       "name": "Francisco de Andrade"
+    },
+    {
+      "id": "2cec540f-1377-4e1f-b526-33f61442fbf5",
+      "image": "http://parlamento.tl/deputadus/fotos/cnrt/domingas.jpg",
+      "images": [
+        {
+          "url": "http://parlamento.tl/deputadus/fotos/cnrt/domingas.jpg"
+        }
+      ],
+      "name": "Domingas Álves da Silva"
     },
     {
       "id": "2d6c27d8-6bac-4a01-bccc-2c2f9477c387",
@@ -422,22 +426,6 @@
         }
       ],
       "name": "Cristovão Barros"
-    },
-    {
-      "id": "7255c864-cf85-458f-89b0-07e783cb28d6",
-      "identifiers": [
-        {
-          "identifier": "josefa_Álvares_pereira_soares",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlamento.tl/deputadus/fotos/fretilin/Joseva.jpg",
-      "images": [
-        {
-          "url": "http://parlamento.tl/deputadus/fotos/fretilin/Joseva.jpg"
-        }
-      ],
-      "name": "Josefa Álvares Pereira Soares"
     },
     {
       "id": "77441186-cbae-40c3-9bf5-4621b937231e",
@@ -758,6 +746,16 @@
       "name": "David Dias Ximenes"
     },
     {
+      "id": "cbfd0d09-0aba-407d-bf9e-04574097dd66",
+      "image": "http://parlamento.tl/deputadus/fotos/cnrt/angela1.jpg",
+      "images": [
+        {
+          "url": "http://parlamento.tl/deputadus/fotos/cnrt/angela1.jpg"
+        }
+      ],
+      "name": "Ângela M.C. de A. Sarmento"
+    },
+    {
       "id": "d71073f5-a864-419d-bacb-9cb5dd15b56e",
       "identifiers": [
         {
@@ -958,22 +956,6 @@
         }
       ],
       "name": "Cesar Valente de Jesus"
-    },
-    {
-      "id": "f741e441-1f64-47c8-9c36-914aae1c4f8e",
-      "identifiers": [
-        {
-          "identifier": "Ângela_m.c._de_a._sarmento",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parlamento.tl/deputadus/fotos/cnrt/angela1.jpg",
-      "images": [
-        {
-          "url": "http://parlamento.tl/deputadus/fotos/cnrt/angela1.jpg"
-        }
-      ],
-      "name": "Ângela M.C. de A. Sarmento"
     },
     {
       "id": "fb2c3b9b-0739-48fc-be18-13f17969bb01",
@@ -1632,6 +1614,19 @@
       ]
     },
     {
+      "area_id": "viqueque",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "fretilin",
+      "organization_id": "0f00ed19-6f37-4fd6-ad8f-289326d77663",
+      "person_id": "0a8aa496-6c38-42e6-ac4d-f1bbc4a7f5c4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parlamento.tl/deputadus/Biografia/fretelin/josefa_soares.php"
+        }
+      ]
+    },
+    {
       "area_id": "lautem",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "cnrt",
@@ -1713,18 +1708,6 @@
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "cnrt",
       "organization_id": "0f00ed19-6f37-4fd6-ad8f-289326d77663",
-      "person_id": "1d149408-271a-4d9f-95a5-bcb3111518ba",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parlamento.tl/deputadus/Biografia/cnrt/domingas_alves.php"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "cnrt",
-      "organization_id": "0f00ed19-6f37-4fd6-ad8f-289326d77663",
       "person_id": "21680657-cf3f-4112-bb30-9fc83fb613f4",
       "role": "member",
       "sources": [
@@ -1768,6 +1751,18 @@
       "sources": [
         {
           "url": "http://parlamento.tl/deputadus/2012/pt/dp.php"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "cnrt",
+      "organization_id": "0f00ed19-6f37-4fd6-ad8f-289326d77663",
+      "person_id": "2cec540f-1377-4e1f-b526-33f61442fbf5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parlamento.tl/deputadus/Biografia/cnrt/domingas_alves.php"
         }
       ]
     },
@@ -1950,19 +1945,6 @@
       "sources": [
         {
           "url": "http://parlamento.tl/deputadus/Biografia/cnrt/cristovao_barros.php"
-        }
-      ]
-    },
-    {
-      "area_id": "viqueque",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "fretilin",
-      "organization_id": "0f00ed19-6f37-4fd6-ad8f-289326d77663",
-      "person_id": "7255c864-cf85-458f-89b0-07e783cb28d6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parlamento.tl/deputadus/Biografia/fretelin/josefa_soares.php"
         }
       ]
     },
@@ -2236,6 +2218,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "cnrt",
+      "organization_id": "0f00ed19-6f37-4fd6-ad8f-289326d77663",
+      "person_id": "cbfd0d09-0aba-407d-bf9e-04574097dd66",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parlamento.tl/deputadus/Biografia/cnrt/angela_sarmento.php"
+        }
+      ]
+    },
+    {
       "area_id": "baucau",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "cnrt",
@@ -2401,18 +2395,6 @@
       "sources": [
         {
           "url": "http://parlamento.tl/deputadus/Biografia/cnrt/cesar_valente.php"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "cnrt",
-      "organization_id": "0f00ed19-6f37-4fd6-ad8f-289326d77663",
-      "person_id": "f741e441-1f64-47c8-9c36-914aae1c4f8e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parlamento.tl/deputadus/Biografia/cnrt/angela_sarmento.php"
         }
       ]
     },

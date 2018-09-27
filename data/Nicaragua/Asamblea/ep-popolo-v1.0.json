@@ -130,6 +130,17 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "madrigalwc_8@hotmail.com"
+        }
+      ],
+      "email": "madrigalwc_8@hotmail.com",
+      "id": "20c49232-5602-4397-97fe-5a5e4e9b257d",
+      "name": "GUILLERMO EDUARDO ARCE CASTAÑO"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "emontealegrer@gmail.com"
         }
       ],
@@ -152,23 +163,6 @@
         }
       ],
       "name": "BROOKLYN RIVERA BRYAN"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "madrigalwc_8@hotmail.com"
-        }
-      ],
-      "email": "madrigalwc_8@hotmail.com",
-      "id": "2f41b2ab-e2ef-4174-b2ae-2c33900545ed",
-      "identifiers": [
-        {
-          "identifier": "guillermo_eduardo_arce_castaÑo",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "GUILLERMO EDUARDO ARCE CASTAÑO"
     },
     {
       "contact_details": [
@@ -361,6 +355,17 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "rnunez@asamblea.gob.ni"
+        }
+      ],
+      "email": "rnunez@asamblea.gob.ni",
+      "id": "582f13f4-193f-4e6a-b9be-126164357d7c",
+      "name": "SANTOS RENE NUÑEZ TELLEZ"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "ortezpablo@yahoo.com"
         }
       ],
@@ -531,23 +536,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "wilberlopez76@gmail.com"
-        }
-      ],
-      "email": "wilberlopez76@gmail.com",
-      "id": "6eaca1bb-309d-41ad-9d7e-c8a8e132fd00",
-      "identifiers": [
-        {
-          "identifier": "wilber_ramon_lopez_nuÑez",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "WILBER RAMON LOPEZ NUÑEZ"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "oincer@asamblea.gob.ni"
         }
       ],
@@ -638,23 +626,6 @@
         }
       ],
       "name": "ALYERIS BELDRAMINA ARIAS SIEZAR"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "justoarmando1953@hotmail.com"
-        }
-      ],
-      "email": "justoarmando1953@hotmail.com",
-      "id": "7b1bf6c1-7beb-469e-8465-0dd62c020f94",
-      "identifiers": [
-        {
-          "identifier": "justo_armando_peÑa_aviles",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "JUSTO ARMANDO PEÑA AVILES"
     },
     {
       "contact_details": [
@@ -825,6 +796,17 @@
         }
       ],
       "name": "RAUL BENITO HERRERA RIVERA"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "justoarmando1953@hotmail.com"
+        }
+      ],
+      "email": "justoarmando1953@hotmail.com",
+      "id": "99c26379-ac90-4d0c-866a-32b6b66348f8",
+      "name": "JUSTO ARMANDO PEÑA AVILES"
     },
     {
       "contact_details": [
@@ -1180,6 +1162,17 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "wilberlopez76@gmail.com"
+        }
+      ],
+      "email": "wilberlopez76@gmail.com",
+      "id": "cddd50ad-ffa6-4b12-969d-3f01de5e808d",
+      "name": "WILBER RAMON LOPEZ NUÑEZ"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "albertolacayo25@gmail.com"
         }
       ],
@@ -1294,23 +1287,6 @@
         }
       ],
       "name": "ADOLFO JOSE MARTINEZ COLE"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rnunez@asamblea.gob.ni"
-        }
-      ],
-      "email": "rnunez@asamblea.gob.ni",
-      "id": "de6faade-6ad5-4c82-a615-9c0747e97256",
-      "identifiers": [
-        {
-          "identifier": "santos_rene_nuÑez_tellez",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "SANTOS RENE NUÑEZ TELLEZ"
     },
     {
       "contact_details": [
@@ -3134,6 +3110,18 @@
     },
     {
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "fsln",
+      "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
+      "person_id": "20c49232-5602-4397-97fe-5a5e4e9b257d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://apps.asamblea.gob.ni/Recursos/rpt3/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "pli",
       "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
       "person_id": "23c243e8-b8ae-443f-b8e4-5de54664f2b4",
@@ -3149,18 +3137,6 @@
       "on_behalf_of_id": "sin_bancada",
       "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
       "person_id": "2c86a2b2-fece-4a88-a6cf-3c00341cac46",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://apps.asamblea.gob.ni/Recursos/rpt3/"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "fsln",
-      "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
-      "person_id": "2f41b2ab-e2ef-4174-b2ae-2c33900545ed",
       "role": "member",
       "sources": [
         {
@@ -3302,6 +3278,18 @@
     },
     {
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "fsln",
+      "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
+      "person_id": "582f13f4-193f-4e6a-b9be-126164357d7c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://apps.asamblea.gob.ni/Recursos/rpt3/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "pli",
       "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
       "person_id": "5d693608-2866-4c9f-8134-95af7d9727f9",
@@ -3422,18 +3410,6 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "pli",
-      "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
-      "person_id": "6eaca1bb-309d-41ad-9d7e-c8a8e132fd00",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://apps.asamblea.gob.ni/Recursos/rpt3/"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/2012",
       "on_behalf_of_id": "fsln",
       "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
       "person_id": "73dc94f8-54ba-4848-8d17-80b64cb06810",
@@ -3497,18 +3473,6 @@
       "on_behalf_of_id": "fsln",
       "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
       "person_id": "7aead1d9-82b1-4215-8b6a-0ed746e8163d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://apps.asamblea.gob.ni/Recursos/rpt3/"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "fsln",
-      "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
-      "person_id": "7b1bf6c1-7beb-469e-8465-0dd62c020f94",
       "role": "member",
       "sources": [
         {
@@ -3629,6 +3593,18 @@
       "on_behalf_of_id": "pli",
       "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
       "person_id": "98370ad2-b26c-4e48-bddf-32cf16111410",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://apps.asamblea.gob.ni/Recursos/rpt3/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "fsln",
+      "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
+      "person_id": "99c26379-ac90-4d0c-866a-32b6b66348f8",
       "role": "member",
       "sources": [
         {
@@ -3892,6 +3868,18 @@
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "pli",
       "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
+      "person_id": "cddd50ad-ffa6-4b12-969d-3f01de5e808d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://apps.asamblea.gob.ni/Recursos/rpt3/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "pli",
+      "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
       "person_id": "d14dbdb6-bc10-4f05-9fc7-5a5ad3dd0635",
       "role": "member",
       "sources": [
@@ -3965,18 +3953,6 @@
       "on_behalf_of_id": "pli",
       "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
       "person_id": "dc5e87c0-2f6f-490d-bf0b-0af3d8895733",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://apps.asamblea.gob.ni/Recursos/rpt3/"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "fsln",
-      "organization_id": "18f800ca-400a-4ca8-bc8c-68c877eadbe7",
-      "person_id": "de6faade-6ad5-4c82-a615-9c0747e97256",
       "role": "member",
       "sources": [
         {

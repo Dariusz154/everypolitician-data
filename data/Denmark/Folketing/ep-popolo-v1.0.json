@@ -151,30 +151,6 @@
       "name": "Rasmus Prehn"
     },
     {
-      "birth_date": "1970-12-09",
-      "family_name": "Jørgensen",
-      "gender": "male",
-      "given_name": "Per",
-      "id": "02971ff3-bb76-485b-84a4-1d4d57284606",
-      "identifiers": [
-        {
-          "identifier": "Q11995318",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (da)",
-          "url": "https://da.wikipedia.org/wiki/Per_Ørum_Jørgensen"
-        },
-        {
-          "note": "Wikipedia (no)",
-          "url": "https://no.wikipedia.org/wiki/Per_Ørum_Jørgensen"
-        }
-      ],
-      "name": "Per Ørum Jørgensen"
-    },
-    {
       "birth_date": "1969-10-09",
       "contact_details": [
         {
@@ -890,6 +866,10 @@
         }
       ],
       "name": "Karl Hjortnæs"
+    },
+    {
+      "id": "0e63d88c-c3a5-445b-a523-e92677c9c1ca",
+      "name": "Fatma Øktem"
     },
     {
       "birth_date": "1957-09-29",
@@ -4136,6 +4116,10 @@
       "name": "J. Risgaard Knudsen"
     },
     {
+      "id": "27ae125d-f401-4815-8044-e5fd3311d0bd",
+      "name": "Morten Østergaard"
+    },
+    {
       "birth_date": "1958-01-25",
       "family_name": "Petersen",
       "gender": "male",
@@ -5064,90 +5048,6 @@
         }
       ],
       "name": "Malte Larsen"
-    },
-    {
-      "birth_date": "1976-05-07",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "cekicozlem"
-        }
-      ],
-      "family_name": "Cekic",
-      "gender": "female",
-      "given_name": "Özlem",
-      "id": "318e0b9e-965f-409a-8fea-4e4e86154385",
-      "identifiers": [
-        {
-          "identifier": "/m/0n4b53m",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "307225807",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q3744442",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Özlem_Sara_Cekic_valby_kulturdage_2011.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Özlem_Sara_Cekic_valby_kulturdage_2011.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Özlem_Sara_Cekic"
-        },
-        {
-          "note": "Wikipedia (da)",
-          "url": "https://da.wikipedia.org/wiki/Özlem_Cekic"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Özlem_Cekic"
-        },
-        {
-          "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Özlem_Sara_Cekic"
-        },
-        {
-          "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/외즐렘_제키지"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Özlem_Cekic"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Özlem_Cekic"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/cekicozlem"
-        },
-        {
-          "note": "website",
-          "url": "http://ozlem.dk"
-        }
-      ],
-      "name": "Özlem Sara Cekic",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Özlem Cekic",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "외즐렘 제키지",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "birth_date": "1961-08-02",
@@ -18759,6 +18659,10 @@
       "name": "Helle Sjelle"
     },
     {
+      "id": "9b171527-b2b9-42bc-8fd9-a91aee42154a",
+      "name": "Özlem Sara Cekic"
+    },
+    {
       "birth_date": "1932-04-07",
       "death_date": "2014-05-09",
       "family_name": "Grove",
@@ -23941,6 +23845,10 @@
       "name": "Anders Møller"
     },
     {
+      "id": "ca40184e-1291-478f-84df-dba412e5c5a0",
+      "name": "Per Ørum Jørgensen"
+    },
+    {
       "birth_date": "1950-01-23",
       "contact_details": [
         {
@@ -27046,56 +26954,6 @@
         {
           "lang": "ru",
           "name": "Хеннинг Расмуссен",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1973-12-18",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "fatmaoektem"
-        }
-      ],
-      "family_name": "Øktem",
-      "gender": "female",
-      "given_name": "Fatma",
-      "id": "dd460e67-71b7-4dcd-b755-8e897f7a90a6",
-      "identifiers": [
-        {
-          "identifier": "Q12311129",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (da)",
-          "url": "https://da.wikipedia.org/wiki/Fatma_Øktem"
-        },
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/fatmaoektem"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/fatmaoektem"
-        },
-        {
-          "note": "website",
-          "url": "http://fatma.dk/"
-        }
-      ],
-      "name": "Fatma Øktem",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "Fatma Oktem",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Fatma Oktem",
           "note": "multilingual"
         }
       ]
@@ -40125,21 +39983,6 @@
       ]
     },
     {
-      "legislative_period_id": "term/2005",
-      "on_behalf_of_id": "KF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "02971ff3-bb76-485b-84a4-1d4d57284606",
-      "role": "member"
-    },
-    {
-      "end_date": "2010-05-19",
-      "legislative_period_id": "term/2007",
-      "on_behalf_of_id": "KD",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "02971ff3-bb76-485b-84a4-1d4d57284606",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "SF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -40460,6 +40303,13 @@
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "0d9f0ce0-f806-4891-9749-01358b619b55",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "V",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "0e63d88c-c3a5-445b-a523-e92677c9c1ca",
       "role": "member"
     },
     {
@@ -41594,6 +41444,27 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/2005",
+      "on_behalf_of_id": "RV",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "27ae125d-f401-4815-8044-e5fd3311d0bd",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2007",
+      "on_behalf_of_id": "R",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "27ae125d-f401-4815-8044-e5fd3311d0bd",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "R",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "27ae125d-f401-4815-8044-e5fd3311d0bd",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -41949,20 +41820,6 @@
           "url": "http://www.thedanishparliament.dk/Members/smala.aspx"
         }
       ]
-    },
-    {
-      "legislative_period_id": "term/2007",
-      "on_behalf_of_id": "SF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "318e0b9e-965f-409a-8fea-4e4e86154385",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "SF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "318e0b9e-965f-409a-8fea-4e4e86154385",
-      "role": "member"
     },
     {
       "legislative_period_id": "term/2005",
@@ -43409,27 +43266,6 @@
           "url": "http://www.thedanishparliament.dk/Members/lalemi.aspx"
         }
       ]
-    },
-    {
-      "legislative_period_id": "term/2005",
-      "on_behalf_of_id": "RV",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "4e4de98b-49e5-4332-a936-f91335c792c7",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2007",
-      "on_behalf_of_id": "R",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "4e4de98b-49e5-4332-a936-f91335c792c7",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "R",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "4e4de98b-49e5-4332-a936-f91335c792c7",
-      "role": "member"
     },
     {
       "area_id": "east_jutland",
@@ -47018,6 +46854,20 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/2007",
+      "on_behalf_of_id": "SF",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "9b171527-b2b9-42bc-8fd9-a91aee42154a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "SF",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "9b171527-b2b9-42bc-8fd9-a91aee42154a",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "KF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -48945,6 +48795,21 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/2005",
+      "on_behalf_of_id": "KF",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "ca40184e-1291-478f-84df-dba412e5c5a0",
+      "role": "member"
+    },
+    {
+      "end_date": "2010-05-19",
+      "legislative_period_id": "term/2007",
+      "on_behalf_of_id": "KD",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "ca40184e-1291-478f-84df-dba412e5c5a0",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "SF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -50180,13 +50045,6 @@
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "dccfa719-d980-4433-9109-a1b9e57aecee",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "V",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "dd460e67-71b7-4dcd-b755-8e897f7a90a6",
       "role": "member"
     },
     {

@@ -25,27 +25,6 @@
       "sort_name": "Erhürman, Tufan"
     },
     {
-      "birth_date": "1957",
-      "family_name": "İzbul",
-      "gender": "male",
-      "given_name": "Salih",
-      "id": "0c924477-cd63-4d79-8907-782529fe1b42",
-      "identifiers": [
-        {
-          "identifier": "salih_İzbul",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/salih-izbul.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/salih-izbul.jpg"
-        }
-      ],
-      "name": "Salih İzbul",
-      "sort_name": "İzbul, Salih"
-    },
-    {
       "birth_date": "1966",
       "family_name": "Saner",
       "gender": "male",
@@ -92,72 +71,6 @@
       ],
       "name": "Fikri Ataoğlu",
       "sort_name": "Ataoğlu, Fikri"
-    },
-    {
-      "birth_date": "1981-03-04",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "zekiceler"
-        }
-      ],
-      "family_name": "Çeler",
-      "gender": "male",
-      "given_name": "Zeki",
-      "id": "19740958-da1b-44cb-b585-5c9a2ec31ae3",
-      "identifiers": [
-        {
-          "identifier": "Q20744808",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20744808",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zeki-celer.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/zeki-celer.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Zeki_Çeler"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Zeki_Çeler"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/zekiceler"
-        }
-      ],
-      "name": "Zeki Çeler",
-      "sort_name": "Çeler, Zeki"
-    },
-    {
-      "birth_date": "1972",
-      "family_name": "Gürçağ",
-      "gender": "female",
-      "given_name": "İzlem",
-      "id": "19897153-f032-4bc9-9a14-5ad6c7d8ed18",
-      "identifiers": [
-        {
-          "identifier": "İzlem_gürçağ",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/izlem-gurcag.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/izlem-gurcag.jpg"
-        }
-      ],
-      "name": "İzlem Gürçağ",
-      "sort_name": "Gürçağ, İzlem"
     },
     {
       "birth_date": "1961",
@@ -278,106 +191,6 @@
       "sort_name": "Soyer, Ferdi Sabit"
     },
     {
-      "birth_date": "1973",
-      "family_name": "Şahali",
-      "gender": "male",
-      "given_name": "Erkut",
-      "id": "2720afd9-7195-447b-b94d-199ee1d53b8e",
-      "identifiers": [
-        {
-          "identifier": "erkut_Şahali",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erkut-sahali.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erkut-sahali.jpg"
-        }
-      ],
-      "name": "Erkut Şahali",
-      "sort_name": "Şahali, Erkut"
-    },
-    {
-      "birth_date": "1954",
-      "family_name": "Yorgancıoğlu",
-      "gender": "male",
-      "given_name": "Özkan",
-      "id": "2b552d58-41f1-42e0-8fc2-1c96b43686fa",
-      "identifiers": [
-        {
-          "identifier": "Q6065323",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6065323",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozkan-yorgancioglu.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozkan-yorgancioglu.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Özkan_Yorgancıoğlu_(cropped).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Özkan_Yorgancıoğlu"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Йорганджиоглу,_Озкан"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        },
-        {
-          "note": "Wikipedia (vi)",
-          "url": "https://vi.wikipedia.org/wiki/Özkan_Yorgancıoğlu"
-        }
-      ],
-      "name": "Özkan Yorgancıoğlu",
-      "other_names": [
-        {
-          "lang": "ja",
-          "name": "エズカン・ヨルガンジュオール",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Йорганджиоглу, Озкан",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "厄茲坎·約甘喬奧盧",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Yorgancıoğlu, Özkan"
-    },
-    {
       "birth_date": "1954",
       "family_name": "Erçal",
       "gender": "male",
@@ -397,27 +210,6 @@
       ],
       "name": "Hüseyin Erçal",
       "sort_name": "Erçal, Hüseyin"
-    },
-    {
-      "birth_date": "1955",
-      "family_name": "Üstel",
-      "gender": "male",
-      "given_name": "Ünal",
-      "id": "2f78e5fd-b525-4148-8de9-d4d2eaf3fafd",
-      "identifiers": [
-        {
-          "identifier": "Ünal_Üstel",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/unal-ustel.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/unal-ustel.jpg"
-        }
-      ],
-      "name": "Ünal Üstel",
-      "sort_name": "Üstel, Ünal"
     },
     {
       "birth_date": "1963",
@@ -469,6 +261,18 @@
       "sort_name": "Taçoy, Hasan"
     },
     {
+      "id": "315b76d2-640d-4fdf-8516-ecc643279514",
+      "name": "İzlem Gürçağ"
+    },
+    {
+      "id": "31a4289b-18c9-426b-bdac-2d4aefe9bed3",
+      "name": "Mehmet Çakıcı"
+    },
+    {
+      "id": "33f5a075-157f-4bb1-9428-62ef85001a48",
+      "name": "Ünal Üstel"
+    },
+    {
       "birth_date": "1960",
       "family_name": "Gülle",
       "gender": "male",
@@ -511,25 +315,8 @@
       "sort_name": "Dinçyürek, Hakan"
     },
     {
-      "birth_date": "1965",
-      "family_name": "Çavuşoğlu",
-      "gender": "male",
-      "given_name": "Nazım",
-      "id": "395cdea1-9c25-4de4-8dd4-72bd85248149",
-      "identifiers": [
-        {
-          "identifier": "nazım_Çavuşoğlu",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/nazim-cavusoglu.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/nazim-cavusoglu.jpg"
-        }
-      ],
-      "name": "Nazım Çavuşoğlu",
-      "sort_name": "Çavuşoğlu, Nazım"
+      "id": "374fc289-c180-4019-bb52-622e1b8c3a61",
+      "name": "Özdemir Berova"
     },
     {
       "birth_date": "1972",
@@ -553,6 +340,10 @@
       "sort_name": "Bakırcı, Hamit"
     },
     {
+      "id": "4957c38e-2a5e-452b-83ec-f6e1fdc5027e",
+      "name": "Özdil Nami"
+    },
+    {
       "birth_date": "1967",
       "family_name": "Akansoy",
       "gender": "male",
@@ -572,6 +363,10 @@
       ],
       "name": "Asım Akansoy",
       "sort_name": "Akansoy, Asım"
+    },
+    {
+      "id": "4d36301c-4ca3-437d-b75b-88021db179f6",
+      "name": "Erkut Şahali"
     },
     {
       "birth_date": "1962",
@@ -601,6 +396,10 @@
       "sort_name": "Hamzaoğulları, Biray"
     },
     {
+      "id": "50342710-cf25-4813-bc86-8b34362d7a47",
+      "name": "Ömer Kalyoncu"
+    },
+    {
       "birth_date": "1971",
       "family_name": "Dürüst",
       "gender": "male",
@@ -622,46 +421,12 @@
       "sort_name": "Dürüst, Kemal"
     },
     {
-      "birth_date": "1980",
-      "family_name": "Özdenefe",
-      "gender": "female",
-      "given_name": "Fazilet",
-      "id": "5da30f95-6c72-426f-a4b7-d9d6a5267e26",
-      "identifiers": [
-        {
-          "identifier": "fazilet_Özdenefe",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fazilet-ozdenefe.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/fazilet-ozdenefe.jpg"
-        }
-      ],
-      "name": "Fazilet Özdenefe",
-      "sort_name": "Özdenefe, Fazilet"
+      "id": "55c6cc3f-94e3-43c4-baa1-b2fb0c319268",
+      "name": "Fazilet Özdenefe"
     },
     {
-      "birth_date": "1958",
-      "family_name": "Özcenk",
-      "gender": "male",
-      "given_name": "Erdal",
-      "id": "62c5a59e-d317-448a-8cd2-bd8b379e2c6c",
-      "identifiers": [
-        {
-          "identifier": "erdal_Özcenk",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erdal-ozcenk.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/erdal-ozcenk.jpg"
-        }
-      ],
-      "name": "Erdal Özcenk",
-      "sort_name": "Özcenk, Erdal"
+      "id": "5bc0a255-fffd-4462-92db-f28dd33ea18c",
+      "name": "Özkan Yorgancıoğlu"
     },
     {
       "birth_date": "1975",
@@ -762,71 +527,8 @@
       "sort_name": "Uluçay, Teberrüken"
     },
     {
-      "birth_date": "1950",
-      "family_name": "Kalyoncu",
-      "gender": "male",
-      "given_name": "Ömer Soyer",
-      "id": "776882ca-48d3-4520-bd31-e7734107bd7c",
-      "identifiers": [
-        {
-          "identifier": "Q20669153",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20669153",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/omer-kalyoncu.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/omer-kalyoncu.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Ömer_Kalyoncu"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ömer_Kalyoncu"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Ömer_Kalyoncu"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Ömer_Kalyoncu"
-        },
-        {
-          "note": "Wikipedia (vi)",
-          "url": "https://vi.wikipedia.org/wiki/Ömer_Kalyoncu"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/奧瑪·卡勒揚庫"
-        }
-      ],
-      "name": "Ömer Kalyoncu",
-      "other_names": [
-        {
-          "name": "Ömer Soyer Kalyoncu",
-          "note": "alternate"
-        },
-        {
-          "lang": "ja",
-          "name": "オメル・カルヨンジュ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "奧瑪·卡勒揚庫",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Kalyoncu, Ömer Soyer"
+      "id": "768be19a-f549-49de-8c9e-7414f7e3cb66",
+      "name": "Erdal Özcenk"
     },
     {
       "birth_date": "1973",
@@ -892,42 +594,12 @@
       "sort_name": "Serdaroğlu, Ergün"
     },
     {
-      "birth_date": "1966-09-13",
-      "family_name": "Çakıcı",
-      "gender": "male",
-      "given_name": "Mehmet",
-      "id": "8d389af1-0e89-4369-a9b6-bcae61f1edb0",
-      "identifiers": [
-        {
-          "identifier": "Q6058134",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6058134",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-cakici.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-cakici.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mehmet_Çakıcı.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mehmet_Çakıcı"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Mehmet_Çakıcı"
-        }
-      ],
-      "name": "Mehmet Çakıcı",
-      "sort_name": "Çakıcı, Mehmet"
+      "id": "90534c80-11e2-4daa-bed2-a8b33e8e9e3b",
+      "name": "Birikim Özgür"
+    },
+    {
+      "id": "917cb9df-7815-4fbc-8c27-5eb2dd1fc0ec",
+      "name": "Nazım Çavuşoğlu"
     },
     {
       "birth_date": "1960-12-13",
@@ -1043,27 +715,6 @@
       "sort_name": "Angolemli, Hüseyin"
     },
     {
-      "birth_date": "1978",
-      "family_name": "Özgür",
-      "gender": "male",
-      "given_name": "Birikim",
-      "id": "9942719a-8e48-4cc4-894c-c960689bf49a",
-      "identifiers": [
-        {
-          "identifier": "birikim_Özgür",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/birikim-ozgur.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/birikim-ozgur.jpg"
-        }
-      ],
-      "name": "Birikim Özgür",
-      "sort_name": "Özgür, Birikim"
-    },
-    {
       "birth_date": "1960",
       "family_name": "Tatar",
       "gender": "male",
@@ -1112,107 +763,8 @@
       "sort_name": "Alanlı, Hüseyin Avkıran"
     },
     {
-      "birth_date": "1965",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "Hseyinzgrgn"
-        }
-      ],
-      "family_name": "Özgürgün",
-      "gender": "male",
-      "given_name": "Hüseyin",
-      "id": "a4aeb542-a0b4-4b5c-ada7-85e38f4dba69",
-      "identifiers": [
-        {
-          "identifier": "Q58174",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/0bs8f6q",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q58174",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ozgurgun.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-ozgurgun.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikinews (tr)",
-          "url": "https://tr.wikinews.org/wiki/Kategori:Hüseyin_Özgürgün"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Hüseyin_Özgürgün"
-        },
-        {
-          "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Χουσεΐν_Οζγκιουργκούν"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Hüseyin_Özgürgün"
-        },
-        {
-          "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/フセイン・オズグルグン"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Hüseyin_Özgürgün"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Озгюргюн,_Хусейн"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Hüseyin_Özgürgün"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/侯赛因·欧祖根"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/Hseyinzgrgn"
-        },
-        {
-          "note": "website",
-          "url": "https://huseyinozgurgun.net/"
-        }
-      ],
-      "name": "Hüseyin Özgürgün",
-      "other_names": [
-        {
-          "lang": "el",
-          "name": "Χουσεΐν Οζγκιουργκούν",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "フセイン・オズグルグン",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Озгюргюн, Хусейн",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "侯赛因·欧祖根",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Özgürgün, Hüseyin"
+      "id": "b30e39de-35b6-4e00-83c6-932dc8ed742f",
+      "name": "Salih İzbul"
     },
     {
       "birth_date": "1961",
@@ -1257,25 +809,12 @@
       "sort_name": "Evren, Kutlu"
     },
     {
-      "birth_date": "1968",
-      "family_name": "Berova",
-      "gender": "male",
-      "given_name": "Özdemir",
-      "id": "be3a64ec-3edb-428c-abed-bbf1b4e22539",
-      "identifiers": [
-        {
-          "identifier": "Özdemir_berova",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozdemir-berova.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozdemir-berova.jpg"
-        }
-      ],
-      "name": "Özdemir Berova",
-      "sort_name": "Berova, Özdemir"
+      "id": "bdb5d593-a8f0-4233-ae20-3893f960a1af",
+      "name": "Zeki Çeler"
+    },
+    {
+      "id": "c4c8fc46-d597-4ee7-893d-373481e12bb0",
+      "name": "Önder Sennaroğlu"
     },
     {
       "birth_date": "1959",
@@ -1423,25 +962,8 @@
       "sort_name": "Oğuz, Dursun"
     },
     {
-      "birth_date": "1959-05-01",
-      "family_name": "Çağlar",
-      "gender": "male",
-      "given_name": "Mehmet",
-      "id": "dc5508f8-ee51-4431-9b26-8f1004643c53",
-      "identifiers": [
-        {
-          "identifier": "mehmet_Çağlar",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-caglar.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mehmet-caglar.jpg"
-        }
-      ],
-      "name": "Mehmet Çağlar",
-      "sort_name": "Çağlar, Mehmet"
+      "id": "de71a24a-2d41-48ac-85e0-fd8899fb1b06",
+      "name": "Hüseyin Özgürgün"
     },
     {
       "birth_date": "1957",
@@ -1463,76 +985,6 @@
       ],
       "name": "Abbas Sınay",
       "sort_name": "Sınay, Abbas"
-    },
-    {
-      "birth_date": "1957",
-      "family_name": "Sennaroğlu",
-      "gender": "male",
-      "given_name": "Önder",
-      "id": "e368e7cb-dd11-43d9-a52d-ac21a37658c3",
-      "identifiers": [
-        {
-          "identifier": "Önder_sennaroğlu",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/onder-sennaroglu.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/onder-sennaroglu.jpg"
-        }
-      ],
-      "name": "Önder Sennaroğlu",
-      "sort_name": "Sennaroğlu, Önder"
-    },
-    {
-      "birth_date": "1967-05-23",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "NamiOzdil"
-        }
-      ],
-      "family_name": "Nami",
-      "gender": "male",
-      "given_name": "Özdil",
-      "id": "e37cf9e6-4c47-4797-b88e-cda95cf640f4",
-      "identifiers": [
-        {
-          "identifier": "Özdil_nami",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q17046780",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozdil-nami.jpg",
-      "images": [
-        {
-          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/ozdil-nami.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Özdil_Nami"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Özdil_Nami"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Özdil_Nami"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/NamiOzdil"
-        }
-      ],
-      "name": "Özdil Nami",
-      "sort_name": "Nami, Özdil"
     },
     {
       "birth_date": "1950",
@@ -1600,6 +1052,10 @@
       ],
       "name": "Zorlu Töre",
       "sort_name": "Töre, Zorlu"
+    },
+    {
+      "id": "ede8ab19-3285-4187-9cf2-88d1dbbbfb43",
+      "name": "Mehmet Çağlar"
     }
   ],
   "organizations": [
@@ -2170,19 +1626,6 @@
       ]
     },
     {
-      "area_id": "girne",
-      "legislative_period_id": "term/14",
-      "on_behalf_of_id": "republican_turkish_party",
-      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "0c924477-cd63-4d79-8907-782529fe1b42",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
-        }
-      ]
-    },
-    {
       "area_id": "gazimağusa",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "national_unity_party",
@@ -2201,32 +1644,6 @@
       "on_behalf_of_id": "democratic_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
       "person_id": "1895ee86-c174-4f65-8b88-25565e6df627",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
-        }
-      ]
-    },
-    {
-      "area_id": "girne",
-      "legislative_period_id": "term/14",
-      "on_behalf_of_id": "communal_democracy_party",
-      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "19740958-da1b-44cb-b585-5c9a2ec31ae3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
-        }
-      ]
-    },
-    {
-      "area_id": "girne",
-      "legislative_period_id": "term/14",
-      "on_behalf_of_id": "national_unity_party",
-      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "19897153-f032-4bc9-9a14-5ad6c7d8ed18",
       "role": "member",
       "sources": [
         {
@@ -2261,32 +1678,6 @@
       ]
     },
     {
-      "area_id": "gazimağusa",
-      "legislative_period_id": "term/14",
-      "on_behalf_of_id": "republican_turkish_party",
-      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "2720afd9-7195-447b-b94d-199ee1d53b8e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
-        }
-      ]
-    },
-    {
-      "area_id": "lefkoşa",
-      "legislative_period_id": "term/14",
-      "on_behalf_of_id": "republican_turkish_party",
-      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "2b552d58-41f1-42e0-8fc2-1c96b43686fa",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
-        }
-      ]
-    },
-    {
       "area_id": "güzelyurt",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "republican_turkish_party",
@@ -2300,11 +1691,24 @@
       ]
     },
     {
+      "area_id": "lefkoşa",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "democratic_party",
+      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
+      "person_id": "3021557f-8eff-436e-ae1a-e6ef4093f051",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+        }
+      ]
+    },
+    {
       "area_id": "girne",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "national_unity_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "2f78e5fd-b525-4148-8de9-d4d2eaf3fafd",
+      "person_id": "315b76d2-640d-4fdf-8516-ecc643279514",
       "role": "member",
       "sources": [
         {
@@ -2315,9 +1719,22 @@
     {
       "area_id": "lefkoşa",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "democratic_party",
+      "on_behalf_of_id": "communal_democracy_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "3021557f-8eff-436e-ae1a-e6ef4093f051",
+      "person_id": "31a4289b-18c9-426b-bdac-2d4aefe9bed3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+        }
+      ]
+    },
+    {
+      "area_id": "girne",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "national_unity_party",
+      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
+      "person_id": "33f5a075-157f-4bb1-9428-62ef85001a48",
       "role": "member",
       "sources": [
         {
@@ -2352,11 +1769,11 @@
       ]
     },
     {
-      "area_id": "İskele",
+      "area_id": "girne",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "national_unity_party",
+      "on_behalf_of_id": "democratic_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "395cdea1-9c25-4de4-8dd4-72bd85248149",
+      "person_id": "374fc289-c180-4019-bb52-622e1b8c3a61",
       "role": "member",
       "sources": [
         {
@@ -2365,11 +1782,24 @@
       ]
     },
     {
-      "area_id": "İskele",
+      "area_id": "i̇skele",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "democratic_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
       "person_id": "43bb6876-2891-4065-9c10-2a1c3fae5695",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+        }
+      ]
+    },
+    {
+      "area_id": "lefkoşa",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "republican_turkish_party",
+      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
+      "person_id": "4957c38e-2a5e-452b-83ec-f6e1fdc5027e",
       "role": "member",
       "sources": [
         {
@@ -2391,11 +1821,37 @@
       ]
     },
     {
-      "area_id": "İskele",
+      "area_id": "gazimağusa",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "republican_turkish_party",
+      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
+      "person_id": "4d36301c-4ca3-437d-b75b-88021db179f6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+        }
+      ]
+    },
+    {
+      "area_id": "i̇skele",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "republican_turkish_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
       "person_id": "4e4a18e6-165d-4c32-ab44-2664ba15c8ce",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+        }
+      ]
+    },
+    {
+      "area_id": "girne",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "republican_turkish_party",
+      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
+      "person_id": "50342710-cf25-4813-bc86-8b34362d7a47",
       "role": "member",
       "sources": [
         {
@@ -2421,7 +1877,7 @@
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "republican_turkish_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "5da30f95-6c72-426f-a4b7-d9d6a5267e26",
+      "person_id": "55c6cc3f-94e3-43c4-baa1-b2fb0c319268",
       "role": "member",
       "sources": [
         {
@@ -2430,11 +1886,11 @@
       ]
     },
     {
-      "area_id": "gazimağusa",
+      "area_id": "lefkoşa",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "national_unity_party",
+      "on_behalf_of_id": "republican_turkish_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "62c5a59e-d317-448a-8cd2-bd8b379e2c6c",
+      "person_id": "5bc0a255-fffd-4462-92db-f28dd33ea18c",
       "role": "member",
       "sources": [
         {
@@ -2495,11 +1951,11 @@
       ]
     },
     {
-      "area_id": "girne",
+      "area_id": "gazimağusa",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "republican_turkish_party",
+      "on_behalf_of_id": "national_unity_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "776882ca-48d3-4520-bd31-e7734107bd7c",
+      "person_id": "768be19a-f549-49de-8c9e-7414f7e3cb66",
       "role": "member",
       "sources": [
         {
@@ -2549,9 +2005,22 @@
     {
       "area_id": "lefkoşa",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "communal_democracy_party",
+      "on_behalf_of_id": "republican_turkish_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "8d389af1-0e89-4369-a9b6-bcae61f1edb0",
+      "person_id": "90534c80-11e2-4daa-bed2-a8b33e8e9e3b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+        }
+      ]
+    },
+    {
+      "area_id": "i̇skele",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "national_unity_party",
+      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
+      "person_id": "917cb9df-7815-4fbc-8c27-5eb2dd1fc0ec",
       "role": "member",
       "sources": [
         {
@@ -2588,19 +2057,6 @@
     {
       "area_id": "lefkoşa",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "republican_turkish_party",
-      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "9942719a-8e48-4cc4-894c-c960689bf49a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
-        }
-      ]
-    },
-    {
-      "area_id": "lefkoşa",
-      "legislative_period_id": "term/14",
       "on_behalf_of_id": "national_unity_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
       "person_id": "a200a290-ecc2-45cb-b513-dda47b8368d7",
@@ -2612,7 +2068,7 @@
       ]
     },
     {
-      "area_id": "İskele",
+      "area_id": "i̇skele",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "democratic_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
@@ -2625,11 +2081,11 @@
       ]
     },
     {
-      "area_id": "lefkoşa",
+      "area_id": "girne",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "national_unity_party",
+      "on_behalf_of_id": "republican_turkish_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "a4aeb542-a0b4-4b5c-ada7-85e38f4dba69",
+      "person_id": "b30e39de-35b6-4e00-83c6-932dc8ed742f",
       "role": "member",
       "sources": [
         {
@@ -2666,9 +2122,22 @@
     {
       "area_id": "girne",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "democratic_party",
+      "on_behalf_of_id": "communal_democracy_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "be3a64ec-3edb-428c-abed-bbf1b4e22539",
+      "person_id": "bdb5d593-a8f0-4233-ae20-3893f960a1af",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+        }
+      ]
+    },
+    {
+      "area_id": "i̇skele",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "republican_turkish_party",
+      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
+      "person_id": "c4c8fc46-d597-4ee7-893d-373481e12bb0",
       "role": "member",
       "sources": [
         {
@@ -2729,11 +2198,11 @@
       ]
     },
     {
-      "area_id": "güzelyurt",
+      "area_id": "lefkoşa",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "republican_turkish_party",
+      "on_behalf_of_id": "national_unity_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "dc5508f8-ee51-4431-9b26-8f1004643c53",
+      "person_id": "de71a24a-2d41-48ac-85e0-fd8899fb1b06",
       "role": "member",
       "sources": [
         {
@@ -2747,32 +2216,6 @@
       "on_behalf_of_id": "republican_turkish_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
       "person_id": "df615f5e-ab4e-44e4-aeeb-887e5994916a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
-        }
-      ]
-    },
-    {
-      "area_id": "İskele",
-      "legislative_period_id": "term/14",
-      "on_behalf_of_id": "republican_turkish_party",
-      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "e368e7cb-dd11-43d9-a52d-ac21a37658c3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
-        }
-      ]
-    },
-    {
-      "area_id": "lefkoşa",
-      "legislative_period_id": "term/14",
-      "on_behalf_of_id": "republican_turkish_party",
-      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
-      "person_id": "e37cf9e6-4c47-4797-b88e-cda95cf640f4",
       "role": "member",
       "sources": [
         {
@@ -2799,6 +2242,19 @@
       "on_behalf_of_id": "democratic_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
       "person_id": "e83cb2f4-2af8-4182-9e53-1cb64d81393a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
+        }
+      ]
+    },
+    {
+      "area_id": "güzelyurt",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "republican_turkish_party",
+      "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
+      "person_id": "ede8ab19-3285-4187-9cf2-88d1dbbbfb43",
       "role": "member",
       "sources": [
         {
@@ -2963,13 +2419,13 @@
       "type": "constituency"
     },
     {
-      "id": "lefkoşa",
-      "name": "Lefkoşa",
+      "id": "i̇skele",
+      "name": "İskele",
       "type": "constituency"
     },
     {
-      "id": "İskele",
-      "name": "İskele",
+      "id": "lefkoşa",
+      "name": "Lefkoşa",
       "type": "constituency"
     }
   ]

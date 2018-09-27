@@ -834,85 +834,6 @@
       "sort_name": "Tsevelmaa BAYARSAIKHAN"
     },
     {
-      "birth_date": "1958-10-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "enkhtuvshin@parliament.mn"
-        }
-      ],
-      "email": "enkhtuvshin@parliament.mn",
-      "family_name": "Ulziisaikhan",
-      "gender": "male",
-      "given_name": "ENKHTUVSHIN",
-      "id": "1f2733f3-fd76-4472-84cf-02c5dd68cce6",
-      "identifiers": [
-        {
-          "identifier": "Ölziisaikhany_enkhtüvshin",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3351752",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.parliament.mn/en/files/images/669-7864481.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.mn/en/files/images/669-7864481.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ölziisaikhany_Enkhtüvshin"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Olziisaikhan_Enkhtuvshin"
-        },
-        {
-          "note": "Wikipedia (mn)",
-          "url": "https://mn.wikipedia.org/wiki/Өлзийсайханы_Энхтүвшин"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/乌力吉赛汗·恩赫图布辛"
-        },
-        {
-          "note": "website",
-          "url": "http://enkhtuvshin.parliament.mn"
-        }
-      ],
-      "name": "Ölziisaikhany Enkhtüvshin",
-      "other_names": [
-        {
-          "name": "ENKHTUVSHIN Ulziisaikhan",
-          "note": "alternate"
-        },
-        {
-          "name": "Өлзийсайханы Энхтүвшин",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Olziisaikhan Enkhtuvshin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mn",
-          "name": "Өлзийсайханы Энхтүвшин",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "乌力吉赛汗·恩赫图布辛",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Ulziisaikhan ENKHTUVSHIN"
-    },
-    {
       "id": "270bfd69-81e8-4789-903c-75d9627fddf5",
       "identifiers": [
         {
@@ -4549,6 +4470,17 @@
         }
       ],
       "sort_name": "Namdag BATTSEREG"
+    },
+    {
+      "id": "afdb29f5-b7b7-4484-a03a-10eeef17fd27",
+      "name": "Ölziisaikhany Enkhtüvshin",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Өлзийсайханы Энхтүвшин",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-03-03",
@@ -9283,44 +9215,6 @@
       ]
     },
     {
-      "area_id": "khövsgöl",
-      "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "mongolian_people's_party",
-      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
-      "person_id": "1f2733f3-fd76-4472-84cf-02c5dd68cce6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2008"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "mongolian_people's_party",
-      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
-      "person_id": "1f2733f3-fd76-4472-84cf-02c5dd68cce6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
-        }
-      ]
-    },
-    {
-      "area_id": "ulaanbaatar_-_chingeltei•nalaikh",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "mongolian_people's_party",
-      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
-      "person_id": "1f2733f3-fd76-4472-84cf-02c5dd68cce6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
-        }
-      ]
-    },
-    {
       "area_id": "Övörkhangai",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "democratic_party",
@@ -11094,6 +10988,44 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "khövsgöl",
+      "legislative_period_id": "term/2008",
+      "on_behalf_of_id": "mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "afdb29f5-b7b7-4484-a03a-10eeef17fd27",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2008"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "afdb29f5-b7b7-4484-a03a-10eeef17fd27",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "ulaanbaatar_-_chingeltei•nalaikh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "afdb29f5-b7b7-4484-a03a-10eeef17fd27",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },

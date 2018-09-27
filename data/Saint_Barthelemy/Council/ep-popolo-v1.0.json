@@ -189,6 +189,10 @@
       "name": "Karine Miot Richard"
     },
     {
+      "id": "7a88013d-6adc-466d-9d64-71b79a763e01",
+      "name": "Élodie Laplace"
+    },
+    {
       "id": "7bb4317d-4ea9-40e3-81d3-6a83bf90e0aa",
       "identifiers": [
         {
@@ -197,16 +201,6 @@
         }
       ],
       "name": "Bettina Cointre"
-    },
-    {
-      "id": "9439a8d8-77c5-4367-b762-a8d6264ab1f3",
-      "identifiers": [
-        {
-          "identifier": "Élodie_laplace",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Élodie Laplace"
     },
     {
       "id": "a08b1d05-f2f5-4834-acfb-677c87ec685a",
@@ -493,9 +487,9 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "tous_pour_saint-barth",
+      "on_behalf_of_id": "saint-barth_d'abord",
       "organization_id": "ec10c5bd-512c-4494-a576-a6bc7ff44ca1",
-      "person_id": "7bb4317d-4ea9-40e3-81d3-6a83bf90e0aa",
+      "person_id": "7a88013d-6adc-466d-9d64-71b79a763e01",
       "role": "member",
       "sources": [
         {
@@ -505,9 +499,9 @@
     },
     {
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "saint-barth_d'abord",
+      "on_behalf_of_id": "tous_pour_saint-barth",
       "organization_id": "ec10c5bd-512c-4494-a576-a6bc7ff44ca1",
-      "person_id": "9439a8d8-77c5-4367-b762-a8d6264ab1f3",
+      "person_id": "7bb4317d-4ea9-40e3-81d3-6a83bf90e0aa",
       "role": "member",
       "sources": [
         {

@@ -2359,11 +2359,6 @@
           "lang": "ar",
           "name": "غييرمو غارسيا",
           "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Guillermo García Realpe",
-          "note": "multilingual"
         }
       ]
     },
@@ -3041,11 +3036,6 @@
         {
           "name": "Juan Manuel Corzo",
           "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Juan Manuel Corzo Román",
-          "note": "multilingual"
         },
         {
           "lang": "es",
@@ -4476,11 +4466,6 @@
         {
           "lang": "de-ch",
           "name": "Iván Name",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Iván Leonidas Name Vásquez",
           "note": "multilingual"
         },
         {
@@ -6311,14 +6296,7 @@
           "url": "http://www.teregarcia.com.co/"
         }
       ],
-      "name": "TERESITA GARCÍA ROMERO",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Teresita García Romero",
-          "note": "multilingual"
-        }
-      ]
+      "name": "TERESITA GARCÍA ROMERO"
     },
     {
       "birth_date": "1968-10-19",
@@ -6550,11 +6528,6 @@
         {
           "name": "Juan Manuel Galán",
           "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Juan Manuel Galán Pachón",
-          "note": "multilingual"
         },
         {
           "lang": "es",
@@ -6825,12 +6798,12 @@
     },
     {
       "classification": "party",
-      "id": "partido_centro_democrÁtico",
+      "id": "partido_centro_democrático",
       "name": "PARTIDO CENTRO DEMOCRÁTICO"
     },
     {
       "classification": "party",
-      "id": "partido_centro_demÓcratico",
+      "id": "partido_centro_demócratico",
       "name": "PARTIDO CENTRO DEMÓCRATICO"
     },
     {
@@ -6845,7 +6818,7 @@
     },
     {
       "classification": "party",
-      "id": "partido_de_integraciÓn_nacional",
+      "id": "partido_de_integración_nacional",
       "name": "PARTIDO DE INTEGRACIÓN NACIONAL"
     },
     {
@@ -6880,12 +6853,12 @@
     },
     {
       "classification": "party",
-      "id": "partido_opciÓn_ciudadana",
+      "id": "partido_opción_ciudadana",
       "name": "PARTIDO OPCIÓN CIUDADANA"
     },
     {
       "classification": "party",
-      "id": "partido_polo_demÓcratico_alternativo",
+      "id": "partido_polo_demócratico_alternativo",
       "name": "PARTIDO POLO DEMÓCRATICO ALTERNATIVO"
     },
     {
@@ -6895,13 +6868,8 @@
     },
     {
       "classification": "party",
-      "id": "polo_democrÁtico_alternativo",
-      "name": "POLO DEMOCRÁTICO ALTERNATIVO"
-    },
-    {
-      "classification": "party",
       "id": "polo_democrático_alternativo",
-      "name": "Polo Democrático Alternativo"
+      "name": "POLO DEMOCRÁTICO ALTERNATIVO"
     },
     {
       "classification": "legislature",
@@ -7005,7 +6973,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_opciÓn_ciudadana",
+      "on_behalf_of_id": "partido_opción_ciudadana",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "0fb6c5d7-16d4-43e3-9ba7-ecb20f8397b3",
       "role": "member",
@@ -7029,7 +6997,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_demÓcratico",
+      "on_behalf_of_id": "partido_centro_demócratico",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "10ed23ac-f5a2-4db5-816e-a285e6e93f11",
       "role": "member",
@@ -7053,7 +7021,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_polo_demÓcratico_alternativo",
+      "on_behalf_of_id": "partido_polo_demócratico_alternativo",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "13d00d8a-cc14-4060-8b38-b0e1c547524c",
       "role": "member",
@@ -7077,7 +7045,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_de_integraciÓn_nacional",
+      "on_behalf_of_id": "partido_de_integración_nacional",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "17d3971f-e446-4740-8f52-6c9c9838695b",
       "role": "member",
@@ -7089,7 +7057,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_opciÓn_ciudadana",
+      "on_behalf_of_id": "partido_opción_ciudadana",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "1839ad5e-5b3f-48c7-8b0e-ba413ce458de",
       "role": "member",
@@ -7233,7 +7201,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_demÓcratico",
+      "on_behalf_of_id": "partido_centro_demócratico",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "295d45cb-12a4-46c3-bfc5-2d27b3034e45",
       "role": "member",
@@ -7281,7 +7249,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_demÓcratico",
+      "on_behalf_of_id": "partido_centro_demócratico",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "2f06bf41-1461-4db6-a833-36d0c20d0fba",
       "role": "member",
@@ -7389,7 +7357,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_demÓcratico",
+      "on_behalf_of_id": "partido_centro_demócratico",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "5323a022-3c0e-40ad-a1d7-4c73d08b0e99",
       "role": "member",
@@ -7425,7 +7393,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "polo_democrÁtico_alternativo",
+      "on_behalf_of_id": "polo_democrático_alternativo",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "53fcca6b-cfd5-474f-af92-2fb622859240",
       "role": "member",
@@ -7593,7 +7561,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_democrÁtico",
+      "on_behalf_of_id": "partido_centro_democrático",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "7cc16df5-56a6-4b15-9b8d-2a65993a28dd",
       "role": "member",
@@ -7617,7 +7585,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_demÓcratico",
+      "on_behalf_of_id": "partido_centro_demócratico",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "7edf7699-84af-476e-9a46-c4140898c29e",
       "role": "member",
@@ -7677,7 +7645,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_demÓcratico",
+      "on_behalf_of_id": "partido_centro_demócratico",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "88c06034-7985-476c-a3c1-ba451fe33ca5",
       "role": "member",
@@ -7689,7 +7657,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_demÓcratico",
+      "on_behalf_of_id": "partido_centro_demócratico",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "8a027d11-9827-4da5-ab31-40ae37071be6",
       "role": "member",
@@ -7749,7 +7717,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "polo_democrÁtico_alternativo",
+      "on_behalf_of_id": "polo_democrático_alternativo",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "956a2f29-a15f-4892-b61e-0f522ad2af27",
       "role": "member",
@@ -7929,7 +7897,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_demÓcratico",
+      "on_behalf_of_id": "partido_centro_demócratico",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "ced4e1dc-5f1b-4dde-a000-57c40056b2ec",
       "role": "member",
@@ -7941,7 +7909,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_demÓcratico",
+      "on_behalf_of_id": "partido_centro_demócratico",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "d1c65f6b-ef74-462a-b409-4b71f150e7ea",
       "role": "member",
@@ -7989,7 +7957,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_centro_demÓcratico",
+      "on_behalf_of_id": "partido_centro_demócratico",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "e5c9f44b-3cfa-44fb-abda-862161e9a339",
       "role": "member",
@@ -8037,7 +8005,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "partido_opciÓn_ciudadana",
+      "on_behalf_of_id": "partido_opción_ciudadana",
       "organization_id": "28acf131-c784-49b9-8e62-18fd5eaa93a0",
       "person_id": "ec084aa1-6fa0-4768-8e33-9aaf3bdb8e44",
       "role": "member",
