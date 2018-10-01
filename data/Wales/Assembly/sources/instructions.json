@@ -7,6 +7,7 @@
         "scraper": "everypolitician-scrapers/welsh-assembly-p39s",
         "query": "SELECT * FROM data ORDER BY id"
       },
+      "source": "http://wikidata.org/",
       "type": "membership"
     },
     {
