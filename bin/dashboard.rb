@@ -36,7 +36,6 @@ data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
   mem_sources = instructions[:sources].select { |s| s[:type] == 'membership' }
   createables = mem_sources.select { |s| s.key?(:create) }
   p39_sources = createables.select { |c| c[:source].to_s.include? 'wikidata' }
-  puts "+++ #{l.country.name}" if p39_sources.any?
 
   now = Time.now.to_date
   last_build = Time.at(l.lastmod.to_i).to_date
