@@ -59874,6 +59874,12 @@
       "classification": "legislative period",
       "end_date": "2016-05-09",
       "id": "term/44",
+      "identifiers": [
+        {
+          "identifier": "Q24891029",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "44th Parliament",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "start_date": "2013-09-07"
@@ -59894,6 +59900,12 @@
     {
       "classification": "legislative period",
       "id": "term/45",
+      "identifiers": [
+        {
+          "identifier": "Q39057922",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "45th Parliament",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "start_date": "2016-07-02"
