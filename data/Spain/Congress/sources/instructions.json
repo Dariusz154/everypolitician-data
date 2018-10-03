@@ -20,7 +20,7 @@
       "merge": {
         "incoming_field": "sort_name",
         "existing_field": "sort_name",
-        "reconciliation_file": "reconciliation/official.csv"
+        "reconciliation_file": "reconciliation/official-person.csv"
       },
       "source": "http://www.congreso.es",
       "type": "person"
