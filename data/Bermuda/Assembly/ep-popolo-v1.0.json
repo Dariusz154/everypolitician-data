@@ -4,14 +4,13 @@
   ],
   "persons": [
     {
-      "id": "00cfccf7-846e-458b-8637-3b4675b9a5fb",
-      "name": "Michael Weeks"
-    },
-    {
-      "id": "011e015a-03a2-4c9a-8e99-fa998f73bcc3",
-      "name": "Diallo Rabain"
-    },
-    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jsimmons@parliament.bm"
+        }
+      ],
+      "email": "jsimmons@parliament.bm",
       "gender": "male",
       "id": "0347b0da-6105-4972-8e96-ba36ed868290",
       "identifiers": [
@@ -38,6 +37,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mscott@parliament.bm"
+        }
+      ],
+      "email": "mscott@parliament.bm",
       "gender": "male",
       "id": "0a362f73-62da-4b81-9a10-b35a808e2526",
       "identifiers": [
@@ -56,6 +62,30 @@
         }
       ],
       "name": "Michael Scott"
+    },
+    {
+      "birth_date": "1957-10-04",
+      "gender": "male",
+      "id": "0e7e87ce-4744-4f7e-a19a-4c47f028c140",
+      "identifiers": [
+        {
+          "identifier": "Q6409462",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://elections.gov.bm/images/party/KIM-SWAN-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/KIM-SWAN-PLP.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kim_Swan"
+        }
+      ],
+      "name": "Kim Swan"
     },
     {
       "gender": "female",
@@ -129,12 +159,27 @@
       "name": "Shawn Crockwell"
     },
     {
-      "id": "256ab971-f604-4d89-987c-9a59a58e3cae",
-      "name": "David Burt"
-    },
-    {
-      "id": "273cf15e-8350-44bb-975c-fb9b6bd4c3e0",
-      "name": "Dennis Lister III"
+      "gender": "male",
+      "id": "26605f25-62ee-494c-aff4-81d49db845dd",
+      "identifiers": [
+        {
+          "identifier": "Q56522655",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://elections.gov.bm/images/party/WAYNE-MICHAEL-CAINES-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/WAYNE-MICHAEL-CAINES-PLP.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wayne_Caines"
+        }
+      ],
+      "name": "Wayne Caines"
     },
     {
       "gender": "male",
@@ -154,6 +199,13 @@
       "name": "Wayne Scott"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "drabain@parliament.bm"
+        }
+      ],
+      "email": "drabain@parliament.bm",
       "gender": "male",
       "id": "2b484587-a32d-40ca-acfb-d1d3033f5262",
       "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Diallo%20Pic.jpg",
@@ -168,16 +220,8 @@
       "name": "Diallo Rabain"
     },
     {
-      "id": "2fd1c710-411e-4337-9cf6-0e546fd00ce4",
-      "name": "Wayne Furbert"
-    },
-    {
       "id": "34dcf3c2-5ed0-4b55-950b-672e65b56e80",
       "name": "Curtis L. Dickinson"
-    },
-    {
-      "id": "351a0f04-556e-4872-8f08-1a7ceba4b4f0",
-      "name": "Walter Roban"
     },
     {
       "gender": "male",
@@ -201,10 +245,6 @@
       "name": "Scott Pearman"
     },
     {
-      "id": "3d079600-e8b1-42c7-a3eb-2780a14b721a",
-      "name": "Dennis Lister"
-    },
-    {
       "gender": "male",
       "id": "430e5466-2563-40f6-a83a-be8ae066f8b1",
       "identifiers": [
@@ -222,6 +262,25 @@
       "name": "Glen Smith"
     },
     {
+      "gender": "male",
+      "honorific_prefix": "Lt. Col",
+      "id": "457c1ca2-c3ec-4677-926b-b19bddff7cda",
+      "image": "https://elections.gov.bm/images/party/DAVID-A-BURCH-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/DAVID-A-BURCH-PLP.jpg"
+        }
+      ],
+      "name": "David Burch"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jatherden@parliament.bm"
+        }
+      ],
+      "email": "jatherden@parliament.bm",
       "gender": "female",
       "id": "473b3658-f9a2-4ca5-b184-b9c8e41e18ee",
       "identifiers": [
@@ -242,6 +301,13 @@
       "name": "Jeanne Atherden"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "srichards@parliament.bm"
+        }
+      ],
+      "email": "srichards@parliament.bm",
       "gender": "male",
       "id": "48d0f14d-381c-496e-a935-f8386d3b8196",
       "identifiers": [
@@ -268,6 +334,13 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mweeks@parliament.bm"
+        }
+      ],
+      "email": "mweeks@parliament.bm",
       "gender": "male",
       "id": "4a7638a6-dd24-4013-8259-bb3eb6694128",
       "identifiers": [
@@ -288,6 +361,13 @@
       "name": "Michael Weeks"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dburgess@parliament.bm"
+        }
+      ],
+      "email": "dburgess@parliament.bm",
       "gender": "male",
       "id": "4b1d891c-465c-42c5-86dd-9915ff6d294e",
       "identifiers": [
@@ -308,10 +388,13 @@
       "name": "Derrick Burgess"
     },
     {
-      "id": "4cfb680d-b554-4b03-93ab-a61bb9972b6f",
-      "name": "Jamahl Simmons"
-    },
-    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dburt@parliament.bm"
+        }
+      ],
+      "email": "dburt@parliament.bm",
       "gender": "male",
       "id": "4e371e00-0bf3-4f5a-9169-4c5d1a4b7f3d",
       "identifiers": [
@@ -395,8 +478,15 @@
       ]
     },
     {
-      "id": "5885de7f-1aee-40fd-8298-e115574065eb",
-      "name": "Zane De Silva"
+      "gender": "male",
+      "id": "5588e9c4-f5ff-4c7a-a319-e891afef600f",
+      "image": "https://elections.gov.bm/images/party/DENNIS-LISTER-THIRD-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/DENNIS-LISTER-THIRD-PLP.jpg"
+        }
+      ],
+      "name": "Dennis Lister III"
     },
     {
       "gender": "male",
@@ -481,14 +571,13 @@
       ]
     },
     {
-      "id": "6ae04233-6e03-43f0-ba88-90a52b4be965",
-      "name": "Derrick Burgess"
-    },
-    {
-      "id": "6bfea3a8-94a1-4316-99fd-86fd0e1ee71c",
-      "name": "Jeanne Atherden"
-    },
-    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zdesilva@parliament.bm"
+        }
+      ],
+      "email": "zdesilva@parliament.bm",
       "gender": "male",
       "id": "6e83663a-50b6-41aa-896c-5807a72f8a9e",
       "identifiers": [
@@ -510,6 +599,13 @@
     },
     {
       "birth_date": "1958-06-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mdunkley@parliament.bm"
+        }
+      ],
+      "email": "mdunkley@parliament.bm",
       "gender": "male",
       "given_name": "Michael",
       "id": "70b7b863-9aef-4e28-9294-8e976a71a724",
@@ -578,10 +674,24 @@
       ]
     },
     {
-      "id": "7a190393-def8-4c06-9b4a-3220a094df3b",
-      "name": "Michael Dunkley"
+      "gender": "male",
+      "id": "79ed5586-2c94-4084-9205-ea557d8ef06c",
+      "image": "https://elections.gov.bm/images/party/BEN-SMITH-OBA.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/BEN-SMITH-OBA.jpg"
+        }
+      ],
+      "name": "Ben Smith"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rcommissiong@parliament.bm"
+        }
+      ],
+      "email": "rcommissiong@parliament.bm",
       "gender": "male",
       "id": "7a4fc9de-8e67-4793-aed4-22a645b06bb4",
       "identifiers": [
@@ -602,6 +712,13 @@
       "name": "Rolfe Commissiong"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dlister@parliament.bm"
+        }
+      ],
+      "email": "dlister@parliament.bm",
       "gender": "male",
       "id": "7bac9f33-a256-4d00-b23f-3034f47cd490",
       "identifiers": [
@@ -620,10 +737,6 @@
         }
       ],
       "name": "Dennis Lister"
-    },
-    {
-      "id": "7c0b23f2-bd1b-4815-8a62-63a61367741a",
-      "name": "Kim Wilson"
     },
     {
       "birth_date": "1974-02-19",
@@ -656,6 +769,24 @@
       "name": "Marc Bean"
     },
     {
+      "gender": "male",
+      "id": "84249389-1b59-4a6d-a453-f7372abd4659",
+      "image": "https://elections.gov.bm/images/party/SCOTT-SIMMONS-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/SCOTT-SIMMONS-PLP.jpg"
+        }
+      ],
+      "name": "Scott Simmons"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ppamplin@parliament.bm"
+        }
+      ],
+      "email": "ppamplin@parliament.bm",
       "gender": "female",
       "id": "8692b367-895c-4114-8aba-fe698f97e823",
       "identifiers": [
@@ -682,10 +813,24 @@
       ]
     },
     {
-      "id": "89dcd5ed-d54c-4f5f-8ad4-33ae13cd5fc4",
-      "name": "Walton Brown"
+      "gender": "female",
+      "id": "87cc66e4-a588-402c-b8a1-40ff7e0f1159",
+      "image": "https://elections.gov.bm/images/party/RENEE-MING-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/RENEE-MING-PLP.jpg"
+        }
+      ],
+      "name": "Renee Ming"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lwscott@parliament.bm"
+        }
+      ],
+      "email": "lwscott@parliament.bm",
       "gender": "male",
       "id": "8fa1ce62-470b-47ef-b113-a78f8f244bd8",
       "identifiers": [
@@ -706,10 +851,6 @@
       "name": "Lawrence Scott"
     },
     {
-      "id": "934b1417-550d-4757-98ab-38e779d9b04e",
-      "name": "Renee Ming"
-    },
-    {
       "gender": "male",
       "id": "9557ad39-254e-4cef-928d-517fc19eb1d8",
       "identifiers": [
@@ -727,10 +868,13 @@
       "name": "Kenneth Bascome"
     },
     {
-      "id": "990e4c03-d1bb-45b3-999d-390b8f0639fa",
-      "name": "Tinee Furbert"
-    },
-    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "wbrown@parliament.bm"
+        }
+      ],
+      "email": "wbrown@parliament.bm",
       "gender": "male",
       "id": "9b6f6fff-462b-4a68-bca0-ee78f5ec135f",
       "identifiers": [
@@ -751,14 +895,13 @@
       "name": "Walton Brown"
     },
     {
-      "id": "9bb6fdfa-b319-42f9-985a-dff7d793c7aa",
-      "name": "Kim Swan"
-    },
-    {
-      "id": "9bc2b8d3-a470-41b3-8a2c-6d39a2802e2d",
-      "name": "N. Cole Simons"
-    },
-    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "wfurbert@parliament.bm"
+        }
+      ],
+      "email": "wfurbert@parliament.bm",
       "gender": "male",
       "id": "a48c42b5-1b9a-400b-b1fc-0c66f9e7e024",
       "identifiers": [
@@ -779,6 +922,13 @@
       "name": "Wayne Furbert"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "wroban@parliament.bm"
+        }
+      ],
+      "email": "wroban@parliament.bm",
       "gender": "male",
       "id": "a4ff5cae-ffd7-4357-9e1c-9b9d434a6f63",
       "identifiers": [
@@ -799,6 +949,13 @@
       "name": "Walter Roban"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lkscott@gov.bm"
+        }
+      ],
+      "email": "lkscott@gov.bm",
       "gender": "female",
       "id": "ab4c0f57-0dd0-49f9-9bae-de7cfd30a4c7",
       "identifiers": [
@@ -819,6 +976,24 @@
       "name": "Leah Scott"
     },
     {
+      "gender": "male",
+      "id": "ac1d407c-723d-452e-838a-21133b3709a8",
+      "image": "https://elections.gov.bm/images/party/THOMAS-CHRISTOPHER-FAMOUS-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/THOMAS-CHRISTOPHER-FAMOUS-PLP.jpg"
+        }
+      ],
+      "name": "Christopher Famous"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kwilson@parliament.bm"
+        }
+      ],
+      "email": "kwilson@parliament.bm",
       "gender": "female",
       "id": "ad61ceea-0ab4-4b17-9b69-ea36c3cd6793",
       "identifiers": [
@@ -839,6 +1014,13 @@
       "name": "Kim Wilson"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sjackson@parliament.bm"
+        }
+      ],
+      "email": "sjackson@parliament.bm",
       "gender": "female",
       "id": "b339af1d-3e35-46da-997d-131d8a615292",
       "identifiers": [
@@ -893,26 +1075,13 @@
       "name": "Mark Pettingill"
     },
     {
-      "id": "bebcb4d8-0aca-4c94-bae2-c77af8ab5bb4",
-      "name": "Patricia Gordon Pamplin"
-    },
-    {
-      "id": "c61cf894-215c-4402-90ac-9867b68e4706",
-      "name": "Sylvan Richards Jr."
-    },
-    {
-      "id": "c92f721b-79d7-425a-a8cc-72ae54263423",
-      "name": "Rolfe Commissiong"
-    },
-    {
-      "id": "c9724848-0e4b-45ca-b065-52c2f6296c2c",
-      "name": "Michael Scott"
-    },
-    {
-      "id": "caba5015-22e9-4038-af8b-06d8afd010ef",
-      "name": "Neville Tyrrell"
-    },
-    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lfoggo@parliament.bm"
+        }
+      ],
+      "email": "lfoggo@parliament.bm",
       "gender": "female",
       "id": "cceb16f2-0596-4908-a9e3-bd8bf12ac8c5",
       "identifiers": [
@@ -933,10 +1102,13 @@
       "name": "Lovitta Foggo"
     },
     {
-      "id": "ce5eb80f-26de-4678-9937-4dbe2af4e7f1",
-      "name": "Scott Simmons"
-    },
-    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nsimons@parliament.bm"
+        }
+      ],
+      "email": "nsimons@parliament.bm",
       "gender": "male",
       "id": "d1daf36a-d8c4-4b5e-a422-f22c4d8241e1",
       "identifiers": [
@@ -963,14 +1135,6 @@
       ]
     },
     {
-      "id": "d3eeefbc-0938-4a42-9d53-41cf24f98c0a",
-      "name": "Christopher Famous"
-    },
-    {
-      "id": "d5b2a6c4-9010-4655-87d1-de1f7ba9b5ea",
-      "name": "Susan Jackson"
-    },
-    {
       "gender": "male",
       "id": "d7e3f96e-f6a1-4d2a-9eee-f08682b06da9",
       "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Neville%20Tyrell.jpg",
@@ -986,6 +1150,13 @@
     },
     {
       "birth_date": "1963",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ccannionier@gov.bm"
+        }
+      ],
+      "email": "ccannionier@gov.bm",
       "gender": "male",
       "given_name": "Craig",
       "id": "da919d3c-7428-4060-8210-3f891d64a165",
@@ -1052,10 +1223,13 @@
       ]
     },
     {
-      "id": "dcaef7bd-52ff-4847-8623-4daae10b255e",
-      "name": "Lawrence Scott"
-    },
-    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tmoniz@parliament.bm"
+        }
+      ],
+      "email": "tmoniz@parliament.bm",
       "gender": "male",
       "given_name": "Trevor",
       "id": "e2a98a6e-ac6e-41d0-bc48-504037119dd4",
@@ -1090,33 +1264,15 @@
       "name": "Trevor Moniz"
     },
     {
-      "id": "ed488be7-81e2-4248-89b3-303735ef737f",
-      "name": "Leah Scott"
-    },
-    {
-      "id": "ed4e33e7-2e68-4fff-9906-a658390937e4",
-      "name": "Craig Cannonier"
-    },
-    {
-      "honorific_prefix": "Lt. Col",
-      "id": "edce90de-f99a-4f0a-84e7-8a591df01c65",
-      "name": "David Burch"
-    },
-    {
-      "id": "f21c9a2c-3b92-4ae8-ac06-40abc77d9208",
-      "name": "Ben Smith"
-    },
-    {
-      "id": "f3d1726d-5dfd-436b-9c17-3b8bbcbc4dc1",
-      "name": "Trevor Moniz"
-    },
-    {
-      "id": "f407cf74-9b95-4895-8d32-18fa32db2403",
-      "name": "Wayne Caines"
-    },
-    {
-      "id": "f9231df6-9dcd-4b0c-9260-59af7351360a",
-      "name": "Lovitta Foggo"
+      "gender": "female",
+      "id": "efe3c392-7d6d-434d-8129-c8979a21bb58",
+      "image": "https://elections.gov.bm/images/party/TINEE-FURBERT-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/TINEE-FURBERT-PLP.jpg"
+        }
+      ],
+      "name": "Tinee Furbert"
     }
   ],
   "organizations": [
@@ -2178,32 +2334,6 @@
   },
   "memberships": [
     {
-      "area_id": "Constituency 16",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "00cfccf7-846e-458b-8637-3b4675b9a5fb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/16"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 13",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "011e015a-03a2-4c9a-8e99-fa998f73bcc3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/13"
-        }
-      ]
-    },
-    {
       "area_id": "33",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
@@ -2217,6 +2347,19 @@
       ]
     },
     {
+      "area_id": "Constituency 33",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "0347b0da-6105-4972-8e96-ba36ed868290",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/33"
+        }
+      ]
+    },
+    {
       "area_id": "36",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
@@ -2226,6 +2369,32 @@
       "sources": [
         {
           "url": "http://www.parliament.bm/Michael_Scott.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 36",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "0a362f73-62da-4b81-9a10-b35a808e2526",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/36"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 2",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "0e7e87ce-4744-4f7e-a19a-4c47f028c140",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/2"
         }
       ]
     },
@@ -2282,28 +2451,15 @@
       ]
     },
     {
-      "area_id": "Constituency 18",
+      "area_id": "Constituency 14",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "256ab971-f604-4d89-987c-9a59a58e3cae",
+      "person_id": "26605f25-62ee-494c-aff4-81d49db845dd",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/18"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 28",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "273cf15e-8350-44bb-975c-fb9b6bd4c3e0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/28"
+          "url": "http://parliament.bm/parliament/view/14"
         }
       ]
     },
@@ -2334,15 +2490,15 @@
       ]
     },
     {
-      "area_id": "Constituency 6",
+      "area_id": "Constituency 13",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "2fd1c710-411e-4337-9cf6-0e546fd00ce4",
+      "person_id": "2b484587-a32d-40ca-acfb-d1d3033f5262",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/6"
+          "url": "http://parliament.bm/parliament/view/13"
         }
       ]
     },
@@ -2356,19 +2512,6 @@
       "sources": [
         {
           "url": "http://parliament.bm/parliament/view/25"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 15",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "351a0f04-556e-4872-8f08-1a7ceba4b4f0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/15"
         }
       ]
     },
@@ -2399,19 +2542,6 @@
       ]
     },
     {
-      "area_id": "Constituency 35",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "3d079600-e8b1-42c7-a3eb-2780a14b721a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/35"
-        }
-      ]
-    },
-    {
       "area_id": "14",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "556e3725-0955-4e3a-950f-820118e3439f",
@@ -2421,6 +2551,19 @@
       "sources": [
         {
           "url": "http://www.parliament.bm/Glen_Smith.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 27",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "457c1ca2-c3ec-4677-926b-b19bddff7cda",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/27"
         }
       ]
     },
@@ -2438,6 +2581,19 @@
       ]
     },
     {
+      "area_id": "Constituency 19",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "473b3658-f9a2-4ca5-b184-b9c8e41e18ee",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/19"
+        }
+      ]
+    },
+    {
       "area_id": "07",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "556e3725-0955-4e3a-950f-820118e3439f",
@@ -2447,6 +2603,19 @@
       "sources": [
         {
           "url": "http://www.parliament.bm/Sylvan_Richards_.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 7",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "48d0f14d-381c-496e-a935-f8386d3b8196",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/7"
         }
       ]
     },
@@ -2464,6 +2633,19 @@
       ]
     },
     {
+      "area_id": "Constituency 16",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "4a7638a6-dd24-4013-8259-bb3eb6694128",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/16"
+        }
+      ]
+    },
+    {
       "area_id": "05",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
@@ -2477,15 +2659,15 @@
       ]
     },
     {
-      "area_id": "Constituency 33",
+      "area_id": "Constituency 5",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "4cfb680d-b554-4b03-93ab-a61bb9972b6f",
+      "person_id": "4b1d891c-465c-42c5-86dd-9915ff6d294e",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/33"
+          "url": "http://parliament.bm/parliament/view/5"
         }
       ]
     },
@@ -2503,15 +2685,28 @@
       ]
     },
     {
-      "area_id": "Constituency 29",
+      "area_id": "Constituency 18",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "5885de7f-1aee-40fd-8298-e115574065eb",
+      "person_id": "4e371e00-0bf3-4f5a-9169-4c5d1a4b7f3d",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/29"
+          "url": "http://parliament.bm/parliament/view/18"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 28",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "5588e9c4-f5ff-4c7a-a319-e891afef600f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/28"
         }
       ]
     },
@@ -2542,32 +2737,6 @@
       ]
     },
     {
-      "area_id": "Constituency 5",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "6ae04233-6e03-43f0-ba88-90a52b4be965",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/5"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 19",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "6bfea3a8-94a1-4316-99fd-86fd0e1ee71c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/19"
-        }
-      ]
-    },
-    {
       "area_id": "29",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
@@ -2577,6 +2746,19 @@
       "sources": [
         {
           "url": "http://www.parliament.bm/Zane_Desilva.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 29",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "6e83663a-50b6-41aa-896c-5807a72f8a9e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/29"
         }
       ]
     },
@@ -2598,11 +2780,24 @@
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "7a190393-def8-4c06-9b4a-3220a094df3b",
+      "person_id": "70b7b863-9aef-4e28-9294-8e976a71a724",
       "role": "member",
       "sources": [
         {
           "url": "http://parliament.bm/parliament/view/10"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 31",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "79ed5586-2c94-4084-9205-ea557d8ef06c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/31"
         }
       ]
     },
@@ -2620,6 +2815,19 @@
       ]
     },
     {
+      "area_id": "Constituency 21",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "7a4fc9de-8e67-4793-aed4-22a645b06bb4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/21"
+        }
+      ]
+    },
+    {
       "area_id": "35",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
@@ -2633,15 +2841,15 @@
       ]
     },
     {
-      "area_id": "Constituency 34",
+      "area_id": "Constituency 35",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "7c0b23f2-bd1b-4815-8a62-63a61367741a",
+      "person_id": "7bac9f33-a256-4d00-b23f-3034f47cd490",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/34"
+          "url": "http://parliament.bm/parliament/view/35"
         }
       ]
     },
@@ -2660,6 +2868,19 @@
       ]
     },
     {
+      "area_id": "Constituency 32",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "84249389-1b59-4a6d-a453-f7372abd4659",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/32"
+        }
+      ]
+    },
+    {
       "area_id": "23",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "556e3725-0955-4e3a-950f-820118e3439f",
@@ -2673,15 +2894,28 @@
       ]
     },
     {
-      "area_id": "Constituency 17",
+      "area_id": "Constituency 23",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "89dcd5ed-d54c-4f5f-8ad4-33ae13cd5fc4",
+      "person_id": "8692b367-895c-4114-8aba-fe698f97e823",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/17"
+          "url": "http://parliament.bm/parliament/view/23"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 1",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "87cc66e4-a588-402c-b8a1-40ff7e0f1159",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/1"
         }
       ]
     },
@@ -2699,15 +2933,15 @@
       ]
     },
     {
-      "area_id": "Constituency 1",
+      "area_id": "Constituency 24",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "934b1417-550d-4757-98ab-38e779d9b04e",
+      "person_id": "8fa1ce62-470b-47ef-b113-a78f8f244bd8",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/1"
+          "url": "http://parliament.bm/parliament/view/24"
         }
       ]
     },
@@ -2725,19 +2959,6 @@
       ]
     },
     {
-      "area_id": "Constituency 4",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "990e4c03-d1bb-45b3-999d-390b8f0639fa",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/4"
-        }
-      ]
-    },
-    {
       "area_id": "17",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
@@ -2751,28 +2972,15 @@
       ]
     },
     {
-      "area_id": "Constituency 2",
+      "area_id": "Constituency 17",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "9bb6fdfa-b319-42f9-985a-dff7d793c7aa",
+      "person_id": "9b6f6fff-462b-4a68-bca0-ee78f5ec135f",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/2"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 8",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "9bc2b8d3-a470-41b3-8a2c-6d39a2802e2d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/8"
+          "url": "http://parliament.bm/parliament/view/17"
         }
       ]
     },
@@ -2790,6 +2998,19 @@
       ]
     },
     {
+      "area_id": "Constituency 6",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "a48c42b5-1b9a-400b-b1fc-0c66f9e7e024",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/6"
+        }
+      ]
+    },
+    {
       "area_id": "15",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
@@ -2799,6 +3020,19 @@
       "sources": [
         {
           "url": "http://www.parliament.bm/Walter_Roban.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 15",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "a4ff5cae-ffd7-4357-9e1c-9b9d434a6f63",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/15"
         }
       ]
     },
@@ -2816,6 +3050,32 @@
       ]
     },
     {
+      "area_id": "Constituency 30",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "ab4c0f57-0dd0-49f9-9bae-de7cfd30a4c7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/30"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 11",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "ac1d407c-723d-452e-838a-21133b3709a8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/11"
+        }
+      ]
+    },
+    {
       "area_id": "34",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
@@ -2829,6 +3089,19 @@
       ]
     },
     {
+      "area_id": "Constituency 34",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "ad61ceea-0ab4-4b17-9b69-ea36c3cd6793",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/34"
+        }
+      ]
+    },
+    {
       "area_id": "20",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "556e3725-0955-4e3a-950f-820118e3439f",
@@ -2838,6 +3111,19 @@
       "sources": [
         {
           "url": "http://www.parliament.bm/Susan_Jackson.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "Constituency 20",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "b339af1d-3e35-46da-997d-131d8a615292",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/20"
         }
       ]
     },
@@ -2868,71 +3154,6 @@
       ]
     },
     {
-      "area_id": "Constituency 23",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "bebcb4d8-0aca-4c94-bae2-c77af8ab5bb4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/23"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 7",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "c61cf894-215c-4402-90ac-9867b68e4706",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/7"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 21",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "c92f721b-79d7-425a-a8cc-72ae54263423",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/21"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 36",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "c9724848-0e4b-45ca-b065-52c2f6296c2c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/36"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 26",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "caba5015-22e9-4038-af8b-06d8afd010ef",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/26"
-        }
-      ]
-    },
-    {
       "area_id": "03",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
@@ -2946,15 +3167,15 @@
       ]
     },
     {
-      "area_id": "Constituency 32",
+      "area_id": "Constituency 3",
       "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "98db65dd-b138-4fbe-a689-35a5eb826c88",
+      "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "ce5eb80f-26de-4678-9937-4dbe2af4e7f1",
+      "person_id": "cceb16f2-0596-4908-a9e3-bd8bf12ac8c5",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/32"
+          "url": "http://parliament.bm/parliament/view/3"
         }
       ]
     },
@@ -2972,28 +3193,15 @@
       ]
     },
     {
-      "area_id": "Constituency 11",
+      "area_id": "Constituency 8",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "d3eeefbc-0938-4a42-9d53-41cf24f98c0a",
+      "person_id": "d1daf36a-d8c4-4b5e-a422-f22c4d8241e1",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/11"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 20",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "d5b2a6c4-9010-4655-87d1-de1f7ba9b5ea",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/20"
+          "url": "http://parliament.bm/parliament/view/8"
         }
       ]
     },
@@ -3011,6 +3219,19 @@
       ]
     },
     {
+      "area_id": "Constituency 26",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "d7e3f96e-f6a1-4d2a-9eee-f08682b06da9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.bm/parliament/view/26"
+        }
+      ]
+    },
+    {
       "area_id": "12",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "556e3725-0955-4e3a-950f-820118e3439f",
@@ -3024,15 +3245,15 @@
       ]
     },
     {
-      "area_id": "Constituency 24",
+      "area_id": "Constituency 12",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "dcaef7bd-52ff-4847-8623-4daae10b255e",
+      "person_id": "da919d3c-7428-4060-8210-3f891d64a165",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/24"
+          "url": "http://parliament.bm/parliament/view/12"
         }
       ]
     },
@@ -3050,63 +3271,11 @@
       ]
     },
     {
-      "area_id": "Constituency 30",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "ed488be7-81e2-4248-89b3-303735ef737f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/30"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 12",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "ed4e33e7-2e68-4fff-9906-a658390937e4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/12"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 27",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "edce90de-f99a-4f0a-84e7-8a591df01c65",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/27"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 31",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "f21c9a2c-3b92-4ae8-ac06-40abc77d9208",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/31"
-        }
-      ]
-    },
-    {
       "area_id": "Constituency 9",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "f3d1726d-5dfd-436b-9c17-3b8bbcbc4dc1",
+      "person_id": "e2a98a6e-ac6e-41d0-bc48-504037119dd4",
       "role": "member",
       "sources": [
         {
@@ -3115,28 +3284,15 @@
       ]
     },
     {
-      "area_id": "Constituency 14",
+      "area_id": "Constituency 4",
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "Independent",
       "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "f407cf74-9b95-4895-8d32-18fa32db2403",
+      "person_id": "efe3c392-7d6d-434d-8129-c8979a21bb58",
       "role": "member",
       "sources": [
         {
-          "url": "http://parliament.bm/parliament/view/14"
-        }
-      ]
-    },
-    {
-      "area_id": "Constituency 3",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Independent",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "f9231df6-9dcd-4b0c-9260-59af7351360a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.bm/parliament/view/3"
+          "url": "http://parliament.bm/parliament/view/4"
         }
       ]
     }
