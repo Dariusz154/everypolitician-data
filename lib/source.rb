@@ -18,7 +18,6 @@ module Source
       'wikidata-positions' => Source::Positions::Old,
       'wikidata-elections' => Source::Elections,
       'term'               => Source::Term,
-      'corrections'        => Source::Corrections,
     }.freeze
 
     def self.instantiate(instructions)
