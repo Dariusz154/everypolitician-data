@@ -1,26 +1,26 @@
 {
   "people": {
-    "count": 323,
+    "count": 566,
     "wikidata": 323,
     "latest_term": {
-      "count": 323,
-      "wikidata": 323,
-      "images": 323,
+      "count": 320,
+      "wikidata": 77,
+      "images": 320,
       "contacts": {
-        "email": 0,
-        "facebook": 222,
-        "twitter": 222
+        "email": 315,
+        "facebook": 105,
+        "twitter": 112
       }
     }
   },
   "groups": {
-    "count": 11,
+    "count": 16,
     "wikidata": 11
   },
   "terms": {
-    "count": 1,
-    "latest": "2013-03-15",
-    "wikidata": 1
+    "count": 2,
+    "latest": "2018-03-23",
+    "wikidata": 2
   },
   "areas": {
     "count": 25,
