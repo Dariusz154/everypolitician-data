@@ -6,6 +6,17 @@
       "type": "membership"
     },
     {
+      "file": "morph/openpolis-18.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/openpolis-scraper",
+        "query": "SELECT * FROM data WHERE house = 'Senate' ORDER BY id"
+      },
+      "source": "http://politici.openpolis.it",
+      "reuse_ids": "true",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
