@@ -18,9 +18,9 @@
     "wikidata": 13
   },
   "terms": {
-    "count": 1,
+    "count": 5,
     "latest": "2014-05-21",
-    "wikidata": 1
+    "wikidata": 5
   },
   "areas": {
     "count": 9,
@@ -62,7 +62,7 @@
       "file": "morph/terms.csv",
       "type": "term",
       "scraper": "everypolitician-scrapers/south-africa-parliament-terms-wikidata",
-      "lastmod": "2016-06-13"
+      "lastmod": "2018-10-11"
     },
     {
       "file": "morph/genderbalance.csv",
