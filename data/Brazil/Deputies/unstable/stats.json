@@ -44,7 +44,7 @@
       "file": "morph/official-55.csv",
       "type": "person",
       "scraper": "tmtmtmtm/brasil-deputados-scraper",
-      "lastmod": "2018-09-18"
+      "lastmod": "2018-10-12"
     },
     {
       "file": "morph/wikidata.csv",
@@ -53,10 +53,10 @@
       "lastmod": "2018-10-09"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-04-01"
+      "scraper": "everypolitician-scrapers/brazil-congress-terms-wikidata",
+      "lastmod": null
     },
     {
       "file": "morph/areas.csv",
