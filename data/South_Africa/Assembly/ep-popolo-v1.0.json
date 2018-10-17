@@ -16584,6 +16584,10 @@
       "name": "Lumka Elizabeth Yengeni"
     },
     {
+      "id": "b65db08f-ca46-49b2-8bc3-119cbc6a56f7",
+      "name": "Lesiba Dorah Meso"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -27754,6 +27758,14 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "b5e744c2-de8c-424f-825f-208fb1d59374",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "b65db08f-ca46-49b2-8bc3-119cbc6a56f7",
+      "role": "member",
+      "start_date": "2018-08-17"
     },
     {
       "legislative_period_id": "term/26",
