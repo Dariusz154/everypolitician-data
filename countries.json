@@ -10,11 +10,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Abkhazia/Assembly/sources",
         "popolo": "data/Abkhazia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b0784dbd4cd89bbf1099e657f8424475a5887d41/data/Abkhazia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cf11b55647763c753fd01f981acf8bd7a858cab1/data/Abkhazia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Abkhazia/Assembly/names.csv",
-        "lastmod": "1538709173",
+        "lastmod": "1539732619",
         "person_count": 35,
-        "sha": "b0784dbd4cd89bbf1099e657f8424475a5887d41",
+        "sha": "cf11b55647763c753fd01f981acf8bd7a858cab1",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -25,7 +25,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Abkhazia/Assembly/term-5.csv"
           }
         ],
-        "statement_count": 771,
+        "statement_count": 773,
         "type": "unicameral legislature"
       }
     ]
@@ -73,31 +73,32 @@
         "slug": "Assembly",
         "sources_directory": "data/Albania/Assembly/sources",
         "popolo": "data/Albania/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9c0d4f9ae0da2e8fae06ca2b62f98bb4bfb1d0e8/data/Albania/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8e098e46ee8a3ff3fd1a14bfc4d2026ce3f24787/data/Albania/Assembly/ep-popolo-v1.0.json",
         "names": "data/Albania/Assembly/names.csv",
-        "lastmod": "1539665886",
+        "lastmod": "1539669643",
         "person_count": 213,
-        "sha": "9c0d4f9ae0da2e8fae06ca2b62f98bb4bfb1d0e8",
+        "sha": "8e098e46ee8a3ff3fd1a14bfc4d2026ce3f24787",
         "legislative_periods": [
           {
+            "end_date": "2017-06-25",
             "id": "term/8",
-            "name": "Legislature VIII",
+            "name": "VIII Pluralist Legislature",
             "start_date": "2013-09-09",
             "slug": "8",
             "csv": "data/Albania/Assembly/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Albania/Assembly/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8e098e46ee8a3ff3fd1a14bfc4d2026ce3f24787/data/Albania/Assembly/term-8.csv"
           },
           {
-            "end_date": "2013",
+            "end_date": "2013-06-23",
             "id": "term/7",
-            "name": "Legislature VII",
-            "start_date": "2009",
+            "name": "VII Pluralist Legislature",
+            "start_date": "2009-09-08",
             "slug": "7",
             "csv": "data/Albania/Assembly/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c8c980b21fad8cac152404ab06b1644f8a3ff819/data/Albania/Assembly/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8e098e46ee8a3ff3fd1a14bfc4d2026ce3f24787/data/Albania/Assembly/term-7.csv"
           }
         ],
-        "statement_count": 9310,
+        "statement_count": 8931,
         "type": "unicameral legislature"
       }
     ]
@@ -113,11 +114,11 @@
         "slug": "States",
         "sources_directory": "data/Alderney/States/sources",
         "popolo": "data/Alderney/States/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/66230cb8d6458206672b79b149bd8f70699d36ca/data/Alderney/States/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c5793e37bebbacb64205ca14f7d50ff90cd1e047/data/Alderney/States/ep-popolo-v1.0.json",
         "names": "data/Alderney/States/names.csv",
-        "lastmod": "1537785712",
+        "lastmod": "1539745892",
         "person_count": 14,
-        "sha": "66230cb8d6458206672b79b149bd8f70699d36ca",
+        "sha": "c5793e37bebbacb64205ca14f7d50ff90cd1e047",
         "legislative_periods": [
           {
             "id": "term/2017",
@@ -137,7 +138,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Alderney/States/term-2014.csv"
           }
         ],
-        "statement_count": 869,
+        "statement_count": 873,
         "type": "unicameral legislature"
       }
     ]
@@ -153,11 +154,11 @@
         "slug": "Majlis",
         "sources_directory": "data/Algeria/Majlis/sources",
         "popolo": "data/Algeria/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e089f3a4830ee5e50e38bc3c8094e9df9c6a2dd6/data/Algeria/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1c3d4049662e99e80cfeb0e3d7c8ceeb118f6133/data/Algeria/Majlis/ep-popolo-v1.0.json",
         "names": "data/Algeria/Majlis/names.csv",
-        "lastmod": "1537865963",
+        "lastmod": "1539733599",
         "person_count": 478,
-        "sha": "e089f3a4830ee5e50e38bc3c8094e9df9c6a2dd6",
+        "sha": "1c3d4049662e99e80cfeb0e3d7c8ceeb118f6133",
         "legislative_periods": [
           {
             "id": "term/7",
@@ -168,7 +169,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Algeria/Majlis/term-7.csv"
           }
         ],
-        "statement_count": 8726,
+        "statement_count": 8730,
         "type": "lower house"
       }
     ]
@@ -525,11 +526,11 @@
         "slug": "Senado",
         "sources_directory": "data/Argentina/Senado/sources",
         "popolo": "data/Argentina/Senado/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/932094bc90c1335b6e7a1becf2c501cc325c5f85/data/Argentina/Senado/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b9c352009a52b9e2b469711d5ef437ac65f6cd06/data/Argentina/Senado/ep-popolo-v1.0.json",
         "names": "data/Argentina/Senado/names.csv",
-        "lastmod": "1539258327",
+        "lastmod": "1539745241",
         "person_count": 73,
-        "sha": "932094bc90c1335b6e7a1becf2c501cc325c5f85",
+        "sha": "b9c352009a52b9e2b469711d5ef437ac65f6cd06",
         "legislative_periods": [
           {
             "end_date": "2017-11-30",
@@ -559,7 +560,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/77ccfec90d6893ac9b7a164d8f27e978debc2dcf/data/Argentina/Senado/term-2015.csv"
           }
         ],
-        "statement_count": 9141,
+        "statement_count": 9153,
         "type": "upper house"
       }
     ]
@@ -575,11 +576,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Armenia/Assembly/sources",
         "popolo": "data/Armenia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/473acf705686d9ce33640f510ae0695c25d7bcb1/data/Armenia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2741c99e06977634b526fd0a0cb8129ee41007c9/data/Armenia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Armenia/Assembly/names.csv",
-        "lastmod": "1539242788",
+        "lastmod": "1539787565",
         "person_count": 186,
-        "sha": "473acf705686d9ce33640f510ae0695c25d7bcb1",
+        "sha": "2741c99e06977634b526fd0a0cb8129ee41007c9",
         "legislative_periods": [
           {
             "id": "term/6",
@@ -587,7 +588,7 @@
             "start_date": "2017-05-18",
             "slug": "6",
             "csv": "data/Armenia/Assembly/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/473acf705686d9ce33640f510ae0695c25d7bcb1/data/Armenia/Assembly/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2741c99e06977634b526fd0a0cb8129ee41007c9/data/Armenia/Assembly/term-6.csv"
           },
           {
             "end_date": "2017-03-02",
@@ -596,10 +597,10 @@
             "start_date": "2012-05-31",
             "slug": "5",
             "csv": "data/Armenia/Assembly/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/473acf705686d9ce33640f510ae0695c25d7bcb1/data/Armenia/Assembly/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2741c99e06977634b526fd0a0cb8129ee41007c9/data/Armenia/Assembly/term-5.csv"
           }
         ],
-        "statement_count": 9188,
+        "statement_count": 9227,
         "type": "unicameral legislature"
       }
     ]
@@ -646,11 +647,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Australia/Representatives/sources",
         "popolo": "data/Australia/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d24625f9d3a1c521401b0466698442ecf8e10625/data/Australia/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/66b85881f9fdcd4111cd437f097d2c2887630576/data/Australia/Representatives/ep-popolo-v1.0.json",
         "names": "data/Australia/Representatives/names.csv",
-        "lastmod": "1539367900",
+        "lastmod": "1539758715",
         "person_count": 514,
-        "sha": "d24625f9d3a1c521401b0466698442ecf8e10625",
+        "sha": "66b85881f9fdcd4111cd437f097d2c2887630576",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -751,7 +752,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9655130ec207ac43c7521484c666eece3fe772eb/data/Australia/Representatives/term-35.csv"
           }
         ],
-        "statement_count": 34732,
+        "statement_count": 34742,
         "type": "lower house"
       },
       {
@@ -759,11 +760,11 @@
         "slug": "Senate",
         "sources_directory": "data/Australia/Senate/sources",
         "popolo": "data/Australia/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/be77ba847a5455f3d359b77c4b09b968f3aebd79/data/Australia/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/49a7ec8e46412ddad1cba56b865e05f4b13cbbb8/data/Australia/Senate/ep-popolo-v1.0.json",
         "names": "data/Australia/Senate/names.csv",
-        "lastmod": "1539597126",
+        "lastmod": "1539729854",
         "person_count": 270,
-        "sha": "be77ba847a5455f3d359b77c4b09b968f3aebd79",
+        "sha": "49a7ec8e46412ddad1cba56b865e05f4b13cbbb8",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -864,7 +865,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/698f5af4400c09c0d0f0a90424fdb20516f6f683/data/Australia/Senate/term-35.csv"
           }
         ],
-        "statement_count": 20114,
+        "statement_count": 20117,
         "type": "upper house"
       }
     ]
@@ -880,11 +881,11 @@
         "slug": "Nationalrat",
         "sources_directory": "data/Austria/Nationalrat/sources",
         "popolo": "data/Austria/Nationalrat/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/56677a1a092bd3fddf52172936ec74adcff31112/data/Austria/Nationalrat/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e5f4207fb09e83e27cef717aefb07cab1d56c594/data/Austria/Nationalrat/ep-popolo-v1.0.json",
         "names": "data/Austria/Nationalrat/names.csv",
-        "lastmod": "1539591637",
+        "lastmod": "1539767911",
         "person_count": 182,
-        "sha": "56677a1a092bd3fddf52172936ec74adcff31112",
+        "sha": "e5f4207fb09e83e27cef717aefb07cab1d56c594",
         "legislative_periods": [
           {
             "end_date": "2017-11-08",
@@ -896,7 +897,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/26669cf7743825fe786809688ffef2117d4fb9e0/data/Austria/Nationalrat/term-25.csv"
           }
         ],
-        "statement_count": 9344,
+        "statement_count": 9346,
         "type": "lower house"
       }
     ]
@@ -1014,11 +1015,11 @@
         "slug": "House",
         "sources_directory": "data/Bangladesh/House/sources",
         "popolo": "data/Bangladesh/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0053952c6a87939c852f12a37b6a43197e2fad19/data/Bangladesh/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/59efffbff2cf5e3a7477e013bb03002b11d553a6/data/Bangladesh/House/ep-popolo-v1.0.json",
         "names": "data/Bangladesh/House/names.csv",
-        "lastmod": "1539070964",
+        "lastmod": "1539700140",
         "person_count": 550,
-        "sha": "0053952c6a87939c852f12a37b6a43197e2fad19",
+        "sha": "59efffbff2cf5e3a7477e013bb03002b11d553a6",
         "legislative_periods": [
           {
             "id": "term/10",
@@ -1038,7 +1039,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/653d9fa43a94a89bd949f171beca0ce80ba5aed1/data/Bangladesh/House/term-9.csv"
           }
         ],
-        "statement_count": 14896,
+        "statement_count": 14902,
         "type": "unicameral legislature"
       }
     ]
@@ -1391,11 +1392,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Brazil/Deputies/sources",
         "popolo": "data/Brazil/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/15e44706c34f6830fb8bcae40b2edc9b72c4ce7c/data/Brazil/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8845922e3479c6981ae76af0d64933f1e89c3da2/data/Brazil/Deputies/ep-popolo-v1.0.json",
         "names": "data/Brazil/Deputies/names.csv",
-        "lastmod": "1539603671",
+        "lastmod": "1539753428",
         "person_count": 942,
-        "sha": "15e44706c34f6830fb8bcae40b2edc9b72c4ce7c",
+        "sha": "8845922e3479c6981ae76af0d64933f1e89c3da2",
         "legislative_periods": [
           {
             "id": "term/55",
@@ -1415,7 +1416,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e8ea05eef0bf7f31aa9d2b1f8d44b9486b7b4567/data/Brazil/Deputies/term-54.csv"
           }
         ],
-        "statement_count": 34162,
+        "statement_count": 34167,
         "type": "lower house"
       }
     ]
@@ -1472,11 +1473,11 @@
         "slug": "Council",
         "sources_directory": "data/British_Virgin_Islands/Council/sources",
         "popolo": "data/British_Virgin_Islands/Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0fee4fbbbfaf0c2eb2763f310d8e9aaa55af7fc3/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7453638807ac789e0d2ca1a5f35839137541d812/data/British_Virgin_Islands/Council/ep-popolo-v1.0.json",
         "names": "data/British_Virgin_Islands/Council/names.csv",
-        "lastmod": "1536481005",
+        "lastmod": "1539706131",
         "person_count": 36,
-        "sha": "0fee4fbbbfaf0c2eb2763f310d8e9aaa55af7fc3",
+        "sha": "7453638807ac789e0d2ca1a5f35839137541d812",
         "legislative_periods": [
           {
             "end_date": "2007-08-20",
@@ -1560,7 +1561,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/British_Virgin_Islands/Council/term-1971.csv"
           }
         ],
-        "statement_count": 1787,
+        "statement_count": 1791,
         "type": "unicameral legislature"
       }
     ]
@@ -1608,11 +1609,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/Bulgaria/National_Assembly/sources",
         "popolo": "data/Bulgaria/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a5f386edce282e0a146db594f8abe0e979bd65c/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/248f49dc5d8e4fc322272cd2169a4d9b09da5f2e/data/Bulgaria/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/Bulgaria/National_Assembly/names.csv",
-        "lastmod": "1539303389",
+        "lastmod": "1539731536",
         "person_count": 1106,
-        "sha": "9a5f386edce282e0a146db594f8abe0e979bd65c",
+        "sha": "248f49dc5d8e4fc322272cd2169a4d9b09da5f2e",
         "legislative_periods": [
           {
             "id": "term/44",
@@ -1668,7 +1669,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7cde2f76d1f55b5202d8cc1910f3999579bb0702/data/Bulgaria/National_Assembly/term-39.csv"
           }
         ],
-        "statement_count": 44942,
+        "statement_count": 44958,
         "type": "unicameral legislature"
       }
     ]
@@ -1979,11 +1980,11 @@
         "slug": "Commons",
         "sources_directory": "data/Canada/Commons/sources",
         "popolo": "data/Canada/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/17563eab9afa122aeb4cef1d4c22b3474325a156/data/Canada/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/676b790838fe42661070ffab9e5e7e45c522f6cd/data/Canada/Commons/ep-popolo-v1.0.json",
         "names": "data/Canada/Commons/names.csv",
-        "lastmod": "1539616860",
+        "lastmod": "1539787950",
         "person_count": 550,
-        "sha": "17563eab9afa122aeb4cef1d4c22b3474325a156",
+        "sha": "676b790838fe42661070ffab9e5e7e45c522f6cd",
         "legislative_periods": [
           {
             "id": "term/42",
@@ -2042,11 +2043,11 @@
         "slug": "Legislative-Assembly",
         "sources_directory": "data/Cayman_Islands/Legislative_Assembly/sources",
         "popolo": "data/Cayman_Islands/Legislative_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b276d34776ac2e5221515e88b72d9851523be53f/data/Cayman_Islands/Legislative_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0f9889d47f58a4e5aff2da70b8a7853b5fe5acae/data/Cayman_Islands/Legislative_Assembly/ep-popolo-v1.0.json",
         "names": "data/Cayman_Islands/Legislative_Assembly/names.csv",
-        "lastmod": "1533134691",
+        "lastmod": "1539745583",
         "person_count": 18,
-        "sha": "b276d34776ac2e5221515e88b72d9851523be53f",
+        "sha": "0f9889d47f58a4e5aff2da70b8a7853b5fe5acae",
         "legislative_periods": [
           {
             "id": "term/2013",
@@ -2057,7 +2058,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Cayman_Islands/Legislative_Assembly/term-2013.csv"
           }
         ],
-        "statement_count": 959,
+        "statement_count": 963,
         "type": "unicameral legislature"
       }
     ]
@@ -2073,11 +2074,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Chad/Assembly/sources",
         "popolo": "data/Chad/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8e7a892d4aa2d65411603cd8cb7363de26adba4f/data/Chad/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/93c5a0935adaa07b3130549755053a93351dfcca/data/Chad/Assembly/ep-popolo-v1.0.json",
         "names": "data/Chad/Assembly/names.csv",
-        "lastmod": "1538592044",
+        "lastmod": "1539737829",
         "person_count": 191,
-        "sha": "8e7a892d4aa2d65411603cd8cb7363de26adba4f",
+        "sha": "93c5a0935adaa07b3130549755053a93351dfcca",
         "legislative_periods": [
           {
             "id": "term/3",
@@ -2088,7 +2089,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Chad/Assembly/term-3.csv"
           }
         ],
-        "statement_count": 2928,
+        "statement_count": 2930,
         "type": "unicameral legislature"
       }
     ]
@@ -2104,11 +2105,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Chile/Deputies/sources",
         "popolo": "data/Chile/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/812f7269a2e38d24637cfb72b82d844ba28ca2de/data/Chile/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a7199e72d8ca28f1b1a7e9eb2dde7b0f70104936/data/Chile/Deputies/ep-popolo-v1.0.json",
         "names": "data/Chile/Deputies/names.csv",
-        "lastmod": "1539543616",
+        "lastmod": "1539781621",
         "person_count": 375,
-        "sha": "812f7269a2e38d24637cfb72b82d844ba28ca2de",
+        "sha": "a7199e72d8ca28f1b1a7e9eb2dde7b0f70104936",
         "legislative_periods": [
           {
             "end_date": "2018-03-10",
@@ -2174,7 +2175,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/750ec948dd33c6bf64ac0588c5d45a02cf5ca3a2/data/Chile/Deputies/term-1.csv"
           }
         ],
-        "statement_count": 14045,
+        "statement_count": 14047,
         "type": "unicameral legislature"
       }
     ]
@@ -2308,11 +2309,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Congo-Brazzaville/Assembly/sources",
         "popolo": "data/Congo-Brazzaville/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5f61dcaa9ae08350fe343aea558406e498042d9d/data/Congo-Brazzaville/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1af7256fbd9696f2d83a6f54438e87a7fe7dacf4/data/Congo-Brazzaville/Assembly/ep-popolo-v1.0.json",
         "names": "data/Congo-Brazzaville/Assembly/names.csv",
-        "lastmod": "1538187162",
+        "lastmod": "1539760854",
         "person_count": 122,
-        "sha": "5f61dcaa9ae08350fe343aea558406e498042d9d",
+        "sha": "1af7256fbd9696f2d83a6f54438e87a7fe7dacf4",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -2323,7 +2324,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Congo-Brazzaville/Assembly/term-13.csv"
           }
         ],
-        "statement_count": 3019,
+        "statement_count": 3023,
         "type": "lower house"
       }
     ]
@@ -2339,11 +2340,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Congo-Kinshasa/Assembly/sources",
         "popolo": "data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5c9ef6ee0079b032c20c42f74c261a5801ea948f/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/03b68dea31321d9a498b627492e709918b2f851f/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json",
         "names": "data/Congo-Kinshasa/Assembly/names.csv",
-        "lastmod": "1531807835",
+        "lastmod": "1539707690",
         "person_count": 498,
-        "sha": "5c9ef6ee0079b032c20c42f74c261a5801ea948f",
+        "sha": "03b68dea31321d9a498b627492e709918b2f851f",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -2354,7 +2355,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a3da8479d41774bf179381629c7d14edc5712707/data/Congo-Kinshasa/Assembly/term-2012.csv"
           }
         ],
-        "statement_count": 7139,
+        "statement_count": 7143,
         "type": "lower house"
       }
     ]
@@ -2419,23 +2420,23 @@
         "slug": "Assembly",
         "sources_directory": "data/Costa_Rica/Assembly/sources",
         "popolo": "data/Costa_Rica/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/777b42a0dea981750b5744f16a36200d04acf6cf/data/Costa_Rica/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/118a3f4a5f3e2671126335ea049bb655ea0632f8/data/Costa_Rica/Assembly/ep-popolo-v1.0.json",
         "names": "data/Costa_Rica/Assembly/names.csv",
-        "lastmod": "1537800838",
+        "lastmod": "1539773809",
         "person_count": 57,
-        "sha": "777b42a0dea981750b5744f16a36200d04acf6cf",
+        "sha": "118a3f4a5f3e2671126335ea049bb655ea0632f8",
         "legislative_periods": [
           {
             "end_date": "2018-04-30",
             "id": "term/2014",
-            "name": "2014–2018",
+            "name": "2014-2018 legislative period",
             "start_date": "2014-05-01",
             "slug": "2014",
             "csv": "data/Costa_Rica/Assembly/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/777b42a0dea981750b5744f16a36200d04acf6cf/data/Costa_Rica/Assembly/term-2014.csv"
           }
         ],
-        "statement_count": 2135,
+        "statement_count": 2139,
         "type": "unicameral legislature"
       }
     ]
@@ -2500,11 +2501,11 @@
         "slug": "Estates",
         "sources_directory": "data/Curacao/Estates/sources",
         "popolo": "data/Curacao/Estates/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7eb71fdef78a6f141b27e9a965894b5221d6d38d/data/Curacao/Estates/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6e259dc785a1f134906fd426c2e579acbee73374/data/Curacao/Estates/ep-popolo-v1.0.json",
         "names": "data/Curacao/Estates/names.csv",
-        "lastmod": "1537810456",
+        "lastmod": "1539744715",
         "person_count": 21,
-        "sha": "7eb71fdef78a6f141b27e9a965894b5221d6d38d",
+        "sha": "6e259dc785a1f134906fd426c2e579acbee73374",
         "legislative_periods": [
           {
             "end_date": "2016-11-01",
@@ -2516,7 +2517,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7eb71fdef78a6f141b27e9a965894b5221d6d38d/data/Curacao/Estates/term-2.csv"
           }
         ],
-        "statement_count": 1365,
+        "statement_count": 1369,
         "type": "unicameral legislature"
       }
     ]
@@ -2532,11 +2533,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Cyprus/House_of_Representatives/sources",
         "popolo": "data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9f4370c7f9445b58a02dda9dd9de5e5a12f80e75/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/99baa1b58d6931a2f2481fa815912fbe2b281fc5/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Cyprus/House_of_Representatives/names.csv",
-        "lastmod": "1538043981",
+        "lastmod": "1539777292",
         "person_count": 91,
-        "sha": "9f4370c7f9445b58a02dda9dd9de5e5a12f80e75",
+        "sha": "99baa1b58d6931a2f2481fa815912fbe2b281fc5",
         "legislative_periods": [
           {
             "id": "term/11",
@@ -2556,7 +2557,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Cyprus/House_of_Representatives/term-10.csv"
           }
         ],
-        "statement_count": 6077,
+        "statement_count": 6083,
         "type": "unicameral legislature"
       }
     ]
@@ -2572,11 +2573,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Czech_Republic/Deputies/sources",
         "popolo": "data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/27753ed7ce45dc901581fb2325f53a85ba725538/data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2bf2e32c75e48f2c982323810ec59a35e2b1aa7a/data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
         "names": "data/Czech_Republic/Deputies/names.csv",
-        "lastmod": "1539303538",
+        "lastmod": "1539786523",
         "person_count": 892,
-        "sha": "27753ed7ce45dc901581fb2325f53a85ba725538",
+        "sha": "2bf2e32c75e48f2c982323810ec59a35e2b1aa7a",
         "legislative_periods": [
           {
             "id": "term/7",
@@ -2641,7 +2642,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e3ae4db782cd190aafd5f356bdf36a8338930e32/data/Czech_Republic/Deputies/term-1.csv"
           }
         ],
-        "statement_count": 51693,
+        "statement_count": 51731,
         "type": "lower house"
       }
     ]
@@ -2688,11 +2689,11 @@
         "slug": "Folketing",
         "sources_directory": "data/Denmark/Folketing/sources",
         "popolo": "data/Denmark/Folketing/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/34655d302176afc1f0a8a78cbe78c45ed615ce96/data/Denmark/Folketing/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/76334d30767abd9a30824b7f5cdd7da3039b21bd/data/Denmark/Folketing/ep-popolo-v1.0.json",
         "names": "data/Denmark/Folketing/names.csv",
-        "lastmod": "1539535675",
+        "lastmod": "1539744012",
         "person_count": 613,
-        "sha": "34655d302176afc1f0a8a78cbe78c45ed615ce96",
+        "sha": "76334d30767abd9a30824b7f5cdd7da3039b21bd",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -2700,7 +2701,7 @@
             "start_date": "2015-06-20",
             "slug": "2015",
             "csv": "data/Denmark/Folketing/term-2015.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ce387b4b1dcfdc11ae77cbcd3462b71c57d53697/data/Denmark/Folketing/term-2015.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/76334d30767abd9a30824b7f5cdd7da3039b21bd/data/Denmark/Folketing/term-2015.csv"
           },
           {
             "end_date": "2015-06-19",
@@ -2709,7 +2710,7 @@
             "start_date": "2011-09-15",
             "slug": "2011",
             "csv": "data/Denmark/Folketing/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/124d0df20c02663f460c1d3739f9736997a58d96/data/Denmark/Folketing/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/76334d30767abd9a30824b7f5cdd7da3039b21bd/data/Denmark/Folketing/term-2011.csv"
           },
           {
             "end_date": "2011-09-14",
@@ -2718,7 +2719,7 @@
             "start_date": "2007-11-13",
             "slug": "2007",
             "csv": "data/Denmark/Folketing/term-2007.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5ed70ce77b26226d0d5d080b6a63b16ce8920585/data/Denmark/Folketing/term-2007.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/76334d30767abd9a30824b7f5cdd7da3039b21bd/data/Denmark/Folketing/term-2007.csv"
           },
           {
             "end_date": "2007-11-12",
@@ -2727,7 +2728,7 @@
             "start_date": "2005-02-08",
             "slug": "2005",
             "csv": "data/Denmark/Folketing/term-2005.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af3384d80477b00268eca1b9480a340d9be0b84f/data/Denmark/Folketing/term-2005.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/76334d30767abd9a30824b7f5cdd7da3039b21bd/data/Denmark/Folketing/term-2005.csv"
           },
           {
             "end_date": "2005-02-07",
@@ -2736,7 +2737,7 @@
             "start_date": "2001-11-20",
             "slug": "2001",
             "csv": "data/Denmark/Folketing/term-2001.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af3384d80477b00268eca1b9480a340d9be0b84f/data/Denmark/Folketing/term-2001.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/76334d30767abd9a30824b7f5cdd7da3039b21bd/data/Denmark/Folketing/term-2001.csv"
           },
           {
             "end_date": "2001-11-19",
@@ -2766,7 +2767,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ce387b4b1dcfdc11ae77cbcd3462b71c57d53697/data/Denmark/Folketing/term-1990.csv"
           }
         ],
-        "statement_count": 29155,
+        "statement_count": 29166,
         "type": "unicameral legislature"
       }
     ]
@@ -2908,11 +2909,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Egypt/Parliament/sources",
         "popolo": "data/Egypt/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/23eae7ded66214313e79e7048d1a39cba47dbd03/data/Egypt/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bab8ea9bd3b135ae436a0694d130b19c3dbc2ed3/data/Egypt/Parliament/ep-popolo-v1.0.json",
         "names": "data/Egypt/Parliament/names.csv",
-        "lastmod": "1538669997",
+        "lastmod": "1539759450",
         "person_count": 600,
-        "sha": "23eae7ded66214313e79e7048d1a39cba47dbd03",
+        "sha": "bab8ea9bd3b135ae436a0694d130b19c3dbc2ed3",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -2923,7 +2924,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/02fc9a2f8fda520af85409a41299a95206ba3286/data/Egypt/Parliament/term-2015.csv"
           }
         ],
-        "statement_count": 8477,
+        "statement_count": 8480,
         "type": "unicameral legislature"
       }
     ]
@@ -3248,11 +3249,11 @@
         "slug": "Eduskunta",
         "sources_directory": "data/Finland/Eduskunta/sources",
         "popolo": "data/Finland/Eduskunta/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/66a179bb24b279feb553f95219de724f4058c5f2/data/Finland/Eduskunta/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6aeef1abd95a200d57bcc7615f43e8ef888a5dcd/data/Finland/Eduskunta/ep-popolo-v1.0.json",
         "names": "data/Finland/Eduskunta/names.csv",
-        "lastmod": "1539354412",
+        "lastmod": "1539751505",
         "person_count": 500,
-        "sha": "66a179bb24b279feb553f95219de724f4058c5f2",
+        "sha": "6aeef1abd95a200d57bcc7615f43e8ef888a5dcd",
         "legislative_periods": [
           {
             "id": "term/37",
@@ -3371,7 +3372,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f2b5957807cf28dd8f7c28e24ffdaf547f8fe39e/data/Finland/Eduskunta/term-25.csv"
           }
         ],
-        "statement_count": 32264,
+        "statement_count": 32276,
         "type": "unicameral legislature"
       }
     ]
@@ -3387,11 +3388,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/France/National_Assembly/sources",
         "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/47896e5ee4c6d03d011113338857f96115424d01/data/France/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/535d5cad5d87f64d384c471671b690e2347781b4/data/France/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/France/National_Assembly/names.csv",
-        "lastmod": "1539158395",
+        "lastmod": "1539776750",
         "person_count": 1552,
-        "sha": "47896e5ee4c6d03d011113338857f96115424d01",
+        "sha": "535d5cad5d87f64d384c471671b690e2347781b4",
         "legislative_periods": [
           {
             "id": "term/15",
@@ -3429,7 +3430,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/47896e5ee4c6d03d011113338857f96115424d01/data/France/National_Assembly/term-12.csv"
           }
         ],
-        "statement_count": 93944,
+        "statement_count": 93953,
         "type": "lower house"
       }
     ]
@@ -3942,11 +3943,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Greece/Parliament/sources",
         "popolo": "data/Greece/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6ed90409f675127478c58f9a03c63cfd3d4dd9de/data/Greece/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a5ad8e5d756825e20b4a52f27a89279fc1a462e2/data/Greece/Parliament/ep-popolo-v1.0.json",
         "names": "data/Greece/Parliament/names.csv",
-        "lastmod": "1539480558",
+        "lastmod": "1539754366",
         "person_count": 1783,
-        "sha": "6ed90409f675127478c58f9a03c63cfd3d4dd9de",
+        "sha": "a5ad8e5d756825e20b4a52f27a89279fc1a462e2",
         "legislative_periods": [
           {
             "id": "term/17",
@@ -4101,7 +4102,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4825f6f6d236c2e5673f4474decc55c77c2dfe17/data/Greece/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 88278,
+        "statement_count": 88297,
         "type": "unicameral legislature"
       }
     ]
@@ -4117,11 +4118,11 @@
         "slug": "Inatsisartut",
         "sources_directory": "data/Greenland/Inatsisartut/sources",
         "popolo": "data/Greenland/Inatsisartut/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f57e8122d10683b75e4682267939c9e87b6116a2/data/Greenland/Inatsisartut/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4efa5b76e4277a5bfb36a220e84d8edb09466ef/data/Greenland/Inatsisartut/ep-popolo-v1.0.json",
         "names": "data/Greenland/Inatsisartut/names.csv",
-        "lastmod": "1539617125",
+        "lastmod": "1539764570",
         "person_count": 161,
-        "sha": "f57e8122d10683b75e4682267939c9e87b6116a2",
+        "sha": "a4efa5b76e4277a5bfb36a220e84d8edb09466ef",
         "legislative_periods": [
           {
             "id": "term/12",
@@ -4231,7 +4232,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ab68272e9c69984e9891854cde86e8d3365c3123/data/Greenland/Inatsisartut/term-1.csv"
           }
         ],
-        "statement_count": 6341,
+        "statement_count": 6344,
         "type": "unicameral legislature"
       }
     ]
@@ -4478,11 +4479,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Haiti/Deputies/sources",
         "popolo": "data/Haiti/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aa62f92525015bdab4ce9bdfd1fc4ad50aee9f42/data/Haiti/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c61dc723ad78897cc69dab628650d2ec071e84b0/data/Haiti/Deputies/ep-popolo-v1.0.json",
         "names": "data/Haiti/Deputies/names.csv",
-        "lastmod": "1531711209",
+        "lastmod": "1539744367",
         "person_count": 99,
-        "sha": "aa62f92525015bdab4ce9bdfd1fc4ad50aee9f42",
+        "sha": "c61dc723ad78897cc69dab628650d2ec071e84b0",
         "legislative_periods": [
           {
             "end_date": "2015-01-12",
@@ -4494,7 +4495,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a1e6e91c50e622ece73b7db1d1c44b9beb8dd44b/data/Haiti/Deputies/term-2011.csv"
           }
         ],
-        "statement_count": 2245,
+        "statement_count": 2249,
         "type": "lower house"
       }
     ]
@@ -4510,11 +4511,11 @@
         "slug": "Congreso-Nacional",
         "sources_directory": "data/Honduras/Congreso_Nacional/sources",
         "popolo": "data/Honduras/Congreso_Nacional/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/748e4efc26b7ee68f1f3cd7a0d38bd2822690b5a/data/Honduras/Congreso_Nacional/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7a436912321f24d2b110f479d06ebf7e763f4e1c/data/Honduras/Congreso_Nacional/ep-popolo-v1.0.json",
         "names": "data/Honduras/Congreso_Nacional/names.csv",
-        "lastmod": "1537785791",
+        "lastmod": "1539682759",
         "person_count": 131,
-        "sha": "748e4efc26b7ee68f1f3cd7a0d38bd2822690b5a",
+        "sha": "7a436912321f24d2b110f479d06ebf7e763f4e1c",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -4525,7 +4526,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Honduras/Congreso_Nacional/term-8.csv"
           }
         ],
-        "statement_count": 2358,
+        "statement_count": 2367,
         "type": "unicameral legislature"
       }
     ]
@@ -4581,11 +4582,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Hungary/Assembly/sources",
         "popolo": "data/Hungary/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/47b6c064c75589dadcfed3ea66d76103c77bf8fb/data/Hungary/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/add11bfc49a7ec438c67c04c195486f961ce48ca/data/Hungary/Assembly/ep-popolo-v1.0.json",
         "names": "data/Hungary/Assembly/names.csv",
-        "lastmod": "1539121606",
+        "lastmod": "1539708703",
         "person_count": 245,
-        "sha": "47b6c064c75589dadcfed3ea66d76103c77bf8fb",
+        "sha": "add11bfc49a7ec438c67c04c195486f961ce48ca",
         "legislative_periods": [
           {
             "id": "term/41",
@@ -4605,7 +4606,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/47b6c064c75589dadcfed3ea66d76103c77bf8fb/data/Hungary/Assembly/term-40.csv"
           }
         ],
-        "statement_count": 12040,
+        "statement_count": 12043,
         "type": "unicameral legislature"
       }
     ]
@@ -4621,11 +4622,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Iceland/Assembly/sources",
         "popolo": "data/Iceland/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/748f3e2e4380026fbe48310b6b95a2daafd73e0f/data/Iceland/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d7ff9508d694aea72008c4257f88dc511d0521ba/data/Iceland/Assembly/ep-popolo-v1.0.json",
         "names": "data/Iceland/Assembly/names.csv",
-        "lastmod": "1539277999",
+        "lastmod": "1539767446",
         "person_count": 243,
-        "sha": "748f3e2e4380026fbe48310b6b95a2daafd73e0f",
+        "sha": "d7ff9508d694aea72008c4257f88dc511d0521ba",
         "legislative_periods": [
           {
             "id": "term/2017",
@@ -4699,7 +4700,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/748f3e2e4380026fbe48310b6b95a2daafd73e0f/data/Iceland/Assembly/term-1995.csv"
           }
         ],
-        "statement_count": 13366,
+        "statement_count": 13370,
         "type": "unicameral legislature"
       }
     ]
@@ -4715,11 +4716,11 @@
         "slug": "Lok-Sabha",
         "sources_directory": "data/India/Lok_Sabha/sources",
         "popolo": "data/India/Lok_Sabha/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e1fc1808a97990ecf3f912c9a034e188e8508b52/data/India/Lok_Sabha/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bd859d6f10974958e4ee5be407f3eef9cf3fcd01/data/India/Lok_Sabha/ep-popolo-v1.0.json",
         "names": "data/India/Lok_Sabha/names.csv",
-        "lastmod": "1539446636",
+        "lastmod": "1539706307",
         "person_count": 541,
-        "sha": "e1fc1808a97990ecf3f912c9a034e188e8508b52",
+        "sha": "bd859d6f10974958e4ee5be407f3eef9cf3fcd01",
         "legislative_periods": [
           {
             "id": "term/16",
@@ -4730,7 +4731,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d042af93644b9b2481c5f01f4c0e5ba01565a19f/data/India/Lok_Sabha/term-16.csv"
           }
         ],
-        "statement_count": 38556,
+        "statement_count": 38561,
         "type": "unicameral legislature"
       }
     ]
@@ -4848,11 +4849,11 @@
         "slug": "Dail",
         "sources_directory": "data/Ireland/Dail/sources",
         "popolo": "data/Ireland/Dail/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/39ddc82292558ee41adb46420bb1a87f31dcf38a/data/Ireland/Dail/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3addf708230036a1bf34fa9d3ff9e4091d5bf553/data/Ireland/Dail/ep-popolo-v1.0.json",
         "names": "data/Ireland/Dail/names.csv",
-        "lastmod": "1539488235",
+        "lastmod": "1539778742",
         "person_count": 657,
-        "sha": "39ddc82292558ee41adb46420bb1a87f31dcf38a",
+        "sha": "3addf708230036a1bf34fa9d3ff9e4091d5bf553",
         "legislative_periods": [
           {
             "id": "term/32",
@@ -4971,7 +4972,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/eb59112d9ff60210b697213646f3c25bd28ff1a4/data/Ireland/Dail/term-20.csv"
           }
         ],
-        "statement_count": 34867,
+        "statement_count": 34879,
         "type": "lower house"
       }
     ]
@@ -4987,11 +4988,11 @@
         "slug": "House-of-Keys",
         "sources_directory": "data/Isle_of_Man/House_of_Keys/sources",
         "popolo": "data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9ad241b03212c5535bcfc8d7018da6cecff08707/data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c0be8f465c19314ae33b386fd4247904d71ea230/data/Isle_of_Man/House_of_Keys/ep-popolo-v1.0.json",
         "names": "data/Isle_of_Man/House_of_Keys/names.csv",
-        "lastmod": "1534427523",
+        "lastmod": "1539759087",
         "person_count": 29,
-        "sha": "9ad241b03212c5535bcfc8d7018da6cecff08707",
+        "sha": "c0be8f465c19314ae33b386fd4247904d71ea230",
         "legislative_periods": [
           {
             "id": "term/2011",
@@ -5002,7 +5003,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Isle_of_Man/House_of_Keys/term-2011.csv"
           }
         ],
-        "statement_count": 1405,
+        "statement_count": 1409,
         "type": "lower house"
       }
     ]
@@ -5018,11 +5019,11 @@
         "slug": "Knesset",
         "sources_directory": "data/Israel/Knesset/sources",
         "popolo": "data/Israel/Knesset/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9cba123d8cc526c3f1149b2a5ee850911eb02027/data/Israel/Knesset/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fea8fe7b0e132fa2c3b5a599a82d615d838cb540/data/Israel/Knesset/ep-popolo-v1.0.json",
         "names": "data/Israel/Knesset/names.csv",
-        "lastmod": "1539351524",
+        "lastmod": "1539738598",
         "person_count": 933,
-        "sha": "9cba123d8cc526c3f1149b2a5ee850911eb02027",
+        "sha": "fea8fe7b0e132fa2c3b5a599a82d615d838cb540",
         "legislative_periods": [
           {
             "end_date": "2016-06-01",
@@ -5205,7 +5206,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95e1a97c29fbdfcbbdee354cf99ea88c25c8a9c8/data/Israel/Knesset/term-1.csv"
           }
         ],
-        "statement_count": 73062,
+        "statement_count": 73088,
         "type": "unicameral legislature"
       }
     ]
@@ -5325,11 +5326,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Japan/House_of_Representatives/sources",
         "popolo": "data/Japan/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4997157b33f4f09b9480b278a32c64a18ee029e4/data/Japan/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a25fde4309aa61cea73d6bc8827a72254b4b4ee7/data/Japan/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Japan/House_of_Representatives/names.csv",
-        "lastmod": "1539683520",
+        "lastmod": "1539741309",
         "person_count": 567,
-        "sha": "4997157b33f4f09b9480b278a32c64a18ee029e4",
+        "sha": "a25fde4309aa61cea73d6bc8827a72254b4b4ee7",
         "legislative_periods": [
           {
             "id": "term/48",
@@ -5349,7 +5350,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4997157b33f4f09b9480b278a32c64a18ee029e4/data/Japan/House_of_Representatives/term-47.csv"
           }
         ],
-        "statement_count": 41532,
+        "statement_count": 41565,
         "type": "lower house"
       }
     ]
@@ -5467,11 +5468,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Kenya/Assembly/sources",
         "popolo": "data/Kenya/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5e06740f319f09b4d1b1821a15c539c1bfabd73a/data/Kenya/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/17a0abce2bb0f863a4fbac47a55a83f789dc3f73/data/Kenya/Assembly/ep-popolo-v1.0.json",
         "names": "data/Kenya/Assembly/names.csv",
-        "lastmod": "1537801010",
+        "lastmod": "1539776239",
         "person_count": 355,
-        "sha": "5e06740f319f09b4d1b1821a15c539c1bfabd73a",
+        "sha": "17a0abce2bb0f863a4fbac47a55a83f789dc3f73",
         "legislative_periods": [
           {
             "id": "term/11",
@@ -5482,7 +5483,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5e06740f319f09b4d1b1821a15c539c1bfabd73a/data/Kenya/Assembly/term-11.csv"
           }
         ],
-        "statement_count": 11531,
+        "statement_count": 11539,
         "type": "lower house"
       }
     ]
@@ -5718,11 +5719,11 @@
         "slug": "Saeima",
         "sources_directory": "data/Latvia/Saeima/sources",
         "popolo": "data/Latvia/Saeima/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/70292bc0dea43915dcc0fa62098653fda7d1c6f5/data/Latvia/Saeima/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/93b8fc22d7c892fdc108f5c692a7caac56463cf9/data/Latvia/Saeima/ep-popolo-v1.0.json",
         "names": "data/Latvia/Saeima/names.csv",
-        "lastmod": "1539479734",
+        "lastmod": "1539737695",
         "person_count": 213,
-        "sha": "70292bc0dea43915dcc0fa62098653fda7d1c6f5",
+        "sha": "93b8fc22d7c892fdc108f5c692a7caac56463cf9",
         "legislative_periods": [
           {
             "id": "term/12",
@@ -5751,7 +5752,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1fc6fe3431cf2fed514576af94ccc6a9a7ee7935/data/Latvia/Saeima/term-10.csv"
           }
         ],
-        "statement_count": 11758,
+        "statement_count": 11778,
         "type": "unicameral legislature"
       }
     ]
@@ -5767,11 +5768,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Lebanon/Parliament/sources",
         "popolo": "data/Lebanon/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/25a49db313e9e8e66d7d0050894de20bc48f8098/data/Lebanon/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fce48a74255fbe95b4abe55603e6ffe66822e184/data/Lebanon/Parliament/ep-popolo-v1.0.json",
         "names": "data/Lebanon/Parliament/names.csv",
-        "lastmod": "1539023965",
+        "lastmod": "1539685607",
         "person_count": 130,
-        "sha": "25a49db313e9e8e66d7d0050894de20bc48f8098",
+        "sha": "fce48a74255fbe95b4abe55603e6ffe66822e184",
         "legislative_periods": [
           {
             "end_date": "2017-06-20",
@@ -5783,7 +5784,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e5fc4d78295077c30f7a1a7ed0e40e8187d75a9c/data/Lebanon/Parliament/term-2009.csv"
           }
         ],
-        "statement_count": 8264,
+        "statement_count": 8271,
         "type": "unicameral legislature"
       }
     ]
@@ -5959,11 +5960,11 @@
         "slug": "Seimas",
         "sources_directory": "data/Lithuania/Seimas/sources",
         "popolo": "data/Lithuania/Seimas/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0e7952d85074c082c555ccfa8a0c60fcdbc1435/data/Lithuania/Seimas/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/43906e253e56d000aed5cdf5d453023160003707/data/Lithuania/Seimas/ep-popolo-v1.0.json",
         "names": "data/Lithuania/Seimas/names.csv",
-        "lastmod": "1538114403",
+        "lastmod": "1539709304",
         "person_count": 150,
-        "sha": "a0e7952d85074c082c555ccfa8a0c60fcdbc1435",
+        "sha": "43906e253e56d000aed5cdf5d453023160003707",
         "legislative_periods": [
           {
             "end_date": "2016-11-10",
@@ -5975,7 +5976,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f6441cce7b66546581a36a9115cd6a4233544bd3/data/Lithuania/Seimas/term-11.csv"
           }
         ],
-        "statement_count": 7551,
+        "statement_count": 7553,
         "type": "unicameral legislature"
       }
     ]
@@ -6148,11 +6149,11 @@
         "slug": "Dewan-Rakyat",
         "sources_directory": "data/Malaysia/Dewan_Rakyat/sources",
         "popolo": "data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f2a34f96aa79dc0096f3e92835b7e16a0b0bec4/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f7a5ee407376c2695309df37f55b49d816af8074/data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json",
         "names": "data/Malaysia/Dewan_Rakyat/names.csv",
-        "lastmod": "1539345798",
+        "lastmod": "1539754867",
         "person_count": 1121,
-        "sha": "3f2a34f96aa79dc0096f3e92835b7e16a0b0bec4",
+        "sha": "f7a5ee407376c2695309df37f55b49d816af8074",
         "legislative_periods": [
           {
             "end_date": "2018-04-07",
@@ -6272,7 +6273,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1bb22a4e3df4c2db42b8efd5d027e80bd597a3e1/data/Malaysia/Dewan_Rakyat/term-1.csv"
           }
         ],
-        "statement_count": 42610,
+        "statement_count": 42619,
         "type": "lower house"
       }
     ]
@@ -6288,11 +6289,11 @@
         "slug": "Majlis",
         "sources_directory": "data/Maldives/Majlis/sources",
         "popolo": "data/Maldives/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2c944d29ab81dc64af9470b15ba8b7a95537a22a/data/Maldives/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/18ce56b0461c41447f85e1d2fd0698a760e61e90/data/Maldives/Majlis/ep-popolo-v1.0.json",
         "names": "data/Maldives/Majlis/names.csv",
-        "lastmod": "1538926867",
+        "lastmod": "1539731881",
         "person_count": 85,
-        "sha": "2c944d29ab81dc64af9470b15ba8b7a95537a22a",
+        "sha": "18ce56b0461c41447f85e1d2fd0698a760e61e90",
         "legislative_periods": [
           {
             "id": "term/2014",
@@ -6303,7 +6304,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/21d690a3a4cace2c74df57f4f13119e63b01119e/data/Maldives/Majlis/term-2014.csv"
           }
         ],
-        "statement_count": 1881,
+        "statement_count": 1883,
         "type": "unicameral legislature"
       }
     ]
@@ -6319,11 +6320,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Mali/Assembly/sources",
         "popolo": "data/Mali/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8655acd5b1cf9aec45001b7fecd2ea0cbd3c5e9d/data/Mali/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8ff62140613bddf35fe1be7fb271ff1f916d4fcb/data/Mali/Assembly/ep-popolo-v1.0.json",
         "names": "data/Mali/Assembly/names.csv",
-        "lastmod": "1538453011",
+        "lastmod": "1539743266",
         "person_count": 142,
-        "sha": "8655acd5b1cf9aec45001b7fecd2ea0cbd3c5e9d",
+        "sha": "8ff62140613bddf35fe1be7fb271ff1f916d4fcb",
         "legislative_periods": [
           {
             "id": "term/2014",
@@ -6334,7 +6335,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Mali/Assembly/term-2014.csv"
           }
         ],
-        "statement_count": 2947,
+        "statement_count": 2951,
         "type": "unicameral legislature"
       }
     ]
@@ -6390,11 +6391,11 @@
         "slug": "Nitijela",
         "sources_directory": "data/Marshall_Islands/Nitijela/sources",
         "popolo": "data/Marshall_Islands/Nitijela/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5aacc8155afd0f63a9caff86f63cdc6bb92e948f/data/Marshall_Islands/Nitijela/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/62b8fd28aff11a06aec84e14c4c70edd23add728/data/Marshall_Islands/Nitijela/ep-popolo-v1.0.json",
         "names": "data/Marshall_Islands/Nitijela/names.csv",
-        "lastmod": "1533088797",
+        "lastmod": "1539677623",
         "person_count": 33,
-        "sha": "5aacc8155afd0f63a9caff86f63cdc6bb92e948f",
+        "sha": "62b8fd28aff11a06aec84e14c4c70edd23add728",
         "legislative_periods": [
           {
             "end_date": "2015-11-30",
@@ -6406,7 +6407,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Marshall_Islands/Nitijela/term-2012.csv"
           }
         ],
-        "statement_count": 1160,
+        "statement_count": 1164,
         "type": "unicameral legislature"
       }
     ]
@@ -6525,11 +6526,11 @@
         "slug": "Congress",
         "sources_directory": "data/Micronesia/Congress/sources",
         "popolo": "data/Micronesia/Congress/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/04eaade6b91c2b299d72282928b3bfa5c416cc3a/data/Micronesia/Congress/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fb1a0754351616e66afd85973e4a538820547aef/data/Micronesia/Congress/ep-popolo-v1.0.json",
         "names": "data/Micronesia/Congress/names.csv",
-        "lastmod": "1537790161",
+        "lastmod": "1539782826",
         "person_count": 24,
-        "sha": "04eaade6b91c2b299d72282928b3bfa5c416cc3a",
+        "sha": "fb1a0754351616e66afd85973e4a538820547aef",
         "legislative_periods": [
           {
             "id": "term/19",
@@ -6558,7 +6559,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Micronesia/Congress/term-17.csv"
           }
         ],
-        "statement_count": 1336,
+        "statement_count": 1340,
         "type": "unicameral legislature"
       }
     ]
@@ -6574,11 +6575,11 @@
         "slug": "Parlamentul",
         "sources_directory": "data/Moldova/Parlamentul/sources",
         "popolo": "data/Moldova/Parlamentul/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e15c6a56a224bce0f9912d2f01f70a50d0638db1/data/Moldova/Parlamentul/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/61a943d067661a1e39f1acd1a5f1e0209b4212e9/data/Moldova/Parlamentul/ep-popolo-v1.0.json",
         "names": "data/Moldova/Parlamentul/names.csv",
-        "lastmod": "1538900161",
+        "lastmod": "1539699967",
         "person_count": 129,
-        "sha": "e15c6a56a224bce0f9912d2f01f70a50d0638db1",
+        "sha": "61a943d067661a1e39f1acd1a5f1e0209b4212e9",
         "legislative_periods": [
           {
             "id": "term/2014",
@@ -6589,7 +6590,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f7218f4de0f7b43e70b281439dd9fdd00e9c4e05/data/Moldova/Parlamentul/term-2014.csv"
           }
         ],
-        "statement_count": 5745,
+        "statement_count": 5753,
         "type": "unicameral legislature"
       }
     ]
@@ -7053,11 +7054,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Nauru/Parliament/sources",
         "popolo": "data/Nauru/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f992ec14e2ca90e8f66a039623abe6acda50fc8f/data/Nauru/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/84d082b5af82f9b6ac0b1539d92b50d45311ea22/data/Nauru/Parliament/ep-popolo-v1.0.json",
         "names": "data/Nauru/Parliament/names.csv",
-        "lastmod": "1534992094",
+        "lastmod": "1539649554",
         "person_count": 34,
-        "sha": "f992ec14e2ca90e8f66a039623abe6acda50fc8f",
+        "sha": "84d082b5af82f9b6ac0b1539d92b50d45311ea22",
         "legislative_periods": [
           {
             "id": "term/22",
@@ -7095,7 +7096,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Nauru/Parliament/term-19.csv"
           }
         ],
-        "statement_count": 2220,
+        "statement_count": 2230,
         "type": "unicameral legislature"
       }
     ]
@@ -7111,11 +7112,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Nepal/Assembly/sources",
         "popolo": "data/Nepal/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/557c9e7c22cbe1f8c23cd75d6353752c04b480e5/data/Nepal/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/26986ab304dbbddc11fac0f1233772777a2cdf38/data/Nepal/Assembly/ep-popolo-v1.0.json",
         "names": "data/Nepal/Assembly/names.csv",
-        "lastmod": "1538971955",
+        "lastmod": "1539770954",
         "person_count": 550,
-        "sha": "557c9e7c22cbe1f8c23cd75d6353752c04b480e5",
+        "sha": "26986ab304dbbddc11fac0f1233772777a2cdf38",
         "legislative_periods": [
           {
             "id": "term/ca2",
@@ -7126,7 +7127,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Nepal/Assembly/term-ca2.csv"
           }
         ],
-        "statement_count": 13442,
+        "statement_count": 13452,
         "type": "unicameral legislature"
       }
     ]
@@ -7213,11 +7214,11 @@
         "slug": "House",
         "sources_directory": "data/New_Zealand/House/sources",
         "popolo": "data/New_Zealand/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/eadedd2d6dbaeb16c8cc02d1a758fe092543f1fa/data/New_Zealand/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d40c4f6be8d9ef87cadf0337411d5d73b0ec2d1d/data/New_Zealand/House/ep-popolo-v1.0.json",
         "names": "data/New_Zealand/House/names.csv",
-        "lastmod": "1539235812",
+        "lastmod": "1539748811",
         "person_count": 266,
-        "sha": "eadedd2d6dbaeb16c8cc02d1a758fe092543f1fa",
+        "sha": "d40c4f6be8d9ef87cadf0337411d5d73b0ec2d1d",
         "legislative_periods": [
           {
             "id": "term/52",
@@ -7264,7 +7265,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7b6beec95f93647ea43c1160192041b9816aca58/data/New_Zealand/House/term-48.csv"
           }
         ],
-        "statement_count": 15470,
+        "statement_count": 15474,
         "type": "unicameral legislature"
       }
     ]
@@ -7531,11 +7532,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Northern_Ireland/Assembly/sources",
         "popolo": "data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/606483e4e137101d9c693850868815d331e7f10b/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/76592e70f9506b787b46282e077afb6417a6460a/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
         "names": "data/Northern_Ireland/Assembly/names.csv",
-        "lastmod": "1539429406",
+        "lastmod": "1539750670",
         "person_count": 283,
-        "sha": "606483e4e137101d9c693850868815d331e7f10b",
+        "sha": "76592e70f9506b787b46282e077afb6417a6460a",
         "legislative_periods": [
           {
             "id": "term/6",
@@ -7591,7 +7592,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a8d5e5a2dff88ef7300e103c279888d51f0c930f/data/Northern_Ireland/Assembly/term-1.csv"
           }
         ],
-        "statement_count": 15096,
+        "statement_count": 15104,
         "type": "unicameral legislature"
       }
     ]
@@ -7607,11 +7608,11 @@
         "slug": "House",
         "sources_directory": "data/Northern_Mariana_Islands/House/sources",
         "popolo": "data/Northern_Mariana_Islands/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/82f1a0b16969e021e3e03f6d9605c1752a05cec3/data/Northern_Mariana_Islands/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/19e262fd87094e1ab6cf9ec19ebeb41c24572f20/data/Northern_Mariana_Islands/House/ep-popolo-v1.0.json",
         "names": "data/Northern_Mariana_Islands/House/names.csv",
-        "lastmod": "1531676529",
+        "lastmod": "1539647538",
         "person_count": 20,
-        "sha": "82f1a0b16969e021e3e03f6d9605c1752a05cec3",
+        "sha": "19e262fd87094e1ab6cf9ec19ebeb41c24572f20",
         "legislative_periods": [
           {
             "id": "term/19",
@@ -7622,7 +7623,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/31a469101fd5d1b3c38cbc612746ac3930ccdd2e/data/Northern_Mariana_Islands/House/term-19.csv"
           }
         ],
-        "statement_count": 1053,
+        "statement_count": 1057,
         "type": "lower house"
       }
     ]
@@ -7638,11 +7639,11 @@
         "slug": "Storting",
         "sources_directory": "data/Norway/Storting/sources",
         "popolo": "data/Norway/Storting/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bb488090657abd124a835dbbc56bf426d48d1455/data/Norway/Storting/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9f8615708c32134cfa7ddbbdffec40746a80fee3/data/Norway/Storting/ep-popolo-v1.0.json",
         "names": "data/Norway/Storting/names.csv",
-        "lastmod": "1539601937",
+        "lastmod": "1539747162",
         "person_count": 1209,
-        "sha": "bb488090657abd124a835dbbc56bf426d48d1455",
+        "sha": "9f8615708c32134cfa7ddbbdffec40746a80fee3",
         "legislative_periods": [
           {
             "id": "term/2017-2021",
@@ -7815,7 +7816,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9e5533aea3a4b3b5051079f459e9bac448256021/data/Norway/Storting/term-1945-49.csv"
           }
         ],
-        "statement_count": 58057,
+        "statement_count": 58066,
         "type": "unicameral legislature"
       }
     ]
@@ -7831,11 +7832,11 @@
         "slug": "Majlis",
         "sources_directory": "data/Oman/Majlis/sources",
         "popolo": "data/Oman/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a6a0b42f5de8e226bf142092662eb939394c4d42/data/Oman/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3b4dc1573174fae02a83ab3272567a4cf2c9f3ea/data/Oman/Majlis/ep-popolo-v1.0.json",
         "names": "data/Oman/Majlis/names.csv",
-        "lastmod": "1533520999",
+        "lastmod": "1539711206",
         "person_count": 84,
-        "sha": "a6a0b42f5de8e226bf142092662eb939394c4d42",
+        "sha": "3b4dc1573174fae02a83ab3272567a4cf2c9f3ea",
         "legislative_periods": [
           {
             "end_date": "2015-10-28",
@@ -7847,7 +7848,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Oman/Majlis/term-7.csv"
           }
         ],
-        "statement_count": 1776,
+        "statement_count": 1780,
         "type": "lower house"
       }
     ]
@@ -7863,11 +7864,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Pakistan/Assembly/sources",
         "popolo": "data/Pakistan/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e7e0c91f97188d424acfcd7c040449676399c0d5/data/Pakistan/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d158bbe78fd43e3c8e55d638e2531c54b3deb16b/data/Pakistan/Assembly/ep-popolo-v1.0.json",
         "names": "data/Pakistan/Assembly/names.csv",
-        "lastmod": "1539359343",
+        "lastmod": "1539718675",
         "person_count": 352,
-        "sha": "e7e0c91f97188d424acfcd7c040449676399c0d5",
+        "sha": "d158bbe78fd43e3c8e55d638e2531c54b3deb16b",
         "legislative_periods": [
           {
             "end_date": "2018-07-25",
@@ -7879,7 +7880,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8896876ff4a131c92b5e70d4c8fa0279d49cf791/data/Pakistan/Assembly/term-14.csv"
           }
         ],
-        "statement_count": 15117,
+        "statement_count": 15143,
         "type": "lower house"
       }
     ]
@@ -7895,11 +7896,11 @@
         "slug": "House-of-Delegates",
         "sources_directory": "data/Palau/House_of_Delegates/sources",
         "popolo": "data/Palau/House_of_Delegates/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6627c65db9b9d3598ec13d91adedb5c5cf8afe31/data/Palau/House_of_Delegates/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f650f128b0622e51f971a174ae3f63134922f33f/data/Palau/House_of_Delegates/ep-popolo-v1.0.json",
         "names": "data/Palau/House_of_Delegates/names.csv",
-        "lastmod": "1531774146",
+        "lastmod": "1539652689",
         "person_count": 16,
-        "sha": "6627c65db9b9d3598ec13d91adedb5c5cf8afe31",
+        "sha": "f650f128b0622e51f971a174ae3f63134922f33f",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -7910,7 +7911,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Palau/House_of_Delegates/term-2012.csv"
           }
         ],
-        "statement_count": 878,
+        "statement_count": 882,
         "type": "lower house"
       }
     ]
@@ -7957,11 +7958,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Papua_New_Guinea/Parliament/sources",
         "popolo": "data/Papua_New_Guinea/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c841fb229d5b9b70ec7e6cc925485853fa322c51/data/Papua_New_Guinea/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e163b15657012673f1e02cc1b7a1bd3cb4d04aaa/data/Papua_New_Guinea/Parliament/ep-popolo-v1.0.json",
         "names": "data/Papua_New_Guinea/Parliament/names.csv",
-        "lastmod": "1533173004",
+        "lastmod": "1539710656",
         "person_count": 111,
-        "sha": "c841fb229d5b9b70ec7e6cc925485853fa322c51",
+        "sha": "e163b15657012673f1e02cc1b7a1bd3cb4d04aaa",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -7972,7 +7973,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Papua_New_Guinea/Parliament/term-2012.csv"
           }
         ],
-        "statement_count": 3822,
+        "statement_count": 3826,
         "type": "unicameral legislature"
       }
     ]
@@ -7988,11 +7989,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Paraguay/Deputies/sources",
         "popolo": "data/Paraguay/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e8f23b6bc736d1fae1e59ecafb4cad935b50804d/data/Paraguay/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e95f4b82b7faf17e90f7bf047f3d1043dcbe6f43/data/Paraguay/Deputies/ep-popolo-v1.0.json",
         "names": "data/Paraguay/Deputies/names.csv",
-        "lastmod": "1539328969",
+        "lastmod": "1539668676",
         "person_count": 137,
-        "sha": "e8f23b6bc736d1fae1e59ecafb4cad935b50804d",
+        "sha": "e95f4b82b7faf17e90f7bf047f3d1043dcbe6f43",
         "legislative_periods": [
           {
             "id": "term/2018",
@@ -8012,7 +8013,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1303eb3f7767cfa82f880e68949d7d171e185101/data/Paraguay/Deputies/term-2013.csv"
           }
         ],
-        "statement_count": 3622,
+        "statement_count": 3626,
         "type": "lower house"
       }
     ]
@@ -8028,11 +8029,11 @@
         "slug": "Congreso",
         "sources_directory": "data/Peru/Congreso/sources",
         "popolo": "data/Peru/Congreso/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/21d5abaa23cf44c85169dde898f365a157471154/data/Peru/Congreso/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fac2748974851da36e9587ab9b8e95d0019687c8/data/Peru/Congreso/ep-popolo-v1.0.json",
         "names": "data/Peru/Congreso/names.csv",
-        "lastmod": "1539449702",
+        "lastmod": "1539679763",
         "person_count": 127,
-        "sha": "21d5abaa23cf44c85169dde898f365a157471154",
+        "sha": "fac2748974851da36e9587ab9b8e95d0019687c8",
         "legislative_periods": [
           {
             "end_date": "2016-07-26",
@@ -8044,7 +8045,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0931052added484f5012f44f7aaa1026bef2338f/data/Peru/Congreso/term-2011.csv"
           }
         ],
-        "statement_count": 5637,
+        "statement_count": 5643,
         "type": "unicameral legislature"
       }
     ]
@@ -8060,11 +8061,11 @@
         "slug": "House",
         "sources_directory": "data/Philippines/House/sources",
         "popolo": "data/Philippines/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/595a2705dec25cb4d769ff2f3a4ba00a4c99b95d/data/Philippines/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2032af944ae74703455cccf924e607444a889afa/data/Philippines/House/ep-popolo-v1.0.json",
         "names": "data/Philippines/House/names.csv",
-        "lastmod": "1539409387",
+        "lastmod": "1539732509",
         "person_count": 436,
-        "sha": "595a2705dec25cb4d769ff2f3a4ba00a4c99b95d",
+        "sha": "2032af944ae74703455cccf924e607444a889afa",
         "legislative_periods": [
           {
             "id": "term/17",
@@ -8084,7 +8085,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ec011af217268a18249581b35817f6719e349f05/data/Philippines/House/term-16.csv"
           }
         ],
-        "statement_count": 10928,
+        "statement_count": 10938,
         "type": "lower house"
       }
     ]
@@ -8100,11 +8101,11 @@
         "slug": "Island-Council",
         "sources_directory": "data/Pitcairn/Island_Council/sources",
         "popolo": "data/Pitcairn/Island_Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c808d577caa5b6ea15e7a0ba34328012ba39e994/data/Pitcairn/Island_Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d291cf9ffc5bce0e7905141fdb05302c88451baa/data/Pitcairn/Island_Council/ep-popolo-v1.0.json",
         "names": "data/Pitcairn/Island_Council/names.csv",
-        "lastmod": "1536521823",
+        "lastmod": "1539739937",
         "person_count": 12,
-        "sha": "c808d577caa5b6ea15e7a0ba34328012ba39e994",
+        "sha": "d291cf9ffc5bce0e7905141fdb05302c88451baa",
         "legislative_periods": [
           {
             "id": "term/2013",
@@ -8133,7 +8134,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Pitcairn/Island_Council/term-2009.csv"
           }
         ],
-        "statement_count": 835,
+        "statement_count": 839,
         "type": "unicameral legislature"
       }
     ]
@@ -8149,11 +8150,11 @@
         "slug": "Sejm",
         "sources_directory": "data/Poland/Sejm/sources",
         "popolo": "data/Poland/Sejm/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c7539bb9e5160f180f40725e76e1221c1dba016d/data/Poland/Sejm/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0188cb0945f111571ec5bbb3087b5f2497025e9f/data/Poland/Sejm/ep-popolo-v1.0.json",
         "names": "data/Poland/Sejm/names.csv",
-        "lastmod": "1539334961",
+        "lastmod": "1539732140",
         "person_count": 2181,
-        "sha": "c7539bb9e5160f180f40725e76e1221c1dba016d",
+        "sha": "0188cb0945f111571ec5bbb3087b5f2497025e9f",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -8227,7 +8228,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fd5336079894839fc787b9d4009290bf0f7f3682/data/Poland/Sejm/term-1.csv"
           }
         ],
-        "statement_count": 76450,
+        "statement_count": 76465,
         "type": "lower house"
       }
     ]
@@ -8413,11 +8414,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Romania/Deputies/sources",
         "popolo": "data/Romania/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/06ccb84dfb9ff003a55152f4f80802f1d748b403/data/Romania/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8fa6a735340340e0e966a9751a295389dc269927/data/Romania/Deputies/ep-popolo-v1.0.json",
         "names": "data/Romania/Deputies/names.csv",
-        "lastmod": "1539599157",
+        "lastmod": "1539705995",
         "person_count": 648,
-        "sha": "06ccb84dfb9ff003a55152f4f80802f1d748b403",
+        "sha": "8fa6a735340340e0e966a9751a295389dc269927",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -8437,7 +8438,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0fdc6b48c837c2ceca4c1193b39d12a27fa4e3ba/data/Romania/Deputies/term-7.csv"
           }
         ],
-        "statement_count": 28706,
+        "statement_count": 28711,
         "type": "lower house"
       }
     ]
@@ -8453,11 +8454,11 @@
         "slug": "Duma",
         "sources_directory": "data/Russia/Duma/sources",
         "popolo": "data/Russia/Duma/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aa33b1c980fbbe042931487cc3d3d2479daa8ce0/data/Russia/Duma/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af818da3f79b36750e1c6773f66097840b401bb1/data/Russia/Duma/ep-popolo-v1.0.json",
         "names": "data/Russia/Duma/names.csv",
-        "lastmod": "1539532186",
+        "lastmod": "1539746270",
         "person_count": 700,
-        "sha": "aa33b1c980fbbe042931487cc3d3d2479daa8ce0",
+        "sha": "af818da3f79b36750e1c6773f66097840b401bb1",
         "legislative_periods": [
           {
             "id": "term/7",
@@ -8477,7 +8478,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f4e6430256f1a279e31ec24dd7bc41c89a73fd51/data/Russia/Duma/term-6.csv"
           }
         ],
-        "statement_count": 32451,
+        "statement_count": 32455,
         "type": "lower house"
       }
     ]
@@ -8681,11 +8682,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Saint_Lucia/Assembly/sources",
         "popolo": "data/Saint_Lucia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7d12d1976db7dd5df3ab152f9f1ad4b8b4eb5656/data/Saint_Lucia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1003327147200d3734d048897cc19aad49897877/data/Saint_Lucia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Saint_Lucia/Assembly/names.csv",
-        "lastmod": "1536547023",
+        "lastmod": "1539740180",
         "person_count": 30,
-        "sha": "7d12d1976db7dd5df3ab152f9f1ad4b8b4eb5656",
+        "sha": "1003327147200d3734d048897cc19aad49897877",
         "legislative_periods": [
           {
             "id": "term/10",
@@ -8714,7 +8715,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Saint_Lucia/Assembly/term-8.csv"
           }
         ],
-        "statement_count": 1853,
+        "statement_count": 1857,
         "type": "lower house"
       }
     ]
@@ -9020,11 +9021,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Scotland/Parliament/sources",
         "popolo": "data/Scotland/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/38fd155c9983a15f5df6518389a54f89576140f4/data/Scotland/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cfcc24b5cf383391c82cb741da1faee17fe3f064/data/Scotland/Parliament/ep-popolo-v1.0.json",
         "names": "data/Scotland/Parliament/names.csv",
-        "lastmod": "1539510631",
+        "lastmod": "1539743627",
         "person_count": 305,
-        "sha": "38fd155c9983a15f5df6518389a54f89576140f4",
+        "sha": "cfcc24b5cf383391c82cb741da1faee17fe3f064",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -9071,7 +9072,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3376a09ded96b13552f8f408ba2c2998b1570198/data/Scotland/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 16520,
+        "statement_count": 16528,
         "type": "unicameral legislature"
       }
     ]
@@ -9220,11 +9221,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Singapore/Parliament/sources",
         "popolo": "data/Singapore/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a7035da14fb05d9f5f997383e315c97447bbb382/data/Singapore/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e874651088825d24a18984c2b0885ae913277b6a/data/Singapore/Parliament/ep-popolo-v1.0.json",
         "names": "data/Singapore/Parliament/names.csv",
-        "lastmod": "1539466141",
+        "lastmod": "1539787123",
         "person_count": 403,
-        "sha": "a7035da14fb05d9f5f997383e315c97447bbb382",
+        "sha": "e874651088825d24a18984c2b0885ae913277b6a",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -9343,7 +9344,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Singapore/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 15546,
+        "statement_count": 15552,
         "type": "unicameral legislature"
       }
     ]
@@ -9359,11 +9360,11 @@
         "slug": "Estates",
         "sources_directory": "data/Sint_Maarten/Estates/sources",
         "popolo": "data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f4df5ff11508e80a148afe1799734ea21b77ab69/data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e08e403359637b3227a0d7dacfbf7a3f8a471ca0/data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
         "names": "data/Sint_Maarten/Estates/names.csv",
-        "lastmod": "1537801114",
+        "lastmod": "1539738751",
         "person_count": 29,
-        "sha": "f4df5ff11508e80a148afe1799734ea21b77ab69",
+        "sha": "e08e403359637b3227a0d7dacfbf7a3f8a471ca0",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -9392,7 +9393,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f4df5ff11508e80a148afe1799734ea21b77ab69/data/Sint_Maarten/Estates/term-2.csv"
           }
         ],
-        "statement_count": 1371,
+        "statement_count": 1375,
         "type": "unicameral legislature"
       }
     ]
@@ -9408,11 +9409,11 @@
         "slug": "National-Council",
         "sources_directory": "data/Slovakia/National_Council/sources",
         "popolo": "data/Slovakia/National_Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6a3005d065b5ce680612a05674a913aaf09ea06e/data/Slovakia/National_Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f18e3e5670b3b09ab349c187441f0725d6d0f94d/data/Slovakia/National_Council/ep-popolo-v1.0.json",
         "names": "data/Slovakia/National_Council/names.csv",
-        "lastmod": "1539596520",
+        "lastmod": "1539709448",
         "person_count": 606,
-        "sha": "6a3005d065b5ce680612a05674a913aaf09ea06e",
+        "sha": "f18e3e5670b3b09ab349c187441f0725d6d0f94d",
         "legislative_periods": [
           {
             "id": "term/7",
@@ -9468,7 +9469,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/34d4f38e1fc8d0be0dcf03b0944767b1b4fd87e5/data/Slovakia/National_Council/term-2.csv"
           }
         ],
-        "statement_count": 35690,
+        "statement_count": 35692,
         "type": "unicameral legislature"
       }
     ]
@@ -9617,11 +9618,11 @@
         "slug": "Assembly",
         "sources_directory": "data/South_Africa/Assembly/sources",
         "popolo": "data/South_Africa/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/207a1c4ecf340423135484f1cb7e26da0ea128bb/data/South_Africa/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95bc88ff2d8693a78bd8ed14dd8c2a5a78c962d1/data/South_Africa/Assembly/ep-popolo-v1.0.json",
         "names": "data/South_Africa/Assembly/names.csv",
-        "lastmod": "1539252222",
-        "person_count": 494,
-        "sha": "207a1c4ecf340423135484f1cb7e26da0ea128bb",
+        "lastmod": "1539774252",
+        "person_count": 495,
+        "sha": "95bc88ff2d8693a78bd8ed14dd8c2a5a78c962d1",
         "legislative_periods": [
           {
             "id": "term/26",
@@ -9629,10 +9630,10 @@
             "start_date": "2014-05-21",
             "slug": "26",
             "csv": "data/South_Africa/Assembly/term-26.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71d4c198fcc5200ad7babc261edcbdf99be00588/data/South_Africa/Assembly/term-26.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/95bc88ff2d8693a78bd8ed14dd8c2a5a78c962d1/data/South_Africa/Assembly/term-26.csv"
           }
         ],
-        "statement_count": 14844,
+        "statement_count": 14888,
         "type": "lower house"
       }
     ]
@@ -9750,11 +9751,11 @@
         "slug": "Congress",
         "sources_directory": "data/Spain/Congress/sources",
         "popolo": "data/Spain/Congress/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7522cf73bd1c2648aeb8c691aed329ceada9e097/data/Spain/Congress/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f6c6fd099839617a6477feb43994ca7fc6bb439c/data/Spain/Congress/ep-popolo-v1.0.json",
         "names": "data/Spain/Congress/names.csv",
-        "lastmod": "1539146628",
+        "lastmod": "1539778135",
         "person_count": 621,
-        "sha": "7522cf73bd1c2648aeb8c691aed329ceada9e097",
+        "sha": "f6c6fd099839617a6477feb43994ca7fc6bb439c",
         "legislative_periods": [
           {
             "end_date": "2016-05-03",
@@ -9775,7 +9776,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4469e53e6e80868df5a10323e5ddb1dd243c547c/data/Spain/Congress/term-10.csv"
           }
         ],
-        "statement_count": 30306,
+        "statement_count": 30311,
         "type": "unicameral legislature"
       }
     ]
@@ -9902,11 +9903,11 @@
         "slug": "Riksdag",
         "sources_directory": "data/Sweden/Riksdag/sources",
         "popolo": "data/Sweden/Riksdag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af247f4bc060b2b458de97024517b963b81a35f0/data/Sweden/Riksdag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2fa059be7343e9f9fb0e36daed9a93e0de34d0eb/data/Sweden/Riksdag/ep-popolo-v1.0.json",
         "names": "data/Sweden/Riksdag/names.csv",
-        "lastmod": "1539532907",
+        "lastmod": "1539687101",
         "person_count": 1759,
-        "sha": "af247f4bc060b2b458de97024517b963b81a35f0",
+        "sha": "2fa059be7343e9f9fb0e36daed9a93e0de34d0eb",
         "legislative_periods": [
           {
             "id": "term/2018",
@@ -10025,7 +10026,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/405f90e48045abb575ad8d3437bf7f0446afc999/data/Sweden/Riksdag/term-1976.csv"
           }
         ],
-        "statement_count": 84699,
+        "statement_count": 84705,
         "type": "unicameral legislature"
       }
     ]
@@ -10041,11 +10042,11 @@
         "slug": "National-Council",
         "sources_directory": "data/Switzerland/National_Council/sources",
         "popolo": "data/Switzerland/National_Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0d242e8cb22ac1a89e2c33d5808457e071cec805/data/Switzerland/National_Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1476dbbeb87b71520ad5c79b978a3c7068f2a30d/data/Switzerland/National_Council/ep-popolo-v1.0.json",
         "names": "data/Switzerland/National_Council/names.csv",
-        "lastmod": "1539115479",
+        "lastmod": "1539742900",
         "person_count": 1234,
-        "sha": "0d242e8cb22ac1a89e2c33d5808457e071cec805",
+        "sha": "1476dbbeb87b71520ad5c79b978a3c7068f2a30d",
         "legislative_periods": [
           {
             "id": "term/50",
@@ -10062,7 +10063,7 @@
             "start_date": "2011-12-05",
             "slug": "49",
             "csv": "data/Switzerland/National_Council/term-49.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e37fd0f893baf91be0d91b03520dc9c254fec778/data/Switzerland/National_Council/term-49.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1476dbbeb87b71520ad5c79b978a3c7068f2a30d/data/Switzerland/National_Council/term-49.csv"
           },
           {
             "end_date": "2011-12-02",
@@ -10071,7 +10072,7 @@
             "start_date": "2007-12-03",
             "slug": "48",
             "csv": "data/Switzerland/National_Council/term-48.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e37fd0f893baf91be0d91b03520dc9c254fec778/data/Switzerland/National_Council/term-48.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1476dbbeb87b71520ad5c79b978a3c7068f2a30d/data/Switzerland/National_Council/term-48.csv"
           },
           {
             "end_date": "2007-11-30",
@@ -10173,7 +10174,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8735be8c732662d1af778ad46e2688b457b43630/data/Switzerland/National_Council/term-37.csv"
           }
         ],
-        "statement_count": 50970,
+        "statement_count": 50984,
         "type": "lower house"
       }
     ]
@@ -10292,11 +10293,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Tanzania/Assembly/sources",
         "popolo": "data/Tanzania/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/99e6dd4407fa3e4cb13f5829fcb5ac469938a000/data/Tanzania/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af3cb9658b009cde7e114c600f8011a52dcb771b/data/Tanzania/Assembly/ep-popolo-v1.0.json",
         "names": "data/Tanzania/Assembly/names.csv",
-        "lastmod": "1539496479",
+        "lastmod": "1539733037",
         "person_count": 906,
-        "sha": "99e6dd4407fa3e4cb13f5829fcb5ac469938a000",
+        "sha": "af3cb9658b009cde7e114c600f8011a52dcb771b",
         "legislative_periods": [
           {
             "id": "term/11",
@@ -10334,7 +10335,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e54e042b376aea0bb3777bbaab4a4d605ef387ef/data/Tanzania/Assembly/term-8.csv"
           }
         ],
-        "statement_count": 30271,
+        "statement_count": 30278,
         "type": "unicameral legislature"
       }
     ]
@@ -10350,11 +10351,11 @@
         "slug": "National-Legislative-Assembly",
         "sources_directory": "data/Thailand/National_Legislative_Assembly/sources",
         "popolo": "data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1fb6ebffc826ed2d8e3b714b8daadac3eb866efc/data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/45239047a1af1da749bceb43e12885b1c8cfb20c/data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json",
         "names": "data/Thailand/National_Legislative_Assembly/names.csv",
-        "lastmod": "1538946609",
+        "lastmod": "1539692868",
         "person_count": 273,
-        "sha": "1fb6ebffc826ed2d8e3b714b8daadac3eb866efc",
+        "sha": "45239047a1af1da749bceb43e12885b1c8cfb20c",
         "legislative_periods": [
           {
             "id": "term/2557",
@@ -10365,7 +10366,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f11baf26fe3a89ae121fc8d797301c2f7d64fe04/data/Thailand/National_Legislative_Assembly/term-2557.csv"
           }
         ],
-        "statement_count": 4485,
+        "statement_count": 4488,
         "type": "unicameral legislature"
       }
     ]
@@ -10412,11 +10413,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Togo/Assembly/sources",
         "popolo": "data/Togo/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/677f72e91421e9bd035839a3c599429807634cc2/data/Togo/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/08e093566e82fcc4cca9d8ebdd632f5dc8834398/data/Togo/Assembly/ep-popolo-v1.0.json",
         "names": "data/Togo/Assembly/names.csv",
-        "lastmod": "1537402593",
+        "lastmod": "1539765266",
         "person_count": 91,
-        "sha": "677f72e91421e9bd035839a3c599429807634cc2",
+        "sha": "08e093566e82fcc4cca9d8ebdd632f5dc8834398",
         "legislative_periods": [
           {
             "id": "term/2013",
@@ -10427,7 +10428,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Togo/Assembly/term-2013.csv"
           }
         ],
-        "statement_count": 2095,
+        "statement_count": 2099,
         "type": "unicameral legislature"
       }
     ]
@@ -10568,11 +10569,11 @@
         "slug": "Majlis",
         "sources_directory": "data/Tunisia/Majlis/sources",
         "popolo": "data/Tunisia/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b06f8cbc91c8672149cd7e1432b8cef023ac509a/data/Tunisia/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5ef68e01f811a6e582229b0f598d5fb662dfdf0e/data/Tunisia/Majlis/ep-popolo-v1.0.json",
         "names": "data/Tunisia/Majlis/names.csv",
-        "lastmod": "1536854839",
+        "lastmod": "1539671713",
         "person_count": 226,
-        "sha": "b06f8cbc91c8672149cd7e1432b8cef023ac509a",
+        "sha": "5ef68e01f811a6e582229b0f598d5fb662dfdf0e",
         "legislative_periods": [
           {
             "id": "term/1",
@@ -10583,7 +10584,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1cbfc9c92a0c7b060b0c745aca3865b02fc07ec3/data/Tunisia/Majlis/term-1.csv"
           }
         ],
-        "statement_count": 4838,
+        "statement_count": 4837,
         "type": "unicameral legislature"
       }
     ]
@@ -10935,11 +10936,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Tuvalu/Parliament/sources",
         "popolo": "data/Tuvalu/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c902da243caf569157ba8e4f00711adc00b079c2/data/Tuvalu/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a7a6408a90b0a1bb614da0ea51e525ab42a89262/data/Tuvalu/Parliament/ep-popolo-v1.0.json",
         "names": "data/Tuvalu/Parliament/names.csv",
-        "lastmod": "1534690915",
+        "lastmod": "1539767675",
         "person_count": 27,
-        "sha": "c902da243caf569157ba8e4f00711adc00b079c2",
+        "sha": "a7a6408a90b0a1bb614da0ea51e525ab42a89262",
         "legislative_periods": [
           {
             "id": "term/11",
@@ -10968,7 +10969,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/174ffa92fc072c779c63217dbfbbd55741b89e28/data/Tuvalu/Parliament/term-9.csv"
           }
         ],
-        "statement_count": 1729,
+        "statement_count": 1736,
         "type": "unicameral legislature"
       }
     ]
@@ -11016,11 +11017,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Uganda/Parliament/sources",
         "popolo": "data/Uganda/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/96ee1d72682f596abe6b0fa55dbc250c689def47/data/Uganda/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/36ca1eca808699e379d2362a7fbf6da2661818f7/data/Uganda/Parliament/ep-popolo-v1.0.json",
         "names": "data/Uganda/Parliament/names.csv",
-        "lastmod": "1539351954",
+        "lastmod": "1539769205",
         "person_count": 651,
-        "sha": "96ee1d72682f596abe6b0fa55dbc250c689def47",
+        "sha": "36ca1eca808699e379d2362a7fbf6da2661818f7",
         "legislative_periods": [
           {
             "id": "term/10",
@@ -11040,7 +11041,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5c6c00f8d9848ce88765df15f028599b744fd077/data/Uganda/Parliament/term-9.csv"
           }
         ],
-        "statement_count": 17254,
+        "statement_count": 17258,
         "type": "unicameral legislature"
       }
     ]
@@ -11056,11 +11057,11 @@
         "slug": "Verkhovna-Rada",
         "sources_directory": "data/Ukraine/Verkhovna_Rada/sources",
         "popolo": "data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/69748923cbd4f3bfa43e16e9553352c0a2194ff3/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/38443e77898d4d22d4ab3a422eb6c7dbff93322b/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
         "names": "data/Ukraine/Verkhovna_Rada/names.csv",
-        "lastmod": "1539608200",
+        "lastmod": "1539694831",
         "person_count": 464,
-        "sha": "69748923cbd4f3bfa43e16e9553352c0a2194ff3",
+        "sha": "38443e77898d4d22d4ab3a422eb6c7dbff93322b",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -11071,7 +11072,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4847c8d347b7961285df20a494859dd61b27363b/data/Ukraine/Verkhovna_Rada/term-8.csv"
           }
         ],
-        "statement_count": 22668,
+        "statement_count": 22676,
         "type": "unicameral legislature"
       }
     ]
@@ -11715,11 +11716,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Venezuela/Assembly/sources",
         "popolo": "data/Venezuela/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a50a4bc37d6238363cf8ef7577aa0f62ebcf344e/data/Venezuela/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/53f5c0b2a18bc79facba8023285be18e4ec0344c/data/Venezuela/Assembly/ep-popolo-v1.0.json",
         "names": "data/Venezuela/Assembly/names.csv",
-        "lastmod": "1539154961",
+        "lastmod": "1539651220",
         "person_count": 279,
-        "sha": "a50a4bc37d6238363cf8ef7577aa0f62ebcf344e",
+        "sha": "53f5c0b2a18bc79facba8023285be18e4ec0344c",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -11739,7 +11740,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a50a4bc37d6238363cf8ef7577aa0f62ebcf344e/data/Venezuela/Assembly/term-3.csv"
           }
         ],
-        "statement_count": 7281,
+        "statement_count": 7289,
         "type": "unicameral legislature"
       }
     ]
@@ -11755,11 +11756,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/Vietnam/National_Assembly/sources",
         "popolo": "data/Vietnam/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/efbe2b1bd601059110bb2b70308db1d6341369d1/data/Vietnam/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65fdd4197505f6cb7046e133b92a306542ae121e/data/Vietnam/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/Vietnam/National_Assembly/names.csv",
-        "lastmod": "1539406931",
+        "lastmod": "1539765892",
         "person_count": 500,
-        "sha": "efbe2b1bd601059110bb2b70308db1d6341369d1",
+        "sha": "65fdd4197505f6cb7046e133b92a306542ae121e",
         "legislative_periods": [
           {
             "end_date": "2016-05-22",
@@ -11771,7 +11772,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c6c7db6cd2efc137d2750c9391df02fb9e35b724/data/Vietnam/National_Assembly/term-13.csv"
           }
         ],
-        "statement_count": 10538,
+        "statement_count": 10545,
         "type": "unicameral legislature"
       }
     ]
@@ -11925,11 +11926,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Zambia/Assembly/sources",
         "popolo": "data/Zambia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/41841a62685d6b8956de2c62d3c5336448f39b55/data/Zambia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3656847b392e0bde762f5a7fd26220cf7ffd8fbd/data/Zambia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Zambia/Assembly/names.csv",
-        "lastmod": "1538847372",
+        "lastmod": "1539779747",
         "person_count": 260,
-        "sha": "41841a62685d6b8956de2c62d3c5336448f39b55",
+        "sha": "3656847b392e0bde762f5a7fd26220cf7ffd8fbd",
         "legislative_periods": [
           {
             "id": "term/2016",
@@ -11949,7 +11950,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/41841a62685d6b8956de2c62d3c5336448f39b55/data/Zambia/Assembly/term-2011.csv"
           }
         ],
-        "statement_count": 6724,
+        "statement_count": 6730,
         "type": "unicameral legislature"
       }
     ]
