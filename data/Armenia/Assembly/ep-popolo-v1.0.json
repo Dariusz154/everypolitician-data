@@ -5102,18 +5102,40 @@
         }
       ],
       "email": "hayk.konjoryan@parliament.am",
+      "gender": "male",
       "id": "818ea4d8-2be7-4086-bffe-5799452e74c5",
+      "identifiers": [
+        {
+          "identifier": "Q49475735",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1270",
       "images": [
         {
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1270"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Հայկ_Կոնջորյան"
+        }
+      ],
       "name": "Hayk Konjoryan",
       "other_names": [
         {
+          "name": "Հայկ Կոնջորյան",
+          "note": "alternate"
+        },
+        {
           "lang": "hy",
           "name": "Հայկ Արսենի Կոնջորյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Հայկ Կոնջորյան",
           "note": "multilingual"
         },
         {
@@ -8147,18 +8169,44 @@
     },
     {
       "birth_date": "1980-01-05",
+      "gender": "male",
+      "given_name": "Alen",
       "id": "c13a67ae-877a-44f1-b550-ea96f8afff1b",
+      "identifiers": [
+        {
+          "identifier": "Q20513503",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1268",
       "images": [
         {
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1268"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ալեն_Սիմոնյան.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Ալեն_Սիմոնյան"
         }
       ],
       "name": "Alen Simonyan",
       "other_names": [
         {
+          "name": "Ալեն Սիմոնյան",
+          "note": "alternate"
+        },
+        {
           "lang": "hy",
           "name": "Ալեն Ռոբերտի Սիմոնյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ալեն Սիմոնյան",
           "note": "multilingual"
         },
         {
@@ -8564,7 +8612,15 @@
       "identifiers": [
         {
           "identifier": "1095",
+          "scheme": "armenian_parliament"
+        },
+        {
+          "identifier": "1095",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q52552037",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1204",
@@ -8573,8 +8629,27 @@
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1204"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mikayel_Melkumyan"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Միքայել_Մելքումյան"
+        }
+      ],
       "name": "Mikayel Melkumyan",
       "other_names": [
+        {
+          "name": "Միքայել Մելքումյան",
+          "note": "alternate"
+        },
+        {
+          "lang": "hy",
+          "name": "Միքայել Մելքումյան",
+          "note": "multilingual"
+        },
         {
           "lang": "hy",
           "name": "Միքայել Սերգեյի Մելքումյան",
