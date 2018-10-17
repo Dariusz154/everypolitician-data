@@ -2871,6 +2871,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Jacob Gedleyihlekisa Zuma",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "جاکوب زوما",
           "note": "multilingual"
@@ -3169,6 +3174,10 @@
           "url": "https://ar.wikipedia.org/wiki/سيريل_رامافوزا"
         },
         {
+          "note": "Wikipedia (ast)",
+          "url": "https://ast.wikipedia.org/wiki/Cyril_Ramaphosa"
+        },
+        {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Siril_Ramafosa"
         },
@@ -3231,6 +3240,10 @@
         {
           "note": "Wikipedia (ie)",
           "url": "https://ie.wikipedia.org/wiki/Cyril_Ramaphosa"
+        },
+        {
+          "note": "Wikipedia (is)",
+          "url": "https://is.wikipedia.org/wiki/Cyril_Ramaphosa"
         },
         {
           "note": "Wikipedia (it)",
@@ -3377,6 +3390,11 @@
         {
           "lang": "el",
           "name": "Σίριλ Ραμαφόζα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Matamela Cyril Ramaphosa",
           "note": "multilingual"
         },
         {
@@ -6916,7 +6934,7 @@
           "url": "https://www.pa.org.za/media_root/cache/35/91/35916bf3132aa47ed40fd38f6a4414ed.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Lindiwe_Sisulu,_ABr_1200EF12909099127,_detail.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lindiwe_Sisulu_in_New_York_-_2018_(44058077895)_(cropped).jpg"
         }
       ],
       "links": [
@@ -7947,6 +7965,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Ebrahim_Patel"
+        },
         {
           "note": "Wikipedia (af)",
           "url": "https://af.wikipedia.org/wiki/Ebrahim_Patel"
@@ -10733,6 +10755,11 @@
       "name": "Jerome Joseph Maake",
       "other_names": [
         {
+          "lang": "af",
+          "name": "Jerome Maake",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Jerome-Joseph Maake",
           "note": "multilingual"
@@ -11263,9 +11290,16 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/97/6a/976aeeca49b24cadcf9b1ac1ac81976a.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Stella_Tembisa_Ndabeni_Abrahams_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Stella_Ndabeni-Abrahams"
+        },
         {
           "note": "Wikipedia (af)",
           "url": "https://af.wikipedia.org/wiki/Stella_Ndabeni"
@@ -11275,7 +11309,14 @@
           "url": "https://en.wikipedia.org/wiki/Stella_Ndabeni-Abrahams"
         }
       ],
-      "name": "Stella Ndabeni-Abrahams"
+      "name": "Stella Ndabeni-Abrahams",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Stella Ndabeni",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -15402,7 +15443,7 @@
           "url": "https://www.pa.org.za/media_root/cache/11/e3/11e3fead77bdceac216fd589fcfe1773.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Julius_Malema_2011-09-14.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Julius_Malema_2011-09-14_(cropped).jpg"
         }
       ],
       "links": [
@@ -16362,6 +16403,11 @@
           "lang": "ar",
           "name": "إدنا مولوا",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エドナ・モレワ",
+          "note": "multilingual"
         }
       ]
     },
@@ -16592,6 +16638,10 @@
         {
           "identifier": "4219",
           "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q57393791",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
@@ -20957,6 +21007,10 @@
       "honorific_prefix": "Dr",
       "id": "eaf1136c-23d6-4ce6-9a72-ba7f4113f98e",
       "identifiers": [
+        {
+          "identifier": "XX998104",
+          "scheme": "bne"
+        },
         {
           "identifier": "12181916c",
           "scheme": "bnf"
