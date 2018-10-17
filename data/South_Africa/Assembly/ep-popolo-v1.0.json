@@ -16580,7 +16580,26 @@
       "name": "Lumka Elizabeth Yengeni"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lmeso@parliament.gov.za"
+        }
+      ],
+      "email": "lmeso@parliament.gov.za",
       "id": "b65db08f-ca46-49b2-8bc3-119cbc6a56f7",
+      "identifiers": [
+        {
+          "identifier": "4219",
+          "scheme": "peoples_assembly"
+        }
+      ],
+      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
+        }
+      ],
       "name": "Lesiba Dorah Meso"
     },
     {
