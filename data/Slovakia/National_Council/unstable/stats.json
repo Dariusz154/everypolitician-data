@@ -31,7 +31,7 @@
     "latest": "2016-03-05"
   },
   "positions": {
-    "cabinet": 12
+    "cabinet": 15
   },
   "sources": [
     {
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/slovakia-national-council-wikidata",
-      "lastmod": "2018-10-17"
+      "lastmod": "2018-10-23"
     },
     {
       "file": "morph/terms.csv",
