@@ -6840,7 +6840,22 @@
       "sort_name": "Geerts David"
     },
     {
+      "birth_date": "1986-12-07",
+      "gender": "female",
+      "given_name": "Sarah",
       "id": "95dcdc1c-5f00-4e07-ad96-1bd50b93faff",
+      "identifiers": [
+        {
+          "identifier": "Q57078071",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Sarah_Schlitz"
+        }
+      ],
       "name": "Sarah Schlitz"
     },
     {
