@@ -19868,6 +19868,10 @@
       ]
     },
     {
+      "id": "dd867b65-07fc-48d2-8069-8ba9577ef785",
+      "name": "Helmar Philip Geyer"
+    },
+    {
       "birth_date": "1970",
       "contact_details": [
         {
@@ -28438,6 +28442,14 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "dd7e2ed5-0547-4d1c-b1eb-2ae4aa8c85df",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "dd867b65-07fc-48d2-8069-8ba9577ef785",
+      "role": "member",
+      "start_date": "2018-10-16"
     },
     {
       "legislative_period_id": "term/26",
