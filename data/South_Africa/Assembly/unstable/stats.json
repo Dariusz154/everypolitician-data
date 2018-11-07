@@ -5,9 +5,9 @@
     "latest_term": {
       "count": 496,
       "wikidata": 495,
-      "images": 492,
+      "images": 496,
       "contacts": {
-        "email": 397,
+        "email": 401,
         "facebook": 2,
         "twitter": 10
       }
@@ -38,7 +38,7 @@
       "file": "morph/wikidata-memberships.csv",
       "type": "membership",
       "scraper": "everypolitician-scrapers/south-africa-national-assembly-wikidata",
-      "lastmod": "2018-11-06"
+      "lastmod": "2018-11-07"
     },
     {
       "file": "morph/peoplesassembly.csv",
