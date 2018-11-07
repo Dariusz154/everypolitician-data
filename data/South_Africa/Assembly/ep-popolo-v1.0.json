@@ -1532,6 +1532,7 @@
         }
       ],
       "email": "hschmidt@parliament.gov.za",
+      "family_name": "Schmidt",
       "gender": "male",
       "given_name": "Hendrik",
       "honorific_prefix": "Mr",
@@ -1554,9 +1555,68 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/92/39/92393ff7664697e87693d44c6de5e779.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hendrick-Schmidt.jpg"
         }
       ],
-      "name": "Hendrik Cornelus Schmidt"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Hendrik_Schmidt"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hendrick_Schmidt"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Hendrik_Schmidt"
+        }
+      ],
+      "name": "Hendrik Cornelus Schmidt",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hendrick Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1658,7 +1718,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529769",
+          "identifier": "Q16765110",
           "scheme": "wikidata"
         }
       ],
@@ -1668,7 +1728,20 @@
           "url": "https://www.pa.org.za/media_root/cache/1f/bc/1fbc04fa90de0c75f164686c910c7f07.jpg"
         }
       ],
-      "name": "Dudu Hellen Mathebe"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Dudu_Mathebe"
+        }
+      ],
+      "name": "Dudu Hellen Mathebe",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dudu Mathebe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -4570,7 +4643,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47890933",
+          "identifier": "Q16765139",
           "scheme": "wikidata"
         }
       ],
@@ -4580,7 +4653,20 @@
           "url": "https://www.pa.org.za/media_root/cache/37/ce/37ce088284ff4a3e05206ddce3d5e12d.jpg"
         }
       ],
-      "name": "Joyce Clementine Moloi-Moropa"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Joyce_Moloi-Moroka"
+        }
+      ],
+      "name": "Joyce Clementine Moloi-Moropa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joyce Moloi-Moroka",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-02-01",
@@ -6582,7 +6668,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529690",
+          "identifier": "Q16744453",
           "scheme": "wikidata"
         }
       ],
@@ -6592,7 +6678,20 @@
           "url": "https://www.pa.org.za/media_root/cache/5d/44/5d448985f9e22b8260628fc3af121819.jpg"
         }
       ],
-      "name": "Motswaledi Hezekiel Matlala"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Motswaledi_Matlala"
+        }
+      ],
+      "name": "Motswaledi Hezekiel Matlala",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Motswaledi Matlala",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -8478,7 +8577,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529828",
+          "identifier": "Q16765733",
           "scheme": "wikidata"
         }
       ],
@@ -8488,7 +8587,20 @@
           "url": "https://www.pa.org.za/media_root/cache/4b/b2/4bb294862274985977626c58a1fc14df.jpg"
         }
       ],
-      "name": "Bhekizizwe Abram Radebe"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Bheki_Radebe"
+        }
+      ],
+      "name": "Bhekizizwe Abram Radebe",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bheki Radebe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -10280,7 +10392,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529787",
+          "identifier": "Q16746834",
           "scheme": "wikidata"
         }
       ],
@@ -10290,7 +10402,20 @@
           "url": "https://www.pa.org.za/media_root/cache/bf/74/bf7447fabd7a5bd27c30451668d78791.jpg"
         }
       ],
-      "name": "Zondi Silence Makhubele"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Zondi_Makhubele"
+        }
+      ],
+      "name": "Zondi Silence Makhubele",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Zondi Makhubele",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1958-06",
@@ -11795,7 +11920,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529752",
+          "identifier": "Q16744450",
           "scheme": "wikidata"
         }
       ],
@@ -11805,7 +11930,20 @@
           "url": "https://www.pa.org.za/media_root/cache/47/3f/473fbb226f4f6ab7cd167a859ccec46b.jpg"
         }
       ],
-      "name": "Buoang Lemias Mashile"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Buoang_Mashile"
+        }
+      ],
+      "name": "Buoang Lemias Mashile",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Buoang Mashile",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-01-20",
@@ -13129,7 +13267,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529804",
+          "identifier": "Q16746819",
           "scheme": "wikidata"
         }
       ],
@@ -13139,7 +13277,20 @@
           "url": "https://www.pa.org.za/media_root/cache/0a/f8/0af8ad949968d25bb467560b5a70fb19.jpg"
         }
       ],
-      "name": "Mapule Veronica Mafolo"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mapule_Mafolo"
+        }
+      ],
+      "name": "Mapule Veronica Mafolo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mapule Mafolo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970",
@@ -14243,7 +14394,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q20981883",
+          "identifier": "Q16765753",
           "scheme": "wikidata"
         }
       ],
@@ -14255,6 +14406,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Ngoako_Ramathlodi"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Ngoako_Ramatlhodi"
         },
@@ -14265,6 +14420,11 @@
       ],
       "name": "Ngoako Abel Ramatlhodi",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Ngoako Ramathlodi",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Ngoako Ramatlhodi",
@@ -14649,6 +14809,7 @@
       "name": "Buti Manamela"
     },
     {
+      "birth_date": "1958",
       "contact_details": [
         {
           "type": "email",
@@ -14669,7 +14830,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47530003",
+          "identifier": "Q28011968",
           "scheme": "wikidata"
         }
       ],
@@ -14677,6 +14838,16 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/e3/c2/e3c2ce0f12b9266200c2953dac87c25d.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Obed_Bapela"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Obed_Bapela"
         }
       ],
       "name": "Obed Bapela",
@@ -14888,7 +15059,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529877",
+          "identifier": "Q16765127",
           "scheme": "wikidata"
         }
       ],
@@ -14898,7 +15069,20 @@
           "url": "https://www.pa.org.za/media_root/cache/be/50/be503fb86a135010aafd7b7e21227d37.jpg"
         }
       ],
-      "name": "Lindiwe Ntombikayise Mjobo"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Lindiwe_Mjobo"
+        }
+      ],
+      "name": "Lindiwe Ntombikayise Mjobo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lindiwe Mjobo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -15845,7 +16029,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47530039",
+          "identifier": "Q16765123",
           "scheme": "wikidata"
         }
       ],
@@ -15855,7 +16039,20 @@
           "url": "https://www.pa.org.za/media_root/cache/5b/89/5b89006c62a330352f04684a58ec6d37.jpg"
         }
       ],
-      "name": "Mzameni Richard Mdakane"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mzameni_Mdakane"
+        }
+      ],
+      "name": "Mzameni Richard Mdakane",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mzameni Mdakane",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "Mr",
@@ -21420,7 +21617,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529697",
+          "identifier": "Q16744531",
           "scheme": "wikidata"
         }
       ],
@@ -21430,7 +21627,20 @@
           "url": "https://www.pa.org.za/media_root/cache/85/50/85501686d873acdbe5380327d38e2506.jpg"
         }
       ],
-      "name": "Andrew Frans Madella"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Andrew_Madella"
+        }
+      ],
+      "name": "Andrew Frans Madella",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Andrew Madella",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-11-13",
