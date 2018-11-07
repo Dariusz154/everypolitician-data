@@ -1524,6 +1524,104 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "hschmidt@parliament.gov.za"
+        },
+        {
+          "type": "email",
+          "value": "hcschmidt@mweb.co.za"
+        }
+      ],
+      "email": "hschmidt@parliament.gov.za",
+      "family_name": "Schmidt",
+      "gender": "male",
+      "given_name": "Hendrik",
+      "honorific_prefix": "Mr",
+      "id": "12b37be1-2d84-451b-82dd-0e29abc11385",
+      "identifiers": [
+        {
+          "identifier": "hendrik-cornelius-schmidt",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "914",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q47530052",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/92/39/92393ff7664697e87693d44c6de5e779.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/92/39/92393ff7664697e87693d44c6de5e779.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hendrick-Schmidt.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Hendrik_Schmidt"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hendrick_Schmidt"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Hendrik_Schmidt"
+        }
+      ],
+      "name": "Hendrik Cornelus Schmidt",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hendrick Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "zxalisa@parliament.gov.za"
         },
         {
@@ -1593,6 +1691,57 @@
         }
       ],
       "name": "Strike Michael Ralegoma"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dmathebe@parliament.gov.za"
+        },
+        {
+          "type": "email",
+          "value": "mathebedudu@gmail.com"
+        }
+      ],
+      "email": "dmathebe@parliament.gov.za",
+      "gender": "female",
+      "given_name": "Dudu",
+      "honorific_prefix": "Ms",
+      "id": "13a7050c-a1f6-4f8a-bb11-046ef80eea77",
+      "identifiers": [
+        {
+          "identifier": "dudu-hellen-mathebe",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "756",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16765110",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/1f/bc/1fbc04fa90de0c75f164686c910c7f07.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/1f/bc/1fbc04fa90de0c75f164686c910c7f07.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Dudu_Mathebe"
+        }
+      ],
+      "name": "Dudu Hellen Mathebe",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dudu Mathebe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -4100,52 +4249,6 @@
       "name": "James Vos"
     },
     {
-      "id": "268dbda5-b471-43e4-984a-abcf11876e11",
-      "identifiers": [
-        {
-          "identifier": "Q16744453",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Motswaledi_Matlala"
-        }
-      ],
-      "name": "Motswaledi Hezekiel Matlala",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Motswaledi Matlala",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "26943538-b4a2-4d48-84b2-8383b07edf79",
-      "identifiers": [
-        {
-          "identifier": "Q16746819",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Mapule_Mafolo"
-        }
-      ],
-      "name": "Mapule Veronica Mafolo",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Mapule Mafolo",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "gender": "female",
       "given_name": "Johanna",
       "honorific_prefix": "Ms",
@@ -4524,6 +4627,46 @@
         }
       ],
       "name": "Dipuo Bertha Letsatsi-Duba"
+    },
+    {
+      "gender": "female",
+      "given_name": "Joyce",
+      "honorific_prefix": "Ms",
+      "id": "2b7ad6f1-b74b-42f6-b31b-cf1b182c7896",
+      "identifiers": [
+        {
+          "identifier": "joyce-clementine-moloi-moropa",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "807",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16765139",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/37/ce/37ce088284ff4a3e05206ddce3d5e12d.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/37/ce/37ce088284ff4a3e05206ddce3d5e12d.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Joyce_Moloi-Moroka"
+        }
+      ],
+      "name": "Joyce Clementine Moloi-Moropa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joyce Moloi-Moroka",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-02-01",
@@ -6050,29 +6193,6 @@
       ]
     },
     {
-      "id": "389bf4ea-ca56-4917-bd5e-13dc78a71ada",
-      "identifiers": [
-        {
-          "identifier": "Q16746834",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Zondi_Makhubele"
-        }
-      ],
-      "name": "Zondi Silence Makhubele",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Zondi Makhubele",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -6526,6 +6646,52 @@
         }
       ],
       "name": "Fatima Chohan"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mmatlala@parliament.gov.za"
+        }
+      ],
+      "email": "mmatlala@parliament.gov.za",
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "3e696a12-7dd6-4b3d-9fbf-869ac3744c38",
+      "identifiers": [
+        {
+          "identifier": "motswaledi-hezekiel-matlala",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "4309",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16744453",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/5d/44/5d448985f9e22b8260628fc3af121819.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/5d/44/5d448985f9e22b8260628fc3af121819.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Motswaledi_Matlala"
+        }
+      ],
+      "name": "Motswaledi Hezekiel Matlala",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Motswaledi Matlala",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -8394,6 +8560,52 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "bradebe@parliament.gov.za"
+        }
+      ],
+      "email": "bradebe@parliament.gov.za",
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "53ba8a6a-58eb-4df5-97be-6d24e6423368",
+      "identifiers": [
+        {
+          "identifier": "bhekiziswe-abram-radebe",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "899",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16765733",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/4b/b2/4bb294862274985977626c58a1fc14df.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/4b/b2/4bb294862274985977626c58a1fc14df.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Bheki_Radebe"
+        }
+      ],
+      "name": "Bhekizizwe Abram Radebe",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bheki Radebe",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "lmbinda@parliament.gov.za"
         }
       ],
@@ -8570,29 +8782,6 @@
         }
       ],
       "name": "Annelie Lotriet"
-    },
-    {
-      "id": "54f23659-ae10-45f1-889a-73d015f8d394",
-      "identifiers": [
-        {
-          "identifier": "Q16744450",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Buoang_Mashile"
-        }
-      ],
-      "name": "Buoang Lemias Mashile",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Buoang Mashile",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "contact_details": [
@@ -10183,6 +10372,52 @@
       "name": "Doreen Senokoanyane"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zmakhubele@parliament.gov.za"
+        }
+      ],
+      "email": "zmakhubele@parliament.gov.za",
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "67462be3-fb70-4e21-8cbe-0f79c2e5de4c",
+      "identifiers": [
+        {
+          "identifier": "zondi-silence-makhubele",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "729",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16746834",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/bf/74/bf7447fabd7a5bd27c30451668d78791.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/bf/74/bf7447fabd7a5bd27c30451668d78791.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Zondi_Makhubele"
+        }
+      ],
+      "name": "Zondi Silence Makhubele",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Zondi Makhubele",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1958-06",
       "contact_details": [
         {
@@ -11661,6 +11896,56 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bmashile@parliament.gov.za"
+        },
+        {
+          "type": "email",
+          "value": "lemias@soft.co.za"
+        }
+      ],
+      "email": "bmashile@parliament.gov.za",
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "7d00dcdc-94d7-4b55-ae50-6e74d931e417",
+      "identifiers": [
+        {
+          "identifier": "buoang-lemias-mashile",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1046",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16744450",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/47/3f/473fbb226f4f6ab7cd167a859ccec46b.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/47/3f/473fbb226f4f6ab7cd167a859ccec46b.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Buoang_Mashile"
+        }
+      ],
+      "name": "Buoang Lemias Mashile",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Buoang Mashile",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1967-01-20",
       "contact_details": [
         {
@@ -12962,6 +13247,52 @@
       "name": "Xoliswa Sandra Tom"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mmafolo@parliament.gov.za"
+        }
+      ],
+      "email": "mmafolo@parliament.gov.za",
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "8da7f2d1-9b3d-4867-a80c-610d98405332",
+      "identifiers": [
+        {
+          "identifier": "mapule-veronica-mafolo",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "718",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16746819",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/0a/f8/0af8ad949968d25bb467560b5a70fb19.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/0a/f8/0af8ad949968d25bb467560b5a70fb19.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mapule_Mafolo"
+        }
+      ],
+      "name": "Mapule Veronica Mafolo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mapule Mafolo",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1970",
       "contact_details": [
         {
@@ -13276,29 +13607,6 @@
       ]
     },
     {
-      "id": "924ff39e-3d4c-4eeb-aeff-af59568fda47",
-      "identifiers": [
-        {
-          "identifier": "Q16765123",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Mzameni_Mdakane"
-        }
-      ],
-      "name": "Mzameni Richard Mdakane",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Mzameni Mdakane",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -13589,29 +13897,6 @@
         }
       ],
       "name": "Ellen Molekane"
-    },
-    {
-      "id": "96290aab-fc24-461d-a937-5c54f1c1ef35",
-      "identifiers": [
-        {
-          "identifier": "Q16765733",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Bheki_Radebe"
-        }
-      ],
-      "name": "Bhekizizwe Abram Radebe",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Bheki Radebe",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "contact_details": [
@@ -14041,28 +14326,6 @@
       "name": "Madala Masuku"
     },
     {
-      "birth_date": "1958",
-      "gender": "male",
-      "id": "9a42316b-8ecd-477e-ad91-1dc1049ec2fb",
-      "identifiers": [
-        {
-          "identifier": "Q28011968",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Obed_Bapela"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Obed_Bapela"
-        }
-      ],
-      "name": "Obed Bapela"
-    },
-    {
       "birth_date": "1963-06-28",
       "contact_details": [
         {
@@ -14112,6 +14375,59 @@
         {
           "lang": "en",
           "name": "Nomvula Mokonyane",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1955-08-21",
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "9d37aa5d-0a86-4978-ace6-b358115c556c",
+      "identifiers": [
+        {
+          "identifier": "ngoako-abel-ramatlhodi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "903",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16765753",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/bf/c1/bfc1a648352ecc542f72e310b09df9a2.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/bf/c1/bfc1a648352ecc542f72e310b09df9a2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Ngoako_Ramathlodi"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ngoako_Ramatlhodi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ngoako_Ramatlhodi"
+        }
+      ],
+      "name": "Ngoako Abel Ramatlhodi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ngoako Ramathlodi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ngoako Ramatlhodi",
           "note": "multilingual"
         }
       ]
@@ -14493,6 +14809,57 @@
       "name": "Buti Manamela"
     },
     {
+      "birth_date": "1958",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "unathis@cogta.gov.za"
+        }
+      ],
+      "email": "unathis@cogta.gov.za",
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "a2d51c4b-b2e2-4a49-8cf4-07bbc6c39e37",
+      "identifiers": [
+        {
+          "identifier": "kopeng-obed-bapela",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "551",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q28011968",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/e3/c2/e3c2ce0f12b9266200c2953dac87c25d.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/e3/c2/e3c2ce0f12b9266200c2953dac87c25d.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Obed_Bapela"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Obed_Bapela"
+        }
+      ],
+      "name": "Obed Bapela",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kopeng Obed Bapela",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -14667,6 +15034,52 @@
         {
           "lang": "ru",
           "name": "Масондо, Амос",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lmjobo@parliament.gov.za"
+        }
+      ],
+      "email": "lmjobo@parliament.gov.za",
+      "gender": "female",
+      "honorific_prefix": "Ms",
+      "id": "a69edcf3-4fc8-4d32-9239-fb02be286203",
+      "identifiers": [
+        {
+          "identifier": "lindiwe-ntombikayise-mjobo",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "787",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16765127",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/be/50/be503fb86a135010aafd7b7e21227d37.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/be/50/be503fb86a135010aafd7b7e21227d37.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Lindiwe_Mjobo"
+        }
+      ],
+      "name": "Lindiwe Ntombikayise Mjobo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lindiwe Mjobo",
           "note": "multilingual"
         }
       ]
@@ -15596,6 +16009,52 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mmdakane@parliament.gov.za"
+        }
+      ],
+      "email": "mmdakane@parliament.gov.za",
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "ac2974b0-7db8-4225-b9d4-995d918f073f",
+      "identifiers": [
+        {
+          "identifier": "mzameni-richard-mdakane",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "777",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16765123",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/5b/89/5b89006c62a330352f04684a58ec6d37.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/5b/89/5b89006c62a330352f04684a58ec6d37.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Mzameni_Mdakane"
+        }
+      ],
+      "name": "Mzameni Richard Mdakane",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mzameni Mdakane",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "honorific_prefix": "Mr",
       "id": "ac3f2d0c-1966-4041-9c6e-b7bd761d51e4",
       "identifiers": [
@@ -15801,31 +16260,6 @@
         }
       ],
       "name": "Deborah Dineo Raphuti"
-    },
-    {
-      "gender": "female",
-      "given_name": "Joyce",
-      "id": "b03986f3-7e99-4db0-a39b-7a361a48be22",
-      "identifiers": [
-        {
-          "identifier": "Q16765139",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Joyce_Moloi-Moroka"
-        }
-      ],
-      "name": "Joyce Clementine Moloi-Moropa",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Joyce Moloi-Moroka",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "contact_details": [
@@ -16685,29 +17119,6 @@
         {
           "lang": "ru",
           "name": "Мбете, Балека",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "bbf553a9-c33c-4292-9528-067a45b6e665",
-      "identifiers": [
-        {
-          "identifier": "Q16765127",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Lindiwe_Mjobo"
-        }
-      ],
-      "name": "Lindiwe Ntombikayise Mjobo",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Lindiwe Mjobo",
           "note": "multilingual"
         }
       ]
@@ -18612,29 +19023,6 @@
       "name": "Francois Beukman"
     },
     {
-      "id": "d0e99edd-a2fb-4665-93b1-7fc06c111d33",
-      "identifiers": [
-        {
-          "identifier": "Q16765753",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Ngoako_Ramathlodi"
-        }
-      ],
-      "name": "Ngoako Abel Ramatlhodi",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Ngoako Ramathlodi",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -19724,31 +20112,6 @@
       "name": "Helmar Philip Geyer"
     },
     {
-      "gender": "male",
-      "given_name": "Andrew",
-      "id": "ddd084ff-0ec8-42ba-b028-6f7ed8abf885",
-      "identifiers": [
-        {
-          "identifier": "Q16744531",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Andrew_Madella"
-        }
-      ],
-      "name": "Andrew Frans Madella",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Andrew Madella",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "birth_date": "1970",
       "contact_details": [
         {
@@ -20263,81 +20626,6 @@
         }
       ],
       "name": "Alina Mfulo"
-    },
-    {
-      "family_name": "Schmidt",
-      "gender": "male",
-      "given_name": "Hendrik",
-      "id": "e1b88f4b-ab56-4b1a-8a1d-2d465cb19b8f",
-      "identifiers": [
-        {
-          "identifier": "Q5713725",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hendrick-Schmidt.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hendrick-Schmidt.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Hendrik_Schmidt"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Hendrick_Schmidt"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Hendrik_Schmidt"
-        }
-      ],
-      "name": "Hendrik Cornelus Schmidt",
-      "other_names": [
-        {
-          "lang": "da",
-          "name": "Hendrik Schmidt",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Hendrick Schmidt",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Hendrik Schmidt",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Hendrik Schmidt",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Hendrik Schmidt",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Hendrik Schmidt",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Hendrik Schmidt",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Hendrik Schmidt",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "contact_details": [
@@ -21306,6 +21594,53 @@
         }
       ],
       "name": "Beauty Nomhle Dambuza"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "amadella@parliament.gov.za"
+        }
+      ],
+      "email": "amadella@parliament.gov.za",
+      "gender": "male",
+      "given_name": "Andrew",
+      "honorific_prefix": "Mr",
+      "id": "ef50e607-3ecc-48ac-a708-39cc022ba7e5",
+      "identifiers": [
+        {
+          "identifier": "andrew-frans-madella",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "4344",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q16744531",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/85/50/85501686d873acdbe5380327d38e2506.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/85/50/85501686d873acdbe5380327d38e2506.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Andrew_Madella"
+        }
+      ],
+      "name": "Andrew Frans Madella",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Andrew Madella",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-11-13",
@@ -22550,29 +22885,6 @@
         {
           "lang": "en",
           "name": "Nosimo Balindlela",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "id": "f5015d35-7ad9-46bd-b535-60e817227b54",
-      "identifiers": [
-        {
-          "identifier": "Q16765110",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Dudu_Mathebe"
-        }
-      ],
-      "name": "Dudu Hellen Mathebe",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Dudu Mathebe",
           "note": "multilingual"
         }
       ]
@@ -25376,6 +25688,14 @@
       "role": "member"
     },
     {
+      "area_id": "Q133083",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "12b37be1-2d84-451b-82dd-0e29abc11385",
+      "role": "member"
+    },
+    {
       "area_id": "Q165956",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q15613585",
@@ -25390,6 +25710,14 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "139576e6-8fff-465b-8936-f1948deed9cb",
+      "role": "member"
+    },
+    {
+      "area_id": "Q134907",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "13a7050c-a1f6-4f8a-bb11-046ef80eea77",
       "role": "member"
     },
     {
@@ -25666,22 +25994,6 @@
       "role": "member"
     },
     {
-      "area_id": "Q134907",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "268dbda5-b471-43e4-984a-abcf11876e11",
-      "role": "member"
-    },
-    {
-      "area_id": "Q165956",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "26943538-b4a2-4d48-84b2-8383b07edf79",
-      "role": "member"
-    },
-    {
       "end_date": "2017-09-07",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
@@ -25757,6 +26069,14 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "2b7936fa-e233-414b-98a0-ad5a777cda88",
+      "role": "member"
+    },
+    {
+      "end_date": "2016-03-02",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "2b7ad6f1-b74b-42f6-b31b-cf1b182c7896",
       "role": "member"
     },
     {
@@ -26003,14 +26323,6 @@
       "role": "member"
     },
     {
-      "area_id": "Q134907",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "389bf4ea-ca56-4917-bd5e-13dc78a71ada",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -26094,6 +26406,14 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "3bb75267-6da6-42f4-8b7c-334ffd8180d8",
+      "role": "member"
+    },
+    {
+      "area_id": "Q134907",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "3e696a12-7dd6-4b3d-9fbf-869ac3744c38",
       "role": "member"
     },
     {
@@ -26414,6 +26734,14 @@
       "role": "member"
     },
     {
+      "area_id": "Q160284",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "53ba8a6a-58eb-4df5-97be-6d24e6423368",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q775460",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -26434,13 +26762,6 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "54dc444b-0d63-4bf0-a8f2-f1a097a3cadc",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "54f23659-ae10-45f1-889a-73d015f8d394",
       "role": "member"
     },
     {
@@ -26733,6 +27054,14 @@
       "start_date": "2016-02-05"
     },
     {
+      "area_id": "Q134907",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "67462be3-fb70-4e21-8cbe-0f79c2e5de4c",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -26975,6 +27304,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "7d00dcdc-94d7-4b55-ae50-6e74d931e417",
+      "role": "member"
+    },
+    {
       "area_id": "Q130840",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -27190,6 +27526,14 @@
       "role": "member"
     },
     {
+      "area_id": "Q165956",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "8da7f2d1-9b3d-4867-a80c-610d98405332",
+      "role": "member"
+    },
+    {
       "area_id": "Q133083",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q510163",
@@ -27244,14 +27588,6 @@
       "role": "member"
     },
     {
-      "area_id": "Q133083",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "924ff39e-3d4c-4eeb-aeff-af59568fda47",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q15613585",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -27295,14 +27631,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "95cec38e-1746-4e0b-b47d-55304c2ed4ea",
-      "role": "member"
-    },
-    {
-      "area_id": "Q160284",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "96290aab-fc24-461d-a937-5c54f1c1ef35",
       "role": "member"
     },
     {
@@ -27392,14 +27720,15 @@
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "9a42316b-8ecd-477e-ad91-1dc1049ec2fb",
+      "person_id": "9ca6d504-ff17-4d85-bd1b-75cc09c1896b",
       "role": "member"
     },
     {
+      "end_date": "2017-03-30",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "9ca6d504-ff17-4d85-bd1b-75cc09c1896b",
+      "person_id": "9d37aa5d-0a86-4978-ace6-b358115c556c",
       "role": "member"
     },
     {
@@ -27482,6 +27811,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "a2d51c4b-b2e2-4a49-8cf4-07bbc6c39e37",
+      "role": "member"
+    },
+    {
       "area_id": "Q132410",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -27512,6 +27848,14 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "a52ad276-9679-42a3-b1b7-0e89fa14c098",
+      "role": "member"
+    },
+    {
+      "area_id": "Q81725",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "a69edcf3-4fc8-4d32-9239-fb02be286203",
       "role": "member"
     },
     {
@@ -27574,6 +27918,14 @@
       "start_date": "2017-09-21"
     },
     {
+      "area_id": "Q133083",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "ac2974b0-7db8-4225-b9d4-995d918f073f",
+      "role": "member"
+    },
+    {
       "end_date": "2015-04-01",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q15613585",
@@ -27619,14 +27971,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "afcd90cd-44c5-4f26-8d06-d6c4f2561dcc",
-      "role": "member"
-    },
-    {
-      "end_date": "2016-03-02",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "b03986f3-7e99-4db0-a39b-7a361a48be22",
       "role": "member"
     },
     {
@@ -27786,14 +28130,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "bad9918b-6659-4a2b-ba1d-433f35410fa3",
-      "role": "member"
-    },
-    {
-      "area_id": "Q81725",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "bbf553a9-c33c-4292-9528-067a45b6e665",
       "role": "member"
     },
     {
@@ -28156,14 +28492,6 @@
       "role": "member"
     },
     {
-      "end_date": "2017-03-30",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "d0e99edd-a2fb-4665-93b1-7fc06c111d33",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28379,14 +28707,6 @@
       "start_date": "2018-10-16"
     },
     {
-      "area_id": "Q127167",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "ddd084ff-0ec8-42ba-b028-6f7ed8abf885",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28491,14 +28811,6 @@
       "person_id": "e1a18016-c588-455f-bbcf-57007faa1da9",
       "role": "member",
       "start_date": "2017-09-01"
-    },
-    {
-      "area_id": "Q133083",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "e1b88f4b-ab56-4b1a-8a1d-2d465cb19b8f",
-      "role": "member"
     },
     {
       "legislative_period_id": "term/26",
@@ -28692,6 +29004,14 @@
       "start_date": "2016-10-14"
     },
     {
+      "area_id": "Q127167",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "ef50e607-3ecc-48ac-a708-39cc022ba7e5",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28833,14 +29153,6 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "f45fe41d-7e21-41f6-b273-8f9a670bbc34",
-      "role": "member"
-    },
-    {
-      "area_id": "Q134907",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "f5015d35-7ad9-46bd-b535-60e817227b54",
       "role": "member"
     },
     {
