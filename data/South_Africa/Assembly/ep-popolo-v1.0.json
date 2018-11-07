@@ -4384,7 +4384,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47530046",
+          "identifier": "Q16744505",
           "scheme": "wikidata"
         }
       ],
@@ -4394,7 +4394,20 @@
           "url": "https://www.pa.org.za/media_root/cache/8e/43/8e43d81551df2960994044a512a0ec7d.jpg"
         }
       ],
-      "name": "Nthibane Rebecca Mokoto"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Nthibane_Mokoto"
+        }
+      ],
+      "name": "Nthibane Rebecca Mokoto",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nthibane Mokoto",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -14564,7 +14577,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529757",
+          "identifier": "Q16765225",
           "scheme": "wikidata"
         }
       ],
@@ -14574,7 +14587,20 @@
           "url": "https://www.pa.org.za/media_root/cache/25/78/2578ebe9a41c9037a11b8f7b6fb75ebb.jpg"
         }
       ],
-      "name": "Phumuzile Catherine Ngwenya-Mabila"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Phumzile_Ngwenya-Mabila"
+        }
+      ],
+      "name": "Phumuzile Catherine Ngwenya-Mabila",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Phumzile Ngwenya-Mabila",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -17743,7 +17769,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529885",
+          "identifier": "Q16765137",
           "scheme": "wikidata"
         }
       ],
@@ -17753,7 +17779,20 @@
           "url": "https://www.pa.org.za/media_root/cache/9a/db/9adb963f44de57fc9b7d7c775a90e08c.jpg"
         }
       ],
-      "name": "Maapi Angelina Molebatsi"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Maapi_Molebatsi"
+        }
+      ],
+      "name": "Maapi Angelina Molebatsi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Maapi Molebatsi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -23296,7 +23335,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q47529888",
+          "identifier": "Q16765141",
           "scheme": "wikidata"
         }
       ],
@@ -23306,7 +23345,20 @@
           "url": "https://www.pa.org.za/media_root/cache/fd/50/fd505b685c0c35d957aa97da691667d1.jpg"
         }
       ],
-      "name": "Malusi Stanley Motimele"
+      "links": [
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Malusi_Motimele"
+        }
+      ],
+      "name": "Malusi Stanley Motimele",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Malusi Motimele",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
