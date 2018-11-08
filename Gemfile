@@ -2,7 +2,8 @@
 
 source 'https://rubygems.org'
 
-abort 'Ruby should be >= 2.3' unless RUBY_VERSION.to_f >= 2.3
+ruby '~> 2.3.0'
+
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}.git" }
 
 gem 'close_old_pull_requests', github: 'everypolitician/close_old_pull_requests'
