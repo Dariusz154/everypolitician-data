@@ -49,14 +49,6 @@
       }
     },
     {
-      "file": "ocd/divisions.csv",
-      "create": {
-        "from": "ocd",
-        "source": "country-us.csv"
-      },
-      "type": "ocd-names"
-    },
-    {
       "file": "morph/areas.csv",
       "create": {
         "from": "morph",
