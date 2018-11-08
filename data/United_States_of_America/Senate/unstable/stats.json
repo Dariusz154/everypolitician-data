@@ -59,12 +59,6 @@
       "lastmod": "2018-09-14"
     },
     {
-      "file": "ocd/divisions.csv",
-      "type": "ocd-names",
-      "scraper": null,
-      "lastmod": "2016-11-23"
-    },
-    {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/us-states-wikidata",
