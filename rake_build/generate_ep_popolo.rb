@@ -238,6 +238,7 @@ namespace :transform do
           a[:type] == 'constituency' &&
             a[:id].split('/').last == area[:id].split('/').last
         end.each do |existing|
+          existing.delete(:name) if existing[:name] == 'unknown' # Get from WD instead
           DeepMerge.deep_merge!(area, existing, preserve_unmergeables: true)
         end
       end

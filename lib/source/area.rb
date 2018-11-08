@@ -20,6 +20,10 @@ module Source
         reconciliation[:uuid] || reconciliation[:id]
       end
 
+      field :name do
+        area[:name] || area[:name__en]
+      end
+
       field :identifiers do
         [other_identifiers, wikidata_identifier].flatten.compact
       end
