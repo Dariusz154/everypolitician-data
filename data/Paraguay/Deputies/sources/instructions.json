@@ -8,12 +8,12 @@
         "query": "SELECT *, 2018 AS term FROM data ORDER BY id"
       },
       "source": "http://www.diputados.gov.py",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "archive/official-2013.csv",
       "source": "http://www.diputados.gov.py",
-      "type": "membership",
+      "generates": "membership",
       "reuse_ids": false
     },
     {
@@ -23,7 +23,7 @@
         "scraper": "everypolitician-scrapers/paraguay-deputies-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -32,7 +32,7 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -42,7 +42,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -50,7 +50,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -58,7 +58,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q25363518"

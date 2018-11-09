@@ -8,7 +8,7 @@
         "query": "SELECT *, 4 AS term FROM data ORDER BY id"
       },
       "source": "http://www.congres.nc/assemblee/les-elus/?panel=5",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -28,16 +28,16 @@
     {
       "file": "manual/rescued.csv",
       "source": "http://www.congres.nc/assemblee/les-elus/?panel=5",
-      "type": "membership",
+      "generates": "membership",
       "reuse_ids": false
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "New-Caledonia/Congress"
@@ -45,7 +45,7 @@
     },
     {
       "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
+      "generates": "wikidata-positions",
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
@@ -53,7 +53,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -61,7 +61,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q24179252"

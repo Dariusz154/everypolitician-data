@@ -3,17 +3,17 @@
     {
       "file": "archive/official-2015.csv",
       "source": "http://www.hcdn.gob.ar",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "archive/official-2016.csv",
       "source": "http://www.hcdn.gob.ar",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "archive/vanished-2017.csv",
       "source": "http://www.hcdn.gob.ar",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official.csv",
@@ -23,7 +23,7 @@
         "query": "SELECT id,name,sort_name,district,mandate_start AS start_date,mandate_end AS end_date,party,source,image,phone,email,135 AS term FROM data ORDER BY id"
       },
       "source": "http://www.hcdn.gob.ar",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -33,7 +33,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -48,7 +48,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "https://twitter.com/lechinoise/lists/politic-arg",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -57,7 +57,7 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -67,7 +67,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -80,14 +80,14 @@
         "scraper": "tmtmtmtm/argentina-provinces-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "area-wikidata",
+      "generates": "area-wikidata",
       "merge": {
         "reconciliation_file": "reconciliation/areas.csv"
       }
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/argentina-positions",
@@ -96,7 +96,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -104,7 +104,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22266213"

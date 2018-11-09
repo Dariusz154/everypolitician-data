@@ -3,12 +3,12 @@
     {
       "file": "archive/official_term2.csv",
       "source": "http://www.sxmparliament.org/organization/members-of-parliament.html",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "archive/official_term3.csv",
       "source": "http://www.sxmparliament.org/organization/members-of-parliament.html",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official_term4.csv",
@@ -18,20 +18,20 @@
         "query": "SELECT *, 4 AS term FROM data ORDER BY id"
       },
       "source": "http://www.sxmparliament.org/organization/members-of-parliament.html",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "archive/official_term4_vanished.csv",
       "source": "http://www.sxmparliament.org/organization/members-of-parliament.html",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Sint-Maarten/Estates"
@@ -39,7 +39,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -47,7 +47,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q25534775"

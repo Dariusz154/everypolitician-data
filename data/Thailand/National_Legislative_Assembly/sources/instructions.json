@@ -8,12 +8,12 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.senate.go.th/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "archive/vanished.csv",
       "source": "http://www.senate.go.th/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -23,7 +23,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -32,7 +32,7 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -42,7 +42,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -50,7 +50,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/thailand-positions",
@@ -59,7 +59,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -67,7 +67,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q24706075"

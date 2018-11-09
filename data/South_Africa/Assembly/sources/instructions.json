@@ -8,7 +8,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/peoplesassembly.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT id,honorific_prefix,name,email,image,identifier__peoples_assembly FROM data ORDER BY id"
       },
       "source": "http://www.pa.org.za",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -33,7 +33,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -42,7 +42,7 @@
     },
     {
       "file": "wikidata/parties.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/parties_wikidata.csv"
@@ -55,7 +55,7 @@
         "scraper": "everypolitician-scrapers/south-africa-parliament-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -65,7 +65,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -73,7 +73,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/south-africa-positions",
@@ -82,7 +82,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q17317625"

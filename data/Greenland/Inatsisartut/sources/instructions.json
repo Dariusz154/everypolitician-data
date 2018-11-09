@@ -8,7 +8,7 @@
         "query": "SELECT * FROM data ORDER BY term DESC, name"
       },
       "source": "http://en.inatsisartut.gl/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -33,11 +33,11 @@
         "query": "SELECT * FROM terms ORDER BY id"
       },
       "source": "http://github.com/wfdd/inatsisartut-scraper",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Greenland/Inatsisartut"
@@ -45,7 +45,7 @@
     },
     {
       "file": "morph/wikidata-cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/greenland-cabinet-wikidata",
@@ -54,7 +54,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22276331"
@@ -62,7 +62,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"

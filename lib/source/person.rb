@@ -29,7 +29,7 @@ module Source
       @additional_headers = Set.new
 
       as_table.each do |incoming_row|
-        incoming_row[:identifier__wikidata] ||= incoming_row[:id] if i(:type) == 'wikidata'
+        incoming_row[:identifier__wikidata] ||= incoming_row[:id] if generates == 'wikidata'
 
         to_patch = matcher.find_all(incoming_row)
         if to_patch && !to_patch.size.zero?

@@ -8,12 +8,12 @@
         "query": "SELECT * FROM data WHERE term = 54 ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "archive/wikipedia.csv",
       "source": "https://nl.wikipedia.org/",
-      "type": "membership",
+      "generates": "membership",
       "note": "Not yet in P39s. Remove them from here as they start appearing in the P39s source"
     },
     {
@@ -24,7 +24,7 @@
         "query": "SELECT id, name, sort_name, email, website, image FROM data ORDER BY id"
       },
       "source": "http://www.lachambre.be/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -38,7 +38,7 @@
         "scraper": "tmtmtmtm/belgium-represenatives-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -52,7 +52,7 @@
         "scraper": "everypolitician-scrapers/belgium-chamber-of-representatives-terms-wikidata",
         "query": "SELECT *, id || 'e législature' AS name FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/areas.csv",
@@ -61,7 +61,7 @@
         "scraper": "everypolitician-scrapers/belgian-constituencies-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "area-wikidata",
+      "generates": "area-wikidata",
       "merge": {
         "reconciliation_file": "reconciliation/areas.csv"
       }
@@ -74,7 +74,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -82,7 +82,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/belgium-positions",
@@ -91,7 +91,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22266255"
@@ -99,7 +99,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"

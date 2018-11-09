@@ -3,7 +3,7 @@
     {
       "file": "archive/official-7.csv",
       "source": "http://www.cdep.ro/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official-8.csv",
@@ -13,7 +13,7 @@
         "query": "SELECT *, 8 AS term FROM data ORDER BY id"
       },
       "source": "http://www.cdep.ro/",
-      "type": "membership",
+      "generates": "membership",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -28,7 +28,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "birth_date",
         "existing_field": "birth_date",
@@ -42,7 +42,7 @@
         "scraper": "everypolitician-scrapers/romanian-parliament-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -52,7 +52,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -65,14 +65,14 @@
         "scraper": "everypolitician-scrapers/romanian-deputies-constituencies-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "area-wikidata",
+      "generates": "area-wikidata",
       "merge": {
         "reconciliation_file": "reconciliation/areas.csv"
       }
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -80,7 +80,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/romania-positions",
@@ -89,7 +89,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22275938"

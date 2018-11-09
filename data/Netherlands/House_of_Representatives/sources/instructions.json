@@ -3,7 +3,7 @@
     {
       "file": "archive/wikipedia-2012.csv",
       "source": "http://nl.wikipedia.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikipedia-2017.csv",
@@ -18,7 +18,7 @@
         "reconciliation_file": "reconciliation/wikipedia-2017.csv"
       },
       "source": "http://nl.wikipedia.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official.csv",
@@ -33,7 +33,7 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official.csv"
       },
-      "type": "person"
+      "generates": "person"
     },
     {
       "file": "morph/wikidata.csv",
@@ -43,7 +43,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -52,7 +52,7 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -62,7 +62,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -70,7 +70,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/netherlands-positions",
@@ -79,7 +79,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q14509381"
@@ -87,7 +87,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -100,7 +100,7 @@
         "scraper": "everypolitician-scrapers/twitter-list-netherlands",
         "query": "SELECT id, name as temp_name, twitter, image FROM data ORDER BY id"
       },
-      "type": "person",
+      "generates": "person",
       "source": [
         "https://twitter.com/Simon_Tol/lists/kabinet-rutte-ii",
         "https://twitter.com/PolitwoopsNL/lists/tweede-kamer-overig"

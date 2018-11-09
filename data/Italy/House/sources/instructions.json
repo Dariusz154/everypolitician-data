@@ -8,7 +8,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.camera.it/leg17/313",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/openpolis.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT id,name,surname,term,source,image,email,facebook,twitter, id AS identifier__openpolis FROM data WHERE house = 'Chamber of Deputies' ORDER BY id"
       },
       "source": "http://politici.openpolis.it",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -34,7 +34,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -43,7 +43,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/italy-positions",
@@ -57,7 +57,7 @@
         "scraper": "everypolitician-scrapers/italian-parliament-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -67,7 +67,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -75,7 +75,7 @@
     },
     {
       "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
+      "generates": "wikidata-positions",
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
@@ -83,7 +83,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q3722420"
@@ -91,7 +91,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"

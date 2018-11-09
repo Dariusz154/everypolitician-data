@@ -8,17 +8,17 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://parliament.gov.gy/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "archive/official-term-11.csv",
       "source": "http://parliament.gov.gy/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "manual/gender.csv",
       "source": "http://parliament.gov.gy/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "id",
         "existing_field": "id"
@@ -27,7 +27,7 @@
     {
       "file": "manual/honorific_prefix.csv",
       "source": "http://parliament.gov.gy/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "id",
         "existing_field": "id"
@@ -35,11 +35,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Guyana/National-Assembly"
@@ -47,7 +47,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -55,7 +55,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q25369324"

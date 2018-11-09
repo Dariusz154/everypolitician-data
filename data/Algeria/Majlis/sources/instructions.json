@@ -8,7 +8,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.apn.dz",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -27,11 +27,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Algeria/Majlis"
@@ -39,7 +39,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -47,7 +47,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22341320"

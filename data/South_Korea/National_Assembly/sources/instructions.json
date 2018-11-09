@@ -3,7 +3,7 @@
     {
       "file": "archive/popong-data-19.csv",
       "source": "https://github.com/teampopong/data-assembly",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/popong-data-20.csv",
@@ -13,7 +13,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "https://github.com/teampopong/data-assembly",
-      "type": "membership",
+      "generates": "membership",
       "merge": {
         "incoming_field": "name__ko",
         "existing_field": "name__ko",
@@ -23,7 +23,7 @@
     {
       "file": "archive/popong-20-archive.csv",
       "source": "https://github.com/teampopong/data-assembly",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -33,7 +33,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name__en",
         "existing_field": "name",
@@ -47,11 +47,11 @@
         "scraper": "everypolitician-scrapers/south-korea-assembly-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -65,7 +65,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -73,7 +73,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/south-korea-positions",
@@ -82,7 +82,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q5518656"
@@ -95,7 +95,7 @@
         "scraper": "everypolitician-scrapers/twitter_list_South_Korea",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "person",
+      "generates": "person",
       "source": "https://twitter.com/teampopong/lists/national-assembly-19",
       "merge": {
         "incoming_field": "name",

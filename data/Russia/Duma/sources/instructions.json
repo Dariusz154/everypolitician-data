@@ -3,12 +3,12 @@
     {
       "file": "manual/official-6.csv",
       "source": "http://www.duma.gov.ru/structure/deputies/?letter=%D0%92%D1%81%D0%B5",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official-7.csv",
       "source": "http://www.duma.gov.ru/structure/deputies/?letter=%D0%92%D1%81%D0%B5",
-      "type": "membership",
+      "generates": "membership",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/russia-duma-2016",
@@ -28,7 +28,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name__ru",
         "existing_field": "name",
@@ -42,11 +42,11 @@
         "scraper": "everypolitician-scrapers/russia-duma-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -60,7 +60,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -68,7 +68,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/russia-positions",
@@ -77,7 +77,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22330906"

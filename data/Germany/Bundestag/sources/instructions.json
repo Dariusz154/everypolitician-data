@@ -8,7 +8,7 @@
         "query": "SELECT * FROM data ORDER BY id, term DESC"
       },
       "source": "https://de.wikipedia.org/wiki/Liste_der_Listen_der_Mitglieder_des_Deutschen_Bundestages",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/sparql.csv",
@@ -23,7 +23,7 @@
         "reconciliation_file": "reconciliation/sparql.csv"
       },
       "source": "http://wikidata.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -33,7 +33,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -42,11 +42,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Germany/Bundestag"
@@ -54,7 +54,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/germany-positions",
@@ -63,7 +63,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q1007356"
@@ -71,7 +71,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"

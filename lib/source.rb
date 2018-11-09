@@ -20,8 +20,8 @@ module Source
     }.freeze
 
     def self.instantiate(instructions)
-      raise "Missing `type` in #{instructions}" unless instructions.key? :type
-      raise "Unknown file type: #{instructions[:type]}" unless klass = MAP[instructions[:type]]
+      raise "Missing `generates` in #{instructions}" unless instructions.key? :generates
+      raise "Unknown `generates` type: #{instructions[:generates]}" unless klass = MAP[instructions[:generates]]
 
       klass.new(instructions)
     end
@@ -35,8 +35,8 @@ module Source
       @instructions[key.to_sym]
     end
 
-    def type
-      i(:type)
+    def generates
+      i(:generates)
     end
 
     def merge_instructions

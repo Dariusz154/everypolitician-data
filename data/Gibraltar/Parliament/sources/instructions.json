@@ -8,7 +8,7 @@
         "query": "SELECT * FROM data"
       },
       "source": "http://www.parliament.gi/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikipedia.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
       "source": "https://en.wikipedia.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -34,7 +34,7 @@
         "query": "SELECT * FROM terms ORDER BY id"
       },
       "source": "http://www.parliament.gi/",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/wikidata.csv",
@@ -44,7 +44,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -53,7 +53,7 @@
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Gibraltar/Parliament"
@@ -61,7 +61,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/gibraltar-positions",
@@ -70,7 +70,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -78,7 +78,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22704005"

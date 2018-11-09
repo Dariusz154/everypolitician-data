@@ -8,7 +8,7 @@
         "query": "SELECT *, NULL as wikipedia FROM data WHERE term IN ('10', '11') ORDER BY id"
       },
       "source": "https://github.com/openpatata/openpatata-data/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name__el",
         "existing_field": "name__el",
@@ -27,7 +27,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -35,11 +35,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Cyprus/House-of-Representatives"
@@ -52,14 +52,14 @@
         "scraper": "everypolitician-scrapers/cyprus-constituencies",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "area-wikidata",
+      "generates": "area-wikidata",
       "merge": {
         "reconciliation_file": "reconciliation/areas.csv"
       }
     },
     {
       "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
+      "generates": "wikidata-positions",
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
@@ -67,7 +67,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22275878"

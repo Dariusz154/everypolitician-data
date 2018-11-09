@@ -8,7 +8,7 @@
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/Saint_Helena_general_election,_2013",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
       },
       "source": "http://www.sainthelena.gov.sh/your-council/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -27,11 +27,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Saint-Helena/Legislative-Council"
@@ -39,7 +39,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -47,7 +47,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q25547854"

@@ -8,7 +8,7 @@
         "query": "SELECT *, 8 AS term, name AS alternate_names, shorter_name AS name, id as identifier__nass FROM data WHERE js_position = 'Sen' AND area != '' ORDER BY CAST(id AS int)"
       },
       "source": "http://www.nass.gov.ng/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/shineyoureye.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT *, NULL as position FROM data WHERE position = 'Senator' ORDER BY CAST(id AS int)"
       },
       "source": "http://www.shineyoureye.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "alternate_names",
@@ -32,7 +32,7 @@
         "scraper": "everypolitician-scrapers/nigeria-senators-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "alternate_names",
@@ -47,7 +47,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -60,11 +60,11 @@
         "scraper": "everypolitician-scrapers/nigeria-assembly-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"

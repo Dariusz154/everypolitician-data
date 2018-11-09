@@ -8,7 +8,7 @@
         "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/images.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT id, name, given_name, family_name, sort_name, birth_date, gender, image FROM data ORDER BY id"
       },
       "source": "https://morph.io/wfdd/nc-assembly-scraper",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -32,7 +32,7 @@
         "scraper": "tmtmtmtm/northern_cyprus_parliament_wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -41,11 +41,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -53,7 +53,7 @@
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Northern-Cyprus/Assembly"
@@ -61,7 +61,7 @@
     },
     {
       "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
+      "generates": "wikidata-positions",
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
@@ -69,7 +69,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q25369215"

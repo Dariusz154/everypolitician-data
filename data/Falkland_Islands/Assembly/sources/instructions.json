@@ -8,7 +8,7 @@
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, name, image FROM data ORDER BY name"
       },
       "source": "http://www.falklands.gov.fk/self-governance/legislative/assembly-members/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -32,7 +32,7 @@
         "scraper": "tmtmtmtm/falkland-islands-representatives-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -41,11 +41,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Falkland-Islands/Assembly"
@@ -53,7 +53,7 @@
     },
     {
       "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
+      "generates": "wikidata-positions",
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
@@ -61,7 +61,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -69,7 +69,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q24715318"

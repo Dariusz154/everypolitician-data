@@ -12,7 +12,7 @@ class Instructions
   end
 
   def sources_of_type(type)
-    sources.select { |src| src.type.to_s.downcase == type.to_s.downcase }
+    sources.select { |src| src.generates.to_s.downcase == type.to_s.downcase }
   end
 
   def write(data)

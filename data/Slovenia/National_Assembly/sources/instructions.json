@@ -3,7 +3,7 @@
     {
       "file": "archive/official-7.csv",
       "source": "http://www.dz-rs.si/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official-8.csv",
@@ -13,12 +13,12 @@
         "query": "SELECT *, 8 AS term FROM data"
       },
       "source": "http://www.dz-rs.si/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "archive/vanished-8.csv",
       "source": "http://www.dz-rs.si/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -28,7 +28,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -42,7 +42,7 @@
         "scraper": "everypolitician-scrapers/slovenia-assembly-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -52,7 +52,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -60,7 +60,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -68,7 +68,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/slovenia-cabinet",
@@ -77,7 +77,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22160120"
@@ -86,11 +86,11 @@
     {
       "file": "manual/memberships.csv",
       "source": "http://www.dz-rs.si/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "manual/facebook.csv",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -98,7 +98,7 @@
     },
     {
       "file": "manual/twitter.csv",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"

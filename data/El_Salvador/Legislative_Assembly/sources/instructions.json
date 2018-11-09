@@ -3,15 +3,15 @@
     {
       "file": "morph/official.csv",
       "source": "http://asamblea.gob.sv/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "El-Salvador/Legislative-Assembly"
@@ -19,7 +19,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -27,7 +27,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q25343631"
@@ -40,7 +40,7 @@
         "scraper": "everypolitician-scrapers/twitter-list-el-salvador",
         "query": "SELECT id, name as temp_name, twitter, image FROM data ORDER BY id"
       },
-      "type": "person",
+      "generates": "person",
       "source": "https://twitter.com/AsambleaSV/lists/diputadas-y-diputados",
       "merge": {
         "incoming_field": "temp_name",

@@ -3,7 +3,7 @@
     {
       "file": "manual/term-9-sheet.csv",
       "source": "https://asl19.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "google/term-10-sheet.csv",
@@ -11,7 +11,7 @@
         "url": "https://docs.google.com/spreadsheets/d/1MldbvN9HaHgyRJ8riUV2fppEmYoJyP4EPRNkCjpz4E0/export?format=csv"
       },
       "source": "https://asl19.org/",
-      "type": "membership",
+      "generates": "membership",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -26,7 +26,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name__fa",
         "existing_field": "name",
@@ -35,11 +35,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Iran/Assembly"
@@ -47,7 +47,7 @@
     },
     {
       "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
+      "generates": "wikidata-positions",
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
@@ -55,7 +55,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22703240"

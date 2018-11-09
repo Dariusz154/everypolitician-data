@@ -8,7 +8,7 @@
         "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, REPLACE(LOWER(party),' ','_') AS party_id, * FROM data WHERE term NOT IN ('2013', '2016')"
       },
       "source": "https://is.wikipedia.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/p39s.csv",
@@ -23,7 +23,7 @@
         "reconciliation_file": "reconciliation/p39s.csv"
       },
       "source": "http://wikidata.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -33,7 +33,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -47,7 +47,7 @@
         "scraper": "everypolitician-scrapers/iceland-althing-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -57,7 +57,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -65,7 +65,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/iceland-positions",
@@ -74,7 +74,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22276080"
@@ -82,7 +82,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"

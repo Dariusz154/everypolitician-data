@@ -8,15 +8,15 @@
         "query": "SELECT *, other_name AS name, name AS other_name FROM data ORDER BY id"
       },
       "source": "http://www.parlamento.aw",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Aruba/Estates"
@@ -24,7 +24,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -32,7 +32,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q25367878"

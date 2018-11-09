@@ -8,21 +8,21 @@
         "query": "SELECT *, parish AS area FROM data ORDER BY id"
       },
       "source": "http://www.statesassembly.gov.je",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "manual/members.csv",
       "source": "http://www.statesassembly.gov.je",
-      "type": "membership",
+      "generates": "membership",
       "reuse_ids": false
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Jersey/States"
@@ -30,7 +30,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -38,7 +38,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q25343642"

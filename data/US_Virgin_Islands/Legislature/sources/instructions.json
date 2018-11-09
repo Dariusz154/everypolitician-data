@@ -8,7 +8,7 @@
         "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "http://www.legvi.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official.csv",
@@ -17,7 +17,7 @@
         "scraper": "tmtmtmtm/us-virgin-islands-legislature",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -31,7 +31,7 @@
         "scraper": "everypolitician-scrapers/us-virgin-islands-senators-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -40,11 +40,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "US-Virgin-Islands/Legislature"
@@ -52,7 +52,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -60,7 +60,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q24292618"

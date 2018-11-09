@@ -8,15 +8,15 @@
         "query": "SELECT *, 9 AS term FROM data ORDER BY name"
       },
       "source": "http://www.afroleadership.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Cameroon/Senate"
@@ -24,7 +24,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"

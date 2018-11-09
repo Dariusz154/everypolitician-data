@@ -8,15 +8,15 @@
         "query": "SELECT *, 11 AS term FROM senate ORDER BY id"
       },
       "source": "http://ttparliament.org",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -24,7 +24,7 @@
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Trinidad-and-Tobago/Senate"

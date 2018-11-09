@@ -9,7 +9,7 @@
         "note": "fetch extra columns once this is Term 41 only"
       },
       "source": "https://en.wikipedia.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/parlinfo.csv",
@@ -19,7 +19,7 @@
         "query": "SELECT id, name, sort_name, family_name, given_name, birth_date, death_date, image, source FROM data WHERE term LIKE '41' ORDER BY id"
       },
       "source": "http://www.lop.parl.gc.ca/parlinfo",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -29,7 +29,7 @@
     {
       "file": "archive/represent-41.csv",
       "source": "https://scrapers.herokuapp.com/represent/ca",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -44,7 +44,7 @@
         "query": "SELECT *, id AS identifier__represent FROM data ORDER BY id"
       },
       "source": "https://scrapers.herokuapp.com/represent/ca",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -59,7 +59,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -68,7 +68,7 @@
     },
     {
       "file": "manual/twitter.csv",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -82,7 +82,7 @@
         "query": "SELECT id, name, twitter, area FROM data WHERE twitter != '' ORDER BY id"
       },
       "source": "http://politwitter.ca/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -97,7 +97,7 @@
         "query": "SELECT id, name, facebook, area FROM data WHERE facebook != '' ORDER BY id"
       },
       "source": "http://politwitter.ca/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -112,7 +112,7 @@
         "query": "SELECT id, name, youtube, area FROM data WHERE youtube != '' ORDER BY id"
       },
       "source": "http://politwitter.ca/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -126,7 +126,7 @@
         "scraper": "everypolitician-scrapers/canada-parliament-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/areas.csv",
@@ -135,14 +135,14 @@
         "scraper": "everypolitician-scrapers/canada-federal-ridings-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "area-wikidata",
+      "generates": "area-wikidata",
       "merge": {
         "reconciliation_file": "reconciliation/areas.csv"
       }
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -156,7 +156,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -164,7 +164,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/canada-positions",
@@ -173,7 +173,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q849095"

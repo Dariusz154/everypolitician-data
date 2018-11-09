@@ -8,15 +8,15 @@
         "query": "SELECT data.id, data.name, data.image, data.party, data.party AS party_id, terms.term_number AS term, data.email, data.area, data.details_url AS source from data JOIN terms ON data.term_id = terms.id WHERE chamber = 'National Council' ORDER BY terms.term_number DESC, data.id"
       },
       "source": "http://www.parliament.na",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Namibia/Council"
@@ -24,7 +24,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"

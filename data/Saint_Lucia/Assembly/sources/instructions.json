@@ -8,7 +8,7 @@
         "query": "SELECT *, REPLACE(LOWER(name),' ','-') AS id FROM data ORDER BY id"
       },
       "source": "https://en.wikipedia.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/images.csv",
@@ -18,7 +18,7 @@
         "query": "SELECT *, REPLACE(LOWER(name),' ','-') AS id FROM data ORDER BY id"
       },
       "source": "http://www.govt.lc/house-of-assembly",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -28,7 +28,7 @@
     {
       "file": "archive/official-images-ceased.csv",
       "source": "http://www.govt.lc/house-of-assembly",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -43,7 +43,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -52,11 +52,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "Saint-Lucia/Assembly"
@@ -64,7 +64,7 @@
     },
     {
       "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
+      "generates": "wikidata-positions",
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
@@ -72,7 +72,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -80,7 +80,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q25532438"

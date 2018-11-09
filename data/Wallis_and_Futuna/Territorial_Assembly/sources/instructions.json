@@ -3,7 +3,7 @@
     {
       "file": "archive/wikipedia-2012.csv",
       "source": "https://fr.wikipedia.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikipedia-2017.csv",
@@ -18,7 +18,7 @@
         "reconciliation_file": "reconciliation/wikipedia-2017.csv"
       },
       "source": "https://fr.wikipedia.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official.csv",
@@ -28,7 +28,7 @@
         "query": "SELECT name AS id, name, sort_name, family_name, given_name, gender FROM data ORDER BY name"
       },
       "source": "http://www.wallis-et-futuna.pref.gouv.fr/Wallis-et-Futuna/Organisation-institutionnelle/Assemblee-Territoriale-collectivite",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -43,7 +43,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -52,7 +52,7 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -62,7 +62,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -70,7 +70,7 @@
     },
     {
       "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
+      "generates": "wikidata-positions",
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
@@ -78,7 +78,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q24183631"

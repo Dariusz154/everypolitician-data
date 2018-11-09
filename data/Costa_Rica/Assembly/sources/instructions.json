@@ -8,7 +8,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.asamblea.go.cr/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/emails.csv",
@@ -17,7 +17,7 @@
         "scraper": "tmtmtmtm/costa-rica-asamblea-emails",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "id",
         "existing_field": "id"
@@ -30,7 +30,7 @@
         "scraper": "tmtmtmtm/costa-rica-election-2014",
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -44,7 +44,7 @@
         "scraper": "tmtmtmtm/costa-rica-asamblea-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -58,7 +58,7 @@
         "scraper": "everypolitician-scrapers/costa-rica-assembly-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -68,7 +68,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -76,7 +76,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -84,7 +84,7 @@
     },
     {
       "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
+      "generates": "wikidata-positions",
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
@@ -92,7 +92,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q25343628"

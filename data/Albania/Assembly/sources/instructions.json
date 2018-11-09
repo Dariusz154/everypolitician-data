@@ -8,7 +8,7 @@
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data WHERE term = '8' ORDER BY name"
       },
       "source": "https://en.wikipedia.org/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikipedia-7.csv",
@@ -23,7 +23,7 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikipedia-7.csv"
       },
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/official-8.csv",
@@ -33,7 +33,7 @@
         "query": "SELECT id,name,email,image,birth_date,birth_place,source AS website,id AS identifier__kuvendi FROM data ORDER BY id"
       },
       "source": "http://www.parlament.al/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -48,7 +48,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -62,7 +62,7 @@
         "scraper": "everypolitician-scrapers/albania-parliament-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -72,7 +72,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -80,7 +80,7 @@
     },
     {
       "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
+      "generates": "wikidata-positions",
       "create": {
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
@@ -88,7 +88,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22276264"
@@ -96,7 +96,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"

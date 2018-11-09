@@ -117,7 +117,7 @@ namespace :stats do
 
       {
         file:    src[:file],
-        type:    src[:type],
+        type:    src[:generates],
         scraper: src.dig(:create, :scraper),
         lastmod: bs.lastmod,
       }

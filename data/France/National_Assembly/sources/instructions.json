@@ -3,7 +3,7 @@
     {
       "file": "archive/nosdeputes14.csv",
       "source": "http://www.nosdeputes.fr/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/nosdeputes.csv",
@@ -18,7 +18,7 @@
         "reconciliation_file": "reconciliation/nosdeputes.csv"
       },
       "source": "http://www.nosdeputes.fr/",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/sycomore.csv",
@@ -33,7 +33,7 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/sycomore.csv"
       },
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/wikidata.csv",
@@ -43,7 +43,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:D%C3%A9put%C3%A9_de_la_XIVe_l%C3%A9gislature_de_la_Ve_R%C3%A9publique",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -52,11 +52,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/france-positions",
@@ -71,7 +71,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -84,14 +84,14 @@
         "scraper": "everypolitician-scrapers/france-constituencies-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "area-wikidata",
+      "generates": "area-wikidata",
       "merge": {
         "reconciliation_file": "reconciliation/areas.csv"
       }
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -99,7 +99,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q3587148"

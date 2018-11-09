@@ -2,7 +2,7 @@
   "sources": [
     {
       "file": "parlparse/data.csv",
-      "type": "membership",
+      "generates": "membership",
       "create": {
         "from": "parlparse",
         "instructions": "parlparse/instructions.json"
@@ -16,7 +16,7 @@
         "scraper": "tmtmtmtm/uk-parliament-members",
         "query": "SELECT id, name, sort_name, birth_date, death_date, gender, email, phone, fax, website, twitter, facebook, blog, youtube, flickr, identifier__dods, identifier__pims FROM data ORDER BY id"
       },
-      "type": "person",
+      "generates": "person",
       "source": "http://data.parliament.uk",
       "merge": {
         "incoming_field": "name",
@@ -31,7 +31,7 @@
         "scraper": "everypolitician-scrapers/twitter-gov-uk-mps",
         "query": "SELECT *, REPLACE(name, ' MP','') AS name FROM data ORDER BY id"
       },
-      "type": "person",
+      "generates": "person",
       "source": "https://twitter.com/gov/lists/uk-mps",
       "merge": {
         "incoming_field": "name",
@@ -49,7 +49,7 @@
         "scraper": "mhl/uk-ynmp-2015-winners",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "person",
+      "generates": "person",
       "source": "https://yournextmp.com/",
       "merge": {
         "incoming_field": "id",
@@ -64,7 +64,7 @@
         "query": "SELECT *, REPLACE(SUBSTR(REPLACE(identifier__parliamentDOTuk,'/','-------'), -6), '-', '') AS parlid FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -73,7 +73,7 @@
     },
     {
       "file": "manual/emails.csv",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "id",
         "existing_field": "id"
@@ -81,11 +81,11 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
@@ -93,7 +93,7 @@
     },
     {
       "file": "gender-balance/results.csv",
-      "type": "gender",
+      "generates": "gender",
       "create": {
         "from": "gender-balance",
         "source": "UK/Commons"
@@ -101,7 +101,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/uk-positions",
@@ -110,7 +110,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q15283424"
@@ -123,7 +123,7 @@
         "scraper": "everypolitician-scrapers/uk-constituencies",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "area-wikidata",
+      "generates": "area-wikidata",
       "merge": {
         "reconciliation_file": "reconciliation/areas.csv"
       }
@@ -131,7 +131,7 @@
     {
       "notes": "Images from twitter are lowest priority",
       "file": "morph/twitter.csv",
-      "type": "person",
+      "generates": "person",
       "source": "https://twitter.com/gov/lists/uk-mps",
       "merge": {
         "incoming_field": "name",
@@ -144,7 +144,7 @@
     },
     {
       "file": "manual/facebook.csv",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "parlparse_id",
         "existing_field": "identifier__parlparse"

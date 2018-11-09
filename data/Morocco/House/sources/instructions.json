@@ -2,7 +2,7 @@
   "sources": [
     {
       "file": "archive/official-term-9.csv",
-      "type": "membership",
+      "generates": "membership",
       "source": "http://www.chambredesrepresentants.ma"
     },
     {
@@ -13,7 +13,7 @@
         "query": "SELECT *, name AS name__fr, 10 AS term FROM data ORDER BY id"
       },
       "source": "http://nouabook.ma",
-      "type": "membership",
+      "generates": "membership",
       "merge": {
         "incoming_field": "name__ar",
         "existing_field": "name__ar",
@@ -28,7 +28,7 @@
         "query": "SELECT id, name, image, name__ar, name AS name__en FROM data ORDER BY id"
       },
       "source": "http://www.chambredesrepresentants.ma",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "name__en",
         "existing_field": "name__en",
@@ -43,7 +43,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name__en",
         "existing_field": "name__en",
@@ -52,7 +52,7 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -62,7 +62,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -70,7 +70,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q22342153"
@@ -78,7 +78,7 @@
     },
     {
       "file": "wikidata/groups.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"

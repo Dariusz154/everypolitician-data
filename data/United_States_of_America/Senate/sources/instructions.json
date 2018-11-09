@@ -8,7 +8,7 @@
         "query": "SELECT *, CASE WHEN end_date > date('now') THEN '' ELSE end_date END AS end_date FROM data WHERE house = 'sen' ORDER BY id"
       },
       "source": "https://github.com/unitedstates/congress-legislators",
-      "type": "membership"
+      "generates": "membership"
     },
     {
       "file": "morph/socialmedia.csv",
@@ -23,7 +23,7 @@
         "report_extras": false
       },
       "source": "https://github.com/unitedstates/congress-legislators",
-      "type": "person"
+      "generates": "person"
     },
     {
       "file": "morph/wikidata.csv",
@@ -33,7 +33,7 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "wikidata",
+      "generates": "wikidata",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
@@ -42,7 +42,7 @@
     },
     {
       "file": "wikidata/parties.json",
-      "type": "group",
+      "generates": "group",
       "create": {
         "from": "group-wikidata",
         "source": "manual/parties_wikidata.csv"
@@ -55,14 +55,14 @@
         "scraper": "everypolitician-scrapers/us-states-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "area-wikidata",
+      "generates": "area-wikidata",
       "merge": {
         "reconciliation_file": "reconciliation/areas.csv"
       }
     },
     {
       "file": "manual/terms.csv",
-      "type": "term"
+      "generates": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -72,7 +72,7 @@
         "query": "SELECT uuid, gender FROM data ORDER BY uuid"
       },
       "source": "http://gender-balance.org/",
-      "type": "person",
+      "generates": "person",
       "merge": {
         "incoming_field": "uuid",
         "existing_field": "uuid"
@@ -80,7 +80,7 @@
     },
     {
       "file": "morph/cabinet.csv",
-      "type": "wikidata-cabinet",
+      "generates": "wikidata-cabinet",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/us-senators-positions",
@@ -89,7 +89,7 @@
     },
     {
       "file": "wikidata/elections.json",
-      "type": "wikidata-elections",
+      "generates": "wikidata-elections",
       "create": {
         "from": "election-wikidata",
         "base": "Q24333627"
