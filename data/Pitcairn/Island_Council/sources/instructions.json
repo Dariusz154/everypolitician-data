@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/wikipedia.csv",
+      "file": "wikipedia/data.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/pitcairn-island-council",
