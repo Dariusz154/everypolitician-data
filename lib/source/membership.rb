@@ -85,7 +85,11 @@ module Source
     end
 
     def id_map_file
-      filename.parent.parent + 'idmap/' + filename.basename
+      id_map_options.find(&:exist?) or abort "No idmap file for #{filename}"
+    end
+
+    def id_map_options
+      [filename.parent + 'person-map.csv', filename.parent.parent + 'idmap/' + filename.basename]
     end
 
     def group_id_map_file
