@@ -35,10 +35,10 @@
   },
   "sources": [
     {
-      "file": "morph/wikipedia.csv",
+      "file": "wikipedia/data.csv",
       "type": "membership",
       "scraper": "tmtmtmtm/pitcairn-island-council",
-      "lastmod": "2017-03-27"
+      "lastmod": "2018-11-09"
     },
     {
       "file": "morph/wikidata.csv",
@@ -62,7 +62,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-07-17"
+      "lastmod": "2018-10-17"
     },
     {
       "file": "wikidata/elections.json",
