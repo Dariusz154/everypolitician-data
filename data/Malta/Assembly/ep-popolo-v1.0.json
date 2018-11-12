@@ -2281,7 +2281,14 @@
       ]
     },
     {
+      "gender": "male",
       "id": "abef5f76-51d2-4936-aee7-4d0076dd3772",
+      "identifiers": [
+        {
+          "identifier": "Q56883641",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.mt/file.aspx?f=59413",
       "images": [
         {
