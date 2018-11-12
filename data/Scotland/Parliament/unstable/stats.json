@@ -9,7 +9,7 @@
       "contacts": {
         "email": 0,
         "facebook": 4,
-        "twitter": 124
+        "twitter": 123
       }
     }
   },
@@ -45,12 +45,6 @@
       "type": "wikidata",
       "scraper": "tmtmtmtm/scottish-parliament-wikidata",
       "lastmod": "2018-10-19"
-    },
-    {
-      "file": "morph/twitter.csv",
-      "type": "person",
-      "scraper": "everypolitician-scrapers/twitter-scotland",
-      "lastmod": "2018-05-23"
     },
     {
       "file": "manual/terms.csv",

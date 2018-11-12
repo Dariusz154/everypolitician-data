@@ -2510,10 +2510,6 @@
         {
           "type": "twitter",
           "value": "markmcdsnp"
-        },
-        {
-          "type": "twitter",
-          "value": "markmcdindy"
         }
       ],
       "family_name": "McDonald",
@@ -2556,10 +2552,6 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/markmcdsnp"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/markmcdindy"
         }
       ],
       "name": "Mark McDonald"
@@ -9690,10 +9682,6 @@
         {
           "type": "twitter",
           "value": "Pauline_McNeill"
-        },
-        {
-          "type": "twitter",
-          "value": "pauline4glasgow"
         }
       ],
       "gender": "female",
@@ -9735,10 +9723,6 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/Pauline_McNeill"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/pauline4glasgow"
         }
       ],
       "name": "Pauline McNeill"
@@ -16274,12 +16258,6 @@
     },
     {
       "birth_date": "1961-07-31",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "alexjohnstone61"
-        }
-      ],
       "death_date": "2016-12-07",
       "family_name": "Johnstone",
       "gender": "male",
@@ -16321,10 +16299,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Alex_Johnstone"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/alexjohnstone61"
         }
       ],
       "name": "Alex Johnstone"
@@ -20979,8 +20953,7 @@
   "meta": {
     "sources": [
       "http://theyworkforyou.com/",
-      "http://wikidata.org/",
-      "https://twitter.com/ScotParl/lists/msps-session-5"
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
