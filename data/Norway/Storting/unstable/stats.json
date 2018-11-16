@@ -31,7 +31,7 @@
     "latest": "2017-09-11"
   },
   "positions": {
-    "cabinet": 282
+    "cabinet": 329
   },
   "sources": [
     {
@@ -68,7 +68,7 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/norway-positions",
-      "lastmod": "2018-10-18"
+      "lastmod": "2018-11-14"
     },
     {
       "file": "wikidata/elections.json",
