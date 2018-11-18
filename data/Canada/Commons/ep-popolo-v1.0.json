@@ -2033,7 +2033,7 @@
         },
         {
           "note": "website",
-          "url": "http://gregfergusparl.ca"
+          "url": "http://gfergus.liberal.ca/en"
         }
       ],
       "name": "Greg Fergus"
@@ -2262,8 +2262,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Richard_Martel’s_campaign_office_-_2018_(41609596932)_(cropped).jpg",
+      "image": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/MartelRichard_CPC.jpg",
       "images": [
+        {
+          "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/MartelRichard_CPC.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Richard_Martel’s_campaign_office_-_2018_(41609596932)_(cropped).jpg"
         }
@@ -15964,7 +15967,7 @@
         },
         {
           "note": "website",
-          "url": "http://jacquesgourde.ca"
+          "url": "http://jacquesgourde.ca/en"
         },
         {
           "note": "youtube",
@@ -28393,7 +28396,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.peterschiefke.ca"
+          "url": "http://pschiefke.liberal.ca/en"
         }
       ],
       "name": "Peter Schiefke"
@@ -31822,13 +31825,7 @@
           "url": "http://pgoldsmithjones.ca"
         }
       ],
-      "name": "Pamela Goldsmith-Jones",
-      "other_names": [
-        {
-          "name": "Pam Goldsmith-Jones",
-          "note": "alternate"
-        }
-      ]
+      "name": "Pamela Goldsmith-Jones"
     },
     {
       "birth_date": "1974-11-07",
@@ -32688,7 +32685,7 @@
         },
         {
           "note": "website",
-          "url": "http://https://www.facebook.com/Rhéal-Fortin-député-de-Rivière-du-Nord-Bloc-Québécois-566791310126350"
+          "url": "http://https://www.facebook.com/pg/Rhéal-Fortin-député-de-Rivière-du-Nord-Bloc-Québécois-566791310126350"
         }
       ],
       "name": "Rhéal Fortin"
@@ -38321,7 +38318,7 @@
         },
         {
           "note": "website",
-          "url": "http://emmanueldubourg.ca/en"
+          "url": "http://emmanueldubourg.ca"
         }
       ],
       "name": "Emmanuel Dubourg"
