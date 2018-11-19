@@ -35,9 +35,13 @@
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
-
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/belize-house-of-representatives-terms-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
       "type": "term"
     },
     {
