@@ -19,8 +19,8 @@
   },
   "terms": {
     "count": 2,
-    "latest": "2015-11-05",
-    "wikidata": 0
+    "latest": "2015-11-13",
+    "wikidata": 2
   },
   "areas": {
     "count": 31,
@@ -38,13 +38,13 @@
       "file": "morph/official-2012.csv",
       "type": "membership",
       "scraper": null,
-      "lastmod": "2017-01-08"
+      "lastmod": "2018-11-19"
     },
     {
       "file": "morph/official-2015.csv",
       "type": "membership",
       "scraper": "everypolitician-scrapers/belize-national-assembly",
-      "lastmod": "2018-03-05"
+      "lastmod": "2018-11-19"
     },
     {
       "file": "morph/wikidata.csv",
@@ -53,10 +53,10 @@
       "lastmod": "2018-11-19"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-01-08"
+      "scraper": "everypolitician-scrapers/belize-house-of-representatives-terms-wikidata",
+      "lastmod": null
     },
     {
       "file": "morph/genderbalance.csv",
