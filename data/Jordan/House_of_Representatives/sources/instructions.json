@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/Jordanian_parliamentary_election_results,_2013",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/wikidata.csv",

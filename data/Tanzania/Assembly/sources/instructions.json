@@ -3,7 +3,8 @@
     {
       "file": "archive/official-historic.csv",
       "source": "http://www.parliament.go.tz",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-11.csv",
@@ -19,12 +20,14 @@
         "reconciliation_file": "reconciliation/term5.csv"
       },
       "source": "http://www.parliament.go.tz",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-11-vanished.csv",
       "source": "http://www.parliament.go.tz",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

@@ -3,7 +3,8 @@
     {
       "file": "archive/official-term-9.csv",
       "type": "membership",
-      "source": "http://www.chambredesrepresentants.ma"
+      "source": "http://www.chambredesrepresentants.ma",
+      "sourcetype": "official"
     },
     {
       "file": "morph/term-10-nouabook.csv",
@@ -18,7 +19,8 @@
         "incoming_field": "name__ar",
         "existing_field": "name__ar",
         "reconciliation_file": "reconciliation/term_2016.csv"
-      }
+      },
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/official-10.csv",

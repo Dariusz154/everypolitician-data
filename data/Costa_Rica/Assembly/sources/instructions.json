@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.asamblea.go.cr/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/emails.csv",

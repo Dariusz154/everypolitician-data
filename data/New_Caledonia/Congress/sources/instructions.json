@@ -8,7 +8,8 @@
         "query": "SELECT *, 4 AS term FROM data ORDER BY id"
       },
       "source": "http://www.congres.nc/assemblee/les-elus/?panel=5",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",
@@ -29,7 +30,8 @@
       "file": "archive/official-vanished.csv",
       "source": "http://www.congres.nc/assemblee/les-elus/?panel=5",
       "type": "membership",
-      "reuse_ids": false
+      "reuse_ids": false,
+      "sourcetype": "official"
     },
     {
       "file": "manual/terms.csv",

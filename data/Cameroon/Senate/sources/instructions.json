@@ -8,7 +8,8 @@
         "query": "SELECT *, 9 AS term FROM data ORDER BY name"
       },
       "source": "http://www.afroleadership.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "manual/terms.csv",

@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://sitl.diputados.gob.mx/LXII_leg/listado_diputados_gpnp.php?tipot=TOTAL",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-LXIII.csv",
@@ -18,7 +19,8 @@
         "query": "SELECT *, '2015-' || id AS id, REPLACE(name, ' (LICENCIA)','') AS name FROM data ORDER BY id"
       },
       "source": "http://sitl.diputados.gob.mx/LXIII_leg/listado_diputados_gpnp.php?tipot=TOTAL",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

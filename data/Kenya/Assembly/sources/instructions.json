@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://info.mzalendo.com",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/official.csv",

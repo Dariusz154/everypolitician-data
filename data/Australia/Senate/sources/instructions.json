@@ -8,7 +8,8 @@
         "query": "SELECT *, id AS identifier__openaustralia, REPLACE(LOWER(party),' ','_') AS party_id, identifier__aph AS id FROM data ORDER BY id"
       },
       "source": "http://data.openaustralia.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/contacts.csv",

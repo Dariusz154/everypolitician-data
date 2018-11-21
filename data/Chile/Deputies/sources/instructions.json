@@ -8,7 +8,8 @@
         "query": "SELECT *, CASE district WHEN '0' THEN '' ELSE district END AS area FROM data ORDER BY id"
       },
       "source": "http://opendata.congreso.cl",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/wikidata.csv",

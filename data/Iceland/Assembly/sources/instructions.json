@@ -8,7 +8,8 @@
         "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, REPLACE(LOWER(party),' ','_') AS party_id, * FROM data WHERE term NOT IN ('2013', '2016')"
       },
       "source": "https://is.wikipedia.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/p39s.csv",
@@ -23,7 +24,8 @@
         "reconciliation_file": "reconciliation/p39s.csv"
       },
       "source": "http://wikidata.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikidata"
     },
     {
       "file": "morph/wikidata.csv",

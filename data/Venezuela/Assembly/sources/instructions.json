@@ -8,7 +8,8 @@
         "query": "SELECT *, 3 AS term FROM data WHERE term = 2015 ORDER BY id"
       },
       "source": "http://asambleanacional.gob.ve/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official2016.csv",
@@ -23,7 +24,8 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official2016.csv"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

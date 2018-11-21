@@ -8,7 +8,8 @@
         "query": "SELECT *, id AS identifier__riksdagen FROM data ORDER BY term DESC, id"
       },
       "source": "http://data.riksdagen.se/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

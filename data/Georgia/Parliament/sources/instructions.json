@@ -3,7 +3,8 @@
     {
       "file": "archive/chemiparlamenti-8.csv",
       "source": "http://www.chemiparlamenti.ge/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/chemiparlamenti.csv",
@@ -18,7 +19,8 @@
         "incoming_field": "id",
         "existing_field": "id",
         "reconciliation_file": "reconciliation/chemiparlamenti.csv"
-      }
+      },
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/wikidata.csv",

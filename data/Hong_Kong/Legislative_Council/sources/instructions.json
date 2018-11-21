@@ -3,7 +3,8 @@
     {
       "file": "archive/term-5.csv",
       "source": "http://www.legco.gov.hk/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/term-6.csv",
@@ -13,12 +14,14 @@
         "query": "SELECT *, REPLACE(id,'yr16-20/','') AS id FROM data ORDER BY id"
       },
       "source": "http://www.legco.gov.hk/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/vanished-6.csv",
       "source": "http://www.legco.gov.hk/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

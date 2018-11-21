@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikidata"
     },
     {
       "file": "morph/peoplesassembly.csv",

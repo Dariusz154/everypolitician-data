@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY term DESC, name"
       },
       "source": "http://en.inatsisartut.gl/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

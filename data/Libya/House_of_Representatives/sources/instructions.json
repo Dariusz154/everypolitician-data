@@ -8,7 +8,8 @@
         "query": "SELECT name, area, image, party, term, end_date FROM data ORDER BY name"
       },
       "source": "https://www.temehu.com",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "manual/terms.csv",

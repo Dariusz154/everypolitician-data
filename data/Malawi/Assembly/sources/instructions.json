@@ -8,7 +8,8 @@
         "query": "SELECT id,name,constituency,party,party_id,gender,tel,term,source FROM data ORDER BY id"
       },
       "source": "http://www.parliament.gov.mw",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

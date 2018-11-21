@@ -8,13 +8,15 @@
         "query": "SELECT *, '1' as term FROM data WHERE term = '2014' ORDER BY id"
       },
       "source": "http://majles.marsad.tn",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-vanished.csv",
       "source": "http://majles.marsad.tn",
       "type": "membership",
-      "reuse_ids": false
+      "reuse_ids": false,
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

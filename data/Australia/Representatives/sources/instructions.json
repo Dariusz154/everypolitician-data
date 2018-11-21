@@ -9,7 +9,8 @@
       },
       "corrections": "corrections/openaustralia.csv",
       "source": "http://data.openaustralia.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/openaustralia-contact-details.csv",

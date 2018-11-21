@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.telema.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/wikidata.csv",

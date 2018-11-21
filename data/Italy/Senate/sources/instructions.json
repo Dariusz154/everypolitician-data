@@ -1,9 +1,10 @@
- {
+{
   "sources": [
     {
       "file": "archive/openpolis-17.csv",
       "source": "http://politici.openpolis.it",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/openpolis-18.csv",
@@ -14,7 +15,8 @@
       },
       "source": "http://politici.openpolis.it",
       "reuse_ids": "true",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/wikidata.csv",

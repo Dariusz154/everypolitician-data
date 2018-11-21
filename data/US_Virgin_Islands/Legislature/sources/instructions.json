@@ -7,8 +7,9 @@
         "scraper": "tmtmtmtm/us-virgin-islands-legislature-wikipedia",
         "query": "SELECT * FROM data ORDER BY name"
       },
-      "source": "http://www.legvi.org/",
-      "type": "membership"
+      "source": "https://en.wikipedia.org",
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/official.csv",
@@ -17,6 +18,7 @@
         "scraper": "tmtmtmtm/us-virgin-islands-legislature",
         "query": "SELECT * FROM data ORDER BY id"
       },
+      "source": "http://www.legvi.org/",
       "type": "person",
       "merge": {
         "incoming_field": "name",

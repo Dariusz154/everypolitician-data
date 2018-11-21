@@ -3,7 +3,8 @@
     {
       "file": "archive/official-16.csv",
       "source": "http://www.congress.gov.ph",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/term-17.csv",
@@ -18,7 +19,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/term-17.csv"
-      }
+      },
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

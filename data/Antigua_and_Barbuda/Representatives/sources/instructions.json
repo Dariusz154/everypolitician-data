@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY name, term"
       },
       "source": "http://www.caribbeanelections.com",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/wikidata.csv",

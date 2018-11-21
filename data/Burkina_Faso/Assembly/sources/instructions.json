@@ -3,7 +3,8 @@
     {
       "file": "archive/official-2012.csv",
       "source": "http://www.assembleenationale.bf",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-2015.csv",
@@ -18,7 +19,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official-2015.csv"
-      }
+      },
+      "sourcetype": "official"
     },
     {
       "file": "morph/historic-3.csv",
@@ -32,7 +34,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/historic-3.csv"
-      }
+      },
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/historic-2.csv",
@@ -46,7 +49,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/historic-2.csv"
-      }
+      },
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/historic-1.csv",
@@ -60,7 +64,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/historic-1.csv"
-      }
+      },
+      "sourcetype": "pmo"
     },
     {
       "file": "manual/terms.csv",

@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data WHERE winner = 'yes' ORDER BY id"
       },
       "source": "http://electoraloffice.gov.dm/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "manual/terms.csv",

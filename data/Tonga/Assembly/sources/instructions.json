@@ -8,7 +8,8 @@
         "query": "SELECT *, 'unknown' AS party, 2015 AS term FROM data ORDER BY id"
       },
       "source": "http://parliament.gov.to/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/p39s.csv",
@@ -18,7 +19,8 @@
         "query": "SELECT *, 'unknown' AS party, 2015 AS term FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikidata"
     },
     {
       "file": "morph/wikidata.csv",

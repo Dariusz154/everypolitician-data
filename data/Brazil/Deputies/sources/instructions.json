@@ -8,7 +8,8 @@
         "query": "SELECT *, NULL as birth_date, NULL as death_date FROM data d JOIN membership m ON d.id = m.id WHERE term IN (54, 55) ORDER BY id, term DESC"
       },
       "source": "http://www.camara.gov.br",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-55.csv",

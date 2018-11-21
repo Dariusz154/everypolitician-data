@@ -3,7 +3,8 @@
     {
       "file": "archive/official-vanished.csv",
       "source": "http://www.thedanishparliament.dk",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official.csv",
@@ -13,7 +14,8 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.thedanishparliament.dk",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikipedia-historic.csv",
@@ -28,7 +30,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikipedia-historic.csv"
-      }
+      },
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/wikidata.csv",

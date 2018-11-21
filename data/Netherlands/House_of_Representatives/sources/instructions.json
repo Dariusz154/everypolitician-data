@@ -3,7 +3,8 @@
     {
       "file": "archive/wikipedia-2012.csv",
       "source": "http://nl.wikipedia.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/wikipedia-2017.csv",
@@ -18,7 +19,8 @@
         "reconciliation_file": "reconciliation/wikipedia-2017.csv"
       },
       "source": "http://nl.wikipedia.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/official.csv",

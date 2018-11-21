@@ -8,7 +8,8 @@
         "query": "SELECT *, 8 AS term FROM data ORDER BY name"
       },
       "source": "https://es.wikipedia.org/wiki/Anexo:Diputados_del_Congreso_Nacional_de_Honduras_2014-2018",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/wikidata.csv",

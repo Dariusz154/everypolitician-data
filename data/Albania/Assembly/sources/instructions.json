@@ -8,7 +8,8 @@
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data WHERE term = '8' ORDER BY name"
       },
       "source": "https://en.wikipedia.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/wikipedia-7.csv",
@@ -23,7 +24,8 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikipedia-7.csv"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/official-8.csv",

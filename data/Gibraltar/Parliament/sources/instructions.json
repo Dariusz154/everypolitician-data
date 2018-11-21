@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data"
       },
       "source": "http://www.parliament.gi/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikipedia.csv",

@@ -8,12 +8,14 @@
         "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "http://parliament.gov.vu/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-10.csv",
       "source": "http://parliament.gov.vu/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

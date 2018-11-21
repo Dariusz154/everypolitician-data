@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY id, term DESC"
       },
       "source": "http://www.knesset.gov.il",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

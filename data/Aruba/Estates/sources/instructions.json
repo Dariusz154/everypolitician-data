@@ -8,7 +8,8 @@
         "query": "SELECT *, other_name AS name, name AS other_name FROM data ORDER BY id"
       },
       "source": "http://www.parlamento.aw",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "manual/terms.csv",

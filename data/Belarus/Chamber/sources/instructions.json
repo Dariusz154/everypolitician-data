@@ -3,7 +3,8 @@
     {
       "file": "archive/official-term-5.csv",
       "source": "http://house.gov.by/ru",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official.csv",
@@ -18,7 +19,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official.csv"
-      }
+      },
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

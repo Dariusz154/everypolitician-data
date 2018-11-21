@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "https://zh.wikipedia.org/wiki/第十二届全国人民代表大会代表名单",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/wikidata.csv",

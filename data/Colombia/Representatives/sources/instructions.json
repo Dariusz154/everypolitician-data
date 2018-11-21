@@ -9,7 +9,8 @@
       },
       "corrections": "corrections/official.csv",
       "source": "http://www.camara.gov.co/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

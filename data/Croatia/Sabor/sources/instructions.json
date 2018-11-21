@@ -8,7 +8,8 @@
         "scraper": "tmtmtmtm/croatia-parliament",
         "query": "SELECT id, name, image, party, birth_date, constituency, term, start_date, end_date, source FROM data WHERE term = 7 ORDER BY id"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/sabor-8.csv",
@@ -23,7 +24,8 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/sabor-8.csv"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/sabor-9.csv",
@@ -38,7 +40,8 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/sabor-9.csv"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

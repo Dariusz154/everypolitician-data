@@ -8,7 +8,8 @@
         "query": "SELECT *, party as faction FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/Parliament_of_Nauru",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/elections2016.csv",
@@ -23,7 +24,8 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/elections2016.csv"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/wikidata.csv",

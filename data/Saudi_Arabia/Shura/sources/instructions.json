@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "http://shura.gov.sa/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "manual/terms.csv",

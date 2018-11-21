@@ -8,7 +8,8 @@
         "query": "SELECT *, REPLACE(LOWER(constituency),' ','_') AS constituency_id FROM data"
       },
       "source": "https://en.wikipedia.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/official.csv",

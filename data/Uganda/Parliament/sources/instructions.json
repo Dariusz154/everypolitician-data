@@ -8,12 +8,14 @@
         "query": "SELECT *, 9 AS term FROM data"
       },
       "source": "http://www.parliament.go.ug/mpdata/mps.hei",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-vanished.csv",
       "source": "http://www.parliament.go.ug/mpdata/mps.hei",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "google/sheet.csv",
@@ -26,7 +28,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/google-sheet-10.csv"
-      }
+      },
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/wikidata.csv",

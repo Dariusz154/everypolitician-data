@@ -8,7 +8,8 @@
         "query": "SELECT id, name, name_ar AS name__ar, email, photo, 2011 AS term FROM data"
       },
       "source": "https://www.almajles.gov.ae",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "manual/terms.csv",

@@ -3,7 +3,8 @@
     {
       "file": "amtsgeheimnis/members.csv",
       "source": "http://informationsfreiheit.at/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/wikidata.csv",

@@ -3,7 +3,8 @@
     {
       "file": "archive/elections-2010.csv",
       "source": "http://www.caribbeanelections.com/vc/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/elections-2015.csv",
@@ -18,7 +19,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/elections-2015.csv"
-      }
+      },
+      "sourcetype": "election"
     },
     {
       "file": "manual/terms.csv",

@@ -4,7 +4,8 @@
       "file": "archive/official-2010.csv",
       "type": "membership",
       "source": "http://www.dna.sr",
-      "notes": "From old scraper output before site changed"
+      "notes": "From old scraper output before site changed",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official.csv",
@@ -19,7 +20,8 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official.csv"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

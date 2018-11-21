@@ -8,12 +8,14 @@
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id, 11 AS term FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "archive/wikipedia-ceased.csv",
       "source": "https://en.wikipedia.org",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/official.csv",
