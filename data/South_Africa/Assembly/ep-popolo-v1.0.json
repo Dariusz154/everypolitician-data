@@ -15181,6 +15181,26 @@
       ]
     },
     {
+      "id": "a1249bcc-d1ee-4240-874d-c350fee5bc76",
+      "identifiers": [
+        {
+          "identifier": "1930",
+          "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q55350250",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.pa.org.za/media_root/cache/5b/bc/5bbc3aceaace85afa72eedf57dd878de.jpg",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/5b/bc/5bbc3aceaace85afa72eedf57dd878de.jpg"
+        }
+      ],
+      "name": "Neliswa Peggy Nkonyeni"
+    },
+    {
       "gender": "male",
       "given_name": "Abram",
       "honorific_prefix": "Mr",
@@ -21946,10 +21966,6 @@
       ]
     },
     {
-      "id": "e9c21d4f-20b2-47af-9ce9-567b5507252a",
-      "name": "Neliswa Peggy Nkonyeni"
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -28656,6 +28672,15 @@
       "role": "member"
     },
     {
+      "area_id": "Q81725",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "a1249bcc-d1ee-4240-874d-c350fee5bc76",
+      "role": "member",
+      "start_date": "2018-02-27"
+    },
+    {
       "area_id": "Q165956",
       "end_date": "2017-01-30",
       "legislative_period_id": "term/26",
@@ -29818,15 +29843,6 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "e94d026e-7e06-4794-b886-3da5afc956cc",
       "role": "member"
-    },
-    {
-      "area_id": "Q81725",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "e9c21d4f-20b2-47af-9ce9-567b5507252a",
-      "role": "member",
-      "start_date": "2018-02-27"
     },
     {
       "area_id": "Q160284",
