@@ -201,6 +201,7 @@
       "name": "Bonisile Alfred Nesi"
     },
     {
+      "birth_date": "1958-12-20",
       "gender": "female",
       "given_name": "Annette",
       "honorific_prefix": "Ms",
@@ -3306,7 +3307,7 @@
           "url": "https://www.pa.org.za/media_root/cache/2f/d7/2fd743cf7a919b9cb1da83ce299cacbd.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Cyril_Ramaphosa_in_Tehran.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cyril_Ramaphosa_e_Michel_Temer_2_(cropped).jpg"
         }
       ],
       "links": [
@@ -3952,6 +3953,7 @@
       ]
     },
     {
+      "birth_date": "1985-02-02",
       "contact_details": [
         {
           "type": "email",
@@ -20880,6 +20882,7 @@
         }
       ],
       "email": "bokkiegeyer@gmail.com",
+      "gender": "male",
       "id": "dd867b65-07fc-48d2-8069-8ba9577ef785",
       "identifiers": [
         {
@@ -22764,6 +22767,7 @@
       "name": "Leonard Ramatlakane"
     },
     {
+      "birth_date": "1971-06-07",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "f0fc9a82-b5be-409d-8cfc-0bd74524b75d",
@@ -23072,6 +23076,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/温妮·马迪基泽拉-曼德拉"
+        },
+        {
+          "note": "Wikipedia (zu)",
+          "url": "https://zu.wikipedia.org/wiki/Winnie_Madikizela-Mandela"
         },
         {
           "note": "Wikiquote (pl)",
@@ -24720,8 +24728,8 @@
           "source": "wikidata-label"
         },
         {
-          "lang": "de",
-          "name": "African Naional Congress",
+          "lang": "cy",
+          "name": "Cyngres Genedlaethol Affrica",
           "note": "multilingual",
           "source": "wikidata-label"
         },
