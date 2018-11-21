@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Barthélemy",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/wikidata.csv",

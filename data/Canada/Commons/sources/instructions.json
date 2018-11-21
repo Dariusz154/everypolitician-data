@@ -9,7 +9,8 @@
         "note": "fetch extra columns once this is Term 41 only"
       },
       "source": "https://en.wikipedia.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "morph/parlinfo.csv",

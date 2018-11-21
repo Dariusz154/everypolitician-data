@@ -8,7 +8,8 @@
         "query": "SELECT *, 2014 AS term FROM data ORDER BY id"
       },
       "source": "http://www.gbissau.com/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "manual/terms.csv",

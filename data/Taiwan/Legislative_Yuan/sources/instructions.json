@@ -3,7 +3,8 @@
     {
       "file": "morph/official.csv",
       "source": "http://www.ly.gov.tw/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official9.csv",
@@ -18,7 +19,8 @@
         "incoming_field": "name__zh",
         "existing_field": "name__zh",
         "reconciliation_file": "reconciliation/official9.csv"
-      }
+      },
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

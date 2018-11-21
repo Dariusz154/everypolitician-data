@@ -8,7 +8,8 @@
         "query": "SELECT id, name, name_ru AS name__ru, party, party_ru AS party__ru, image, term, source FROM data WHERE term = '5' ORDER BY id"
       },
       "source": "http://www.kenesh.kg",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official6.csv",
@@ -23,12 +24,14 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official6.csv"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-6-vanished.csv",
       "source": "http://www.kenesh.kg",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

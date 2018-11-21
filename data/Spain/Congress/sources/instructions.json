@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://proyectocolibri.es",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/official.csv",
@@ -34,7 +35,8 @@
         "reconciliation_file": "reconciliation/old-official-2015.csv"
       },
       "source": "http://www.congreso.es",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-2015.csv",

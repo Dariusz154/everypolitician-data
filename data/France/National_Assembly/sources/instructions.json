@@ -3,7 +3,8 @@
     {
       "file": "archive/nosdeputes14.csv",
       "source": "http://www.nosdeputes.fr/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/nosdeputes.csv",
@@ -18,7 +19,8 @@
         "reconciliation_file": "reconciliation/nosdeputes.csv"
       },
       "source": "http://www.nosdeputes.fr/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/sycomore.csv",
@@ -33,7 +35,8 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/sycomore.csv"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

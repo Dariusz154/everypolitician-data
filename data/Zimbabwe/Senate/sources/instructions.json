@@ -11,7 +11,8 @@
           "term": "8"
         }
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "google/people.csv",

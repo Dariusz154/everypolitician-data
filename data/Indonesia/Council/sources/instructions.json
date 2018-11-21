@@ -8,12 +8,14 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://dpr.go.id/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-vanished.csv",
       "source": "http://dpr.go.id/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

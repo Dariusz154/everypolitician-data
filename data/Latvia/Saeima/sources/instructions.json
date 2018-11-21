@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data WHERE term = 12 ORDER BY id"
       },
       "source": "http://www.saeima.lv/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-11.csv",
@@ -23,7 +24,8 @@
         "reconciliation_file": "reconciliation/official-11.csv"
       },
       "source": "http://www.saeima.lv/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-10.csv",
@@ -38,7 +40,8 @@
         "reconciliation_file": "reconciliation/official-10.csv"
       },
       "source": "http://www.saeima.lv/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

@@ -8,7 +8,8 @@
         "query": "SELECT *, 8 AS term, REPLACE(name, '(Deceased) ', '') AS alternate_names, REPLACE(shorter_name, '(Deceased) ', '') AS name, id as identifier__nass FROM data WHERE js_position = 'Sen' AND area != '' ORDER BY CAST(id AS int)"
       },
       "source": "http://www.nass.gov.ng/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/shineyoureye.csv",

@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data"
       },
       "source": "http://ws.parlament.ch",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/official.csv",

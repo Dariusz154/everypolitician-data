@@ -9,7 +9,8 @@
       },
       "corrections": "corrections/kansanmuisti.csv",
       "source": "http://kansanmuisti.fi/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/p39s.csv",
@@ -19,7 +20,8 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikidata"
     },
     {
       "file": "morph/wikidata.csv",

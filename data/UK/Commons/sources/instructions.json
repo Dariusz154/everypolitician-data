@@ -7,7 +7,8 @@
         "from": "parlparse",
         "instructions": "parlparse/instructions.json"
       },
-      "source": "http://parser.theyworkforyou.com/"
+      "source": "http://parser.theyworkforyou.com/",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/parliament.csv",
@@ -38,7 +39,10 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/twitter.csv",
         "patch": {
-          "ignore": [ "name", "image" ]
+          "ignore": [
+            "name",
+            "image"
+          ]
         }
       }
     },
@@ -138,7 +142,10 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/twitter.csv",
         "patch": {
-          "ignore": [ "name", "twitter" ]
+          "ignore": [
+            "name",
+            "twitter"
+          ]
         }
       }
     },

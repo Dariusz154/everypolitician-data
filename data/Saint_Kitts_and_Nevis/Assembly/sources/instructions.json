@@ -8,7 +8,8 @@
         "query": "SELECT *, election AS term FROM data WHERE election = '2015' ORDER BY id"
       },
       "source": "http://www.electionpassport.com/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/electionpassport-2010.csv",
@@ -23,7 +24,8 @@
         "reconciliation_file": "reconciliation/electionpassport-2010.csv"
       },
       "source": "http://www.electionpassport.com/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/electionpassport-2004.csv",
@@ -38,7 +40,8 @@
         "reconciliation_file": "reconciliation/electionpassport-2004.csv"
       },
       "source": "http://www.electionpassport.com/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/electionpassport-2000.csv",
@@ -53,7 +56,8 @@
         "reconciliation_file": "reconciliation/electionpassport-2000.csv"
       },
       "source": "http://www.electionpassport.com/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/electionpassport-1995.csv",
@@ -68,7 +72,8 @@
         "reconciliation_file": "reconciliation/electionpassport-1995.csv"
       },
       "source": "http://www.electionpassport.com/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/electionpassport-1993.csv",
@@ -83,7 +88,8 @@
         "reconciliation_file": "reconciliation/electionpassport-1993.csv"
       },
       "source": "http://www.electionpassport.com/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/electionpassport-1989.csv",
@@ -98,7 +104,8 @@
         "reconciliation_file": "reconciliation/electionpassport-1989.csv"
       },
       "source": "http://www.electionpassport.com/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/electionpassport-1984.csv",
@@ -113,7 +120,8 @@
         "reconciliation_file": "reconciliation/electionpassport-1984.csv"
       },
       "source": "http://www.electionpassport.com/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "election"
     },
     {
       "file": "morph/wikipedia.csv",

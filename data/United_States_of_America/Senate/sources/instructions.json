@@ -8,7 +8,8 @@
         "query": "SELECT *, CASE WHEN end_date > date('now') THEN '' ELSE end_date END AS end_date FROM data WHERE house = 'sen' ORDER BY id"
       },
       "source": "https://github.com/unitedstates/congress-legislators",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/socialmedia.csv",

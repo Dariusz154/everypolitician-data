@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data WHERE term = 8 ORDER BY id"
       },
       "source": "http://www.parlamento.cv",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/offical-9.csv",
@@ -23,12 +24,14 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official-9.csv"
-      }
+      },
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-8-vanished.csv",
       "source": "http://www.parlamento.cv",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

@@ -1,9 +1,10 @@
- {
+{
   "sources": [
     {
       "file": "morph/official.csv",
       "source": "http://asamblea.gob.sv/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "manual/terms.csv",

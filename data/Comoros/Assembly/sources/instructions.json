@@ -8,7 +8,8 @@
         "query": "SELECT *, 2015 as TERM FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/Comorian_legislative_election,_2015",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "manual/terms.csv",

@@ -8,7 +8,8 @@
         "query": "SELECT *, 2 AS term FROM data ORDER BY id"
       },
       "source": "http://www.asambleanacional.gob.ec/es/pleno-asambleistas",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

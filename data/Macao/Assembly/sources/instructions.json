@@ -8,7 +8,8 @@
         "query": "SELECT *, name__en as name FROM data ORDER BY id"
       },
       "source": "http://www.al.gov.mo/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

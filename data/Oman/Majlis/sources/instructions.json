@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY name"
       },
       "source": "http://www.khaleejtimes.com",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "press"
     },
     {
       "file": "morph/wikidata.csv",

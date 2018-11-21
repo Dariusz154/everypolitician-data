@@ -8,13 +8,15 @@
         "query": "SELECT *, parish AS area FROM data ORDER BY id"
       },
       "source": "http://www.statesassembly.gov.je",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-11-vanished.csv",
       "source": "http://www.statesassembly.gov.je",
       "type": "membership",
-      "reuse_ids": false
+      "reuse_ids": false,
+      "sourcetype": "official"
     },
     {
       "file": "manual/terms.csv",

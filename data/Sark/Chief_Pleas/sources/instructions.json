@@ -8,7 +8,8 @@
         "query": "SELECT *, 'None' AS party FROM data ORDER BY name, term DESC"
       },
       "source": "https://en.wikipedia.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikipedia"
     },
     {
       "file": "manual/terms.csv",

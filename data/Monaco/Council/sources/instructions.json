@@ -8,7 +8,8 @@
         "query": "SELECT id, name, party, area, image, email, term_id AS term, details_url AS source FROM data ORDER BY id"
       },
       "source": "http://www.conseil-national.mc/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-2018.csv",
@@ -23,7 +24,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official-2018.csv"
-      }
+      },
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

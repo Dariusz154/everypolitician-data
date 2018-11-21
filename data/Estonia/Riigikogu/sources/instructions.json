@@ -7,7 +7,9 @@
         "scraper": "everypolitician-scrapers/estonia-riigikogu-members-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "membership"
+      "source": "http://wikidata.org/",
+      "type": "membership",
+      "sourcetype": "wikidata"
     },
     {
       "file": "google/sheet-12.csv",
@@ -20,7 +22,8 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/sheet-12.csv"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/official.csv",

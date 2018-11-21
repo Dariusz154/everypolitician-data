@@ -7,7 +7,9 @@
         "scraper": "everypolitician-scrapers/belize-representatives-p39s",
         "query": "SELECT * FROM data WHERE term >= 9 ORDER BY id"
       },
-      "type": "membership"
+      "source": "http://wikidata.org/",
+      "type": "membership",
+      "sourcetype": "wikidata"
     },
     {
       "file": "archive/official-2012-bio.csv",

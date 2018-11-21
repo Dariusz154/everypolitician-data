@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.parlament.mt/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-13.csv",
@@ -23,9 +24,9 @@
         "reconciliation_file": "reconciliation/official-13.csv"
       },
       "source": "http://www.parlament.mt/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
-
     {
       "file": "morph/p39s.csv",
       "create": {
@@ -34,7 +35,8 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "wikidata"
     },
     {
       "file": "morph/wikidata.csv",

@@ -8,12 +8,14 @@
         "query": "SELECT *, 42 AS term, REPLACE(LOWER(party),' ','_') AS party_id FROM data ORDER BY id"
       },
       "source": "https://sencanada.ca",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-vanished.csv",
       "source": "https://sencanada.ca",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

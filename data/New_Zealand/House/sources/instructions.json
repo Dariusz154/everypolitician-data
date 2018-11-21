@@ -3,12 +3,14 @@
     {
       "file": "archive/official-51.csv",
       "source": "http://www.parliament.nz",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-52-vanished.csv",
       "source": "http://www.parliament.nz",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-52.csv",
@@ -23,7 +25,8 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official-52.csv"
       },
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikipedia.csv",
@@ -38,7 +41,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikipedia.csv"
-      }
+      },
+      "sourcetype": "wikidata"
     },
     {
       "file": "morph/wikidata.csv",

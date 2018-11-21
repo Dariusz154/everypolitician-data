@@ -8,12 +8,14 @@
         "query": "SELECT *, REPLACE(address, X'0D0A',' ') AS address FROM data ORDER BY id"
       },
       "source": "http://www.na.gov.pk",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-term-14.csv",
       "source": "http://www.na.gov.pk",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

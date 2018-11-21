@@ -8,7 +8,8 @@
         "query": "SELECT * FROM data WHERE term = 2011 ORDER BY name"
       },
       "source": "http://na.gov.la/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/official-2016.csv",
@@ -23,7 +24,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/official-2016.csv"
-      }
+      },
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

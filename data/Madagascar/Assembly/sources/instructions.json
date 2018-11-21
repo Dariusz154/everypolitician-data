@@ -8,12 +8,14 @@
         "query": "SELECT *, term_id AS term, null AS term_id, district AS constituency FROM data ORDER BY name"
       },
       "source": "http://www.assemblee-nationale.mg/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "archive/official-2013-vanished.csv",
       "source": "http://www.assemblee-nationale.mg/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

@@ -8,7 +8,8 @@
         "query": "SELECT *, id AS identifier__parliament_bg FROM data ORDER BY id"
       },
       "source": "http://www.parliament.bg",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

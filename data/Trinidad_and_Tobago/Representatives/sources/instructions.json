@@ -8,7 +8,8 @@
         "query": "SELECT *, 11 AS term FROM house_of_representatives ORDER BY id"
       },
       "source": "http://ttparliament.org",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "manual/terms.csv",

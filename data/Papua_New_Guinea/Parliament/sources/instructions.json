@@ -8,7 +8,8 @@
         "query": "SELECT *, province as area__province, region as area__region, area AS constituency, term_id AS term, null AS term_id FROM data ORDER BY id"
       },
       "source": "http://www.parliament.gov.pg/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "official"
     },
     {
       "file": "morph/wikidata.csv",

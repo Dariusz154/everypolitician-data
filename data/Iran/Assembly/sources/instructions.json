@@ -3,7 +3,8 @@
     {
       "file": "archive/term-9-sheet.csv",
       "source": "https://asl19.org/",
-      "type": "membership"
+      "type": "membership",
+      "sourcetype": "pmo"
     },
     {
       "file": "google/term-10-sheet.csv",
@@ -16,7 +17,8 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/term-10.csv"
-      }
+      },
+      "sourcetype": "pmo"
     },
     {
       "file": "morph/wikidata.csv",
