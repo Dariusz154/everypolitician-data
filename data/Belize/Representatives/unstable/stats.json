@@ -35,22 +35,16 @@
   },
   "sources": [
     {
-      "file": "archive/official-2012.csv",
+      "file": "morph/p39s.csv",
       "type": "membership",
-      "scraper": null,
-      "lastmod": "2018-11-19"
+      "scraper": "everypolitician-scrapers/belize-representatives-p39s",
+      "lastmod": "2018-11-21"
     },
     {
       "file": "archive/official-2012-bio.csv",
       "type": "person",
       "scraper": null,
       "lastmod": "2018-11-19"
-    },
-    {
-      "file": "morph/official-2015.csv",
-      "type": "membership",
-      "scraper": "everypolitician-scrapers/belize-national-assembly",
-      "lastmod": "2018-11-20"
     },
     {
       "file": "morph/official-2015-bio.csv",
@@ -62,7 +56,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/belize-national-assembly-wikidata",
-      "lastmod": "2018-11-20"
+      "lastmod": "2018-11-21"
     },
     {
       "file": "morph/terms.csv",

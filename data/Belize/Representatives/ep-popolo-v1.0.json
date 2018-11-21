@@ -1,10 +1,6 @@
 {
   "posts": [
-    {
-      "id": "speaker",
-      "label": "Speaker",
-      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a"
-    }
+
   ],
   "persons": [
     {
@@ -35,12 +31,11 @@
           "url": "https://pl.wikipedia.org/wiki/Florencio_Marin_Jr."
         }
       ],
-      "name": "Florencio Julian Marin Jr.",
+      "name": "Florencio Marin Jr.",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Florencio Marin Jr.",
-          "note": "multilingual"
+          "name": "Florencio Julian Marin Jr.",
+          "note": "alternate"
         }
       ]
     },
@@ -114,12 +109,11 @@
           "url": "https://pl.wikipedia.org/wiki/Hugo_Patt"
         }
       ],
-      "name": "Hugo Amilcar Patt",
+      "name": "Hugo Patt",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Hugo Patt",
-          "note": "multilingual"
+          "name": "Hugo Amilcar Patt",
+          "note": "alternate"
         }
       ]
     },
@@ -173,12 +167,11 @@
           "url": "https://pl.wikipedia.org/wiki/Edmond_Castro"
         }
       ],
-      "name": "Edmond George Castro",
+      "name": "Edmond Castro",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Edmond Castro",
-          "note": "multilingual"
+          "name": "Edmond George Castro",
+          "note": "alternate"
         }
       ]
     },
@@ -474,10 +467,14 @@
           "url": "https://zh.wikipedia.org/wiki/迪安·奥利弗·巴罗"
         }
       ],
-      "name": "Dean Oliver Barrow",
+      "name": "Dean Barrow",
       "other_names": [
         {
           "name": "Dean O. Barrow",
+          "note": "alternate"
+        },
+        {
+          "name": "Dean Oliver Barrow",
           "note": "alternate"
         },
         {
@@ -493,11 +490,6 @@
         {
           "lang": "el",
           "name": "Ντιν Μπάροου",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Dean Barrow",
           "note": "multilingual"
         },
         {
@@ -576,11 +568,24 @@
           "url": "https://pl.wikipedia.org/wiki/Jose_Manuel_Heredia_Jr."
         }
       ],
-      "name": "Jose Manuel Heredia Jr.",
+      "name": "Manuel Heredia",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Manuel Heredia",
+          "name": "Jose Manuel Heredia Jr.",
+          "note": "alternate"
+        },
+        {
+          "name": "Jose Manuel Heredia Jr.",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Jose Manuel Heredia Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jose Manuel Heredia Jr.",
           "note": "multilingual"
         }
       ]
@@ -680,16 +685,15 @@
           "url": "https://pl.wikipedia.org/wiki/Mark_King_(polityk)"
         }
       ],
-      "name": "Mark Anthony King",
+      "name": "Mark King",
       "other_names": [
+        {
+          "name": "Mark Anthony King",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "مارك كينغ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Mark King",
           "note": "multilingual"
         }
       ]
@@ -773,12 +777,11 @@
           "url": "https://pl.wikipedia.org/wiki/Rodwell_Ferguson"
         }
       ],
-      "name": "Rodwell Stephen Ferguson Sr.",
+      "name": "Rodwell Ferguson",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Rodwell Ferguson",
-          "note": "multilingual"
+          "name": "Rodwell Stephen Ferguson Sr.",
+          "note": "alternate"
         }
       ]
     },
@@ -808,12 +811,11 @@
           "url": "https://pl.wikipedia.org/wiki/Marco_Tulio_Mendez"
         }
       ],
-      "name": "Dr. Marco Tulio Mendez",
+      "name": "Marco Tulio Mendez",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Marco Tulio Mendez",
-          "note": "multilingual"
+          "name": "Dr. Marco Tulio Mendez",
+          "note": "alternate"
         }
       ]
     },
@@ -839,12 +841,11 @@
           "url": "https://en.wikipedia.org/wiki/Laura_Tucker-Longsworth"
         }
       ],
-      "name": "Mrs. Laura Tucker-Longsworth",
+      "name": "Laura Tucker-Longsworth",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Laura Tucker-Longsworth",
-          "note": "multilingual"
+          "name": "Mrs. Laura Tucker-Longsworth",
+          "note": "alternate"
         }
       ]
     },
@@ -1092,16 +1093,15 @@
           "url": "https://pl.wikipedia.org/wiki/Michael_Espat"
         }
       ],
-      "name": "Michael Joseph Espat",
+      "name": "Michael Espat",
       "other_names": [
         {
-          "name": "Mike Espat",
+          "name": "Michael Joseph Espat",
           "note": "alternate"
         },
         {
-          "lang": "en",
-          "name": "Michael Espat",
-          "note": "multilingual"
+          "name": "Mike Espat",
+          "note": "alternate"
         }
       ]
     },
@@ -1310,8 +1310,12 @@
           "url": "https://uk.wikipedia.org/wiki/Саїд_Муса"
         }
       ],
-      "name": "Said Wilbert Musa",
+      "name": "Said Musa",
       "other_names": [
+        {
+          "name": "Said Wilbert Musa",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "سعيد موسى",
@@ -1320,11 +1324,6 @@
         {
           "lang": "el",
           "name": "Σαΐντ Μούσα",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Said Musa",
           "note": "multilingual"
         },
         {
@@ -1413,12 +1412,11 @@
           "url": "https://pl.wikipedia.org/wiki/Erwin_Contreras"
         }
       ],
-      "name": "Erwin Rafael Contreras",
+      "name": "Erwin Contreras",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Erwin Contreras",
-          "note": "multilingual"
+          "name": "Erwin Rafael Contreras",
+          "note": "alternate"
         }
       ]
     },
@@ -1447,12 +1445,11 @@
           "url": "https://pl.wikipedia.org/wiki/Santiago_Castillo"
         }
       ],
-      "name": "Santino Castillo",
+      "name": "Santiago Castillo",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Santiago Castillo",
-          "note": "multilingual"
+          "name": "Santino Castillo",
+          "note": "alternate"
         }
       ]
     },
@@ -1517,12 +1514,11 @@
           "url": "https://pl.wikipedia.org/wiki/Herman_Longsworth"
         }
       ],
-      "name": "Herman R. Longsworth",
+      "name": "Herman Longsworth",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Herman Longsworth",
-          "note": "multilingual"
+          "name": "Herman R. Longsworth",
+          "note": "alternate"
         }
       ]
     },
@@ -1560,11 +1556,19 @@
           "url": "https://pl.wikipedia.org/wiki/Juan_Antonio_Briceño"
         }
       ],
-      "name": "John Briceño",
+      "name": "Johnny Briceño",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Johnny Briceño",
+          "name": "John Briceño",
+          "note": "alternate"
+        },
+        {
+          "name": "John Briceño",
+          "note": "alternate"
+        },
+        {
+          "lang": "pl",
+          "name": "John Briceño",
           "note": "multilingual"
         }
       ]
@@ -1600,12 +1604,11 @@
           "url": "https://pl.wikipedia.org/wiki/Dolores_Balderamos"
         }
       ],
-      "name": "Dolores Balderamos Garcia",
+      "name": "Dolores Balderamos-García",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Dolores Balderamos-García",
-          "note": "multilingual"
+          "name": "Dolores Balderamos Garcia",
+          "note": "alternate"
         },
         {
           "lang": "pl",
@@ -1667,16 +1670,15 @@
           "url": "https://pl.wikipedia.org/wiki/Wilfred_Elrington"
         }
       ],
-      "name": "Wilfred Peter Elrington",
+      "name": "Wilfred Elrington",
       "other_names": [
+        {
+          "name": "Wilfred Peter Elrington",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "ويلفريد إرينغتون",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Wilfred Elrington",
           "note": "multilingual"
         },
         {
@@ -1725,12 +1727,11 @@
           "url": "https://pl.wikipedia.org/wiki/Michael_Finnegan"
         }
       ],
-      "name": "Michael Kwame Finnegan",
+      "name": "Michael Finnegan",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Michael Finnegan",
-          "note": "multilingual"
+          "name": "Michael Kwame Finnegan",
+          "note": "alternate"
         },
         {
           "lang": "ja",
@@ -1769,12 +1770,11 @@
           "url": "https://pl.wikipedia.org/wiki/Ivan_Ramos"
         }
       ],
-      "name": "Ivan Micahel Ramos",
+      "name": "Ivan Ramos",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Ivan Ramos",
-          "note": "multilingual"
+          "name": "Ivan Micahel Ramos",
+          "note": "alternate"
         },
         {
           "lang": "ru",
@@ -2267,7 +2267,6 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
       "person_id": "61e8cc3b-8ae0-4c91-b064-0eccd810a4c1",
-      "post_id": "speaker",
       "role": "member"
     },
     {
@@ -2289,6 +2288,14 @@
     {
       "area_id": "93053d15-48aa-4586-80a1-f1c8d27560da",
       "legislative_period_id": "term/10",
+      "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
+      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
+      "person_id": "82020a0c-d4a9-491b-ab86-fdd91f836fa2",
+      "role": "member"
+    },
+    {
+      "area_id": "93053d15-48aa-4586-80a1-f1c8d27560da",
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
       "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
       "person_id": "82020a0c-d4a9-491b-ab86-fdd91f836fa2",
@@ -2329,6 +2336,14 @@
     {
       "area_id": "060760dc-c12a-4e34-8773-3b42f3fa1cda",
       "legislative_period_id": "term/10",
+      "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
+      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
+      "person_id": "8c1c2537-5720-4807-8e16-c3a927e16cee",
+      "role": "member"
+    },
+    {
+      "area_id": "060760dc-c12a-4e34-8773-3b42f3fa1cda",
+      "legislative_period_id": "term/9",
       "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
       "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
       "person_id": "8c1c2537-5720-4807-8e16-c3a927e16cee",
