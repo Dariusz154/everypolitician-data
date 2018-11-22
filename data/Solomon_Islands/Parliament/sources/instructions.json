@@ -1,15 +1,15 @@
 {
   "sources": [
     {
-      "file": "morph/election.csv",
+      "file": "morph/p39s.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/solomon-islands-election-results",
-        "query": "SELECT * FROM data ORDER BY name"
+        "scraper": "everypolitician-scrapers/solomon-islands-parliament-p39s",
+        "query": "SELECT * FROM data WHERE term >= 10 ORDER BY id"
       },
-      "source": "http://www.siec.gov.sb/index.php/journalist/127-2014-national-general-election-results",
+      "source": "http://wikidata.org/",
       "type": "membership",
-      "sourcetype": "election"
+      "sourcetype": "wikidata"
     },
     {
       "file": "morph/official.csv",
