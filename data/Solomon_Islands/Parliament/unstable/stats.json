@@ -35,10 +35,10 @@
   },
   "sources": [
     {
-      "file": "morph/election.csv",
+      "file": "morph/p39s.csv",
       "type": "membership",
-      "scraper": "tmtmtmtm/solomon-islands-election-results",
-      "lastmod": "2016-07-24"
+      "scraper": "everypolitician-scrapers/solomon-islands-parliament-p39s",
+      "lastmod": "2018-11-22"
     },
     {
       "file": "morph/official.csv",
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/solomon-islands-parliament-wikidata",
-      "lastmod": "2018-11-19"
+      "lastmod": "2018-11-22"
     },
     {
       "file": "morph/terms.csv",
