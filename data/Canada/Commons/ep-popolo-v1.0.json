@@ -9515,6 +9515,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jack_Harris"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jack_Harris_(Newfoundland_and_Labrador_politician)"
         },
@@ -19369,6 +19373,11 @@
       ],
       "name": "Peter Kent",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "بيتر كينت",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "Питер Кент",
@@ -34195,6 +34204,11 @@
       ],
       "name": "Karina Gould",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "كارينا غولد",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "カリナ・グルド",
