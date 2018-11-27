@@ -12195,6 +12195,16 @@
       ]
     },
     {
+      "id": "fe7f26b3-86ff-4373-93f2-c5d3923ae4dc",
+      "image": "http://www.congress.gov.ph/members/images/17th/pico.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/pico.jpg"
+        }
+      ],
+      "name": "Pico, Pepito M."
+    },
+    {
       "id": "fec15344-6e83-429b-9c84-7c54dda21c8f",
       "image": "http://www.congress.gov.ph/members/images/17th/mercado-r.jpg",
       "images": [
@@ -20607,6 +20617,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=garcia-e"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "diwa",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "fe7f26b3-86ff-4373-93f2-c5d3923ae4dc",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=pico"
         }
       ]
     },
