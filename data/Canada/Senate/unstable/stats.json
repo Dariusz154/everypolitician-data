@@ -9,7 +9,7 @@
       "contacts": {
         "email": 101,
         "facebook": 35,
-        "twitter": 53
+        "twitter": 54
       }
     }
   },
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/canada-senate-wikidata",
-      "lastmod": "2018-11-23"
+      "lastmod": "2018-11-25"
     },
     {
       "file": "manual/terms.csv",
