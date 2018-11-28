@@ -1215,19 +1215,10 @@
       "birth_date": "1963-04-19",
       "contact_details": [
         {
-          "type": "email",
-          "value": "barbi.pilvre@riigikogu.ee"
-        },
-        {
-          "type": "phone",
-          "value": "6316574"
-        },
-        {
           "type": "twitter",
           "value": "barbipilvre"
         }
       ],
-      "email": "barbi.pilvre@riigikogu.ee",
       "family_name": "Pilvre",
       "gender": "female",
       "id": "0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
@@ -1245,11 +1236,8 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/345b2059-cb14-4e50-910e-ace787bdc78c.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Barbi_Pilvre_.jpg",
       "images": [
-        {
-          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/345b2059-cb14-4e50-910e-ace787bdc78c.jpg"
-        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Barbi_Pilvre_.jpg"
         }
@@ -13408,8 +13396,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/SDE_Andres_Anvelt.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/baf804c0-943c-4c42-932e-3cd1151caf9f.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/baf804c0-943c-4c42-932e-3cd1151caf9f.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/SDE_Andres_Anvelt.jpg"
         }
@@ -18292,11 +18283,6 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
       "role": "member",
-      "sources": [
-        {
-          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/b12fce45-ee22-49c9-bfdc-cc3d8dcda5e5/Barbi-Pilvre"
-        }
-      ],
       "start_date": "2014-03-27"
     },
     {
@@ -18306,11 +18292,6 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
       "role": "member",
-      "sources": [
-        {
-          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/b12fce45-ee22-49c9-bfdc-cc3d8dcda5e5/Barbi-Pilvre"
-        }
-      ],
       "start_date": "2016-11-24"
     },
     {
@@ -21335,7 +21316,12 @@
       "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "e28a42b5-395d-4993-9025-f5b417edd583",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/d29b95db-3b4d-43de-802d-652c32199211/Andres-Anvelt"
+        }
+      ]
     },
     {
       "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
@@ -21344,7 +21330,12 @@
       "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "e28a42b5-395d-4993-9025-f5b417edd583",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/d29b95db-3b4d-43de-802d-652c32199211/Andres-Anvelt"
+        }
+      ]
     },
     {
       "area_id": "23422b41-11c4-4ee0-bd65-4594b1beffd8",
