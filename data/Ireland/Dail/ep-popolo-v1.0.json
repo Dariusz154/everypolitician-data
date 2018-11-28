@@ -9720,6 +9720,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "ডেনিস জোন্স",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Денис Джонс",
           "note": "multilingual"
@@ -39650,6 +39655,12 @@
         {
           "lang": "es",
           "name": "Socialdemócratas",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Social Democrats (Irland)",
           "note": "multilingual",
           "source": "wikidata-label"
         }
