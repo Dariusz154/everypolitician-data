@@ -1114,6 +1114,10 @@
         {
           "type": "phone",
           "value": "613-943-8296"
+        },
+        {
+          "type": "twitter",
+          "value": "BrianFrancisPEI"
         }
       ],
       "email": "Brian.Francis@sen.parl.gc.ca",
@@ -1127,16 +1131,24 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://sencanada.ca/media/363077/sen_large.jpg",
+      "image": "https://sencanada.ca/media/363077/sen_217624_large.jpg",
       "images": [
         {
-          "url": "https://sencanada.ca/media/363077/sen_large.jpg"
+          "url": "https://sencanada.ca/media/363077/sen_217624_large.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Brian_Francis_(politician)"
+        },
+        {
+          "note": "instagram",
+          "url": "https://www.instagram.com/brianfrancispei/"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BrianFrancisPEI"
         }
       ],
       "name": "Brian Francis",
@@ -2353,11 +2365,11 @@
         },
         {
           "type": "fax",
-          "value": "613-992-7959"
+          "value": "613-943-8279"
         },
         {
           "type": "phone",
-          "value": "613-944-3453"
+          "value": "613-943-8282"
         }
       ],
       "email": "Patti.LaBoucane-Benson@sen.parl.gc.ca",
@@ -4690,11 +4702,11 @@
         },
         {
           "type": "fax",
-          "value": "613-992-7959"
+          "value": "613-943-7940"
         },
         {
           "type": "phone",
-          "value": "613-944-3453"
+          "value": "613-943-7933"
         }
       ],
       "email": "Marty.Klyne@sen.parl.gc.ca",
