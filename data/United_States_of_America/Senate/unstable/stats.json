@@ -27,7 +27,7 @@
     "wikidata": 50
   },
   "elections": {
-    "count": 76,
+    "count": 127,
     "latest": "2018"
   },
   "positions": {
@@ -50,13 +50,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/us-senators-wikidata",
-      "lastmod": "2018-10-12"
+      "lastmod": "2018-11-29"
     },
     {
       "file": "wikidata/parties.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-09-14"
+      "lastmod": "2018-11-27"
     },
     {
       "file": "morph/areas.csv",
@@ -80,13 +80,13 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/us-senators-positions",
-      "lastmod": "2018-09-12"
+      "lastmod": "2018-11-21"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-09-14"
+      "lastmod": "2018-11-27"
     }
   ]
 }
