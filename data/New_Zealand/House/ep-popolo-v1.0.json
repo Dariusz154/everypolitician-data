@@ -13634,15 +13634,8 @@
           "url": "https://twitter.com/ginnyandersen"
         }
       ],
-      "name": "Virginia Andersen",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Ginny Andersen",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Andersen, Virginia"
+      "name": "Ginny Andersen",
+      "sort_name": "Andersen, Ginny"
     },
     {
       "birth_date": "1944-07-07",
@@ -25128,6 +25121,7 @@
     },
     {
       "area_id": "botany",
+      "end_date": "2018-10-16",
       "legislative_period_id": "term/52",
       "on_behalf_of_id": "national_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -25138,6 +25132,20 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/ross-jami-lee/"
         }
       ]
+    },
+    {
+      "area_id": "botany",
+      "legislative_period_id": "term/52",
+      "on_behalf_of_id": "independent",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "b95652d2-b776-45c5-9c79-16add328efa5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/ross-jami-lee/"
+        }
+      ],
+      "start_date": "2018-10-16"
     },
     {
       "area_id": "hamilton_east",
@@ -25869,7 +25877,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/andersen-virginia/"
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/andersen-ginny/"
         }
       ]
     },
