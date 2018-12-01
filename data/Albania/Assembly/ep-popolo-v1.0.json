@@ -2600,7 +2600,7 @@
       "name": "Vangjel Tavo"
     },
     {
-      "birth_date": "1958",
+      "birth_date": "1958-07-05",
       "gender": "male",
       "given_name": "Kreshnik",
       "id": "6d50fb44-4436-48e5-982a-fc3034c81f13",
@@ -6069,6 +6069,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Olta_Xhaçka"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Джачка,_Ольта"
         },
         {
           "note": "Wikipedia (sq)",

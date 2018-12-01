@@ -273,6 +273,12 @@
         "name": "élections législatives albanaises de 2001",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições parlamentares na Albânia em 2001",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -469,6 +475,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "pt",
+        "name": "Eleições parlamentares na Albânia em 1997",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "sq",
         "name": "Rebelimi i Shqipërisë së Jugut-1997",
         "note": "multilingual",
@@ -495,7 +507,8 @@
     ],
     "dates": [
       "1997"
-    ]
+    ],
+    "followed_by": "Albanian parliamentary election, 2001"
   },
   "Q3538055": {
     "identifiers": [
@@ -592,6 +605,12 @@
       {
         "lang": "ast",
         "name": "eleiciones parllamentaries d'Albania de 2013",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições parlamentares na Albânia em 2013",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1082,6 +1101,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "pt",
+        "name": "Eleições parlamentares na Albânia em 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ca",
         "name": "Eleccions legislatives d’Albània (2005)",
         "note": "multilingual",
@@ -1199,6 +1224,12 @@
       {
         "lang": "ast",
         "name": "eleiciones parllamentaries d'Albania de 2017",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições parlamentares na Albânia em 2017",
         "note": "multilingual",
         "source": "wikidata-label"
       },
