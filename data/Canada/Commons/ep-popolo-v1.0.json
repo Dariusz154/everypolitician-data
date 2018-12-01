@@ -14452,6 +14452,10 @@
           "scheme": "represent"
         },
         {
+          "identifier": "104259421",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q3165724",
           "scheme": "wikidata"
         }
@@ -17465,6 +17469,11 @@
         {
           "name": "Candice Hoeppner",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "كانديس بيرغن",
+          "note": "multilingual"
         },
         {
           "lang": "ru",
@@ -31662,7 +31671,7 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/RaittLisa_CPC.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lisa_Raitt.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lisa_Raitt_-_2017_(36917974502)_(cropped)2.jpg"
         }
       ],
       "links": [
@@ -43467,7 +43476,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.ndp.ca"
+          "url": "https://www.ndp.ca"
         }
       ],
       "name": "NDP",
@@ -43877,24 +43886,6 @@
         {
           "lang": "en",
           "name": "New Democratic Party of Canada",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "Canada New Democratic Party",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "federal New Democratic Party",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "Dippers",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
