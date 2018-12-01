@@ -2921,6 +2921,10 @@
           "url": "https://uk.wikipedia.org/wiki/Мун_Чже_Ін"
         },
         {
+          "note": "Wikipedia (ukwikisource)",
+          "url": "https://ukwikisource.wikipedia.org/wiki/Автор:Мун_Чже_Ін"
+        },
+        {
           "note": "Wikipedia (ur)",
           "url": "https://ur.wikipedia.org/wiki/مون_جے_ان"
         },
@@ -13673,6 +13677,7 @@
         }
       ],
       "email": "assemblyc@daum.net",
+      "family_name": "Kim",
       "gender": "male",
       "id": "633357ee-076f-4e10-ba63-e9ed02b2462e",
       "identifiers": [
@@ -13692,6 +13697,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Young-Choon_Kim"
+        },
+        {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/김영춘_(1962년)"
         },
@@ -13709,6 +13718,11 @@
         {
           "lang": "cn",
           "name": "金榮春",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Young-Choon Kim",
           "note": "multilingual"
         },
         {
