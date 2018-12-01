@@ -2645,6 +2645,11 @@
           "note": "alternate"
         },
         {
+          "lang": "az",
+          "name": "Ferens Dyurçan",
+          "note": "multilingual"
+        },
+        {
           "lang": "be",
           "name": "Ферэнц Дзьюрчань",
           "note": "multilingual"
@@ -19304,6 +19309,12 @@
         {
           "lang": "be",
           "name": "Вянгерская сацыялістычная партыя",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "is",
+          "name": "Magyar Szocialista Párt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
