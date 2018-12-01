@@ -1313,6 +1313,11 @@
       "name": "Медуниця Олег Вячеславович",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Oleh Medunytsia",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Медуница Олег Вячеславович",
           "note": "multilingual"
@@ -2783,9 +2788,6 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/d14_1.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Іван_Іванович_Мельничук.jpg"
         }
       ],
       "links": [
@@ -9015,6 +9017,11 @@
       "name": "Романовський Олександр Володимирович",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Oleksandr Romanovskyi",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Романовский, Александр Владимирович",
           "note": "multilingual"
@@ -12763,7 +12770,7 @@
         },
         {
           "lang": "la",
-          "name": "Iulia Tymoshenko",
+          "name": "Iulia Tymošenko",
           "note": "multilingual"
         },
         {
@@ -16621,9 +16628,6 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/bp61.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Ivanna_Klympush-Tsintsadze.jpg"
         }
       ],
       "links": [
@@ -17016,9 +17020,6 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/nf39.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/MSV_6748.jpg"
         }
       ],
       "links": [
@@ -24984,9 +24985,6 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/bp37.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Valeriy_Ishchenko_-_ukrainian_mp.jpg"
         }
       ],
       "links": [
@@ -35049,7 +35047,7 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Опозиційний_блок.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Opposition_Bloc.png",
       "links": [
         {
           "note": "website",
