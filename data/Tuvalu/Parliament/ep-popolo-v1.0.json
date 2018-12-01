@@ -331,6 +331,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ウィリー・テラヴィ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Телави, Вилли",
           "note": "multilingual"
@@ -1244,7 +1249,14 @@
           "url": "https://en.wikipedia.org/wiki/Kausea_Natano"
         }
       ],
-      "name": "Kausea Natano"
+      "name": "Kausea Natano",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "カウセア・ナタノ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1936-09-04",
