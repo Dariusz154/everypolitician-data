@@ -91,6 +91,12 @@
         "note": "multilingual",
         "source": "wikidata-alias"
       }
+    ],
+    "links": [
+      {
+        "url": "http://rpm.ml/",
+        "note": "website"
+      }
     ]
   },
   "adema": {
@@ -243,6 +249,12 @@
         "name": "Union pour la republique et la democratie",
         "note": "multilingual",
         "source": "wikidata-alias"
+      }
+    ],
+    "links": [
+      {
+        "url": "https://urd-mali.org/le-parti",
+        "note": "website"
       }
     ]
   },
