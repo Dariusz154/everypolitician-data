@@ -26082,6 +26082,21 @@
       "sort_name": "Gadient, Ulrich"
     },
     {
+      "birth_date": "1994-01-23",
+      "family_name": "Marti",
+      "gender": "female",
+      "given_name": "Samira",
+      "id": "7b320d50-9a40-456f-bd0a-c8bf0ff6f9f5",
+      "identifiers": [
+        {
+          "identifier": "4228",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Samira Marti",
+      "sort_name": "Marti, Samira"
+    },
+    {
       "birth_date": "1933-07-20",
       "family_name": "Biel",
       "gender": "male",
@@ -74769,6 +74784,20 @@
       ]
     },
     {
+      "area_id": "BL",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "2",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "7b320d50-9a40-456f-bd0a-c8bf0ff6f9f5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4228"
+        }
+      ],
+      "start_date": "2018-12-10"
+    },
+    {
       "area_id": "ZH",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "5",
@@ -76495,6 +76524,7 @@
     },
     {
       "area_id": "SG",
+      "end_date": "2018-12-31",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "4",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
