@@ -25197,6 +25197,7 @@
     },
     {
       "birth_date": "1956-10-15",
+      "family_name": "Esteves",
       "gender": "female",
       "given_name": "Maria",
       "id": "766ecf4f-1dc4-406d-aeef-b0601a20a0da",
@@ -26071,6 +26072,7 @@
     },
     {
       "birth_date": "1956-05-17",
+      "family_name": "Azevedo",
       "gender": "female",
       "id": "7a80c4b6-6e20-4ff2-8075-7989c6afac9b",
       "identifiers": [
@@ -30370,7 +30372,9 @@
     },
     {
       "birth_date": "1936-01-19",
+      "family_name": "Abrantes",
       "gender": "male",
+      "given_name": "Domingos",
       "id": "8d04f783-d34c-4890-8906-53c4b5c76093",
       "identifiers": [
         {
@@ -31782,6 +31786,7 @@
     {
       "birth_date": "1955-06-24",
       "gender": "male",
+      "given_name": "Arménio",
       "id": "927f5eb7-2c35-402d-9bd6-d69af646d347",
       "identifiers": [
         {
@@ -36322,7 +36327,9 @@
     },
     {
       "birth_date": "1962-11-05",
+      "family_name": "Ramos",
       "gender": "male",
+      "given_name": "Casimiro",
       "id": "a7af010e-f0ef-4e1f-9e35-1b605cf8ca0f",
       "identifiers": [
         {
@@ -38847,6 +38854,7 @@
     },
     {
       "birth_date": "1978-04-05",
+      "family_name": "Almeida",
       "gender": "male",
       "given_name": "André",
       "id": "b49778a2-1a3c-4d84-b2d5-781a7ff9f0fa",
@@ -39521,7 +39529,14 @@
           "url": "https://pt.wikipedia.org/wiki/Jorge_Miranda"
         }
       ],
-      "name": "Jorge Miranda"
+      "name": "Jorge Miranda",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "خورخي ميراندا",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-12-28",
@@ -120456,7 +120471,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Next Portuguese legislative election",
+      "name": "Portuguese legislative election, 2019",
       "start_date": "2019-10-13"
     }
   ],
