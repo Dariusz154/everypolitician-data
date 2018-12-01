@@ -6172,6 +6172,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/কাজী_ফিরোজ_রশীদ"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Καζί_Φιρόζ_Ρασίντ"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kazi_Firoz_Rashid"
         },
@@ -6180,7 +6188,19 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2630"
         }
       ],
-      "name": "Kazi Firoz Rashid"
+      "name": "Kazi Firoz Rashid",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "কাজী ফিরোজ রশীদ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Καζί Φιρόζ Ρασίντ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-01-01",
@@ -7683,7 +7703,7 @@
     {
       "birth_date": "1931-12-01",
       "gender": "male",
-      "given_name": "Mohamed",
+      "given_name": "Muhammed",
       "id": "7158057a-b158-43e8-8728-42ab0d1b6e34",
       "identifiers": [
         {
@@ -7712,7 +7732,7 @@
       "links": [
         {
           "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/জমিরুদ্দিন_সরকার"
+          "url": "https://bn.wikipedia.org/wiki/জমির_উদ্দিন_সরকার"
         },
         {
           "note": "Wikipedia (de)",
@@ -13467,7 +13487,7 @@
         },
         {
           "note": "Wikipedia (ar)",
-          "url": "https://ar.wikipedia.org/wiki/حسين_محمد_ارشاد"
+          "url": "https://ar.wikipedia.org/wiki/حسين_محمد_إرشاد"
         },
         {
           "note": "Wikipedia (ast)",
@@ -14636,7 +14656,7 @@
     {
       "birth_date": "1963-06-05",
       "gender": "male",
-      "given_name": "Mohamed",
+      "given_name": "Muhammed",
       "id": "c7e53c59-0f6c-45fa-8ac6-9e68c1be0732",
       "identifiers": [
         {
@@ -16669,6 +16689,11 @@
         {
           "lang": "en",
           "name": "Naimur Rahman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நைமூர் ரகுமான்",
           "note": "multilingual"
         }
       ]
@@ -18716,7 +18741,7 @@
       "links": [
         {
           "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/আবুল_কালাম_আজাদ_(রাজনীতিবিদ)"
+          "url": "https://bn.wikipedia.org/wiki/আবুল_কালাম_আজাদ_(গাইবান্ধার_রাজনীতিবিদ)"
         },
         {
           "note": "website",
@@ -20014,6 +20039,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "pt",
+          "name": "Partido Nacionalista de Bangladesh",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "es",
           "name": "Partido Nacionalista de Bangladesh",
           "note": "multilingual",
@@ -21073,6 +21104,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "pt",
+          "name": "Partido Jatiya (Ershad)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Jatiya Party (Ershad)",
           "note": "multilingual",
@@ -21178,6 +21215,12 @@
         {
           "lang": "el",
           "name": "Τζατίγια",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Jatiya (Ershad)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
