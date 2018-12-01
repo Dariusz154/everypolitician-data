@@ -6000,6 +6000,10 @@
           "url": "https://af.wikipedia.org/wiki/Frans_Timmermans"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/فرانس_تيمرمانز"
+        },
+        {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Франс_Тимерманс"
         },
@@ -6106,6 +6110,11 @@
       ],
       "name": "Frans Timmermans",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "فرانس تيمرمانز",
+          "note": "multilingual"
+        },
         {
           "lang": "bg",
           "name": "Франс Тимерманс",
@@ -14035,6 +14044,10 @@
         {
           "identifier": "/m/05zvgwz",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1161566139",
+          "scheme": "gnd"
         },
         {
           "identifier": "78187",
