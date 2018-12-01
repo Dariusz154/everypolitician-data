@@ -2214,6 +2214,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "OLOK",
+          "scheme": "storting"
+        },
+        {
           "identifier": "229591720",
           "scheme": "viaf"
         },
@@ -4718,6 +4722,10 @@
         {
           "identifier": "OLE",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "32102",
+          "scheme": "polsys"
         },
         {
           "identifier": "OLE",
@@ -7507,7 +7515,7 @@
           "url": "http://data.stortinget.no/eksport/personbilde?personid=HTA&storrelse=middels"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hadia_Tajik_-_Arbeiderpartiet.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Hadia_Tajik_2017.jpg"
         }
       ],
       "links": [
@@ -8112,6 +8120,10 @@
         {
           "identifier": "no2014040130",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "32053",
+          "scheme": "polsys"
         },
         {
           "identifier": "PES",
@@ -10526,6 +10538,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "32103",
+          "scheme": "polsys"
+        },
+        {
           "identifier": "IN",
           "scheme": "storting"
         },
@@ -11007,6 +11023,10 @@
         {
           "identifier": "HTN",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "32115",
+          "scheme": "polsys"
         },
         {
           "identifier": "HTN",
@@ -14818,6 +14838,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "32098",
+          "scheme": "polsys"
+        },
+        {
           "identifier": "NA",
           "scheme": "storting"
         },
@@ -17338,6 +17362,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "32068",
+          "scheme": "polsys"
+        },
+        {
           "identifier": "FBJ",
           "scheme": "storting"
         },
@@ -19065,6 +19093,10 @@
       "id": "49ba834a-d5f0-4484-9c3f-3c4aab45487f",
       "identifiers": [
         {
+          "identifier": "32054",
+          "scheme": "polsys"
+        },
+        {
           "identifier": "JGD",
           "scheme": "storting"
         },
@@ -19766,6 +19798,10 @@
         {
           "identifier": "/m/03cwxpc",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "32063",
+          "scheme": "polsys"
         },
         {
           "identifier": "PTA",
@@ -24408,6 +24444,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "32114",
+          "scheme": "polsys"
+        },
+        {
           "identifier": "TOWA",
           "scheme": "storting"
         },
@@ -28329,6 +28369,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "32085",
+          "scheme": "polsys"
+        },
+        {
           "identifier": "HEA",
           "scheme": "storting"
         },
@@ -31873,6 +31917,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "31669",
+          "scheme": "polsys"
+        },
+        {
           "identifier": "SHK",
           "scheme": "storting"
         },
@@ -33628,6 +33676,10 @@
         {
           "identifier": "/m/07m1qc",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "31668",
+          "scheme": "polsys"
         },
         {
           "identifier": "TWI",
@@ -36019,6 +36071,10 @@
         {
           "identifier": "/m/03c_48k",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "32052",
+          "scheme": "polsys"
         },
         {
           "identifier": "LCH",
@@ -38698,6 +38754,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "105795",
+          "scheme": "polsys"
+        },
+        {
           "identifier": "SHL",
           "scheme": "storting"
         },
@@ -38720,6 +38780,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Svein_Ludvigsen"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Svein_Ludvigsen"
@@ -41741,6 +41805,10 @@
         {
           "identifier": "LAMO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "LAMO",
+          "scheme": "storting"
         },
         {
           "identifier": "603148705736237080008",
@@ -53063,6 +53131,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "32099",
+          "scheme": "polsys"
+        },
+        {
           "identifier": "ASC",
           "scheme": "storting"
         },
@@ -59025,6 +59097,10 @@
         {
           "identifier": "/m/02z8nf6",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "32101",
+          "scheme": "polsys"
         },
         {
           "identifier": "TSG",
