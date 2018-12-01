@@ -4568,6 +4568,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Brendon_Burns_(politician)"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Brendon_Burns_(politician)"
         }
@@ -5989,7 +5993,14 @@
           "url": "https://en.wikipedia.org/wiki/Carol_Beaumont"
         }
       ],
-      "name": "Carol Beaumont"
+      "name": "Carol Beaumont",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "كارول بومونت",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -12081,6 +12092,11 @@
       "name": "John Banks",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "جون بانكس",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "ジョン・バンクス",
           "note": "multilingual"
@@ -12129,6 +12145,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Ron_Mark"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ron_Mark"
@@ -16338,6 +16358,11 @@
       ],
       "name": "Peter Brown",
       "other_names": [
+        {
+          "lang": "bn",
+          "name": "পিটার ব্রাউন",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "Питер Браун",
