@@ -14137,6 +14137,11 @@
           "lang": "te",
           "name": "కమల్ నాథ్",
           "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "کمل ناتھ",
+          "note": "multilingual"
         }
       ]
     },
@@ -23915,6 +23920,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "kn",
+          "name": "ನಳೀನ್ ಕುಮಾರ್ ಕಟೀಲ್",
+          "note": "multilingual"
+        },
+        {
           "lang": "mr",
           "name": "नलिन कुमार कटील",
           "note": "multilingual"
@@ -31713,6 +31723,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Rajen_Gohain"
+        },
+        {
           "note": "Wikipedia (as)",
           "url": "https://as.wikipedia.org/wiki/ৰাজেন_গোঁহাই_(ৰাজনীতিক)"
         },
@@ -33029,6 +33043,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Nandkumar_Singh_Chauhan"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/नन्द_कुमार_सिंह_चौहान"
         }
       ],
       "name": "Chauhan, Shri Nand Kumar Singh",
@@ -60631,6 +60649,12 @@
         {
           "lang": "pnb",
           "name": "انڈین نیشنل لوک دل",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pa",
+          "name": "ਇੰਡੀਅਨ ਨੈਸ਼ਨਲ ਲੋਕਦਲ ( ਇਨੈਲੋ )",
           "note": "multilingual",
           "source": "wikidata-label"
         },
