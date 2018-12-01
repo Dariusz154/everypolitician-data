@@ -29576,6 +29576,16 @@
           "lang": "en",
           "name": "Antonio Milo",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安东尼奥·米洛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "安東尼歐·米洛",
+          "note": "multilingual"
         }
       ]
     },
@@ -42329,7 +42339,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.leganord.org/"
+          "url": "http://www.legapersalvinipremier.it/"
         }
       ],
       "name": "Lega",
@@ -42354,7 +42364,7 @@
         },
         {
           "lang": "en",
-          "name": "Lega Nord",
+          "name": "Lega per Salvini Premier",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42378,7 +42388,7 @@
         },
         {
           "lang": "fr",
-          "name": "Ligue du Nord",
+          "name": "Ligue par Salvini Premier",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42547,6 +42557,12 @@
         {
           "lang": "en",
           "name": "Lega",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Lega Nord",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -42583,7 +42599,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.leganord.org/"
+          "url": "http://www.legapersalvinipremier.it/"
         }
       ],
       "name": "Lega Nord e autonomie",
@@ -42608,7 +42624,7 @@
         },
         {
           "lang": "en",
-          "name": "Lega Nord",
+          "name": "Lega per Salvini Premier",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42632,7 +42648,7 @@
         },
         {
           "lang": "fr",
-          "name": "Ligue du Nord",
+          "name": "Ligue par Salvini Premier",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42801,6 +42817,12 @@
         {
           "lang": "en",
           "name": "Lega",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Lega Nord",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
