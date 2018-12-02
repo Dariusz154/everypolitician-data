@@ -20344,6 +20344,16 @@
           "lang": "ru",
           "name": "Сакурада, Ёситака",
           "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "یوشی تاکا ساکارودا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "樱田义孝",
+          "note": "multilingual"
         }
       ]
     },
@@ -21177,6 +21187,10 @@
         {
           "note": "Wikipedia (zh_min_nan)",
           "url": "https://zh_min_nan.wikipedia.org/wiki/Kamei_Shizuka"
+        },
+        {
+          "note": "Wikiquote (zh)",
+          "url": "https://zh.wikiquote.org/wiki/龜井靜香"
         },
         {
           "note": "facebook",
@@ -40032,6 +40046,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "kn",
+          "name": "ಶಿಂಜೋ ಅಬೆ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "아베 신조",
           "note": "multilingual"
@@ -53638,6 +53657,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "sk",
+          "name": "Demokratická strana Japonska",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "nan",
           "name": "Bîn-chú-tóng",
           "note": "multilingual",
@@ -57143,6 +57168,12 @@
         {
           "lang": "yue",
           "name": "自由民主黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sk",
+          "name": "Liberálno-demokratická strana",
           "note": "multilingual",
           "source": "wikidata-label"
         },
