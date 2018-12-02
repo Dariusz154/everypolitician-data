@@ -3757,10 +3757,6 @@
           "url": "https://zh_yue.wikipedia.org/wiki/阿羅約"
         },
         {
-          "note": "Wikiquote (de)",
-          "url": "https://de.wikiquote.org/wiki/Gloria_Macapagal-Arroyo"
-        },
-        {
           "note": "Wikiquote (en)",
           "url": "https://en.wikiquote.org/wiki/Gloria_Macapagal-Arroyo"
         },
@@ -3782,6 +3778,11 @@
         {
           "lang": "ar",
           "name": "غلوريا ماكاباغال أرويو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Глорыя Макапагал-Ароя",
           "note": "multilingual"
         },
         {
@@ -5853,6 +5854,10 @@
         {
           "note": "Wikipedia (tl)",
           "url": "https://tl.wikipedia.org/wiki/Bellaflor_Angara-Castillo"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Белла_Ангара"
         }
       ],
       "name": "Angara-Castillo, Bellaflor J.",
