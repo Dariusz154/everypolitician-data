@@ -441,6 +441,10 @@
           "url": "https://fr.wikipedia.org/wiki/Soumaïla_Cissé"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Soumaïla_Cissé"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Soumaïla_Cissé"
         }
@@ -3060,6 +3064,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://rpm.ml/"
+        }
+      ],
       "name": "RPM",
       "other_names": [
         {
@@ -3271,6 +3281,12 @@
         {
           "identifier": "Q3550438",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://urd-mali.org/le-parti"
         }
       ],
       "name": "URD",
