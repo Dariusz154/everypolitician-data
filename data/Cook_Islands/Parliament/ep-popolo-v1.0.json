@@ -27,6 +27,11 @@
       "name": "Mark Brown",
       "other_names": [
         {
+          "lang": "bn",
+          "name": "মার্ক ব্রাউন",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Марк Браун",
           "note": "multilingual"
@@ -2153,6 +2158,12 @@
         {
           "lang": "vi",
           "name": "Chính trị gia độc lập",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "vec",
+          "name": "Poidego independente",
           "note": "multilingual",
           "source": "wikidata-label"
         },
