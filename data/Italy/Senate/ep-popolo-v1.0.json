@@ -5919,9 +5919,16 @@
       "images": [
         {
           "url": "https://politici.openpolis.it/politician/picture?content_id=786789"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Maurizio_Campari_datisenato_2018.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Maurizio_Campari"
+        },
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Maurizio_Campari"
@@ -9043,7 +9050,7 @@
           "url": "https://politici.openpolis.it/politician/picture?content_id=4670"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sandro_Mario_Biasotti_daticamera.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sandro_Biasotti_datisenato_2018.jpg"
         }
       ],
       "links": [
@@ -12707,7 +12714,7 @@
           "url": "http://politici.openpolis.it/politician/picture?content_id=332681"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Anna_Maria_Bernini_2018.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Anna_Maria_Bernini_datisenato_2018.jpg"
         }
       ],
       "links": [
@@ -15083,6 +15090,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Francesco_Bruzzone"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Francesco_Bruzzone"
         },
@@ -15239,6 +15250,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Daniele_Manca"
+        },
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Daniele_Manca"
@@ -27462,7 +27477,7 @@
           "url": "https://politici.openpolis.it/politician/picture?content_id=197"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Teresa_Bellanova_daticamera.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Teresa_Bellanova_datisenato_2018.jpg"
         }
       ],
       "links": [
@@ -29575,6 +29590,16 @@
         {
           "lang": "en",
           "name": "Antonio Milo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安东尼奥·米洛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "安東尼歐·米洛",
           "note": "multilingual"
         }
       ]
@@ -38083,7 +38108,7 @@
           "url": "https://politici.openpolis.it/politician/picture?content_id=686279"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Matteo_Mantero_ad_Albenga_bn.JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Matteo_Mantero_datisenato_2018.jpg"
         }
       ],
       "links": [
@@ -42329,7 +42354,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.leganord.org/"
+          "url": "http://www.legapersalvinipremier.it/"
         }
       ],
       "name": "Lega",
@@ -42354,7 +42379,7 @@
         },
         {
           "lang": "en",
-          "name": "Lega Nord",
+          "name": "Lega per Salvini Premier",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42378,7 +42403,7 @@
         },
         {
           "lang": "fr",
-          "name": "Ligue du Nord",
+          "name": "Ligue par Salvini Premier",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42547,6 +42572,12 @@
         {
           "lang": "en",
           "name": "Lega",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Lega Nord",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -42583,7 +42614,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.leganord.org/"
+          "url": "http://www.legapersalvinipremier.it/"
         }
       ],
       "name": "Lega Nord e autonomie",
@@ -42608,7 +42639,7 @@
         },
         {
           "lang": "en",
-          "name": "Lega Nord",
+          "name": "Lega per Salvini Premier",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42632,7 +42663,7 @@
         },
         {
           "lang": "fr",
-          "name": "Ligue du Nord",
+          "name": "Ligue par Salvini Premier",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42801,6 +42832,12 @@
         {
           "lang": "en",
           "name": "Lega",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Lega Nord",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
