@@ -463,6 +463,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "wuu",
+        "name": "塞尔维亚社会党",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms",
+        "name": "Parti Sosialis Serbia",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "fr",
         "name": "Parti socialiste serbe",
         "note": "multilingual",
@@ -525,6 +537,12 @@
       {
         "lang": "sh",
         "name": "СПС",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ms",
+        "name": "SPS",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
