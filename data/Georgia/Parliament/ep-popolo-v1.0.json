@@ -2729,6 +2729,15 @@
       "name": "Irma Inashvili",
       "other_names": [
         {
+          "name": "ირმა ინაშვილი",
+          "note": "alternate"
+        },
+        {
+          "lang": "ka",
+          "name": "ირმა ინაშვილი",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Ирма Инашвили",
           "note": "multilingual"
@@ -5890,8 +5899,16 @@
       "id": "cdfbf5d1-9cad-49ba-819b-f46268339abe",
       "identifiers": [
         {
+          "identifier": "tedojaparidze",
+          "scheme": "cspan"
+        },
+        {
           "identifier": "535",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "6991",
+          "scheme": "pace"
         },
         {
           "identifier": "Q4570471",
@@ -5904,7 +5921,7 @@
           "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%97%E1%83%94%E1%83%93%E1%83%9D_jpg_200x168_q85.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Tedo_Japaridze_(March_16,_2001).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Tedo_Japaridze,_Acting_Head_of_the_Georgian_Delegation_at_the_OSCE_PA_Winter_Meeting,_19_Feb._2015.jpg"
         }
       ],
       "links": [
@@ -5915,6 +5932,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Tedo_Japaridze"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tedo_Djaparidze"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/თედო_ჯაფარიძე"
         },
         {
           "note": "Wikipedia (nl)",
@@ -5932,13 +5957,22 @@
       "name": "Tedo Japaridze",
       "other_names": [
         {
+          "name": "თედო ჯაფარიძე",
+          "note": "alternate"
+        },
+        {
           "lang": "fr",
-          "name": "Tedo Dzjaparidze",
+          "name": "Tedo Djaparidze",
           "note": "multilingual"
         },
         {
           "lang": "ja",
           "name": "テド・ジャパリッゼ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "თედო ჯაფარიძე",
           "note": "multilingual"
         },
         {

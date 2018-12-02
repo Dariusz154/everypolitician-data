@@ -147,7 +147,24 @@
     {
       "id": "Q21290878",
       "label": "Member of the Parliament of Georgia",
-      "title": "Member of the Parliament of Georgia"
+      "title": "Member of the Parliament of Georgia",
+      "qualifiers": {
+        "P580": "2012",
+        "P582": "2016"
+      }
+    },
+    {
+      "id": "Q7330070",
+      "label": "foreign minister",
+      "title": "foreign minister (of Georgia)",
+      "description": "cabinet minister in charge of a nation's foreign affairs",
+      "qualifiers": {
+        "P642": "Georgia",
+        "P580": "2003",
+        "P582": "2004",
+        "P1366": "Salome Zurabishvili",
+        "P1365": "Irakli Menagarishvili"
+      }
     }
   ],
   "Q1525382": [
