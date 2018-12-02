@@ -5,7 +5,7 @@
     "latest_term": {
       "count": 301,
       "wikidata": 84,
-      "images": 299,
+      "images": 300,
       "contacts": {
         "email": 0,
         "facebook": 1,
@@ -44,13 +44,13 @@
       "file": "morph/term-17.csv",
       "type": "membership",
       "scraper": "everypolitician-scrapers/philippines-house-of-representatives",
-      "lastmod": "2018-10-08"
+      "lastmod": "2018-11-27"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/philippines-house-of-representatives-wikidata",
-      "lastmod": "2018-11-19"
+      "lastmod": "2018-11-28"
     },
     {
       "file": "morph/terms.csv",
@@ -80,7 +80,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-08-13"
+      "lastmod": "2018-11-28"
     }
   ]
 }
