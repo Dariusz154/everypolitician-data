@@ -7,7 +7,7 @@
       "wikidata": 151,
       "images": 146,
       "contacts": {
-        "email": 100,
+        "email": 101,
         "facebook": 120,
         "twitter": 49
       }
@@ -50,7 +50,7 @@
       "file": "morph/official.csv",
       "type": "person",
       "scraper": "everypolitician-scrapers/estonia-riigikogu",
-      "lastmod": "2018-09-13"
+      "lastmod": "2018-11-27"
     },
     {
       "file": "morph/wikidata.csv",
@@ -92,7 +92,7 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/estonia-positions",
-      "lastmod": "2018-08-23"
+      "lastmod": "2018-11-27"
     }
   ]
 }
