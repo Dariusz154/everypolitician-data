@@ -13366,10 +13366,19 @@
       "birth_date": "1969-09-30",
       "contact_details": [
         {
+          "type": "email",
+          "value": "andres.anvelt@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316603"
+        },
+        {
           "type": "twitter",
           "value": "andresanvelt"
         }
       ],
+      "email": "andres.anvelt@riigikogu.ee",
       "family_name": "Anvelt",
       "gender": "male",
       "given_name": "Andres",
@@ -18287,6 +18296,7 @@
     },
     {
       "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
+      "end_date": "2018-11-26",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -21336,6 +21346,20 @@
           "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/d29b95db-3b4d-43de-802d-652c32199211/Andres-Anvelt"
         }
       ]
+    },
+    {
+      "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "e28a42b5-395d-4993-9025-f5b417edd583",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/d29b95db-3b4d-43de-802d-652c32199211/Andres-Anvelt"
+        }
+      ],
+      "start_date": "2018-11-26"
     },
     {
       "area_id": "23422b41-11c4-4ee0-bd65-4594b1beffd8",
