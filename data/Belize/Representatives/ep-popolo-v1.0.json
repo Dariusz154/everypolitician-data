@@ -58,30 +58,6 @@
     },
     {
       "gender": "male",
-      "given_name": "Oscar",
-      "id": "04543184-9ca5-41d9-be39-cba60da30ce8",
-      "identifiers": [
-        {
-          "identifier": "Q24953661",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Hon-Oscar-Requena.jpg",
-      "images": [
-        {
-          "url": "https://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Hon-Oscar-Requena.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Oscar_Requena"
-        }
-      ],
-      "name": "Oscar Requena"
-    },
-    {
-      "gender": "male",
       "given_name": "Hugo",
       "id": "06be9eb9-b70a-4032-ad1a-6a37fd32716d",
       "identifiers": [
@@ -2071,14 +2047,6 @@
       "role": "member"
     },
     {
-      "area_id": "7b12f1b5-53f7-4203-bd87-5390f14541f6",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "8e327a03-68fd-4ea0-bd59-b59cb05ecfd6",
-      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
-      "person_id": "04543184-9ca5-41d9-be39-cba60da30ce8",
-      "role": "member"
-    },
-    {
       "area_id": "7c8b90e2-2579-4d18-b695-ec01bb4b73d1",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
@@ -2124,14 +2092,6 @@
       "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
       "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
       "person_id": "17d29615-537e-4207-ac23-90d32ce73e5d",
-      "role": "member"
-    },
-    {
-      "area_id": "7d955ab5-3d29-46eb-a77d-c495ecea8b79",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "8e327a03-68fd-4ea0-bd59-b59cb05ecfd6",
-      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
-      "person_id": "1a5f0311-6716-4df2-a593-cc2bf08f4aaf",
       "role": "member"
     },
     {
@@ -2196,14 +2156,6 @@
       "on_behalf_of_id": "8e327a03-68fd-4ea0-bd59-b59cb05ecfd6",
       "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
       "person_id": "32113dc1-f976-4364-8a07-86a623bafb01",
-      "role": "member"
-    },
-    {
-      "area_id": "e1edb7b0-208e-41b6-8238-1cd027a05835",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
-      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
-      "person_id": "3214b6eb-291c-46f2-91f3-2ec1d000d41b",
       "role": "member"
     },
     {
@@ -2971,17 +2923,6 @@
         }
       ],
       "name": "Cayo North East",
-      "type": "constituency"
-    },
-    {
-      "id": "7b12f1b5-53f7-4203-bd87-5390f14541f6",
-      "identifiers": [
-        {
-          "identifier": "Q25405069",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Toledo West",
       "type": "constituency"
     },
     {
