@@ -617,6 +617,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Хауа_Милано,_Элиас"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Elías_Jaua"
         }
       ],
       "name": "JAUA MILANO ELÍAS JOSÉ",
@@ -6578,6 +6582,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Acción_Democrática.svg",
       "links": [
         {
           "note": "website",
@@ -6743,6 +6748,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ms",
+          "name": "Tindakan Demokratik",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "fr",
           "name": "Action Démocratique (Venezuela)",
           "note": "multilingual",
@@ -6901,6 +6912,12 @@
         {
           "lang": "ja",
           "name": "ベネズエラ民主行動党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ms",
+          "name": "AD",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -9160,6 +9177,12 @@
         {
           "lang": "ast",
           "name": "Partíu Socialista Xunío de Venezuela",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Sosialis Bersatu Venezuela",
           "note": "multilingual",
           "source": "wikidata-label"
         },
