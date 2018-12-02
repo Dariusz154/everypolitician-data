@@ -798,6 +798,12 @@
         "name": "シェパード死去による補欠選挙で選出",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "ja",
+        "name": "1940年選出",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -1026,10 +1032,7 @@
       "2016-11-08"
     ],
     "follows": "United States Senate elections, 2014",
-    "followed_by": "United States Senate elections, 2018",
-    "successful_candidates": [
-      "to be announced"
-    ]
+    "followed_by": "United States Senate elections, 2018"
   },
   "Q7892140": {
     "identifiers": [
@@ -1408,6 +1411,12 @@
         "name": "2018年改選予定",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "2018年選出",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -4749,6 +4758,12 @@
         "name": "バンクヘッドの任期を満了するため選出",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "ja",
+        "name": "1920年選出",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -7089,6 +7104,12 @@
         "name": "レーガン辞職による補欠選挙で選出",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "ja",
+        "name": "1893年選出",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -7516,6 +7537,12 @@
       {
         "lang": "ja",
         "name": "クレイの任期を満了するため選出",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ja",
+        "name": "1911年1月23日選出",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
