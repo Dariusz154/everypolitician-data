@@ -5969,6 +5969,7 @@
       ],
       "email": "speaker@parliament.am",
       "gender": "male",
+      "given_name": "Ara",
       "id": "97ff3743-5c79-49d6-8df3-214653b222b6",
       "identifiers": [
         {
@@ -9141,6 +9142,10 @@
         {
           "note": "Wikipedia (hy)",
           "url": "https://hy.wikipedia.org/wiki/Լենա_Նազարյան"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Lena_Nazaryan"
         }
       ],
       "name": "Lena Nazaryan",
