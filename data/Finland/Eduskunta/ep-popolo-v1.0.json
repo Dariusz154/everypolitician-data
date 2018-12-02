@@ -16660,9 +16660,20 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Jaakko_Laakso"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Яакко_Лааксо"
         }
       ],
       "name": "Jaakko Laakso",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Яакко Лааксо",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Laakso Jaakko"
     },
     {
