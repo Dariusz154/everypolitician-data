@@ -7050,6 +7050,7 @@
         }
       ],
       "email": "hamaral@cds.parlamento.pt",
+      "family_name": "Amaral",
       "gender": "male",
       "id": "21f6b89c-aa0b-4fb5-913c-f775061acd88",
       "identifiers": [
@@ -12217,6 +12218,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Augusto_Santos_Silva"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Августо_Сантуш_Сілва"
         }
       ],
       "name": "Augusto Santos Silva",
@@ -20179,7 +20184,7 @@
     {
       "birth_date": "1959-11-03",
       "gender": "male",
-      "given_name": "Paulo",
+      "given_name": "Paulo Ezequiel",
       "id": "5dcc5575-696c-4c70-84de-ffa58506f3f1",
       "identifiers": [
         {
@@ -25197,6 +25202,7 @@
     },
     {
       "birth_date": "1956-10-15",
+      "family_name": "Esteves",
       "gender": "female",
       "given_name": "Maria",
       "id": "766ecf4f-1dc4-406d-aeef-b0601a20a0da",
@@ -26071,6 +26077,7 @@
     },
     {
       "birth_date": "1956-05-17",
+      "family_name": "Azevedo",
       "gender": "female",
       "id": "7a80c4b6-6e20-4ff2-8075-7989c6afac9b",
       "identifiers": [
@@ -30370,7 +30377,9 @@
     },
     {
       "birth_date": "1936-01-19",
+      "family_name": "Abrantes",
       "gender": "male",
+      "given_name": "Domingos",
       "id": "8d04f783-d34c-4890-8906-53c4b5c76093",
       "identifiers": [
         {
@@ -31300,8 +31309,9 @@
     },
     {
       "birth_date": "1965-04-28",
+      "family_name": "Pedroso",
       "gender": "male",
-      "given_name": "Paulo",
+      "given_name": "Paulo Ezequiel",
       "id": "8f9d2c5f-48f0-47f0-a448-2ae4d6745bee",
       "identifiers": [
         {
@@ -31782,6 +31792,7 @@
     {
       "birth_date": "1955-06-24",
       "gender": "male",
+      "given_name": "Arménio",
       "id": "927f5eb7-2c35-402d-9bd6-d69af646d347",
       "identifiers": [
         {
@@ -35922,6 +35933,7 @@
     },
     {
       "birth_date": "1943-07-16",
+      "family_name": "Silva",
       "gender": "male",
       "given_name": "Guilherme",
       "id": "a58c5afb-822a-4bb6-8a31-37398085930a",
@@ -36322,7 +36334,9 @@
     },
     {
       "birth_date": "1962-11-05",
+      "family_name": "Ramos",
       "gender": "male",
+      "given_name": "Casimiro",
       "id": "a7af010e-f0ef-4e1f-9e35-1b605cf8ca0f",
       "identifiers": [
         {
@@ -38642,6 +38656,7 @@
     },
     {
       "birth_date": "1977-10-01",
+      "family_name": "Portugal",
       "gender": "male",
       "given_name": "João",
       "id": "b3c729ff-99d6-47e6-8cda-7e043c4c9461",
@@ -38847,6 +38862,7 @@
     },
     {
       "birth_date": "1978-04-05",
+      "family_name": "Almeida",
       "gender": "male",
       "given_name": "André",
       "id": "b49778a2-1a3c-4d84-b2d5-781a7ff9f0fa",
@@ -39521,7 +39537,14 @@
           "url": "https://pt.wikipedia.org/wiki/Jorge_Miranda"
         }
       ],
-      "name": "Jorge Miranda"
+      "name": "Jorge Miranda",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "خورخي ميراندا",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-12-28",
@@ -45333,7 +45356,7 @@
         }
       ],
       "gender": "male",
-      "given_name": "Paulo",
+      "given_name": "Paulo Ezequiel",
       "id": "d3987601-a729-4654-8671-1d850b6c6322",
       "identifiers": [
         {
@@ -46075,6 +46098,7 @@
     },
     {
       "birth_date": "1943-04-15",
+      "family_name": "Amaral",
       "gender": "male",
       "given_name": "João",
       "id": "d7c8b83a-7ca6-4ef0-b180-2f32dbacca0e",
@@ -51511,7 +51535,7 @@
       "birth_date": "1962-09-12",
       "family_name": "Portas",
       "gender": "male",
-      "given_name": "Paulo",
+      "given_name": "Paulo Ezequiel",
       "id": "ede02e68-85eb-4193-8627-7958d3a8a15d",
       "identifiers": [
         {
@@ -51556,6 +51580,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Paulo_Portas"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/باولو_بورتاس"
         },
         {
           "note": "Wikipedia (de)",
@@ -51865,7 +51893,7 @@
     {
       "birth_date": "1968-02-18",
       "gender": "male",
-      "given_name": "Paulo",
+      "given_name": "Paulo Ezequiel",
       "id": "ef9a40c6-6315-4676-aac2-37c8b41ab180",
       "identifiers": [
         {
@@ -120456,7 +120484,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Next Portuguese legislative election",
+      "name": "Portuguese legislative election, 2019",
       "start_date": "2019-10-13"
     }
   ],
