@@ -49689,6 +49689,12 @@
           "name": "Union Nacional Ataque",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Attack",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -55123,6 +55129,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_GERB_PP.png",
       "links": [
         {
           "note": "website",
@@ -55466,6 +55473,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Volya_text_logo.svg",
       "links": [
         {
           "note": "website",
@@ -55509,6 +55517,18 @@
           "name": "Воля",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Dnes",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal Alliance",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -56029,6 +56049,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_GERB_PP.png",
       "links": [
         {
           "note": "website",
@@ -56968,6 +56989,12 @@
         {
           "lang": "es",
           "name": "Union Nacional Ataque",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Attack",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
