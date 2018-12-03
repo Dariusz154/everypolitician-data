@@ -382,6 +382,7 @@
       "name": "Charles Mangion"
     },
     {
+      "birth_date": "1949-09",
       "family_name": "Deguara",
       "gender": "female",
       "given_name": "Maria",
@@ -2113,6 +2114,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Carmelo_Abela"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Кармело_Абела"
         }
       ],
       "name": "Carmelo Abela",
