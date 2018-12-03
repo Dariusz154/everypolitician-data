@@ -2447,7 +2447,14 @@
       "sort_name": "Garu, Hon. Moses"
     },
     {
+      "gender": "female",
       "id": "f6aa1cb9-d24a-4f9a-bd0a-bbf80e8314f1",
+      "identifiers": [
+        {
+          "identifier": "Q59125182",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Lanelle Tanangada"
     },
     {
