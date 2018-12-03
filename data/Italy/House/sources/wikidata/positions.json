@@ -1966,23 +1966,22 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     }
   ],
   "Q10751623": [
@@ -3896,23 +3895,22 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
-        "P768": "Piemonte 2"
+        "P768": "Piemonte 2",
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     }
   ],
   "Q15535050": [
@@ -4889,7 +4887,11 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-22",
+        "P582": "2013-03-14"
+      }
     },
     {
       "id": "Q18558478",
@@ -4899,13 +4901,18 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Forza Italia",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     }
   ],
   "Q3608159": [
@@ -8065,23 +8072,40 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Brothers of Italy",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-15",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2006-04-19",
+        "P582": "2008-04-28"
+      }
+    },
+    {
+      "id": "Q13653224",
+      "label": "member of the Italian Senate",
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2008-04-23",
+        "P582": "2013-03-14"
+      }
+    },
+    {
+      "id": "Q13653224",
+      "label": "member of the Italian Senate",
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     }
   ],
   "Q3763486": [
@@ -9797,23 +9821,22 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     }
   ],
   "Q1051169": [
@@ -10726,23 +10749,22 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Five Star Movement",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     }
   ],
   "Q16551704": [
@@ -11204,23 +11226,23 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
-        "P768": null
+        "P768": null,
+        "P580": "2015-01-12",
+        "P582": "2018-03-22",
+        "P1365": "Emma Petitti"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-23"
+      }
     }
   ],
   "Q3119274": [
@@ -14886,13 +14908,38 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2006-04-22",
+        "P582": "2008-04-28"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-23",
+        "P582": "2013-03-14"
+      }
     }
   ],
   "Q15931520": [
