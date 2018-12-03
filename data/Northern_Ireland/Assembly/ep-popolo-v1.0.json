@@ -15832,7 +15832,14 @@
           "url": "https://en.wikipedia.org/wiki/Rosemary_Barton_(politician)"
         }
       ],
-      "name": "Rosemary Barton"
+      "name": "Rosemary Barton",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "روزماري بارتون",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-10-06",
