@@ -13504,6 +13504,10 @@
           "url": "https://simple.wikipedia.org/wiki/Ignazio_Cassis"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Ігнаціо_Кассіс"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/ignaziocassis"
         },
@@ -46072,6 +46076,12 @@
         {
           "identifier": "Q15906031",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Daniel_Müller_Nationalrat_Schweiz.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Daniel_Müller_Nationalrat_Schweiz.jpg"
         }
       ],
       "links": [
