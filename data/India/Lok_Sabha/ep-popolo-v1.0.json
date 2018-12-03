@@ -4928,7 +4928,7 @@
           "url": "http://164.100.47.132/mpimage/photo/4074.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rahul_Gandhi_Crop.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Rahul_Gandhi_(headshot).jpg"
         }
       ],
       "links": [
@@ -11758,6 +11758,11 @@
           "lang": "te",
           "name": "నైఫియూ రియో",
           "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "نیفیو ریو",
+          "note": "multilingual"
         }
       ]
     },
@@ -14136,6 +14141,11 @@
         {
           "lang": "te",
           "name": "కమల్ నాథ్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "کمل ناتھ",
           "note": "multilingual"
         }
       ]
@@ -23915,6 +23925,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "kn",
+          "name": "ನಳೀನ್ ಕುಮಾರ್ ಕಟೀಲ್",
+          "note": "multilingual"
+        },
+        {
           "lang": "mr",
           "name": "नलिन कुमार कटील",
           "note": "multilingual"
@@ -31713,6 +31728,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Rajen_Gohain"
+        },
+        {
           "note": "Wikipedia (as)",
           "url": "https://as.wikipedia.org/wiki/ৰাজেন_গোঁহাই_(ৰাজনীতিক)"
         },
@@ -33029,6 +33048,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Nandkumar_Singh_Chauhan"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/नन्द_कुमार_सिंह_चौहान"
         }
       ],
       "name": "Chauhan, Shri Nand Kumar Singh",
@@ -42962,6 +42985,11 @@
           "lang": "te",
           "name": "సర్బానంద సోనొవాల్",
           "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "سربانند سونووال",
+          "note": "multilingual"
         }
       ]
     },
@@ -51383,6 +51411,11 @@
         {
           "lang": "te",
           "name": "మేనక గాంధీ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Манека Ганді",
           "note": "multilingual"
         },
         {
@@ -60631,6 +60664,12 @@
         {
           "lang": "pnb",
           "name": "انڈین نیشنل لوک دل",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pa",
+          "name": "ਇੰਡੀਅਨ ਨੈਸ਼ਨਲ ਲੋਕਦਲ ( ਇਨੈਲੋ )",
           "note": "multilingual",
           "source": "wikidata-label"
         },
