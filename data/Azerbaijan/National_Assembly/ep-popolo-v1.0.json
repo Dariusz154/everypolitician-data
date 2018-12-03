@@ -929,7 +929,19 @@
           "url": "https://ru.wikipedia.org/wiki/Фейзиев,_Джаваншир_Эюб_оглы"
         }
       ],
-      "name": "Cavanşir Feyziyev"
+      "name": "Cavanşir Feyziyev",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Javanshir Feyziyev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Фейзиев, Джаваншир Эюб оглы",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-04-26",
