@@ -89,22 +89,6 @@
       "name": "JOÃO VICENTE VIEMBA"
     },
     {
-      "id": "0389a632-822a-4c91-803b-e7986fc7ae90",
-      "image": "http://www.parlamento.ao/image/user_portrait?screenName=ermelinda.maquina&companyId=10132",
-      "images": [
-        {
-          "url": "http://www.parlamento.ao/image/user_portrait?screenName=ermelinda.maquina&companyId=10132"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.parlamento.ao/web/ermelinda.maquina"
-        }
-      ],
-      "name": "ERMELINDA CAMBUNDO FADÁRIO MÁQUINA"
-    },
-    {
       "id": "04086df3-30d6-42bf-af99-51e58e840a09",
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=josefa.miguel&companyId=10132",
       "images": [
@@ -269,6 +253,22 @@
       "name": "ANABELA CAIOVO NGUNGA"
     },
     {
+      "id": "0aa7cba8-65c6-4533-bdf8-cf4d005977fd",
+      "image": "http://www.parlamento.ao/image/user_portrait?screenName=kundi.paihama&companyId=10132",
+      "images": [
+        {
+          "url": "http://www.parlamento.ao/image/user_portrait?screenName=kundi.paihama&companyId=10132"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlamento.ao/web/kundi.paihama"
+        }
+      ],
+      "name": "KUNDI PAIHAMA"
+    },
+    {
       "gender": "male",
       "id": "0adf0d37-3662-4e4a-a4c6-98f1d5911643",
       "identifiers": [
@@ -313,6 +313,22 @@
         }
       ],
       "name": "JOSÉ MÁRIO KATITI"
+    },
+    {
+      "id": "0da5f243-4f30-4ba0-8558-5f39d24890e5",
+      "image": "http://www.parlamento.ao/image/user_portrait?screenName=joao.kussumua&companyId=10132",
+      "images": [
+        {
+          "url": "http://www.parlamento.ao/image/user_portrait?screenName=joao.kussumua&companyId=10132"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlamento.ao/web/joao.kussumua"
+        }
+      ],
+      "name": "JOÃO BAPTISTA KUSSUMUA"
     },
     {
       "gender": "male",
@@ -1502,6 +1518,22 @@
         }
       ],
       "name": "ANTÓNIO DOS SANTOS FRANÇA"
+    },
+    {
+      "id": "320d494c-bca4-45ce-a632-ea5aba1300b1",
+      "image": "http://www.parlamento.ao/image/user_portrait?screenName=ginga.santos&companyId=10132",
+      "images": [
+        {
+          "url": "http://www.parlamento.ao/image/user_portrait?screenName=ginga.santos&companyId=10132"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlamento.ao/web/ginga.santos"
+        }
+      ],
+      "name": "GINGA AFONSO MIGUEL DOS SANTOS"
     },
     {
       "id": "32b19b8f-bbe3-44d1-8581-ee35d2346f00",
@@ -2724,6 +2756,22 @@
       "name": "MIRALDINA OLGA MARCOS JAMBA"
     },
     {
+      "id": "46c9041b-2236-4cd0-ab50-df332da4890b",
+      "image": "http://www.parlamento.ao/image/user_portrait?screenName=joao.tyipinge&companyId=10132",
+      "images": [
+        {
+          "url": "http://www.parlamento.ao/image/user_portrait?screenName=joao.tyipinge&companyId=10132"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlamento.ao/web/joao.tyipinge"
+        }
+      ],
+      "name": "JOÃO MARCELINO TYIPINGE"
+    },
+    {
       "gender": "female",
       "id": "46da5994-7632-4009-a227-96569585760d",
       "identifiers": [
@@ -2837,6 +2885,22 @@
         }
       ],
       "name": "MANUEL AUGUSTO FRAGATA MORAIS"
+    },
+    {
+      "id": "4c836ed3-8c01-45ad-a94e-112245711558",
+      "image": "http://www.parlamento.ao/image/user_portrait?screenName=felix.lucas&companyId=10132",
+      "images": [
+        {
+          "url": "http://www.parlamento.ao/image/user_portrait?screenName=felix.lucas&companyId=10132"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlamento.ao/web/felix.lucas"
+        }
+      ],
+      "name": "FÉLIX SIMÃO LUCAS"
     },
     {
       "gender": "male",
@@ -3048,6 +3112,22 @@
       "name": "JOÃO MUZAZA CAWEZA"
     },
     {
+      "id": "519ea7b6-7b0d-4769-90fc-e8ef3efeb477",
+      "image": "http://www.parlamento.ao/image/user_portrait?screenName=jose.andre&companyId=10132",
+      "images": [
+        {
+          "url": "http://www.parlamento.ao/image/user_portrait?screenName=jose.andre&companyId=10132"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlamento.ao/web/jose.andre"
+        }
+      ],
+      "name": "JOSÉ JOANA ANDRÉ"
+    },
+    {
       "id": "52632e00-ce7b-452f-b3ff-ef807b017110",
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=joaquim.almeida&companyId=10132",
       "images": [
@@ -3141,6 +3221,22 @@
         }
       ],
       "name": "ANABELA MANUEL DOS SANTOS ALBERTO"
+    },
+    {
+      "id": "58d43170-4a80-4334-b147-8d1256f5fb7b",
+      "image": "http://www.parlamento.ao/image/user_portrait?screenName=virgilio.pereira&companyId=10132",
+      "images": [
+        {
+          "url": "http://www.parlamento.ao/image/user_portrait?screenName=virgilio.pereira&companyId=10132"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlamento.ao/web/virgilio.pereira"
+        }
+      ],
+      "name": "VIRGÍLIO FERREIRA DE FONTES PEREIRA"
     },
     {
       "gender": "female",
@@ -4950,7 +5046,7 @@
           "url": "http://www.parlamento.ao/web/victorino.nhani"
         }
       ],
-      "name": "VICTORINO NHANY"
+      "name": "VICTORINO NHANI"
     },
     {
       "gender": "female",
@@ -5421,22 +5517,6 @@
         }
       ],
       "name": "SUZANA PEREIRA BRAVO"
-    },
-    {
-      "id": "b4a483e8-b16f-44ef-92a8-59f734e6a627",
-      "image": "http://www.parlamento.ao/image/user_portrait?screenName=deputadofelix.lucas&companyId=10132",
-      "images": [
-        {
-          "url": "http://www.parlamento.ao/image/user_portrait?screenName=deputadofelix.lucas&companyId=10132"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.parlamento.ao/web/deputadofelix.lucas"
-        }
-      ],
-      "name": "FÉLIX SIMÃO LUCAS"
     },
     {
       "gender": "male",
@@ -6651,6 +6731,22 @@
       ]
     },
     {
+      "id": "da1b843c-fc3c-4cdf-999d-b64b961ff205",
+      "image": "http://www.parlamento.ao/image/user_portrait?screenName=alvaro.boavida.neto&companyId=10132",
+      "images": [
+        {
+          "url": "http://www.parlamento.ao/image/user_portrait?screenName=alvaro.boavida.neto&companyId=10132"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlamento.ao/web/alvaro.boavida.neto"
+        }
+      ],
+      "name": "ÁLVARO MANUEL DE BOAVIDA NETO"
+    },
+    {
       "gender": "male",
       "id": "dc2a2fe2-cd6c-44e6-a0b3-ffdd969d865e",
       "identifiers": [
@@ -7145,22 +7241,6 @@
         }
       ],
       "name": "SERAFINA MIGUEL EMILIA PINTO"
-    },
-    {
-      "id": "ec4fb7ec-3783-451b-b6b7-ceb58c4ccd0c",
-      "image": "http://www.parlamento.ao/image/user_portrait?screenName=maria.taveya&companyId=10132",
-      "images": [
-        {
-          "url": "http://www.parlamento.ao/image/user_portrait?screenName=maria.taveya&companyId=10132"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.parlamento.ao/web/maria.taveya"
-        }
-      ],
-      "name": "MARIA SALOMÉ TAVEYA"
     },
     {
       "id": "eca09f8b-dae6-4978-bd95-03a9d21fc4a5",
@@ -9382,14 +9462,6 @@
       "role": "member"
     },
     {
-      "area_id": "círculo_eleitoral_provincial_do_bié",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "0389a632-822a-4c91-803b-e7986fc7ae90",
-      "role": "member"
-    },
-    {
       "area_id": "círculo_eleitoral_provincial_do_namibe",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "mpla",
@@ -9462,6 +9534,14 @@
       "role": "member"
     },
     {
+      "area_id": "cunene",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "mpla",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "0aa7cba8-65c6-4533-bdf8-cf4d005977fd",
+      "role": "member"
+    },
+    {
       "area_id": "nacional",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "casa-ce",
@@ -9483,6 +9563,14 @@
       "on_behalf_of_id": "mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "0d0205fd-2db7-49c3-a3c6-f1b5104a2e68",
+      "role": "member"
+    },
+    {
+      "area_id": "circulo_eleitoral_provincia_do_huambo",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "mpla",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "0da5f243-4f30-4ba0-8558-5f39d24890e5",
       "role": "member"
     },
     {
@@ -9934,14 +10022,6 @@
       "role": "member"
     },
     {
-      "area_id": "círculo_eleitoral_provincial_do_bengo",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "30c31569-60fa-48e5-bff5-740067796231",
-      "role": "member"
-    },
-    {
       "area_id": "nacional",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "unita",
@@ -9982,6 +10062,14 @@
       "role": "member"
     },
     {
+      "area_id": "círculo_eleitoral_provincial_do_bengo",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "mpla",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "320d494c-bca4-45ce-a632-ea5aba1300b1",
+      "role": "member"
+    },
+    {
       "area_id": "círculo_eleitoral_provincial_do_zaire",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "mpla",
@@ -10000,14 +10088,6 @@
     {
       "area_id": "huíla",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "33255b40-fcd7-40c2-8618-9f31ff413c44",
-      "role": "member"
-    },
-    {
-      "area_id": "círculo_eleitoral_provincial_da_huíla",
-      "legislative_period_id": "term/4",
       "on_behalf_of_id": "mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "33255b40-fcd7-40c2-8618-9f31ff413c44",
@@ -10373,6 +10453,14 @@
       "role": "member"
     },
     {
+      "area_id": "província_da_huíla",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "mpla",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "46c9041b-2236-4cd0-ab50-df332da4890b",
+      "role": "member"
+    },
+    {
       "area_id": "nacional",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "mpla",
@@ -10418,6 +10506,14 @@
       "on_behalf_of_id": "mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "4b92fc6e-5914-4938-b334-6d910b0b199b",
+      "role": "member"
+    },
+    {
+      "area_id": "círculo_elaitoral_provincial_do_uíge",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "unita",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "4c836ed3-8c01-45ad-a94e-112245711558",
       "role": "member"
     },
     {
@@ -10516,6 +10612,14 @@
       "role": "member"
     },
     {
+      "area_id": "círculo_eleitoral_provincial_do_zaíre",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "mpla",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "519ea7b6-7b0d-4769-90fc-e8ef3efeb477",
+      "role": "member"
+    },
+    {
       "area_id": "circulo_eleitoral_provincial_de_benguela",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "mpla",
@@ -10561,6 +10665,14 @@
       "on_behalf_of_id": "mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "571a8199-f4d2-4844-83cb-12c926d3354f",
+      "role": "member"
+    },
+    {
+      "area_id": "círculo_eleitoral_nacional",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "mpla",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "58d43170-4a80-4334-b147-8d1256f5fb7b",
       "role": "member"
     },
     {
@@ -11667,14 +11779,6 @@
       "role": "member"
     },
     {
-      "area_id": "círculo_eleitoral_provincial_do_huambo",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "af09138d-d8ec-48bd-a2f5-9e325d2c6ae2",
-      "role": "member"
-    },
-    {
       "area_id": "círculo_eleitoral_nacional",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "mpla",
@@ -11728,14 +11832,6 @@
       "on_behalf_of_id": "mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "b42517a5-7803-4337-9562-09557b86f8f6",
-      "role": "member"
-    },
-    {
-      "area_id": "círculo_elaitoral_provincial_do_uíge",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "unita",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "b4a483e8-b16f-44ef-92a8-59f734e6a627",
       "role": "member"
     },
     {
@@ -12123,14 +12219,6 @@
       "role": "member"
     },
     {
-      "area_id": "círculo_eleitoral_nacional",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "d10ebc87-04e7-445c-8d76-9fcc2fab2364",
-      "role": "member"
-    },
-    {
       "area_id": "nacional",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "unita",
@@ -12256,6 +12344,14 @@
       "on_behalf_of_id": "mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "d9eabe6f-d80a-4cea-a711-62dfb7f746c5",
+      "role": "member"
+    },
+    {
+      "area_id": "círculo_eleitoral_provincial_do_bié",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "mpla",
+      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
+      "person_id": "da1b843c-fc3c-4cdf-999d-b64b961ff205",
       "role": "member"
     },
     {
@@ -12507,14 +12603,6 @@
       "role": "member"
     },
     {
-      "area_id": "círculo_eleitoral_provincial_do_cunene",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "ec4fb7ec-3783-451b-b6b7-ceb58c4ccd0c",
-      "role": "member"
-    },
-    {
       "area_id": "círculo_elaitoral_provincial_do_bengo",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "mpla",
@@ -12725,14 +12813,6 @@
     {
       "area_id": "zaire",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "mpla",
-      "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
-      "person_id": "f658ef1c-6cb2-4cc4-928a-4a9f41b429fb",
-      "role": "member"
-    },
-    {
-      "area_id": "círculo_eleitoral_provincial_do_zaire",
-      "legislative_period_id": "term/4",
       "on_behalf_of_id": "mpla",
       "organization_id": "5a0ab6f8-f39d-41e0-9892-ee0ba49c5d03",
       "person_id": "f658ef1c-6cb2-4cc4-928a-4a9f41b429fb",
@@ -13009,6 +13089,11 @@
       "type": "constituency"
     },
     {
+      "id": "circulo_eleitoral_provincia_do_huambo",
+      "name": "Circulo Eleitoral Provincia do Huambo",
+      "type": "constituency"
+    },
+    {
       "id": "circulo_eleitoral_provincial_da_huíla",
       "name": "Circulo Eleitoral Provincial da Huíla",
       "type": "constituency"
@@ -13229,6 +13314,11 @@
       "type": "constituency"
     },
     {
+      "id": "círculo_eleitoral_provincial_do_zaíre",
+      "name": "Círculo Eleitoral Provincial do Zaíre",
+      "type": "constituency"
+    },
+    {
       "id": "círculo_eleitoral_provincial_kuanza_norte",
       "name": "Círculo Eleitoral Provincial Kuanza Norte",
       "type": "constituency"
@@ -13286,6 +13376,11 @@
     {
       "id": "namibe",
       "name": "Namibe",
+      "type": "constituency"
+    },
+    {
+      "id": "província_da_huíla",
+      "name": "Província da Huíla",
       "type": "constituency"
     },
     {
