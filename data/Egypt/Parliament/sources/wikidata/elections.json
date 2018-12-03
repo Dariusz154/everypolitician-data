@@ -69,7 +69,7 @@
     "followed_by": "Egyptian parliamentary election, 2011–2012",
     "office": "Prime Minister of Egypt",
     "successful_candidates": [
-      "Ahmed Shafik"
+      "Shafiq Ahmad"
     ]
   },
   "Q627548": {
@@ -344,6 +344,12 @@
         "name": "Elecciones parlamentarias de Egipto de 1987",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "ast",
+        "name": "eleiciones parllamentaries d'Exiptu de 1987",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -434,6 +440,12 @@
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות במצרים (2005)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ast",
+        "name": "eleiciones parllamentaries de 2005 n'Exiptu",
         "note": "multilingual",
         "source": "wikidata-label"
       },
