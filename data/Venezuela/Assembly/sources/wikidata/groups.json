@@ -242,6 +242,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ms",
+        "name": "Parti Sosialis Bersatu Venezuela",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "pt",
         "name": "Partido Socialista Unificado Venezuelano",
         "note": "multilingual",
@@ -1813,6 +1819,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ms",
+        "name": "Tindakan Demokratik",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "fr",
         "name": "Action Démocratique (Venezuela)",
         "note": "multilingual",
@@ -1973,6 +1985,12 @@
         "name": "ベネズエラ民主行動党",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "ms",
+        "name": "AD",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -1980,7 +1998,8 @@
         "url": "http://www.acciondemocratica.org.ve/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Acción_Democrática.svg"
   },
   "5": {
     "identifiers": [
