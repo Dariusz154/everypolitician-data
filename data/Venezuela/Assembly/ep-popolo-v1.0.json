@@ -3650,13 +3650,32 @@
     {
       "gender": "male",
       "id": "7feb17ad-3998-4c3b-bc06-3b0e1450ba0d",
+      "identifiers": [
+        {
+          "identifier": "Q59289588",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_7989192025348f259e980fdc93a7e44666367d66.jpg",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_7989192025348f259e980fdc93a7e44666367d66.jpg"
         }
       ],
-      "name": "SUPERLANO SALINAS FREDDY FRANCISCO"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Freddy_Superlano"
+        }
+      ],
+      "name": "SUPERLANO SALINAS FREDDY FRANCISCO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Freddy Superlano",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -4358,13 +4377,32 @@
     {
       "gender": "male",
       "id": "a26f618f-2db0-46b7-aef5-54176b6974a6",
+      "identifiers": [
+        {
+          "identifier": "Q58464044",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_bdfd0cef7d5445a21e480e4825bbc70c7149d815.jpg",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_bdfd0cef7d5445a21e480e4825bbc70c7149d815.jpg"
         }
       ],
-      "name": "SUCRE GIFFUNI FRANCISCO JOSÉ"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Francisco_Sucre"
+        }
+      ],
+      "name": "SUCRE GIFFUNI FRANCISCO JOSÉ",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Francisco Sucre",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -5377,12 +5415,17 @@
       ]
     },
     {
+      "birth_date": "1968-12-30",
       "gender": "male",
       "id": "d1d18495-15b0-438a-867d-94858af7f79b",
       "identifiers": [
         {
           "identifier": "49",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q50568920",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_f90a22b7323f461a61b742b900936a2d2cf41750.jpg",
@@ -5391,7 +5434,20 @@
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_f90a22b7323f461a61b742b900936a2d2cf41750.jpg"
         }
       ],
-      "name": "JULIO CÉSAR REYES"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Julio_César_Reyes"
+        }
+      ],
+      "name": "JULIO CÉSAR REYES",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Julio César Reyes",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -6252,13 +6308,32 @@
     {
       "gender": "male",
       "id": "f806663b-c6db-4bad-8b21-110cabedfc5e",
+      "identifiers": [
+        {
+          "identifier": "Q58833335",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_8041584f9a7158f8029b0cdd32ceaf307829f4d9.jpg",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_8041584f9a7158f8029b0cdd32ceaf307829f4d9.jpg"
         }
       ],
-      "name": "GUAIDÓ MÁRQUEZ JUAN GERARDO"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juan_Guaidó"
+        }
+      ],
+      "name": "GUAIDÓ MÁRQUEZ JUAN GERARDO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Juan Guaidó",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-07-23",
