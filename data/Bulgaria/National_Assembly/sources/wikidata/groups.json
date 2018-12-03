@@ -337,7 +337,8 @@
         "url": "http://www.gerb.bg/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_GERB_PP.png"
   },
   "a17f30ea-f5e9-4c80-9d87-fc7bb36314cd": {
     "identifiers": [
@@ -677,7 +678,8 @@
         "url": "http://www.gerb.bg/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_GERB_PP.png"
   },
   "d96ee96c-fbb7-48fd-9ae3-d3803d547bf0": {
     "identifiers": [
@@ -2337,6 +2339,12 @@
         "name": "Union Nacional Ataque",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Attack",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -3091,6 +3099,12 @@
       {
         "lang": "es",
         "name": "Union Nacional Ataque",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Attack",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -8033,6 +8047,18 @@
         "name": "Воля",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Dnes",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Liberal Alliance",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -8040,7 +8066,8 @@
         "url": "http://volia.bg",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Volya_text_logo.svg"
   },
   "571e53da-8ee7-43eb-905a-cc1685825a78": {
     "identifiers": [
