@@ -15,7 +15,7 @@
   },
   "groups": {
     "count": 8,
-    "wikidata": 7
+    "wikidata": 8
   },
   "terms": {
     "count": 1,
@@ -38,7 +38,7 @@
       "file": "morph/p39s.csv",
       "type": "membership",
       "scraper": "everypolitician-scrapers/solomon-islands-parliament-p39s",
-      "lastmod": "2018-11-22"
+      "lastmod": "2018-12-02"
     },
     {
       "file": "morph/official.csv",

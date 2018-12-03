@@ -1064,5 +1064,27 @@
         "source": "wikidata-label"
       }
     ]
+  },
+  "37DC612F-A876-423E-B1F0-4AFC07F1F000": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q59125329"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Kadere Party of Solomon Islands",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "KPSI",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ]
   }
 }
