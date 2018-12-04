@@ -2097,7 +2097,9 @@
           "value": "Elazar_stern"
         }
       ],
+      "family_name": "Stern",
       "gender": "male",
+      "given_name": "Eleazar",
       "id": "062d8045-904a-4f96-9044-c64dbe35d48a",
       "identifiers": [
         {
@@ -14020,6 +14022,11 @@
           "lang": "ru",
           "name": "Каплан, Элиэзер",
           "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Еліезер Каплан",
+          "note": "multilingual"
         }
       ]
     },
@@ -22445,6 +22452,11 @@
         {
           "lang": "he",
           "name": "ציפי לבני",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Cipi Livni",
           "note": "multilingual"
         },
         {
@@ -45694,7 +45706,9 @@
     },
     {
       "birth_date": "1972-10-03",
+      "family_name": "Cohen",
       "gender": "male",
+      "given_name": "Eli",
       "id": "6cef7d4e-6b2e-4ee2-8872-441694ca4b4a",
       "identifiers": [
         {
@@ -69957,6 +69971,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "mzn",
+          "name": "شیمون پرز",
+          "note": "multilingual"
+        },
+        {
           "lang": "nds",
           "name": "Schimon Peres",
           "note": "multilingual"
@@ -90228,6 +90247,12 @@
     },
     {
       "birth_date": "1956-07-22",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AzmiBishara"
+        }
+      ],
       "gender": "male",
       "id": "df92227c-98d2-47dd-af68-6641d03e060d",
       "identifiers": [
@@ -90385,6 +90410,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/阿兹米·比沙拉"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AzmiBishara"
         }
       ],
       "name": "Azmi Bishara",
@@ -101480,6 +101509,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "mzn",
+          "name": "مناکحم بگین",
+          "note": "multilingual"
+        },
+        {
           "lang": "pa",
           "name": "ਮਾਨਾਕੇਮ ਬੇਗਿਨ",
           "note": "multilingual"
@@ -111353,6 +111387,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hy",
+          "name": "Կանանց միջազգային սիոնիստական կազմակերպություն",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "WIZO",
           "note": "multilingual",
@@ -111367,6 +111407,12 @@
         {
           "lang": "eo",
           "name": "VICO",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hy",
+          "name": "ԿՄՍԿ",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
