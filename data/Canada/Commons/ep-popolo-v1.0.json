@@ -69,6 +69,7 @@
       ],
       "email": "Chandra.Arya@parl.gc.ca",
       "gender": "male",
+      "given_name": "Chandra",
       "id": "0068ee69-6842-482c-9ffc-b7c67854ceef",
       "identifiers": [
         {
@@ -3299,6 +3300,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Paul_Dewar"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Paul_Dewar"
         },
         {
           "note": "facebook",
@@ -23203,6 +23208,7 @@
       ],
       "email": "Kim.Rudd@parl.gc.ca",
       "gender": "female",
+      "given_name": "Kim",
       "id": "8bde2a14-fe49-47b1-9f30-3bc4465ce3ef",
       "identifiers": [
         {
@@ -23838,6 +23844,7 @@
       ],
       "email": "Gagan.Sikand@parl.gc.ca",
       "gender": "male",
+      "given_name": "Gagan",
       "id": "91e9cdcc-6035-492f-87b9-c2c78d9a52d2",
       "identifiers": [
         {
@@ -24317,6 +24324,7 @@
       ],
       "email": "Pam.Damoff@parl.gc.ca",
       "gender": "female",
+      "given_name": "Pam",
       "id": "957ac7cf-dbf0-4873-b937-419b3b6b3787",
       "identifiers": [
         {
@@ -25783,6 +25791,7 @@
       ],
       "email": "Ruby.Sahota@parl.gc.ca",
       "gender": "female",
+      "given_name": "Ruby",
       "id": "9f42aedd-7abb-4883-a260-e8cfa4e167e8",
       "identifiers": [
         {
@@ -26353,6 +26362,7 @@
       ],
       "email": "Deb.Schulte@parl.gc.ca",
       "gender": "female",
+      "given_name": "Deb",
       "id": "a48e22ec-ed25-49fb-8840-5536ebccd097",
       "identifiers": [
         {
@@ -29198,6 +29208,7 @@
       "email": "Dane.Lloyd@parl.gc.ca",
       "family_name": "Lloyd",
       "gender": "male",
+      "given_name": "Dane",
       "id": "b44d4ac2-bb0b-4012-9950-d21ae79ced8c",
       "identifiers": [
         {
@@ -30429,6 +30440,10 @@
           "url": "https://fa.wikipedia.org/wiki/اندرو_شیر"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Andrew_Scheer"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Andrew_Scheer"
         },
@@ -31131,6 +31146,7 @@
       ],
       "email": "Kamal.Khera@parl.gc.ca",
       "gender": "female",
+      "given_name": "Kamal",
       "id": "bfd6ee3c-f716-42e5-9dbc-38cc379d7893",
       "identifiers": [
         {
@@ -32672,6 +32688,7 @@
       "email": "Rheal.Fortin@parl.gc.ca",
       "family_name": "Fortin",
       "gender": "male",
+      "given_name": "Rhéal",
       "id": "cbf67124-9c28-4698-b4e6-970b48cee90c",
       "identifiers": [
         {
@@ -32734,6 +32751,7 @@
       "email": "Alistair.MacGregor@parl.gc.ca",
       "family_name": "MacGregor",
       "gender": "male",
+      "given_name": "Alistair",
       "id": "cc155c88-5225-4911-b482-31b1bb057c34",
       "identifiers": [
         {
@@ -33158,6 +33176,7 @@
       ],
       "email": "Todd.Doherty@parl.gc.ca",
       "gender": "male",
+      "given_name": "Todd",
       "id": "ceda6509-ed5c-4c40-a8d4-bf01107b3f23",
       "identifiers": [
         {
@@ -36030,6 +36049,7 @@
       "email": "Mel.Arnold@parl.gc.ca",
       "family_name": "Arnold",
       "gender": "male",
+      "given_name": "Mel",
       "id": "daa2a687-37a2-487c-8552-14505d082bbd",
       "identifiers": [
         {
@@ -41409,6 +41429,12 @@
         {
           "lang": "ar",
           "name": "كتلة الكيبيك",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ro",
+          "name": "Blocul Québec",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
