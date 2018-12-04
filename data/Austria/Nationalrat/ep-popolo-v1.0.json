@@ -542,6 +542,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Walter_Rosenkranz"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Walter_Rosenkranz"
         },
@@ -8622,6 +8626,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Werner_Groiß"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Werner_Groiß"
@@ -17464,7 +17472,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Austrian Constitutional Assembly election, 1919",
+      "name": "Constituent National Assembly (Austria)",
       "start_date": "1919-02-16"
     },
     {
