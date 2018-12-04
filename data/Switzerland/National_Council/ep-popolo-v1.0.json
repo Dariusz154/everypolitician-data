@@ -25247,6 +25247,21 @@
       "sort_name": "Cantieni, Toni"
     },
     {
+      "birth_date": "1994-01-23",
+      "family_name": "Marti",
+      "gender": "female",
+      "given_name": "Samira",
+      "id": "77644ee8-bc7d-4c9b-8426-25ab92170199",
+      "identifiers": [
+        {
+          "identifier": "4228",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Samira Marti",
+      "sort_name": "Marti, Samira"
+    },
+    {
       "birth_date": "1923-04-14",
       "family_name": "Cottet",
       "gender": "male",
@@ -74194,6 +74209,20 @@
       ]
     },
     {
+      "area_id": "BL",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "2",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "77644ee8-bc7d-4c9b-8426-25ab92170199",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4228"
+        }
+      ],
+      "start_date": "2018-12-10"
+    },
+    {
       "area_id": "FR",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "4",
@@ -76505,6 +76534,7 @@
     },
     {
       "area_id": "SG",
+      "end_date": "2018-12-31",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "4",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
