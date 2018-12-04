@@ -1,11 +1,11 @@
 {
   "people": {
-    "count": 41,
-    "wikidata": 41,
+    "count": 40,
+    "wikidata": 40,
     "latest_term": {
-      "count": 32,
-      "wikidata": 32,
-      "images": 32,
+      "count": 29,
+      "wikidata": 29,
+      "images": 29,
       "contacts": {
         "email": 0,
         "facebook": 0,
@@ -23,8 +23,8 @@
     "wikidata": 2
   },
   "areas": {
-    "count": 31,
-    "wikidata": 31
+    "count": 30,
+    "wikidata": 30
   },
   "elections": {
     "count": 10,
@@ -86,7 +86,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/belize-house-constituencies-wikidata",
-      "lastmod": "2018-11-19"
+      "lastmod": "2018-11-27"
     },
     {
       "file": "wikidata/elections.json",
