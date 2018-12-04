@@ -9307,6 +9307,10 @@
           "url": "https://war.wikipedia.org/wiki/Pedro_Sánchez_Pérez-Castejón"
         },
         {
+          "note": "Wikipedia (wuu)",
+          "url": "https://wuu.wikipedia.org/wiki/佩德罗·桑切斯"
+        },
+        {
           "note": "Wikipedia (xmf)",
           "url": "https://xmf.wikipedia.org/wiki/პედრო_სანჩესი_(პოლიტიკოსი)"
         },
@@ -12165,10 +12169,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Celia_Villalobos.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Celia_Villalobos_2001_(cropped).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Celia_Villalobos.png"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Celia_Villalobos_2001_(cropped).jpg"
         }
       ],
       "links": [
@@ -14001,6 +14005,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Ximo_Puig"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Ximo_Puig"
         },
         {
           "note": "Wikipedia (fr)",
@@ -36509,10 +36517,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Alfred_Bosch.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Alfred_Bosch_retrat_oficial_2018.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Alfred_Bosch.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Alfred_Bosch_retrat_oficial_2018.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/966327788952276992/wuVxDBm5.jpg"
@@ -43665,6 +43673,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Laura_Seara"
+        },
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Laura_Seara"
