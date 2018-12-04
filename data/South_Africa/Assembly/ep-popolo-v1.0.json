@@ -4308,17 +4308,6 @@
       "name": "Mondli Gungubele"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jvos@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "capevos@gmail.com"
-        }
-      ],
-      "email": "jvos@parliament.gov.za",
       "gender": "male",
       "given_name": "James",
       "honorific_prefix": "Mr",
@@ -23287,6 +23276,10 @@
       "name": "Nomvuzo Francisca Shabalala"
     },
     {
+      "id": "f2a2c83f-2bf6-4636-9589-05ff54c54a45",
+      "name": "Tito Mboweni"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -24429,17 +24422,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mmotimele@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "mmotimele@icloud.com"
-        }
-      ],
-      "email": "mmotimele@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "fd4c7b9f-1446-45fe-b3ec-f0be3a54f850",
@@ -26898,6 +26880,7 @@
       "start_date": "2016-09-05"
     },
     {
+      "end_date": "2018-11-11",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -30012,6 +29995,14 @@
     },
     {
       "legislative_period_id": "term/26",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "f2a2c83f-2bf6-4636-9589-05ff54c54a45",
+      "role": "member",
+      "start_date": "2018-10-09"
+    },
+    {
+      "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "f30f87a7-9178-408c-a2f5-43218cfd335d",
@@ -30190,6 +30181,7 @@
     },
     {
       "area_id": "Q134907",
+      "end_date": "2018-11-30",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
