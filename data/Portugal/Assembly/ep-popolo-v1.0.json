@@ -7050,6 +7050,7 @@
         }
       ],
       "email": "hamaral@cds.parlamento.pt",
+      "family_name": "Amaral",
       "gender": "male",
       "id": "21f6b89c-aa0b-4fb5-913c-f775061acd88",
       "identifiers": [
@@ -7670,6 +7671,7 @@
     {
       "birth_date": "1924-02-12",
       "death_date": "2009-01-28",
+      "family_name": "Pereira",
       "gender": "male",
       "given_name": "António",
       "id": "24e88d95-3fda-4ff3-ab41-e589d94e48f6",
@@ -12217,6 +12219,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Augusto_Santos_Silva"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Августо_Сантуш_Сілва"
         }
       ],
       "name": "Augusto Santos Silva",
@@ -20243,6 +20249,7 @@
     },
     {
       "birth_date": "1936-01-01",
+      "family_name": "Barreto",
       "gender": "male",
       "given_name": "Álvaro",
       "id": "5e203f8f-2e30-40fb-8958-41792536fbbb",
@@ -25197,6 +25204,7 @@
     },
     {
       "birth_date": "1956-10-15",
+      "family_name": "Esteves",
       "gender": "female",
       "given_name": "Maria",
       "id": "766ecf4f-1dc4-406d-aeef-b0601a20a0da",
@@ -26071,6 +26079,7 @@
     },
     {
       "birth_date": "1956-05-17",
+      "family_name": "Azevedo",
       "gender": "female",
       "id": "7a80c4b6-6e20-4ff2-8075-7989c6afac9b",
       "identifiers": [
@@ -29520,6 +29529,7 @@
     },
     {
       "birth_date": "1971-09-15",
+      "family_name": "Soares",
       "gender": "male",
       "given_name": "Bernardino",
       "id": "884d8bf1-f30c-414a-ab67-88c92b6b6330",
@@ -30370,7 +30380,9 @@
     },
     {
       "birth_date": "1936-01-19",
+      "family_name": "Abrantes",
       "gender": "male",
+      "given_name": "Domingos",
       "id": "8d04f783-d34c-4890-8906-53c4b5c76093",
       "identifiers": [
         {
@@ -31300,6 +31312,7 @@
     },
     {
       "birth_date": "1965-04-28",
+      "family_name": "Pedroso",
       "gender": "male",
       "given_name": "Paulo",
       "id": "8f9d2c5f-48f0-47f0-a448-2ae4d6745bee",
@@ -31636,6 +31649,7 @@
     },
     {
       "birth_date": "1968-05-31",
+      "family_name": "Monteiro",
       "gender": "male",
       "id": "916ea38a-0e89-4d32-bf61-e86b2a98ee56",
       "identifiers": [
@@ -31782,6 +31796,7 @@
     {
       "birth_date": "1955-06-24",
       "gender": "male",
+      "given_name": "Arménio",
       "id": "927f5eb7-2c35-402d-9bd6-d69af646d347",
       "identifiers": [
         {
@@ -32544,6 +32559,7 @@
     },
     {
       "birth_date": "1942-10-30",
+      "family_name": "Barreto",
       "gender": "male",
       "given_name": "António",
       "id": "966d62d2-daec-4c6e-9db1-7186ec4ac31c",
@@ -35922,6 +35938,7 @@
     },
     {
       "birth_date": "1943-07-16",
+      "family_name": "Silva",
       "gender": "male",
       "given_name": "Guilherme",
       "id": "a58c5afb-822a-4bb6-8a31-37398085930a",
@@ -36322,7 +36339,9 @@
     },
     {
       "birth_date": "1962-11-05",
+      "family_name": "Ramos",
       "gender": "male",
+      "given_name": "Casimiro",
       "id": "a7af010e-f0ef-4e1f-9e35-1b605cf8ca0f",
       "identifiers": [
         {
@@ -38642,6 +38661,7 @@
     },
     {
       "birth_date": "1977-10-01",
+      "family_name": "Portugal",
       "gender": "male",
       "given_name": "João",
       "id": "b3c729ff-99d6-47e6-8cda-7e043c4c9461",
@@ -38847,6 +38867,7 @@
     },
     {
       "birth_date": "1978-04-05",
+      "family_name": "Almeida",
       "gender": "male",
       "given_name": "André",
       "id": "b49778a2-1a3c-4d84-b2d5-781a7ff9f0fa",
@@ -39521,7 +39542,14 @@
           "url": "https://pt.wikipedia.org/wiki/Jorge_Miranda"
         }
       ],
-      "name": "Jorge Miranda"
+      "name": "Jorge Miranda",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "خورخي ميراندا",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-12-28",
@@ -42608,6 +42636,7 @@
     },
     {
       "birth_date": "1966-03-18",
+      "family_name": "Melo",
       "gender": "male",
       "given_name": "Nuno",
       "id": "c5b5c176-7888-4476-aefc-78d390c7091f",
@@ -44185,6 +44214,7 @@
     },
     {
       "birth_date": "1954-09-07",
+      "family_name": "Macedo",
       "gender": "female",
       "given_name": "Alda",
       "id": "cd853c73-d1c4-4c31-bb34-5fbc00053b9d",
@@ -46075,6 +46105,7 @@
     },
     {
       "birth_date": "1943-04-15",
+      "family_name": "Amaral",
       "gender": "male",
       "given_name": "João",
       "id": "d7c8b83a-7ca6-4ef0-b180-2f32dbacca0e",
@@ -51558,6 +51589,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Paulo_Portas"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/باولو_بورتاس"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Paulo_Portas"
         },
@@ -53501,6 +53536,10 @@
       "id": "f50aca01-a264-4258-9871-f81cef989abe",
       "identifiers": [
         {
+          "identifier": "2311",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "0000 0000 6819 9459",
           "scheme": "isni"
         },
@@ -54239,10 +54278,6 @@
       "name": "Alberto Costa",
       "other_names": [
         {
-          "name": "Alberto Bernardes Costa",
-          "note": "alternate"
-        },
-        {
           "lang": "da",
           "name": "Alberto Bernardes Costa",
           "note": "multilingual"
@@ -54259,11 +54294,6 @@
         },
         {
           "lang": "nn",
-          "name": "Alberto Bernardes Costa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
           "name": "Alberto Bernardes Costa",
           "note": "multilingual"
         },
@@ -55104,6 +55134,7 @@
     },
     {
       "birth_date": "1959-05-06",
+      "family_name": "Macedo",
       "gender": "male",
       "given_name": "Miguel",
       "id": "fd2d5eb2-9f6b-47ca-95ff-12e5dc768fff",
@@ -120456,7 +120487,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Next Portuguese legislative election",
+      "name": "Portuguese legislative election, 2019",
       "start_date": "2019-10-13"
     }
   ],
