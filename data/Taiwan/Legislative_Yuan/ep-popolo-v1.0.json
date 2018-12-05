@@ -1862,7 +1862,7 @@
       "links": [
         {
           "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Su_Chia-chyuan"
+          "url": "https://commons.wikimedia.org/wiki/Category:Su_Jia-chyuan"
         },
         {
           "note": "Wikipedia (de)",
@@ -1904,12 +1904,22 @@
           "note": "alternate"
         },
         {
-          "lang": "de",
+          "lang": "en",
           "name": "Su Jia-chyuan",
           "note": "multilingual"
         },
         {
-          "lang": "en",
+          "lang": "es",
+          "name": "Su Chia-chyuan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Su Chia-chyuan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
           "name": "Su Chia-chyuan",
           "note": "multilingual"
         },
@@ -1926,6 +1936,11 @@
         {
           "lang": "nan",
           "name": "So͘ Ka-choân",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Su Chia-chyuan",
           "note": "multilingual"
         },
         {
