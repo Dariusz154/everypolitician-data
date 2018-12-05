@@ -56,6 +56,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ast",
+        "name": "eleiciones parllamentaries de Xordania de 2013",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "fr",
         "name": "Élections législatives jordaniennes de 2012",
         "note": "multilingual",
@@ -158,6 +164,18 @@
         "name": "הבחירות הכלליות בירדן 2007",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات النيابية ٢٠٠٧-٢٠١١",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "انتخابات البرلمان الأردني الخامس عشر ٢٠٠٧",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ar",
@@ -558,7 +576,19 @@
       },
       {
         "lang": "ar",
-        "name": "انتخابات مجلس النواب الأردني 2016",
+        "name": "الانتخابات التشريعية الأردنية ٢٠١٦",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات النيابية الأردنية ٢٠١٦",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "انتخابات مجلس النواب الأردني ٢٠١٦",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -567,10 +597,17 @@
         "name": "الانتخابات التشريعية الأردنية 2016",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "انتخابات مجلس النواب الأردني 2016",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
       "2016-09-20"
-    ]
+    ],
+    "follows": "Jordanian general election, 2013"
   }
 }
