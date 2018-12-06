@@ -2930,7 +2930,7 @@
     {
       "birth_date": "1970-04-06",
       "gender": "male",
-      "given_name": "Miguel",
+      "given_name": "Miguelano",
       "id": "ab50ca29-59be-47f3-864a-d20a1b74d06b",
       "identifiers": [
         {
@@ -4486,6 +4486,12 @@
           "name": "Alliance sociale indigène",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Movimento de Alianças Sociais Indígenas",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -5471,7 +5477,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.partidopin.org/"
+          "url": "http://www.partidoopcionciudadana.com"
         }
       ],
       "name": "Partido Opcion Ciudadana",
