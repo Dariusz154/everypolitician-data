@@ -13338,13 +13338,17 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pierre-Yves_Maillard.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pierre-Yves_Maillard_(2003).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pierre-Yves_Maillard.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pierre-Yves_Maillard_(2003).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Pierre-Yves_Maillard"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Pierre-Yves_Maillard"
@@ -21270,6 +21274,10 @@
         {
           "identifier": "/m/0cgkrns",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1154337782",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0000 8005 9264",
@@ -32056,6 +32064,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Ueli_Maurer"
+        },
+        {
+          "note": "Wikipedia (tt)",
+          "url": "https://tt.wikipedia.org/wiki/Уэли_Маурер"
         },
         {
           "note": "Wikipedia (uk)",
@@ -44766,6 +44778,10 @@
           "url": "https://de.wikipedia.org/wiki/Fabian_Molina"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fabian_Molina"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Fabian_Molina"
         }
@@ -44880,10 +44896,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Paul_Rechsteiner_(2007).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Paul_Rechsteiner_(2015).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Paul_Rechsteiner_(2007).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Paul_Rechsteiner_(2015).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/635862964721942528/UBlxu3hn.jpg"
@@ -49859,6 +49875,10 @@
         {
           "identifier": "196",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "2485473",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q55855424",
@@ -55459,6 +55479,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Viola_Amherd"
+        },
+        {
+          "note": "Wikipedia (als)",
+          "url": "https://als.wikipedia.org/wiki/Viola_Amherd"
         },
         {
           "note": "Wikipedia (de)",
