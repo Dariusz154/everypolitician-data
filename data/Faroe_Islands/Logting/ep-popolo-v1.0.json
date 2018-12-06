@@ -5511,6 +5511,12 @@
     },
     {
       "birth_date": "1975-06-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "kristinahafoss"
+        }
+      ],
       "gender": "female",
       "given_name": "Kristina",
       "id": "f307d2cb-dd58-4679-bbef-1c1c038459a7",
@@ -5566,6 +5572,14 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Kristina_Háfoss"
+        },
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/kristinahafoss/"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/kristinahafoss"
         },
         {
           "note": "website",
