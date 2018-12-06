@@ -13556,6 +13556,10 @@
       "id": "520d2e37-0a03-43bc-b572-f26eebd27c34",
       "identifiers": [
         {
+          "identifier": "1381",
+          "scheme": "eduskunta"
+        },
+        {
           "identifier": "Q55393934",
           "scheme": "wikidata"
         }
@@ -16143,6 +16147,10 @@
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Laura_Huhtasaari"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Laura_Huhtasaari"
         },
         {
           "note": "twitter",
@@ -21659,6 +21667,10 @@
       "gender": "female",
       "id": "8564433b-f093-4392-bf60-fae17c8f467e",
       "identifiers": [
+        {
+          "identifier": "1382",
+          "scheme": "eduskunta"
+        },
         {
           "identifier": "Q28787667",
           "scheme": "wikidata"
@@ -29854,6 +29866,10 @@
       "given_name": "Mia",
       "id": "c2cf1d35-6978-417f-9bc8-52c2f6d44d61",
       "identifiers": [
+        {
+          "identifier": "1379",
+          "scheme": "eduskunta"
+        },
         {
           "identifier": "Q28778236",
           "scheme": "wikidata"
