@@ -2217,6 +2217,10 @@
         {
           "identifier": "Q459998",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "小澤-9",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/085.jpg/%24File/085.jpg",
@@ -28359,6 +28363,11 @@
         {
           "lang": "ru",
           "name": "Ямао, Сиори",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "山尾志櫻里",
           "note": "multilingual"
         }
       ]
