@@ -9,7 +9,7 @@
     "other_names": [
       {
         "lang": "pt",
-        "name": "Eleições gerais na Finlândia em 2011",
+        "name": "Eleições parlamentares na Finlândia em 2011",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -191,7 +191,7 @@
     "dates": [
       "2011-04-17"
     ],
-    "office": "Prime Minister of Finland",
+    "office": "member of the Parliament of Finland",
     "successful_candidates": [
       "Jyrki Katainen"
     ]
@@ -583,12 +583,18 @@
         "name": "Eleiciones parllamentaries de Finlandia de 1999",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições parlamentares na Finlândia em 1999",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
       "1999-03-21"
     ],
-    "office": "Prime Minister of Finland",
+    "office": "member of the Parliament of Finland",
     "successful_candidates": [
       "Paavo Lipponen"
     ]
@@ -657,7 +663,7 @@
       },
       {
         "lang": "pt",
-        "name": "Eleições legislativas na Finlândia",
+        "name": "Eleições parlamentares na Finlândia em 2007",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -701,7 +707,7 @@
     "dates": [
       "2007-03-18"
     ],
-    "office": "Prime Minister of Finland",
+    "office": "member of the Parliament of Finland",
     "successful_candidates": [
       "Matti Vanhanen"
     ]
@@ -2234,6 +2240,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "pt",
+        "name": "Eleições parlamentares na Finlândia em 2003",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "de",
         "name": "Parlamentswahlen in Finnland 2003",
         "note": "multilingual",
@@ -2621,7 +2633,7 @@
     "dates": [
       "2015-04-19"
     ],
-    "office": "Prime Minister of Finland",
+    "office": "member of the Parliament of Finland",
     "successful_candidates": [
       "Juha Sipilä"
     ]
