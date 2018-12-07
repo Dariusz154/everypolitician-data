@@ -11380,6 +11380,10 @@
           "url": "https://zh_yue.wikipedia.org/wiki/茂琴·譚保"
         },
         {
+          "note": "Wikiquote (en)",
+          "url": "https://en.wikiquote.org/wiki/Malcolm_Turnbull"
+        },
+        {
           "note": "Wikiquote (it)",
           "url": "https://it.wikiquote.org/wiki/Malcolm_Turnbull"
         },
@@ -32750,7 +32754,7 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/0J4/upload_ref_binary/0J4.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/PhilipRuddock.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Philip_Ruddock.jpg"
         }
       ],
       "links": [
@@ -34644,7 +34648,7 @@
         },
         {
           "lang": "hu",
-          "name": "Ausztrál Munkáspárt",
+          "name": "Ausztrál Munkapárt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -36344,6 +36348,12 @@
         {
           "lang": "wuu",
           "name": "澳大利亚自由党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Ausztrál Liberális Párt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -60227,7 +60237,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Australian federal election, 1975",
+      "name": "1975 Australian federal election",
       "start_date": "1975-12-13"
     },
     {
