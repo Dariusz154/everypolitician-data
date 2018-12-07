@@ -1062,7 +1062,14 @@
           "url": "https://fi.wikipedia.org/wiki/Lauri_Vahtre"
         }
       ],
-      "name": "Lauri Vahtre"
+      "name": "Lauri Vahtre",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "ラウリ・ヴァフトレ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-03-27",
@@ -16264,6 +16271,12 @@
         {
           "lang": "be",
           "name": "Партыя рэформ Эстоніі",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Észt Reformpárt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
