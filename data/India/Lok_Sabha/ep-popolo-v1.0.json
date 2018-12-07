@@ -4928,7 +4928,7 @@
           "url": "http://164.100.47.132/mpimage/photo/4074.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rahul_Gandhi_Crop.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Rahul_Gandhi_(headshot).jpg"
         }
       ],
       "links": [
@@ -11758,6 +11758,11 @@
           "lang": "te",
           "name": "నైఫియూ రియో",
           "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "نیفیو ریو",
+          "note": "multilingual"
         }
       ]
     },
@@ -14137,6 +14142,11 @@
           "lang": "te",
           "name": "కమల్ నాథ్",
           "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "کمل ناتھ",
+          "note": "multilingual"
         }
       ]
     },
@@ -16094,9 +16104,16 @@
       "images": [
         {
           "url": "http://164.100.47.132/mpimage/photo/4679.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kottapalli_Kavitha_YRCP_MP.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Kothapalli_Geetha"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kothapalli_Geetha"
@@ -19074,6 +19091,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Galla_Jayadev"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Galla_Jayadev"
@@ -23915,6 +23936,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "kn",
+          "name": "ನಳೀನ್ ಕುಮಾರ್ ಕಟೀಲ್",
+          "note": "multilingual"
+        },
+        {
           "lang": "mr",
           "name": "नलिन कुमार कटील",
           "note": "multilingual"
@@ -27950,6 +27976,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Kinjarapu_Ram_Mohan_Naidu"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ram_Mohan_Naidu_Kinjarapu"
         },
@@ -31713,6 +31743,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Rajen_Gohain"
+        },
+        {
           "note": "Wikipedia (as)",
           "url": "https://as.wikipedia.org/wiki/ৰাজেন_গোঁহাই_(ৰাজনীতিক)"
         },
@@ -33029,6 +33063,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Nandkumar_Singh_Chauhan"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/नन्द_कुमार_सिंह_चौहान"
         }
       ],
       "name": "Chauhan, Shri Nand Kumar Singh",
@@ -35267,6 +35305,10 @@
         {
           "note": "Wikipedia (ml)",
           "url": "https://ml.wikipedia.org/wiki/ബൈജയന്ത്_പാണ്ഡ"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Baijayant.Jay.Panda"
         },
         {
           "note": "twitter",
@@ -39206,6 +39248,7 @@
           "value": "masrarul.haque@sansad.nic.in"
         }
       ],
+      "death_date": "2018-12-07",
       "email": "masrarul.haque@sansad.nic.in",
       "gender": "male",
       "given_name": "Mohammad",
@@ -39234,6 +39277,10 @@
         {
           "note": "Wikipedia (ta)",
           "url": "https://ta.wikipedia.org/wiki/அஸ்ரருல்_ஹக்_முகமது"
+        },
+        {
+          "note": "Wikipedia (ur)",
+          "url": "https://ur.wikipedia.org/wiki/اسرار_الحق_قاسمی"
         }
       ],
       "name": "Mohammad, Shri Asrarul Haque",
@@ -39276,6 +39323,11 @@
         {
           "lang": "te",
           "name": "మొహమ్మద్ అస్రారుల్ హక్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "اسرار الحق قاسمی",
           "note": "multilingual"
         }
       ]
@@ -42961,6 +43013,11 @@
         {
           "lang": "te",
           "name": "సర్బానంద సోనొవాల్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "سربانند سونووال",
           "note": "multilingual"
         }
       ]
@@ -51386,6 +51443,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "uk",
+          "name": "Манека Ганді",
+          "note": "multilingual"
+        },
+        {
           "lang": "ur",
           "name": "مینکا گاندھی",
           "note": "multilingual"
@@ -52441,6 +52503,10 @@
         {
           "identifier": "hemamalini",
           "scheme": "prsindia"
+        },
+        {
+          "identifier": "Hema-Malini-Indian-actress-director-and-producer",
+          "scheme": "quora"
         },
         {
           "identifier": "11897201",
@@ -56532,6 +56598,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hu",
+          "name": "Összindiai Anna Dravida Haladó Párt",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "ta",
           "name": "அதிமுக",
           "note": "multilingual",
@@ -57704,6 +57776,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hu",
+          "name": "Bharatija Dzsanata Párt",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "BJP",
           "note": "multilingual",
@@ -58671,6 +58749,12 @@
         {
           "lang": "uk",
           "name": "Комуністична партія Індії",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Indiai Kommunista Párt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -60631,6 +60715,12 @@
         {
           "lang": "pnb",
           "name": "انڈین نیشنل لوک دل",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pa",
+          "name": "ਇੰਡੀਅਨ ਨੈਸ਼ਨਲ ਲੋਕਦਲ ( ਇਨੈਲੋ )",
           "note": "multilingual",
           "source": "wikidata-label"
         },
