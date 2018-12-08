@@ -1103,6 +1103,11 @@
           "lang": "ru",
           "name": "Розова, Ирина Анатольевна",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Irina Rozowa",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Rozova, Irina"
@@ -1602,6 +1607,11 @@
         },
         {
           "lang": "nl",
+          "name": "Kazimieras Starkevičius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Kazimieras Starkevičius",
           "note": "multilingual"
         }
@@ -4717,6 +4727,11 @@
           "lang": "pl",
           "name": "Zbigniew Jedziński",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Zbigniew Jedziński",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Jedinskij, Zbignev"
@@ -5295,6 +5310,11 @@
         },
         {
           "lang": "pl",
+          "name": "Józef Kwiatkowski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Józef Kwiatkowski",
           "note": "multilingual"
         }
@@ -10770,6 +10790,12 @@
         {
           "lang": "id",
           "name": "Partai Sosial Demokrat Lituania",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Litván Szociáldemokrata Párt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
