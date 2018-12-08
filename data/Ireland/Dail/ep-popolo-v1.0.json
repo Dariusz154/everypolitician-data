@@ -12789,6 +12789,11 @@
           "lang": "nl",
           "name": "Brid Smith",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Brid Smith",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Smith, Bríd"
@@ -31398,6 +31403,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:John_Halligan"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/John_Halligan_(politician)"
         },
@@ -33422,7 +33431,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Dan_Wallace"
+          "url": "https://en.wikipedia.org/wiki/Dan_Wallace_(politician)"
         },
         {
           "note": "Wikipedia (sco)",
@@ -38890,6 +38899,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hu",
+          "name": "Munkapárt",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "工黨",
           "note": "multilingual",
@@ -39434,6 +39449,12 @@
         {
           "lang": "ur",
           "name": "شن فین",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "wuu",
+          "name": "新芬党",
           "note": "multilingual",
           "source": "wikidata-label"
         },
