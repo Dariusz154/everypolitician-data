@@ -137,6 +137,16 @@
           "lang": "la",
           "name": "Dorothea Fiala",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "多丽丝·菲亚拉",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "朵莉絲·菲雅拉",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Fiala, Doris"
@@ -2216,10 +2226,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Galladé_Chantal.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Chantal_Galladé_(2015).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Galladé_Chantal.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Chantal_Galladé_(2015).jpg"
         }
       ],
       "links": [
@@ -8651,6 +8661,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "00000029089",
+          "scheme": "munzinger"
+        },
+        {
           "identifier": "1141",
           "scheme": "parlamentdotch"
         },
@@ -13338,13 +13352,17 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pierre-Yves_Maillard.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pierre-Yves_Maillard_(2003).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pierre-Yves_Maillard.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pierre-Yves_Maillard_(2003).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Pierre-Yves_Maillard"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Pierre-Yves_Maillard"
@@ -13839,6 +13857,16 @@
         {
           "lang": "ru",
           "name": "Урсула Маух",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "乌尔苏拉·毛赫",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "烏蘇拉·毛赫",
           "note": "multilingual"
         }
       ],
@@ -15222,6 +15250,10 @@
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Rebecca_Ruiz"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rebecca_Ruiz"
         },
         {
           "note": "Wikipedia (fr)",
@@ -17749,6 +17781,16 @@
         {
           "lang": "la",
           "name": "Iacoba Fehr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "杰奎琳·费尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "潔奎琳·費爾",
           "note": "multilingual"
         }
       ],
@@ -21035,6 +21077,16 @@
           "lang": "la",
           "name": "Philippus Leutenegger",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "菲利波·洛伊滕艾格",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "菲利波·洛伊頓艾格",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Leutenegger, Filippo"
@@ -21270,6 +21322,10 @@
         {
           "identifier": "/m/0cgkrns",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1154337782",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0000 8005 9264",
@@ -26588,10 +26644,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Doris_Leuthard_2011.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Doris_Leuthard_(Neu).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Doris_Leuthard_2011.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Doris_Leuthard_(Neu).jpg"
         }
       ],
       "links": [
@@ -28484,6 +28540,18 @@
         }
       ],
       "name": "Ruth Genner",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "鲁思·根纳",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "露絲·詹納",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Genner, Ruth"
     },
     {
@@ -30229,6 +30297,12 @@
         {
           "identifier": "Q677684",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Armand_Magnin_mit_Nicolae_Ceauşescu_(cropped)_-_Armand_Magnin.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Armand_Magnin_mit_Nicolae_Ceauşescu_(cropped)_-_Armand_Magnin.jpg"
         }
       ],
       "links": [
@@ -32034,6 +32108,10 @@
           "url": "https://no.wikipedia.org/wiki/Ueli_Maurer"
         },
         {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Ueli_Maurer"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Ueli_Maurer"
         },
@@ -32056,6 +32134,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Ueli_Maurer"
+        },
+        {
+          "note": "Wikipedia (tt)",
+          "url": "https://tt.wikipedia.org/wiki/Уэли_Маурер"
         },
         {
           "note": "Wikipedia (uk)",
@@ -44766,6 +44848,10 @@
           "url": "https://de.wikipedia.org/wiki/Fabian_Molina"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fabian_Molina"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Fabian_Molina"
         }
@@ -44880,10 +44966,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Paul_Rechsteiner_(2007).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Paul_Rechsteiner_(2015).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Paul_Rechsteiner_(2007).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Paul_Rechsteiner_(2015).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/635862964721942528/UBlxu3hn.jpg"
@@ -47737,6 +47823,10 @@
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Marcel_Dobler"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marcel_Dobler"
         }
       ],
       "name": "Marcel Dobler",
@@ -49861,6 +49951,10 @@
           "scheme": "parlamentdotch"
         },
         {
+          "identifier": "2485473",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q55855424",
           "scheme": "wikidata"
         }
@@ -50398,6 +50492,16 @@
         {
           "lang": "ru",
           "name": "Марио Фехр",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "马里欧·菲尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "馬利歐·費爾",
           "note": "multilingual"
         }
       ],
@@ -55434,6 +55538,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1172891699",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "1288",
           "scheme": "parlamentdotch"
         },
@@ -55461,6 +55569,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Viola_Amherd"
         },
         {
+          "note": "Wikipedia (als)",
+          "url": "https://als.wikipedia.org/wiki/Viola_Amherd"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Viola_Amherd"
         },
@@ -55475,6 +55587,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/Violapamherd"
+        },
+        {
+          "note": "website",
+          "url": "http://www.viola-amherd.ch/"
         }
       ],
       "name": "Viola Amherd",
@@ -55805,7 +55921,7 @@
       "links": [
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Thomas_Weibel"
+          "url": "https://de.wikipedia.org/wiki/Thomas_Weibel_(Politiker)"
         },
         {
           "note": "Wikipedia (la)",
