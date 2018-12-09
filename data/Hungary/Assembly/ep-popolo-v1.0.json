@@ -10976,6 +10976,11 @@
           "lang": "fr",
           "name": "Ildikó Borbély",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Ildikó Borbély",
+          "note": "multilingual"
         }
       ]
     },
@@ -11316,14 +11321,16 @@
       ]
     },
     {
-      "birth_date": "1967",
+      "birth_date": "1967-09-29",
       "contact_details": [
         {
           "type": "email",
           "value": "ferenc.hirt@parlament.hu"
         }
       ],
+      "death_date": "2018-12-07",
       "email": "ferenc.hirt@parlament.hu",
+      "family_name": "Hirt",
       "gender": "male",
       "given_name": "Ferenc",
       "id": "aa1c789d-1c91-4035-b670-dc38138bd7f5",
@@ -12125,6 +12132,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Gábor_Vona"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Qabor_Vona"
         },
         {
           "note": "Wikipedia (bg)",
@@ -14848,6 +14859,10 @@
         {
           "note": "Wikipedia (ast)",
           "url": "https://ast.wikipedia.org/wiki/Viktor_Orbán"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Viktor_Orban"
         },
         {
           "note": "Wikipedia (be)",
@@ -19105,7 +19120,7 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Flag_of_the_Hungarian_Socialist_Party.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MSZP_Logo.svg",
       "links": [
         {
           "note": "website",
