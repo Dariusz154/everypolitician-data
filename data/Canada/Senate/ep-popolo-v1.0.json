@@ -4324,6 +4324,13 @@
         }
       ],
       "name": "Dennis Dawson",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "دينيس داوسون",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Dawson, Dennis"
     },
     {
@@ -4525,6 +4532,13 @@
         }
       ],
       "name": "Joan Fraser",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "جوان فريزر",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Fraser, Joan"
     },
     {
@@ -5228,6 +5242,13 @@
         }
       ],
       "name": "Betty Unger",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "بيتي أنجر",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Unger, Betty"
     },
     {
@@ -7509,6 +7530,12 @@
         {
           "lang": "da",
           "name": "Canadas konservative parti",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Kanadai Konzervatív Párt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
