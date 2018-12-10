@@ -1343,7 +1343,7 @@
       },
       {
         "lang": "ru",
-        "name": "Оппозиционный блок (партия)",
+        "name": "Оппозиционный блок",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1398,6 +1398,12 @@
       {
         "lang": "it",
         "name": "Opozycijnyn Blok",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ru",
+        "name": "Оппозиционный блок (партия)",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1900,7 +1906,7 @@
       },
       {
         "lang": "hu",
-        "name": "Batykivscsina",
+        "name": "Haza Összukrán Tömörülés",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2195,6 +2201,12 @@
       {
         "lang": "he",
         "name": "האיחוד הכול-אוקראיני\"מולדת\"",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hu",
+        "name": "Batykivscsina",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
