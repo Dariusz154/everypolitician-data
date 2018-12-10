@@ -1175,6 +1175,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "lv",
+          "name": "Ivica Dačičs",
+          "note": "multilingual"
+        },
+        {
           "lang": "mk",
           "name": "Ивица Дачиќ",
           "note": "multilingual"
@@ -9497,7 +9502,7 @@
         },
         {
           "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Славица_Ђукић-Дејановић"
+          "url": "https://sr.wikipedia.org/wiki/Славица_Ђукић_Дејановић"
         },
         {
           "note": "Wikipedia (tr)",
@@ -16423,6 +16428,18 @@
           "name": "Сербская прагрэсіўная партыя",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Progresif Serbia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "SNS",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
