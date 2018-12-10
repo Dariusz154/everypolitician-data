@@ -9242,6 +9242,27 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "-"
+        },
+        {
+          "type": "phone",
+          "value": "-"
+        }
+      ],
+      "honorific_prefix": "Hon",
+      "id": "ec442140-2140-494b-ae0a-53432ffcefe4",
+      "image": "https://www.legco.gov.hk/images/mem_1620/chy.jpg",
+      "images": [
+        {
+          "url": "https://www.legco.gov.hk/images/mem_1620/chy.jpg"
+        }
+      ],
+      "name": "CHAN Hoi-yan"
+    },
+    {
       "birth_date": "1977",
       "contact_details": [
         {
@@ -15221,6 +15242,19 @@
       "sources": [
         {
           "url": "https://www.legco.gov.hk/general/english/members/yr16-20/ckk.htm"
+        }
+      ]
+    },
+    {
+      "area_id": "kowloon_west",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "independent",
+      "organization_id": "c974194b-cbc8-44ce-975b-16517fae33bf",
+      "person_id": "ec442140-2140-494b-ae0a-53432ffcefe4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.legco.gov.hk/general/english/members/yr16-20/chy.htm"
         }
       ]
     },
