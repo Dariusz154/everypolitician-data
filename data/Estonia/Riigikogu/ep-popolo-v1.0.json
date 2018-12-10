@@ -18291,12 +18291,22 @@
     },
     {
       "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
+      "end_date": "2018-11-26",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
       "role": "member",
       "start_date": "2016-11-24"
+    },
+    {
+      "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
+      "role": "member",
+      "start_date": "2018-11-27"
     },
     {
       "legislative_period_id": "term/12",
@@ -21340,6 +21350,21 @@
           "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/d29b95db-3b4d-43de-802d-652c32199211/Andres-Anvelt"
         }
       ]
+    },
+    {
+      "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
+      "end_date": "2018-11-27",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "e28a42b5-395d-4993-9025-f5b417edd583",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/d29b95db-3b4d-43de-802d-652c32199211/Andres-Anvelt"
+        }
+      ],
+      "start_date": "2018-11-26"
     },
     {
       "area_id": "23422b41-11c4-4ee0-bd65-4594b1beffd8",
