@@ -3909,7 +3909,7 @@
         },
         {
           "note": "Wikipedia (fa)",
-          "url": "https://fa.wikipedia.org/wiki/آرام_مانوکیان_(زاده_۱۹۵۷_(میلادی))"
+          "url": "https://fa.wikipedia.org/wiki/آرام_مانوکیان_(زاده_۱۹۵۷_(میلادی)"
         },
         {
           "note": "Wikipedia (hy)",
@@ -11079,6 +11079,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ko",
+          "name": "아르메니아 혁명 연맹",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Örmény Forradalmi Szövetség",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "fr",
           "name": "Dashnak",
           "note": "multilingual",
@@ -13114,7 +13126,7 @@
       "other_names": [
         {
           "lang": "de",
-          "name": "Armenische Wiedergeburt",
+          "name": "Rechtsstaatlichkeit",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -13168,7 +13180,7 @@
         },
         {
           "lang": "et",
-          "name": "Seaduse Võim",
+          "name": "Seaduslikkuse Partei",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -13185,6 +13197,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hu",
+          "name": "Jogállamiság",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "id",
+          "name": "Aturan hukum",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "ru",
           "name": "Армянское возрождение (политическая партия)",
           "note": "multilingual",
@@ -13193,6 +13217,48 @@
         {
           "lang": "ru",
           "name": "Оринац Еркир",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Country of Law",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Orinats Yerkir",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Armenian Renaissance",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Armenische Wiedergeburt",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hu",
+          "name": "Örmény reneszánsz",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "id",
+          "name": "Renaisans Armenia",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hy",
+          "name": "Հայկական վերածնունդ",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -16956,7 +17022,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Next Armenian parliamentary election",
+      "name": "2018 Armenian parliamentary election",
       "start_date": "2018-12"
     }
   ],
