@@ -958,6 +958,10 @@
           "url": "https://fr.wikipedia.org/wiki/Ali_Ahmeti"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Ali_Ahmeti"
+        },
+        {
           "note": "Wikipedia (mk)",
           "url": "https://mk.wikipedia.org/wiki/Али_Ахмети"
         },
@@ -3072,6 +3076,10 @@
         {
           "identifier": "1168156726",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "3295153895178302410001",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q22077723",
