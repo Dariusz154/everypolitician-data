@@ -599,7 +599,7 @@
       ],
       "family_name": "Dornan",
       "gender": "male",
-      "given_name": "James",
+      "given_name": "Gallagher",
       "id": "06294838-1735-4ce9-b3b4-b78c350f6620",
       "identifiers": [
         {
@@ -4794,7 +4794,7 @@
       ],
       "family_name": "Kelly",
       "gender": "male",
-      "given_name": "James",
+      "given_name": "Gallagher",
       "id": "3f4bb8f0-3f19-4048-a62d-02e28926962c",
       "identifiers": [
         {
@@ -15263,7 +15263,7 @@
     {
       "birth_date": "1942-07-31",
       "gender": "male",
-      "given_name": "James",
+      "given_name": "Gallagher",
       "id": "c9975ad1-f428-48a8-a350-d6764077b223",
       "identifiers": [
         {
@@ -18439,6 +18439,10 @@
         {
           "identifier": "Q333158",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Dewar-397",
+          "scheme": "wikitree"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Donald_Dewar.jpg",
@@ -19589,7 +19593,7 @@
     {
       "birth_date": "1949-10-19",
       "gender": "male",
-      "given_name": "James",
+      "given_name": "Gallagher",
       "id": "fddff5e4-8472-4ce0-850e-1983363356dc",
       "identifiers": [
         {
