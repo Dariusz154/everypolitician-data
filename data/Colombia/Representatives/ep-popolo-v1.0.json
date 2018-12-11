@@ -3444,6 +3444,8 @@
       "name": "FABÍAN GERARDO CASTILLO SUAREZ"
     },
     {
+      "birth_date": "1965-05-22",
+      "family_name": "Castillo",
       "gender": "female",
       "given_name": "Nancy",
       "id": "c45eb0cc-2560-4696-97d5-021d59131620",
@@ -4395,7 +4397,7 @@
     {
       "birth_date": "1952-11-24",
       "gender": "male",
-      "given_name": "Jaime",
+      "given_name": "Jaime Banus Aycinena",
       "id": "ff65498e-abdb-4134-9231-d7caac975a3a",
       "identifiers": [
         {
@@ -4484,6 +4486,12 @@
         {
           "lang": "fr",
           "name": "Alliance sociale indigène",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Movimento de Alianças Sociais Indígenas",
           "note": "multilingual",
           "source": "wikidata-label"
         }
@@ -5196,6 +5204,12 @@
           "name": "コロンビア保守党",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "da",
+          "name": "Colombias Konservartive Parti",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -5471,7 +5485,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.partidopin.org/"
+          "url": "http://www.partidoopcionciudadana.com"
         }
       ],
       "name": "Partido Opcion Ciudadana",
