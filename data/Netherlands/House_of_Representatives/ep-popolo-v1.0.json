@@ -1296,6 +1296,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Jeroen_Dijsselbloem"
         },
         {
+          "note": "Wikinews (nl)",
+          "url": "https://nl.wikinews.org/wiki/Categorie:Jeroen_Dijsselbloem"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/يرون_دايسيلبلوم"
         },
@@ -9864,10 +9868,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Edith_Schippers_2011.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Edith_Schippers_2015_(1).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Edith_Schippers_2011.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Edith_Schippers_2015_(1).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/2374763114/qlgj0a13zqdg2p7zed4n.jpeg"
@@ -9877,6 +9881,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Edith_Schippers"
+        },
+        {
+          "note": "Wikinews (nl)",
+          "url": "https://nl.wikinews.org/wiki/Categorie:Edith_Schippers"
         },
         {
           "note": "Wikipedia (de)",
@@ -17399,6 +17407,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Rob_Jetten"
         },
         {
+          "note": "Wikinews (nl)",
+          "url": "https://nl.wikinews.org/wiki/Categorie:Rob_Jetten"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Rob_Jetten"
         },
@@ -17735,6 +17747,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Lodewijk_Asscher"
+        },
+        {
+          "note": "Wikinews (nl)",
+          "url": "https://nl.wikinews.org/wiki/Categorie:Lodewijk_Asscher"
         },
         {
           "note": "Wikipedia (af)",
@@ -21713,6 +21729,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ta",
+          "name": "கிறிஸ்தவ ஜனநாயக மேல்முறையீடுக் கட்சி",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "基督教民主联盟",
           "note": "multilingual",
@@ -22734,6 +22756,12 @@
         {
           "lang": "sv",
           "name": "Denk",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "뎅크",
           "note": "multilingual",
           "source": "wikidata-label"
         }
