@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 497,
-    "wikidata": 496,
+    "wikidata": 497,
     "latest_term": {
       "count": 497,
-      "wikidata": 496,
+      "wikidata": 497,
       "images": 497,
       "contacts": {
         "email": 386,
@@ -44,7 +44,7 @@
       "file": "morph/peoplesassembly.csv",
       "type": "person",
       "scraper": "everypolitician-scrapers/south-africa-national-assembly",
-      "lastmod": "2018-11-20"
+      "lastmod": "2018-12-04"
     },
     {
       "file": "morph/wikidata.csv",

@@ -1323,7 +1323,14 @@
           "url": "https://af.wikipedia.org/wiki/Werner_Horn"
         }
       ],
-      "name": "Werner Horn"
+      "name": "Werner Horn",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "فيرنر هورن",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -5127,6 +5134,11 @@
           "lang": "ja",
           "name": "ミッシュ・マイマネ",
           "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ммьюзи Мейман",
+          "note": "multilingual"
         }
       ]
     },
@@ -7336,6 +7348,11 @@
         {
           "lang": "ru",
           "name": "Линдайв Сисулу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Lindiwe Sisuslu",
           "note": "multilingual"
         }
       ]
@@ -13101,6 +13118,9 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/67/07/6707b604b13a194adf020cdb2568db8e.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Nkosinathi_Mthethwa_(43752407695).jpg"
         }
       ],
       "links": [
@@ -15179,7 +15199,7 @@
           "scheme": "peoples_assembly"
         },
         {
-          "identifier": "Q55350250",
+          "identifier": "Q51674050",
           "scheme": "wikidata"
         }
       ],
@@ -23276,17 +23296,53 @@
       "name": "Nomvuzo Francisca Shabalala"
     },
     {
+      "birth_date": "1959-03-16",
+      "gender": "male",
+      "given_name": "Tito",
       "id": "f2a2c83f-2bf6-4636-9589-05ff54c54a45",
       "identifiers": [
         {
           "identifier": "4178",
           "scheme": "peoples_assembly"
+        },
+        {
+          "identifier": "Q7810182",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.pa.org.za/media_root/cache/f1/95/f1953afe7c972f09647dbef30fed91a3.jpg",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/f1/95/f1953afe7c972f09647dbef30fed91a3.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Tito_Mboweni_-_New_Champions_-_World_Economic_Forum_on_Africa_2011.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Tito_Mboweni"
+        },
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Tito_Mboweni"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tito_Mboweni"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Tito_Mboweni"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Tito_Mboweni"
+        },
+        {
+          "note": "Wikipedia (zu)",
+          "url": "https://zu.wikipedia.org/wiki/Tito_Mboweni"
         }
       ],
       "name": "Tito Mboweni"
@@ -23860,6 +23916,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Michael_Masutha"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Michael_Masutha"
         }
       ],
       "name": "Michael Masutha"
