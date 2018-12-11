@@ -10822,12 +10822,6 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "it",
-        "name": "La France Insoumise",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
         "lang": "de",
         "name": "La France insoumise",
         "note": "multilingual",
@@ -10906,6 +10900,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eo",
+        "name": "La Nesubmetata Francio",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "br",
+        "name": "La France insoumise",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "fr",
         "name": "FI",
         "note": "multilingual",
@@ -10932,6 +10938,12 @@
       {
         "lang": "ja",
         "name": "不服従のフランス",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "La France Insoumise",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
