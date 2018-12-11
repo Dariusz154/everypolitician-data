@@ -2697,6 +2697,10 @@
         {
           "note": "Wikiquote (uk)",
           "url": "https://uk.wikiquote.org/wiki/Семенченко_Семен_Ігорович"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/dostali.hvatit"
         }
       ],
       "name": "Семенченко Семен Ігорович",
@@ -5688,8 +5692,16 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Павлов,_Константин_Юрьевич"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Павлов_Костянтин_Юрійович"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Konstantin.Pavlov.main"
         }
       ],
       "name": "Павлов Костянтин Юрійович",
@@ -6260,12 +6272,20 @@
       ],
       "links": [
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Ирина_Фриз"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Iryna_Fris"
         },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Iryna_Friz"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Iryna_Friz"
         },
         {
           "note": "Wikipedia (ru)",
@@ -12474,6 +12494,10 @@
           "url": "https://sk.wikipedia.org/wiki/Julija_Volodymyrivna_Tymošenková"
         },
         {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Julia_Timoshenko"
+        },
+        {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Јулија_Тимошенко"
         },
@@ -14697,6 +14721,11 @@
       "name": "Мусій Олег Степанович",
       "other_names": [
         {
+          "lang": "azb",
+          "name": "اوله موسیی",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Oleh Musiy",
           "note": "multilingual"
@@ -14948,6 +14977,11 @@
       ],
       "name": "Льовочкіна Юлія Володимирівна",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Julija Wolodymyriwna Ljowotschkina",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Yuliya Liovochkina",
@@ -18366,6 +18400,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Liliya_Hrynevych"
         },
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Лилия_Гриневич"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/ليليا_هرينيفيش"
         },
@@ -20090,9 +20128,6 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/ob11.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Новинский_Вадим_Владиславович.jpg"
         }
       ],
       "links": [
@@ -21354,6 +21389,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Alyona_Babak"
+        },
+        {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Алёна_Бабак"
         },
         {
           "note": "Wikipedia (en)",
@@ -24425,6 +24464,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Iryna_Herashchenko"
+        },
+        {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Ирина_Геращенко_(1971)"
         },
         {
           "note": "Wikipedia (de)",
@@ -29387,6 +29430,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Olena_Kondratyuk"
         },
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Елена_Кондратюк"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Кондратюк,_Елена_Константиновна"
         },
@@ -29968,6 +30015,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Светлана_Войцеховская"
+        },
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Войцеховська_Світлана_Михайлівна"
@@ -31379,6 +31430,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Mariya_Ionova"
+        },
+        {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Мария_Ионова"
         },
         {
           "note": "Wikipedia (de)",
@@ -35078,7 +35133,7 @@
         },
         {
           "lang": "ru",
-          "name": "Оппозиционный блок (партия)",
+          "name": "Оппозиционный блок",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -35133,6 +35188,12 @@
         {
           "lang": "it",
           "name": "Opozycijnyn Blok",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ru",
+          "name": "Оппозиционный блок (партия)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -35412,7 +35473,7 @@
         },
         {
           "lang": "hu",
-          "name": "Batykivscsina",
+          "name": "Haza Összukrán Tömörülés",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -35707,6 +35768,12 @@
         {
           "lang": "he",
           "name": "האיחוד הכול-אוקראיני\"מולדת\"",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hu",
+          "name": "Batykivscsina",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
