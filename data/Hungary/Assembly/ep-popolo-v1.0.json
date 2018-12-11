@@ -6131,7 +6131,6 @@
         }
       ],
       "email": "ungar.peter@parlament.hu",
-      "family_name": "Ungar",
       "gender": "male",
       "given_name": "Péter",
       "id": "58a6d465-26cf-4ba2-a1ab-ca61759acfd3",
@@ -10976,6 +10975,11 @@
           "lang": "fr",
           "name": "Ildikó Borbély",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Ildikó Borbély",
+          "note": "multilingual"
         }
       ]
     },
@@ -11316,14 +11320,16 @@
       ]
     },
     {
-      "birth_date": "1967",
+      "birth_date": "1967-09-29",
       "contact_details": [
         {
           "type": "email",
           "value": "ferenc.hirt@parlament.hu"
         }
       ],
+      "death_date": "2018-12-07",
       "email": "ferenc.hirt@parlament.hu",
+      "family_name": "Hirt",
       "gender": "male",
       "given_name": "Ferenc",
       "id": "aa1c789d-1c91-4035-b670-dc38138bd7f5",
@@ -12127,6 +12133,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Gábor_Vona"
         },
         {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Qabor_Vona"
+        },
+        {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Габор_Вона"
         },
@@ -12710,6 +12720,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jenő_Manninger"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Manninger_Jenő_(politikus)"
         },
         {
           "note": "Wikipedia (pl)",
@@ -14848,6 +14862,10 @@
         {
           "note": "Wikipedia (ast)",
           "url": "https://ast.wikipedia.org/wiki/Viktor_Orbán"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Viktor_Orban"
         },
         {
           "note": "Wikipedia (be)",
@@ -19105,7 +19123,7 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Flag_of_the_Hungarian_Socialist_Party.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MSZP_Logo.svg",
       "links": [
         {
           "note": "website",
