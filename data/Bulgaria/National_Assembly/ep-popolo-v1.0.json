@@ -3410,6 +3410,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "69495",
+          "scheme": "fast"
+        },
+        {
           "identifier": "0000 0000 3011 0084",
           "scheme": "isni"
         },
@@ -29266,6 +29270,10 @@
           "url": "https://pt.wikipedia.org/wiki/Ahmed_Dogan"
         },
         {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ahmed_Doğan"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Доган,_Ахмед"
         },
@@ -29923,6 +29931,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Wolen_Siderow"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Volen_Siderov"
         },
         {
           "note": "Wikipedia (ru)",
@@ -35886,6 +35898,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Kornelija_Ninowa"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Kornelia_Ninova"
         }
       ],
       "name": "КОРНЕЛИЯ ПЕТРОВА НИНОВА",
@@ -50499,6 +50515,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -51613,6 +51635,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -52504,6 +52532,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -53737,6 +53771,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
