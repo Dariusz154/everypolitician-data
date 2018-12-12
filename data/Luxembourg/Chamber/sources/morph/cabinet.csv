@@ -1,14 +1,102 @@
-id,position,label,description,start_date
-Q1384206,Q30185,mayor,head of municipal government such as a town or city,""
-Q1384206,Q708492,councillor,representative of voters to a local government,""
-Q204094,Q30185,mayor,head of municipal government such as a town or city,""
-Q451696,Q27169,member of the European Parliament,person who has been elected to the European Parliament,""
-Q451696,Q30185,mayor,head of municipal government such as a town or city,""
-Q451696,Q708492,councillor,representative of voters to a local government,""
-Q470807,Q30185,mayor,head of municipal government such as a town or city,""
-Q4724923,Q30185,mayor,head of municipal government such as a town or city,""
-Q4724923,Q708492,councillor,representative of voters to a local government,""
-Q534798,Q30185,mayor,head of municipal government such as a town or city,""
-Q6755376,Q708492,councillor,representative of voters to a local government,""
-Q6755887,Q708492,councillor,representative of voters to a local government,""
-Q728060,Q708492,councillor,representative of voters to a local government,""
+id,position,label,description,start_date,end_date,constituency,replaces,election,term,of,replaced_by
+Q13101525,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2009-07-08,2013-10-06,,,,,,
+Q13101525,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-11-13,2013-12-03,,,,,,
+Q13101525,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2014-04-01,,,,,,,
+Q13101525,Q29639349,,"",2011-11,2013-12,,,,,Erpeldange,
+Q13101525,Q30101438,Secretary of State,"",2013-12-04,2014-03-28,,,,,"Minister for Education, Children and Youth",
+Q13101525,Q8077915,Échevin,"a municipal office in Luxembourg, equivalent to the Dutch schepen, the Belgian échevin or schepen, the German Schöffe, the Italian scabino, and the Czech šepmistr.",2007-10-31,2011-11,,,,,Erpeldange,
+Q13102284,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2015-04-29,"",Centre,Justin Turpel,,,,""
+Q13102779,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2012-02-01,2013-10-06,,,,,,
+Q13102779,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-11-13,,Sud,,,,,
+Q13102779,Q29639349,,"",2005-11-11,"",Sanem,Fred Sunnen,,,,""
+Q13102905,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-04,2015-12-17,Est,Maggy Nagel,,,,Claude Lamberty
+Q13102905,Q29639349,,"",2003,2015,,Carlo Meintz,,,Walferdange,Joëlle Elvinger
+Q13102905,Q736559,secretary of state,senior civil servant in the government of a state,2015-12-17,,,Maggy Nagel,,,Ministère de la Culture,
+Q13103716,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2014-11-04,"",,,,,,
+Q13103716,Q29639349,,"",2011-11-14,"",Bettembourg,"","Luxembourgish communal election, 2011",,,""
+Q13104062,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2004-08-03,2009-06-07,,,"Luxembourgian legislative election, 2004",,,
+Q13104062,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2009-07-08,2013-10-06,,,"Luxembourgian legislative election, 2009",,,
+Q13104062,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2014-10-14,"",Centre,Luc Frieden,,,,
+Q13104099,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,2018-10-30,Sud,Claude Meisch,,,,
+Q13104099,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2018-10-30,,Sud,,"Luxembourg general election, 2018",,,
+Q13104862,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2004-08-03,2009-06-07,,,"Luxembourgian legislative election, 2004",,,
+Q13104862,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2009-07-28,2013-10-06,,,"Luxembourgian legislative election, 2009",,,
+Q13104862,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,2018-04-17,,,"Luxembourg general election, 2013",,,Simone Asselborn-Bintz
+Q13680517,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-11-13,,Nord,,,,,
+Q13680517,Q30461,president,"leader of a country or part of a country, usually in republics",2014-03-30,,,Alex Bodry,,,Luxembourg Socialist Workers' Party,
+Q1384206,Q29639349,,"",2010,2012,,,,,Bascharage,
+Q1384206,Q29639349,,"",2012,,,,,,Käerjeng,
+Q1384206,Q30461,president,"leader of a country or part of a country, usually in republics",2009,2014,,François Biltgen,,,Christian Social People's Party,Marc Spautz
+Q16438796,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2004-07-13,2009-06-07,,,,,,
+Q16438796,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2009-07-08,2013-10-06,Centre,,,,,
+Q16438796,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,2018-04-16,Centre,,,,,Sam Tanson
+Q16438796,Q8077915,Échevin,"a municipal office in Luxembourg, equivalent to the Dutch schepen, the Belgian échevin or schepen, the German Schöffe, the Italian scabino, and the Czech šepmistr.",1999-01-01,2004-12-31,Mersch,,,,,
+Q16438812,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2005-10-11,2009-06-07,,,,,,
+Q16438812,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2009-07-28,2013-10-06,,,,,,
+Q16438812,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-11-13,,,,,,,
+Q16438835,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,"",,,"Luxembourg general election, 2013",,,
+Q16438835,Q29639349,,"",2009-07-31,"",Wiltz,Romain Schneider,,,,""
+Q16438871,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,"",,,"Luxembourg general election, 2013",,,
+Q16438964,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,"",,,"Luxembourg general election, 2013",,,
+Q16438991,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,"",,,"Luxembourg general election, 2013",,,
+Q16439045,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2004-08-03,2009-06-07,,,"Luxembourgian legislative election, 2004",,,
+Q16439045,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2009-07-08,2013-10-06,,,"Luxembourgian legislative election, 2009",,,
+Q16439045,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,"",,,"Luxembourg general election, 2013",,,
+Q16439121,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2009-07-08,2013-10-06,,,,,,
+Q16439121,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-11-13,,,,,,,
+Q16439127,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,"",,,"Luxembourg general election, 2013",,,
+Q16439127,Q29639349,,"",2016-01,,Walferdange,Guy Arendt,,,,
+Q16439127,Q8077915,Échevin,"a municipal office in Luxembourg, equivalent to the Dutch schepen, the Belgian échevin or schepen, the German Schöffe, the Italian scabino, and the Czech šepmistr.",2011,2016-01,Walferdange,,,,,
+Q16439392,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,"",Centre,,"Luxembourg general election, 2013",,,
+Q16439392,Q29639349,,"",2011,2018,,Tilly Metz,"Luxembourgish communal election, 2011",,Weiler-la-Tour,""
+Q16439645,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2016-01-19,"",Est,Guy Arendt,,,,
+Q16439645,Q6501749,general secretary,leader or chief officer of an organisation,2017-11-15,,,,,,Democratic Party,
+Q16439821,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,"",,,"Luxembourg general election, 2013",,,
+Q16439821,Q29639349,,"",2011-11-21,"",Troisvierges,,"Luxembourgish communal election, 2011",,,
+Q1920283,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,1996-01-23,1999-06-08,,,,,,
+Q1920283,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2003-06-03,2004-06-05,,,,,,
+Q1920283,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2004-08-03,2009-06-07,,,,,,
+Q1920283,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2009-07-08,2013-10-06,,,,,,
+Q1920283,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-11-13,,,,,,,
+Q204094,Q29639349,,"",1994-01-01,2004,Dudelange,,,,,
+Q204094,Q51625452,President of the Chamber of Deputies,"",2013-12-05,2018-10-30,,Laurent Mosar,,,,Gaston Gibéryen
+Q2978289,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,1999-07-13,2004-06-05,,,"Luxembourgian legislative election, 1999",,,
+Q2978289,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2004-07-13,2004-07-30,,,"Luxembourgian legislative election, 2004",,,
+Q2978289,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-12-05,"",Centre,,"Luxembourg general election, 2013",,,
+Q337129,Q83307,minister,politician who holds significant public office in a national or regional government,"",,,,,,,
+Q3866853,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-11-13,2018-06-30,Centre,,,,,Claudine Konsbruck
+Q451696,Q27169,member of the European Parliament,person who has been elected to the European Parliament,1984,1994,,,,,,
+Q451696,Q27169,member of the European Parliament,person who has been elected to the European Parliament,1985-10-09,1989-07-24,Luxembourg,,,Second European Parliament,,
+Q451696,Q27169,member of the European Parliament,person who has been elected to the European Parliament,1990-06-12,1994-07-18,Luxembourg,,,Third European Parliament,,
+Q451696,Q27169,member of the European Parliament,person who has been elected to the European Parliament,1994-07-19,1994-10-16,Luxembourg,,"European Parliament election, 1994",Fourth European Parliament,,
+Q451696,Q27169,member of the European Parliament,person who has been elected to the European Parliament,2004-07-20,2009-07-13,Luxembourg,,European Parliament election in 2004,Sixth European Parliament,,
+Q451696,Q30185,mayor,head of municipal government such as a town or city,1982,1999,,,,,,
+Q451696,Q30185,mayor,head of municipal government such as a town or city,2013-12-17,,,,,,,
+Q451696,Q708492,councillor,representative of voters to a local government,"",,,,,,,
+Q451696,Q7330070,foreign minister,cabinet minister in charge of a nation's foreign affairs,"",,,,,,,
+Q470807,Q30185,mayor,head of municipal government such as a town or city,"",,,,,,,
+Q4724923,Q30185,mayor,head of municipal government such as a town or city,"",,,,,,,
+Q4724923,Q708492,councillor,representative of voters to a local government,"",,,,,,,
+Q47456186,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2018-02-06,"",,Anne Brasseur,,,,
+Q47456186,Q29639349,,"",2009-02-05,"",Bertrange,Paul Geimer,,,,
+Q534798,Q30185,mayor,head of municipal government such as a town or city,"",,,,,,,
+Q539770,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,1979-07-24,1984-06-05,,,,,,
+Q539770,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,1984-07-16,1989-06-12,,,,,,
+Q539770,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,1989-07-18,1994-06-05,,,,,,
+Q539770,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,1994-07-18,1999-06-08,,,,,,
+Q539770,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2004-08-03,2009-06-07,,,,,,
+Q539770,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2009-07-08,2013-10-06,,,,,,
+Q539770,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-11-13,2018-02-06,Centre,,,,,Frank Colabianchi
+Q539770,Q21401179,municipal councillor,"",1976-01-01,1981-12-31,,,,,,
+Q539770,Q43373411,,"",1999-08-07,2004-07-30,,,,,,
+Q539770,Q8077915,Échevin,"a municipal office in Luxembourg, equivalent to the Dutch schepen, the Belgian échevin or schepen, the German Schöffe, the Italian scabino, and the Czech šepmistr.",1982-01-01,1999-08-06,Luxembourg,,,,,
+Q539770,Q8077915,Échevin,"a municipal office in Luxembourg, equivalent to the Dutch schepen, the Belgian échevin or schepen, the German Schöffe, the Italian scabino, and the Czech šepmistr.",2005-11-10,2009-10-15,Luxembourg,,,,,
+Q5408535,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,1994-07-18,1999-08-06,,,,,,
+Q5408535,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2007-12-20,2009-07-06,,,,,,
+Q5408535,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2009-08-07,2013-06-10,,,,,,
+Q5408535,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,2013-11-13,,,,,,,
+Q639734,Q21328592,deputy,member of the Chamber of Deputies of the Luxembourg,"",,,,,,,
+Q6755887,Q40880757,,"",2013-04-30,2013-12-04,,Marie-Josée Jacobs,,,,Corinne Cahen
+Q6755887,Q708492,councillor,representative of voters to a local government,"",,,,,,,
+Q7076803,Q83307,minister,politician who holds significant public office in a national or regional government,"",,,,,,,
+Q728060,Q708492,councillor,representative of voters to a local government,"",,,,,,,
