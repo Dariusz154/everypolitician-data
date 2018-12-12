@@ -104,7 +104,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fuerza_2011_Fujimorismo.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Fuerza_popular.svg"
   },
   "nacionalista_gana_perÚ": {
     "identifiers": [
@@ -1087,6 +1087,12 @@
       {
         "lang": "vec",
         "name": "Poidego independente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bn",
+        "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
