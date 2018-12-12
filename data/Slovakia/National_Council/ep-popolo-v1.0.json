@@ -7890,6 +7890,11 @@
           "lang": "en",
           "name": "László Nagy",
           "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nagy László",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Nagy, László A."
@@ -11754,6 +11759,11 @@
       "name": "Vincent Lukáč",
       "national_identity": "slovenská",
       "other_names": [
+        {
+          "lang": "ru",
+          "name": "Лукач, Винцент",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Вінцент Лукач",
@@ -31716,6 +31726,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -34801,6 +34817,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
