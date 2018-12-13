@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 700,
-    "wikidata": 554,
+    "wikidata": 394,
     "latest_term": {
       "count": 452,
-      "wikidata": 377,
+      "wikidata": 270,
       "images": 452,
       "contacts": {
         "email": 0,
-        "facebook": 28,
-        "twitter": 33
+        "facebook": 18,
+        "twitter": 24
       }
     }
   },
@@ -31,7 +31,7 @@
     "latest": "2016-09-18"
   },
   "positions": {
-    "cabinet": 5
+    "cabinet": 2
   },
   "sources": [
     {
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/russian-duma-wikidata",
-      "lastmod": "2018-11-26"
+      "lastmod": "2018-11-27"
     },
     {
       "file": "morph/terms.csv",
