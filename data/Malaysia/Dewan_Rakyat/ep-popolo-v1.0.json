@@ -6504,7 +6504,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/罗纳"
+          "url": "https://zh.wikipedia.org/wiki/罗纳·建迪"
         },
         {
           "note": "wikipedia",
@@ -36948,6 +36948,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
