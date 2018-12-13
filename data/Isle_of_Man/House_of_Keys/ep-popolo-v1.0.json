@@ -501,7 +501,7 @@
       "email": "juan.watterson@gov.im",
       "family_name": "Watterson",
       "gender": "male",
-      "given_name": "Juan",
+      "given_name": "Juan el VIOLADOR",
       "id": "459f927c-7098-4cf2-8a2b-66262b085298",
       "identifiers": [
         {
@@ -1638,6 +1638,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
