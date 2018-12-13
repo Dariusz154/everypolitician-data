@@ -208,6 +208,11 @@
       "name": "Tom Benson",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "توم بينسون",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Том Бенсон",
           "note": "multilingual"
@@ -6330,7 +6335,14 @@
           "url": "https://en.wikipedia.org/wiki/Alastair_Patterson"
         }
       ],
-      "name": "Alastair Patterson"
+      "name": "Alastair Patterson",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "ألاستير باترسون",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-08-29",
@@ -12533,6 +12545,11 @@
       "name": "George Dawson",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "جورج داوسون",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Джордж Доусон",
           "note": "multilingual"
@@ -18066,6 +18083,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -18926,6 +18949,12 @@
         {
           "lang": "ur",
           "name": "شن فین",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "wuu",
+          "name": "新芬党",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -19844,7 +19873,7 @@
         },
         {
           "lang": "et",
-          "name": "Suurbritannia Iseseisvuspartei",
+          "name": "Ühendkuningriigi Iseseisvuspartei",
           "note": "multilingual",
           "source": "wikidata-label"
         },
