@@ -475,6 +475,10 @@
           "url": "https://be.wikipedia.org/wiki/Лівіу_Драгня"
         },
         {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Ливиу_Драгня"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Liviu_Dragnea"
         },
@@ -8837,6 +8841,11 @@
           "lang": "nl",
           "name": "Stan Viorel",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Stan Viorel",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Stan Viorel"
@@ -12403,7 +12412,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2016/Plesoianu_Liviu.JPG"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Liviu_Ioan_Adrian_Pleșoianu.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Liviu_Pleșoianu.jpg"
         }
       ],
       "links": [
@@ -27023,6 +27032,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
