@@ -362,6 +362,11 @@
           "lang": "ru",
           "name": "Крис Эванс",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "克里斯多福·沃恩·埃文斯",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Evans, Chris"
@@ -2079,6 +2084,10 @@
           "url": "https://en.wikipedia.org/wiki/Michaelia_Cash"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Michaelia_Cash"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Michaelia_Cash"
         },
@@ -3148,6 +3157,10 @@
           "url": "https://en.wikipedia.org/wiki/Marise_Payne"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Marise_Payne"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Marise_Payne"
         },
@@ -3797,6 +3810,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Bronwyn_Bishop"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Bronwyn_Bishop"
         },
         {
           "note": "Wikipedia (zh)",
@@ -9563,6 +9580,11 @@
       ],
       "name": "Peter Cook",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "بيتر كوك",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "Питер Кук",
@@ -17072,7 +17094,7 @@
         },
         {
           "lang": "hu",
-          "name": "Ausztrál Munkáspárt",
+          "name": "Ausztrál Munkapárt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -18134,6 +18156,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -19178,6 +19206,12 @@
         {
           "lang": "wuu",
           "name": "澳大利亚自由党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Ausztrál Liberális Párt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
