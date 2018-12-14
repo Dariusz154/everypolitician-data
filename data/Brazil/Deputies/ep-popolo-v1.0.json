@@ -1580,6 +1580,12 @@
     },
     {
       "birth_date": "1960-04-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "blogdogarotinho"
+        }
+      ],
       "gender": "male",
       "given_name": "Anthony",
       "id": "0b55500a-1e70-48c1-9a9c-282164630fd7",
@@ -1642,6 +1648,10 @@
         {
           "note": "Wikiquote (pt)",
           "url": "https://pt.wikiquote.org/wiki/Anthony_Garotinho"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/blogdogarotinho"
         }
       ],
       "name": "ANTHONY GAROTINHO"
@@ -2472,16 +2482,7 @@
       "name": "FABIO REIS",
       "other_names": [
         {
-          "name": "Fábio Reis",
-          "note": "alternate"
-        },
-        {
-          "lang": "nl",
-          "name": "Fábio Reis",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
+          "lang": "en",
           "name": "Fábio Reis",
           "note": "multilingual"
         }
@@ -2559,6 +2560,16 @@
         },
         {
           "lang": "pt",
+          "name": "Ildon Marques de Souza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Ildon Marques de Souza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Ildon Marques de Souza",
           "note": "multilingual"
         }
@@ -2987,6 +2998,11 @@
         },
         {
           "lang": "pt",
+          "name": "Rogério Carvalho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
           "name": "Rogério Carvalho",
           "note": "multilingual"
         },
@@ -3679,7 +3695,7 @@
       "links": [
         {
           "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Maria_do_Rosário_Nunes"
+          "url": "https://commons.wikimedia.org/wiki/Category:Maria_do_Rosário"
         },
         {
           "note": "Wikipedia (ast)",
@@ -4291,16 +4307,7 @@
       "name": "JOÃO DANIEL",
       "other_names": [
         {
-          "name": "João Daniel",
-          "note": "alternate"
-        },
-        {
-          "lang": "nl",
-          "name": "João Daniel",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
+          "lang": "en",
           "name": "João Daniel",
           "note": "multilingual"
         }
@@ -4792,7 +4799,7 @@
     },
     {
       "birth_date": "1936-10-29",
-      "gender": "male",
+      "gender": "female",
       "id": "207f3489-5edd-4ff7-8f90-aeeb964eb334",
       "identifiers": [
         {
@@ -6108,16 +6115,7 @@
       "name": "SEBASTIÃO OLIVEIRA",
       "other_names": [
         {
-          "name": "Sebastião Oliveira",
-          "note": "alternate"
-        },
-        {
-          "lang": "nl",
-          "name": "Sebastião Oliveira",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
+          "lang": "en",
           "name": "Sebastião Oliveira",
           "note": "multilingual"
         }
@@ -13029,16 +13027,7 @@
       "name": "ELIZEU DIONIZIO",
       "other_names": [
         {
-          "name": "Elizeu Dionízio",
-          "note": "alternate"
-        },
-        {
-          "lang": "nl",
-          "name": "Elizeu Dionízio",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
+          "lang": "en",
           "name": "Elizeu Dionízio",
           "note": "multilingual"
         }
@@ -14221,6 +14210,16 @@
         },
         {
           "lang": "pt",
+          "name": "João Henrique Caldas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "João Henrique Caldas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "João Henrique Caldas",
           "note": "multilingual"
         }
@@ -15914,6 +15913,16 @@
           "lang": "pt",
           "name": "Shéridan Esterfany Oliveira de Anchieta",
           "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Shéridan Esterfany Oliveira de Anchieta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Shéridan Esterfany Oliveira de Anchieta",
+          "note": "multilingual"
         }
       ]
     },
@@ -16489,6 +16498,11 @@
         },
         {
           "lang": "pt",
+          "name": "Paulo Fernando Torres Feijó",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
           "name": "Paulo Fernando Torres Feijó",
           "note": "multilingual"
         }
@@ -18407,6 +18421,11 @@
         },
         {
           "lang": "pt",
+          "name": "Marcus Vinícius Caetano Pestana da Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
           "name": "Marcus Vinícius Caetano Pestana da Silva",
           "note": "multilingual"
         },
@@ -21211,6 +21230,14 @@
       "id": "926a2225-51ae-484b-b7db-2f581fadbf27",
       "identifiers": [
         {
+          "identifier": "f21d4493-e3bd-47df-b23c-1d57f0e3e818",
+          "scheme": "bbc_things"
+        },
+        {
+          "identifier": "biography/Jair-Bolsonaro",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "5830721",
           "scheme": "everypolitician_legacy"
         },
@@ -21221,6 +21248,10 @@
         {
           "identifier": "1168630924",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "world/jair-bolsonaro",
+          "scheme": "guardian_topic"
         },
         {
           "identifier": "n2018251489",
@@ -21292,6 +21323,10 @@
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Jair_Bolsonaru"
+        },
+        {
+          "note": "Wikipedia (ba)",
+          "url": "https://ba.wikipedia.org/wiki/Жаир_Болсонару"
         },
         {
           "note": "Wikipedia (bcl)",
@@ -21707,6 +21742,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ba",
+          "name": "Жаир Болсонару",
+          "note": "multilingual"
+        },
+        {
           "lang": "be",
           "name": "Жаір Балсанару",
           "note": "multilingual"
@@ -21758,7 +21798,7 @@
         },
         {
           "lang": "ko",
-          "name": "자일 볼소나로",
+          "name": "자이르 보우소나루",
           "note": "multilingual"
         },
         {
@@ -21909,6 +21949,11 @@
         },
         {
           "lang": "pt",
+          "name": "José Mendonça Bezerra Filho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
           "name": "José Mendonça Bezerra Filho",
           "note": "multilingual"
         },
@@ -22790,6 +22835,12 @@
     },
     {
       "birth_date": "1949-09-25",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ronaldocaiado"
+        }
+      ],
       "gender": "male",
       "given_name": "Ronaldo",
       "id": "985ff6ea-537c-431f-89b7-77a675ffae7b",
@@ -22824,6 +22875,18 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/ronaldocaiado25"
+        },
+        {
+          "note": "instagram",
+          "url": "ronaldocaiado"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ronaldocaiado"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ronaldocaiado.com.br/"
         }
       ],
       "name": "RONALDO CAIADO"
@@ -23043,6 +23106,10 @@
         {
           "type": "phone",
           "value": "(61) 3215-5803 - 3215-2803"
+        },
+        {
+          "type": "twitter",
+          "value": "CaboDaciolo"
         }
       ],
       "email": "dep.cabodaciolo@camara.leg.br",
@@ -23077,12 +23144,28 @@
           "url": "https://en.wikipedia.org/wiki/Cabo_Daciolo"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Cabo_Daciolo"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Cabo_Daciolo"
         },
         {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Cabo_Daciolo"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/depudadocabodaciolo"
+        },
+        {
+          "note": "instagram",
+          "url": "cabodaciolo"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CaboDaciolo"
         },
         {
           "note": "website",
@@ -25390,6 +25473,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pt-br",
+          "name": "Cícero Almeida",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Cícero Almeida",
           "note": "multilingual"
@@ -25439,7 +25527,7 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178939.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Visitas.Visitantes_(16894960340)_cropped.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Deputada_Clarissa_Garotinho.jpg"
         }
       ],
       "links": [
@@ -32282,11 +32370,7 @@
       "name": "JOSUÉ BENGTSON",
       "other_names": [
         {
-          "name": "Josué Bengtson",
-          "note": "alternate"
-        },
-        {
-          "lang": "pt",
+          "lang": "en",
           "name": "Josué Bengtson",
           "note": "multilingual"
         }
@@ -32375,6 +32459,16 @@
         },
         {
           "lang": "pt",
+          "name": "Luiz Caetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Luiz Caetano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Luiz Caetano",
           "note": "multilingual"
         }
@@ -33374,7 +33468,7 @@
         },
         {
           "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Esperidião_Amin_Helou_Filho"
+          "url": "https://es.wikipedia.org/wiki/Esperidião_Amin"
         },
         {
           "note": "Wikipedia (fr)",
@@ -33983,6 +34077,10 @@
         {
           "type": "phone",
           "value": "(61) 3215-5330 - 3215-2330"
+        },
+        {
+          "type": "twitter",
+          "value": "dasilvabenedita"
         }
       ],
       "email": "dep.beneditadasilva@camara.leg.br",
@@ -34046,12 +34144,28 @@
           "url": "https://en.wikipedia.org/wiki/Benedita_da_Silva"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Benedita_da_Silva"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Benedita_da_Silva"
         },
         {
           "note": "Wikiquote (pt)",
           "url": "https://pt.wikiquote.org/wiki/Benedita_da_Silva"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/blogdabenedita"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/dasilvabenedita"
+        },
+        {
+          "note": "website",
+          "url": "http://www.beneditadasilva.com.br/"
         }
       ],
       "name": "BENEDITA DA SILVA"
@@ -34144,6 +34258,11 @@
         },
         {
           "lang": "pt",
+          "name": "Brunny Gomes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
           "name": "Brunny Gomes",
           "note": "multilingual"
         }
@@ -34252,6 +34371,11 @@
         },
         {
           "lang": "pt",
+          "name": "Newton Cardoso Júnior",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
           "name": "Newton Cardoso Júnior",
           "note": "multilingual"
         }
@@ -34985,6 +35109,11 @@
           "lang": "pt",
           "name": "Maria Gorete Pereira",
           "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Maria Gorete Pereira",
+          "note": "multilingual"
         }
       ]
     },
@@ -35712,16 +35841,7 @@
       "name": "SÁGUAS MORAES",
       "other_names": [
         {
-          "name": "Ságuas Moraes",
-          "note": "alternate"
-        },
-        {
-          "lang": "nl",
-          "name": "Ságuas Moraes",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
+          "lang": "en",
           "name": "Ságuas Moraes",
           "note": "multilingual"
         }
@@ -37459,16 +37579,7 @@
       "name": "IRAJÁ ABREU",
       "other_names": [
         {
-          "name": "Irajá Abreu",
-          "note": "alternate"
-        },
-        {
-          "lang": "nl",
-          "name": "Irajá Abreu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
+          "lang": "en",
           "name": "Irajá Abreu",
           "note": "multilingual"
         }
@@ -38032,6 +38143,16 @@
           "lang": "pt",
           "name": "Carlos Eduardo Xavier Marun",
           "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Carlos Eduardo Xavier Marun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Carlos Eduardo Xavier Marun",
+          "note": "multilingual"
         }
       ]
     },
@@ -38503,7 +38624,7 @@
         },
         {
           "lang": "es",
-          "name": "Demócratas (Brasil)",
+          "name": "Demócratas",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -39504,6 +39625,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "es",
+          "name": "Partido de la Mujer Brasileña",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "pt",
           "name": "PMB",
           "note": "multilingual",
@@ -39511,6 +39638,12 @@
         },
         {
           "lang": "pt-br",
+          "name": "PMB",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
           "name": "PMB",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -40688,6 +40821,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "es",
+          "name": "Partido Republicano de Orden Social",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "pt",
           "name": "PROS",
           "note": "multilingual",
@@ -40860,6 +40999,12 @@
         {
           "lang": "ja",
           "name": "ブラジル人労働党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "da",
+          "name": "Brasiliens Fornyede Arbejderparti",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -41515,6 +41660,12 @@
         {
           "lang": "ast",
           "name": "Partíu de la Social Democracia Brasileña",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "da",
+          "name": "Brasilianske Socialdemokratiske Parti",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -43995,6 +44146,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -44502,6 +44659,12 @@
         {
           "lang": "de",
           "name": "Solidariedade",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Solidaridad",
           "note": "multilingual",
           "source": "wikidata-label"
         },
