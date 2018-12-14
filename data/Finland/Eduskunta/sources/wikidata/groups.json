@@ -787,6 +787,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "hu",
+        "name": "Finn Centrumpárt",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "nan",
         "name": "Suomi Tiong-iong-tóng",
         "note": "multilingual",
@@ -1786,6 +1792,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "hu",
+        "name": "Finnek Pártja",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "pl",
         "name": "Prawdziwi Finowie",
         "note": "multilingual",
@@ -2709,12 +2721,6 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "fi",
-        "name": "Suomen Kristillisdemokraatit (KD)",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
         "lang": "uk",
         "name": "Християнські демократи",
         "note": "multilingual",
@@ -2885,6 +2891,12 @@
       {
         "lang": "fi",
         "name": "Kristillisdemokraatit (Suomi)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "fi",
+        "name": "KD",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -3812,6 +3824,12 @@
       {
         "lang": "vec",
         "name": "Poidego independente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bn",
+        "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
