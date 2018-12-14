@@ -22418,34 +22418,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "bdambuza@parliament.gov.za"
-        }
-      ],
-      "email": "bdambuza@parliament.gov.za",
-      "honorific_prefix": "Mrs",
-      "id": "eed94d60-741e-4d58-ad8e-569d61b68a21",
-      "identifiers": [
-        {
-          "identifier": "587",
-          "scheme": "peoples_assembly"
-        },
-        {
-          "identifier": "Q47529972",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.pa.org.za/media_root/cache/cf/3d/cf3d559b20ce8582fa3442886cfd82b9.jpg",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/cf/3d/cf3d559b20ce8582fa3442886cfd82b9.jpg"
-        }
-      ],
-      "name": "Beauty Nomhle Dambuza"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "amadella@parliament.gov.za"
         }
       ],
@@ -23874,6 +23846,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "f671613a-84ae-4339-8e58-173654ec1e2f",
+      "name": "Beauty Nomhle Dambuza"
     },
     {
       "birth_date": "1965",
@@ -26415,6 +26391,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -27436,6 +27413,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q654444",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28115,6 +28093,7 @@
       "start_date": "2017-02-23"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28420,6 +28399,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28661,6 +28641,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28712,6 +28693,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29566,6 +29548,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29979,15 +29962,6 @@
       "role": "member"
     },
     {
-      "area_id": "Q130840",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "eed94d60-741e-4d58-ad8e-569d61b68a21",
-      "role": "member",
-      "start_date": "2016-10-14"
-    },
-    {
       "area_id": "Q127167",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -30166,6 +30140,15 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "f59f63c0-c5be-421d-9c4c-63c323715e7a",
       "role": "member"
+    },
+    {
+      "area_id": "Q130840",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "f671613a-84ae-4339-8e58-173654ec1e2f",
+      "role": "member",
+      "start_date": "2016-10-14"
     },
     {
       "legislative_period_id": "term/26",
@@ -30682,6 +30665,11 @@
     {
       "id": "Q165956",
       "name": "North West",
+      "type": "constituency"
+    },
+    {
+      "id": "Q59654381",
+      "name": "National List members",
       "type": "constituency"
     },
     {
