@@ -414,7 +414,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null,
         "P580": "2013-03-05",
         "P582": "2018-03-22"
@@ -1028,7 +1028,14 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P2937": "17th Legislature of Italy",
+        "P4100": "Forza Italia",
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
     },
     {
       "id": "Q18558478",
@@ -1036,9 +1043,27 @@
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
-        "P2937": "17th Legislature of Italy",
-        "P4100": "Forza Italia",
-        "P768": null
+        "P580": "2006-04-21",
+        "P582": "2008-04-28"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-22",
+        "P582": "2013-03-14"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-13"
       }
     }
   ],
@@ -1837,7 +1862,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null
       }
     }
@@ -1866,7 +1891,11 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2001-05-21",
+        "P582": "2006-04-27"
+      }
     },
     {
       "id": "Q18558478",
@@ -1876,7 +1905,38 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Forza Italia",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2006-04-21",
+        "P582": "2008-04-28"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-22",
+        "P582": "2013-03-14"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-14"
       }
     }
   ],
@@ -2037,8 +2097,8 @@
       "qualifiers": {
         "P2937": "15th Legislature of Italy",
         "P768": null,
-        "P580": "2006-04-28",
-        "P582": "2018-03-22"
+        "P580": "2006-04-21",
+        "P582": "2008-04-28"
       }
     },
     {
@@ -2046,9 +2106,29 @@
       "label": "member of the Italian Senate",
       "title": "member of the Italian Senate",
       "qualifiers": {
-        "P580": "2018-03-23",
+        "P580": "2018-03-16",
         "P2937": "18th Legislature of Italy",
         "P768": null
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-23",
+        "P582": "2013-03-14"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2013-03-07",
+        "P582": "2018-03-22"
       }
     }
   ],
@@ -2419,7 +2499,11 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-23",
+        "P582": "2013-03-14"
+      }
     },
     {
       "id": "Q18558478",
@@ -2430,13 +2514,18 @@
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
         "P768": "Europe",
-        "P2715": "Italian general election, 2013"
+        "P2715": "Italian general election, 2013",
+        "P580": "2013-03-07",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     }
   ],
   "Q3608386": [
@@ -2488,17 +2577,13 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Popular Area",
-        "P768": "Lombardie 1"
+        "P768": "Lombardie 1",
+        "P580": "2013-03-06",
+        "P582": "2018-03-22"
       }
     },
     {
@@ -2525,6 +2610,45 @@
         "P1365": "Maurizio Lupi",
         "P1366": "Matteo Renzi",
         "P5054": "Renzi Cabinet"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2001-05-21",
+        "P582": "2006-04-27"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2006-04-21",
+        "P582": "2008-04-28"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-22",
+        "P582": "2013-03-14"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-13"
       }
     }
   ],
@@ -3510,24 +3634,23 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Mixed Group",
         "P768": null,
-        "P2715": "Italian general election, 2013"
+        "P2715": "Italian general election, 2013",
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     }
   ],
   "Q16268328": [
@@ -4209,7 +4332,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null
       }
     }
@@ -4219,23 +4342,22 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     }
   ],
   "Q16526911": [
@@ -4343,7 +4465,14 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P2937": "17th Legislature of Italy",
+        "P4100": "Lega Nord",
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
     },
     {
       "id": "Q18558478",
@@ -4351,9 +4480,7 @@
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
-        "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
-        "P768": null
+        "P580": "2018-03-13"
       }
     }
   ],
@@ -4378,16 +4505,15 @@
   ],
   "Q5853391": [
     {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
       "id": "Q30185",
       "label": "mayor",
-      "title": "mayor",
-      "description": "head of municipal government such as a town or city"
+      "title": "mayor (of Graun im Vinschgau)",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P580": "2000",
+        "P582": "2010",
+        "P642": "Graun im Vinschgau"
+      }
     },
     {
       "id": "Q18558478",
@@ -4397,7 +4523,18 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Mixed Group",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-09"
       }
     }
   ],
@@ -4684,7 +4821,9 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Popular Area",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
@@ -4724,6 +4863,25 @@
         "P1365": "Beatrice Lorenzin",
         "P1366": "Giulia Grillo",
         "P5054": "Gentiloni Cabinet"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-22",
+        "P582": "2013-03-14"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-19"
       }
     }
   ],
@@ -4990,7 +5148,14 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P2937": "17th Legislature of Italy",
+        "P4100": "Democratic Party",
+        "P768": "Piémont 1",
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
     },
     {
       "id": "Q18558478",
@@ -4998,9 +5163,7 @@
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
-        "P2937": "17th Legislature of Italy",
-        "P4100": "Democratic Party",
-        "P768": "Piémont 1"
+        "P580": "2018-03-19"
       }
     }
   ],
@@ -5231,7 +5394,11 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2006-04-21",
+        "P582": "2008-04-28"
+      }
     },
     {
       "id": "Q3721646",
@@ -5253,7 +5420,28 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Forza Italia",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-22",
+        "P582": "2013-03-14"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-13"
       }
     }
   ],
@@ -5317,7 +5505,9 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Forza Italia",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
@@ -5326,6 +5516,25 @@
         "P580": "2008-05-08",
         "P582": "2011-11-16",
         "P5054": "Berlusconi IV Cabinet"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-22",
+        "P582": "2013-03-14"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-13"
       }
     }
   ],
@@ -5491,7 +5700,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null
       }
     }
@@ -5622,7 +5831,14 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P2937": "17th Legislature of Italy",
+        "P4100": "Forza Italia",
+        "P768": "Lombardie 1",
+        "P580": "2013-03-06",
+        "P582": "2018-03-22"
+      }
     },
     {
       "id": "Q18558478",
@@ -5630,9 +5846,7 @@
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
-        "P2937": "17th Legislature of Italy",
-        "P4100": "Forza Italia",
-        "P768": "Lombardie 1"
+        "P580": "2018-03-13"
       }
     }
   ],
@@ -6034,7 +6248,7 @@
         "P580": "2018-03-19",
         "P768": null,
         "P2937": "18th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier"
+        "P4100": "Lega Nord"
       }
     },
     {
@@ -6044,7 +6258,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null,
         "P580": "2013-03-05",
         "P582": "2018-03-22"
@@ -6057,7 +6271,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "16th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P580": "2008-04-22",
         "P582": "2013-03-14",
         "P768": "Lombardie 1"
@@ -6197,7 +6411,7 @@
         "P768": "North-West Italy",
         "P2937": "Seventh European Parliament",
         "P4100": "Europe of Freedom and Democracy",
-        "P1268": "Lega per Salvini Premier",
+        "P1268": "Lega Nord",
         "P2715": "European Parliament election, 2009"
       }
     },
@@ -6210,7 +6424,7 @@
         "P580": "2004-07-20",
         "P582": "2006-04-26",
         "P2937": "Sixth European Parliament",
-        "P1268": "Lega per Salvini Premier",
+        "P1268": "Lega Nord",
         "P4100": "Independence/Democracy",
         "P2715": "European Parliament election in 2004",
         "P768": "North-West Italy"
@@ -6230,9 +6444,9 @@
     {
       "id": "Q3954360",
       "label": "federal secretary",
-      "title": "federal secretary (of Lega per Salvini Premier)",
+      "title": "federal secretary (of Lega Nord)",
       "qualifiers": {
-        "P642": "Lega per Salvini Premier",
+        "P642": "Lega Nord",
         "P580": "2013-12-15",
         "P1365": "Roberto Maroni",
         "P582": "2017-05-21"
@@ -6317,7 +6531,7 @@
         "P2937": "Eighth European Parliament",
         "P4100": "Europe of Nations and Freedom",
         "P768": "North-West Italy",
-        "P1268": "Lega per Salvini Premier",
+        "P1268": "Lega Nord",
         "P1366": "Giancarlo Scottà"
       }
     },
@@ -6377,7 +6591,7 @@
         "P582": "2015-06-14",
         "P2937": "Eighth European Parliament",
         "P4100": "Non-Inscrits",
-        "P1268": "Lega per Salvini Premier",
+        "P1268": "Lega Nord",
         "P768": "North-West Italy",
         "P2715": "European Parliament election, 2014"
       }
@@ -6416,7 +6630,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": "Lombardie 1"
       }
     }
@@ -6728,7 +6942,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": "Piemonte 2"
       }
     }
@@ -7108,7 +7322,14 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P2937": "17th Legislature of Italy",
+        "P4100": "Mixed Group",
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
     },
     {
       "id": "Q18558478",
@@ -7116,9 +7337,7 @@
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
-        "P2937": "17th Legislature of Italy",
-        "P4100": "Mixed Group",
-        "P768": null
+        "P580": "2018-03-09"
       }
     }
   ],
@@ -7335,23 +7554,22 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     }
   ],
   "Q17329035": [
@@ -7498,23 +7716,22 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-23"
+      }
     }
   ],
   "Q15888328": [
@@ -8325,7 +8542,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null
       }
     }
@@ -8421,7 +8638,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null
       }
     }
@@ -8553,7 +8770,9 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P768": "Piemonte 2",
-        "P2937": "15th Legislature of Italy"
+        "P2937": "15th Legislature of Italy",
+        "P580": "2006-04-21",
+        "P582": "2008-04-28"
       }
     },
     {
@@ -8586,7 +8805,9 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Mixed Group",
-        "P768": "Piemonte 2"
+        "P768": "Piemonte 2",
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
@@ -8596,7 +8817,9 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "16th Legislature of Italy",
-        "P768": "Piemonte 2"
+        "P768": "Piemonte 2",
+        "P580": "2008-04-22",
+        "P582": "2013-03-14"
       }
     },
     {
@@ -8616,6 +8839,15 @@
         "P582": "2016-12-12",
         "P5054": "Renzi Cabinet",
         "P1365": "Maria Carmela Lanzetta"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-09"
       }
     }
   ],
@@ -9716,7 +9948,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null
       }
     }
@@ -9929,7 +10161,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": "Lombardie 1"
       }
     }
@@ -10333,7 +10565,9 @@
       "qualifiers": {
         "P580": "2013",
         "P2937": "17th Legislature of Italy",
-        "P768": "Lombardie 1"
+        "P768": "Lombardie 1",
+        "P4100": "Democratic Party",
+        "P582": "2018-03-22"
       }
     },
     {
@@ -10342,8 +10576,7 @@
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
-        "P2937": "17th Legislature of Italy",
-        "P4100": "Democratic Party"
+        "P580": "2018-03-13"
       }
     }
   ],
@@ -10456,7 +10689,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null
       }
     }
@@ -10860,7 +11093,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": "Europe"
       }
     }
@@ -11340,13 +11573,28 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Forza Italia",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-29",
+        "P582": "2013-03-14"
+      }
     }
   ],
   "Q16586786": [
@@ -11379,7 +11627,7 @@
         "P582": "2015-06-14",
         "P2937": "Eighth European Parliament",
         "P4100": "Non-Inscrits",
-        "P1268": "Lega per Salvini Premier",
+        "P1268": "Lega Nord",
         "P2715": "European Parliament election, 2014",
         "P768": "North-West Italy"
       }
@@ -11417,7 +11665,7 @@
         "P582": "2016-06-05",
         "P2937": "Eighth European Parliament",
         "P4100": "Europe of Nations and Freedom",
-        "P1268": "Lega per Salvini Premier",
+        "P1268": "Lega Nord",
         "P768": "North-West Italy"
       }
     }
@@ -12187,7 +12435,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null
       }
     }
@@ -12226,7 +12474,14 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P2937": "17th Legislature of Italy",
+        "P4100": "Democratic Party",
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
     },
     {
       "id": "Q18558478",
@@ -12234,9 +12489,7 @@
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
-        "P2937": "17th Legislature of Italy",
-        "P4100": "Democratic Party",
-        "P768": null
+        "P580": "2018-03-19"
       }
     }
   ],
@@ -12374,7 +12627,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null
       }
     }
@@ -12400,18 +12653,6 @@
   ],
   "Q2573947": [
     {
-      "id": "Q3708847",
-      "label": "Department of Public Administration and Innovation",
-      "title": "Department of Public Administration and Innovation",
-      "description": "Italian government department",
-      "qualifiers": {
-        "P580": "2008-05-08",
-        "P582": "2011-11-16",
-        "P1365": "Luigi Nicolais",
-        "P1366": "Filippo Patroni Griffi"
-      }
-    },
-    {
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
@@ -12419,7 +12660,9 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Forza Italia",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
@@ -12427,7 +12670,9 @@
       "qualifiers": {
         "P580": "2008-05-08",
         "P582": "2011-11-16",
-        "P5054": "Berlusconi IV Cabinet"
+        "P5054": "Berlusconi IV Cabinet",
+        "P1365": "Luigi Nicolais",
+        "P1366": "Filippo Patroni Griffi"
       }
     },
     {
@@ -12458,6 +12703,25 @@
         "P1268": "Forza Italia",
         "P768": "Italy",
         "P2715": "European Parliament election in 1999"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-23",
+        "P582": "2013-03-14"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-11"
       }
     }
   ],
@@ -12655,13 +12919,22 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "1996-05-06",
+        "P582": "2000-05-31"
+      }
     },
     {
       "id": "Q30185",
       "label": "mayor",
-      "title": "mayor",
-      "description": "head of municipal government such as a town or city"
+      "title": "mayor (of Sant'Antimo)",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P580": "2004",
+        "P582": "2006",
+        "P642": "Sant'Antimo"
+      }
     },
     {
       "id": "Q18558478",
@@ -12671,13 +12944,18 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Forza Italia",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
       }
     },
     {
       "id": "Q13653224",
       "label": "member of the Italian Senate",
-      "title": "member of the Italian Senate"
+      "title": "member of the Italian Senate",
+      "qualifiers": {
+        "P580": "2018-03-16"
+      }
     },
     {
       "id": "Q27169",
@@ -12692,6 +12970,36 @@
         "P1268": "Forza Italia",
         "P768": "Italy",
         "P2715": "European Parliament election in 1999"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2001-05-22",
+        "P582": "2006-04-27"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2006-04-21",
+        "P582": "2008-04-28"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-22",
+        "P582": "2013-03-14"
       }
     }
   ],
@@ -12935,7 +13243,7 @@
         "P580": "2018-03-13",
         "P768": null,
         "P2937": "18th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier"
+        "P4100": "Lega Nord"
       }
     },
     {
@@ -12945,7 +13253,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null,
         "P580": "2013-03-05",
         "P582": "2018-03-22"
@@ -12961,7 +13269,7 @@
         "P580": "2008-04-22",
         "P582": "2013-03-14",
         "P768": null,
-        "P4100": "Lega per Salvini Premier"
+        "P4100": "Lega Nord"
       }
     }
   ],
@@ -13588,7 +13896,14 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P2937": "17th Legislature of Italy",
+        "P4100": "Democratic Party",
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
     },
     {
       "id": "Q18558478",
@@ -13596,9 +13911,7 @@
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
-        "P2937": "17th Legislature of Italy",
-        "P4100": "Democratic Party",
-        "P768": null
+        "P580": "2018-03-19"
       }
     }
   ],
@@ -13701,7 +14014,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null
       }
     }
@@ -14136,10 +14449,10 @@
     {
       "id": "Q1553195",
       "label": "party leader",
-      "title": "party leader (of Lega per Salvini Premier)",
+      "title": "party leader (of Lega Nord)",
       "description": "leading official of a political party",
       "qualifiers": {
-        "P642": "Lega per Salvini Premier"
+        "P642": "Lega Nord"
       }
     },
     {
@@ -14178,7 +14491,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": null,
         "P580": "2013-03-05",
         "P582": "2018-03-22"
@@ -14194,7 +14507,7 @@
         "P580": "2004-07-20",
         "P582": "2008-04-28",
         "P4100": "Union for Europe of the Nations",
-        "P1268": "Lega per Salvini Premier",
+        "P1268": "Lega Nord",
         "P768": "North-East Italy",
         "P2715": "European Parliament election in 2004"
       }
@@ -14209,7 +14522,7 @@
         "P580": "1999-07-20",
         "P582": "2001-06-10",
         "P4100": "Union for Europe of the Nations",
-        "P1268": "Lega per Salvini Premier",
+        "P1268": "Lega Nord",
         "P768": "North-East Italy",
         "P2715": "European Parliament election in 1999"
       }
@@ -14224,7 +14537,7 @@
         "P580": "1994-07-19",
         "P582": "1997-02-18",
         "P4100": "European Liberal Democrat and Reform Party Group",
-        "P1268": "Lega per Salvini Premier",
+        "P1268": "Lega Nord",
         "P768": "North-East Italy",
         "P2715": "European Parliament election, 1994"
       }
@@ -14239,7 +14552,7 @@
         "P582": "1999-07-19",
         "P2937": "Fourth European Parliament",
         "P4100": "Non-Inscrits",
-        "P1268": "Lega per Salvini Premier",
+        "P1268": "Lega Nord",
         "P768": "North-East Italy"
       }
     },
@@ -14307,7 +14620,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
-        "P4100": "Lega per Salvini Premier",
+        "P4100": "Lega Nord",
         "P768": "Piémont 1"
       }
     }
@@ -14559,7 +14872,11 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "1992-04-16",
+        "P582": "1994-04-14"
+      }
     },
     {
       "id": "Q18558478",
@@ -14569,7 +14886,48 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Per l'Italia",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2001-05-22",
+        "P582": "2006-04-27"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2006-04-28",
+        "P582": "2008-04-28"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-22",
+        "P582": "2013-03-14"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-13"
       }
     }
   ],
