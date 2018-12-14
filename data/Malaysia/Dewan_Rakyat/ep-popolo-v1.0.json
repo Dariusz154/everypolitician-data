@@ -6504,7 +6504,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/罗纳"
+          "url": "https://zh.wikipedia.org/wiki/罗纳·建迪"
         },
         {
           "note": "wikipedia",
@@ -23410,6 +23410,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "מוחין יאסין",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "ムヒディン・ヤシン",
           "note": "multilingual"
@@ -35266,7 +35271,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/阿都拉欣巴克里"
+          "url": "https://zh.wikipedia.org/wiki/阿都拉欣·巴克里"
         },
         {
           "note": "wikipedia",
@@ -36948,6 +36953,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
