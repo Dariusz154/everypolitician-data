@@ -2097,7 +2097,9 @@
           "value": "Elazar_stern"
         }
       ],
+      "family_name": "Stern",
       "gender": "male",
+      "given_name": "Eleazar",
       "id": "062d8045-904a-4f96-9044-c64dbe35d48a",
       "identifiers": [
         {
@@ -6162,6 +6164,10 @@
         {
           "identifier": "1171908903",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "315201276",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q504126",
@@ -14020,6 +14026,11 @@
           "lang": "ru",
           "name": "Каплан, Элиэзер",
           "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Еліезер Каплан",
+          "note": "multilingual"
         }
       ]
     },
@@ -14597,6 +14608,10 @@
         {
           "identifier": "00000025870",
           "scheme": "munzinger"
+        },
+        {
+          "identifier": "jo2010568124",
+          "scheme": "nkc"
         },
         {
           "identifier": "000196274",
@@ -20815,7 +20830,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.dichter.co.il/"
+          "url": "https://avidichter.co.il/"
         }
       ],
       "name": "Avi Dichter",
@@ -22445,6 +22460,11 @@
         {
           "lang": "he",
           "name": "ציפי לבני",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Cipi Livni",
           "note": "multilingual"
         },
         {
@@ -28191,6 +28211,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1173193065",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "Q3663047",
           "scheme": "wikidata"
         }
@@ -29577,6 +29601,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "138772",
+          "scheme": "gtaa"
+        },
+        {
           "identifier": "0000 0003 6223 741X",
           "scheme": "isni"
         },
@@ -30107,6 +30135,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/קולט_אביטל"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Կոլետ_Ավիտալ"
         },
         {
           "note": "Wikipedia (pl)",
@@ -40089,10 +40121,15 @@
     },
     {
       "birth_date": "1930-01-18",
+      "death_date": "2018-12-07",
       "gender": "male",
       "given_name": "Samuel",
       "id": "5cde5faf-b7f5-479d-b28d-95c3e3e587b8",
       "identifiers": [
+        {
+          "identifier": "12079115c",
+          "scheme": "bnf"
+        },
         {
           "identifier": "564",
           "scheme": "everypolitician_legacy"
@@ -40100,6 +40137,22 @@
         {
           "identifier": "/m/09rty1g",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "140460195",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "000183692",
+          "scheme": "nli"
+        },
+        {
+          "identifier": "027916286",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "59107853",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q2889629",
@@ -40135,6 +40188,14 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/שמואל_פלאטו-שרון"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Shmuel_Flatto-Sharon"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Shmuel_Flatto-Sharon"
         },
         {
           "note": "Wikiquote (he)",
@@ -45694,7 +45755,9 @@
     },
     {
       "birth_date": "1972-10-03",
+      "family_name": "Cohen",
       "gender": "male",
+      "given_name": "Eli",
       "id": "6cef7d4e-6b2e-4ee2-8872-441694ca4b4a",
       "identifiers": [
         {
@@ -49390,7 +49453,7 @@
       ]
     },
     {
-      "birth_date": "1916",
+      "birth_date": "1916-06-24",
       "death_date": "1987-08-25",
       "gender": "male",
       "given_name": "Avraham",
@@ -58154,6 +58217,10 @@
           "url": "https://hu.wikipedia.org/wiki/Júvál_Neemán"
         },
         {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Յուվալ_Նեեման"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Yuval_Ne'eman"
         },
@@ -58233,6 +58300,11 @@
         {
           "lang": "hu",
           "name": "Júvál Neemán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Յուվալ Նեեման",
           "note": "multilingual"
         },
         {
@@ -61936,6 +62008,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/תמר_אשל"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Թամար_Էշել"
         },
         {
           "note": "Wikipedia (pl)",
@@ -69954,6 +70030,11 @@
         {
           "lang": "mr",
           "name": "शिमॉन पेरेझ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mzn",
+          "name": "شیمون پرز",
           "note": "multilingual"
         },
         {
@@ -79462,6 +79543,10 @@
           "scheme": "conor"
         },
         {
+          "identifier": "115677",
+          "scheme": "cths"
+        },
+        {
           "identifier": "184",
           "scheme": "everypolitician_legacy"
         },
@@ -79504,6 +79589,10 @@
         {
           "identifier": "yigael-yadin",
           "scheme": "ne_se"
+        },
+        {
+          "identifier": "skuk0006032",
+          "scheme": "nkc"
         },
         {
           "identifier": "1047067",
@@ -81250,6 +81339,11 @@
         {
           "lang": "he",
           "name": "יצחק טבנקין",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Իցխակ Տաբենկին",
           "note": "multilingual"
         },
         {
@@ -90228,6 +90322,12 @@
     },
     {
       "birth_date": "1956-07-22",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AzmiBishara"
+        }
+      ],
       "gender": "male",
       "id": "df92227c-98d2-47dd-af68-6641d03e060d",
       "identifiers": [
@@ -90385,6 +90485,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/阿兹米·比沙拉"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AzmiBishara"
         }
       ],
       "name": "Azmi Bishara",
@@ -93213,6 +93317,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "pna2010614288",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "000017854",
           "scheme": "nli"
         },
@@ -93889,6 +93997,10 @@
         {
           "identifier": "00442461",
           "scheme": "ndl"
+        },
+        {
+          "identifier": "jn20020320009",
+          "scheme": "nkc"
         },
         {
           "identifier": "000060064",
@@ -95146,6 +95258,14 @@
         {
           "identifier": "/m/027n2bl",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1172879524",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "3761154441736735460007",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q705562",
@@ -98913,6 +99033,10 @@
           "url": "https://sv.wikinews.org/wiki/Kategori:Ehud_Olmert"
         },
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Ehud_Olmert"
+        },
+        {
           "note": "Wikipedia (als)",
           "url": "https://als.wikipedia.org/wiki/Ehud_Olmert"
         },
@@ -99167,6 +99291,10 @@
         {
           "note": "Wikipedia (yi)",
           "url": "https://yi.wikipedia.org/wiki/אהוד_אלמערט"
+        },
+        {
+          "note": "Wikipedia (zea)",
+          "url": "https://zea.wikipedia.org/wiki/Ehud_Olmert"
         },
         {
           "note": "Wikipedia (zh)",
@@ -101480,6 +101608,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "mzn",
+          "name": "مناکحم بگین",
+          "note": "multilingual"
+        },
+        {
           "lang": "pa",
           "name": "ਮਾਨਾਕੇਮ ਬੇਗਿਨ",
           "note": "multilingual"
@@ -101825,6 +101958,10 @@
         {
           "identifier": "no98078401",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "jo2002100970",
+          "scheme": "nkc"
         },
         {
           "identifier": "000266236",
@@ -111353,6 +111490,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hy",
+          "name": "Կանանց միջազգային սիոնիստական կազմակերպություն",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "WIZO",
           "note": "multilingual",
@@ -111367,6 +111510,12 @@
         {
           "lang": "eo",
           "name": "VICO",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hy",
+          "name": "ԿՄՍԿ",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -111899,6 +112048,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hu",
+          "name": "Jiszráél Béténu",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "cs",
           "name": "Jisra'el bejtejnu",
           "note": "multilingual",
@@ -111925,6 +112080,12 @@
         {
           "lang": "eo",
           "name": "Jisrael Bejtenu",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hu",
+          "name": "Izrael az Otthonunk",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
