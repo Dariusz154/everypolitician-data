@@ -4035,6 +4035,11 @@
       "name": "Annabel Goldie",
       "other_names": [
         {
+          "lang": "ja",
+          "name": "アナベル・ゴールディー",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "安娜貝爾·戈爾迪",
           "note": "multilingual"
@@ -7736,7 +7741,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/John_Wilson_(Scottish_politician)"
+          "url": "https://en.wikipedia.org/wiki/John_Wilson_(Scottish_Green_Party_politician)"
         }
       ],
       "name": "John Wilson",
@@ -18439,6 +18444,10 @@
         {
           "identifier": "Q333158",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Dewar-397",
+          "scheme": "wikitree"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Donald_Dewar.jpg",
@@ -20634,6 +20643,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -29566,11 +29581,6 @@
       ],
       "name": "North Tayside",
       "other_names": [
-        {
-          "lang": "de",
-          "name": "North Tayside (Wahlkreis, Schottland)",
-          "note": "multilingual"
-        },
         {
           "lang": "gd",
           "name": "Taobh Tatha a Tuath",
