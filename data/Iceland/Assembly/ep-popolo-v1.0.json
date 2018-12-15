@@ -184,6 +184,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/لوفيك_غيرسون"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Lúðvík_Geirsson"
         },
@@ -263,6 +267,11 @@
         {
           "lang": "la",
           "name": "Guðlaugur Thorus Thori filius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Гудлаугур Тор Тордарсон",
           "note": "multilingual"
         },
         {
@@ -3869,6 +3878,11 @@
           "lang": "nl",
           "name": "Sigríður Ásthildur Andersen",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Sigríður Ásthildur Andersen",
+          "note": "multilingual"
         }
       ]
     },
@@ -5474,6 +5488,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Katrín_Júlíusdóttir"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/كاترين_جوليوسدوتير"
         },
         {
           "note": "Wikipedia (da)",
@@ -8939,6 +8957,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Steingrímur_J._Sigfússon"
         },
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Steingrímur_J._Sigfússon"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Steingrímur_J._Sigfússon"
         },
@@ -11664,6 +11686,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bergþór_Ólason"
+        }
+      ],
       "name": "Bergþór Ólason"
     },
     {
@@ -13972,6 +14000,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
