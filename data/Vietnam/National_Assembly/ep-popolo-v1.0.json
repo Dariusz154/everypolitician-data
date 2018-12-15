@@ -3722,7 +3722,14 @@
           "url": "https://vi.wikipedia.org/wiki/Hoàng_Bình_Quân"
         }
       ],
-      "name": "Hoàng Bình Quân"
+      "name": "Hoàng Bình Quân",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "ホアン・ビン・クアン",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-08-26",
@@ -9253,6 +9260,10 @@
           "url": "https://et.wikipedia.org/wiki/Nguyễn_Xuân_Phúc"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Nguyễn_Xuân_Phúc"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Nguyễn_Xuân_Phúc"
         },
@@ -12194,7 +12205,14 @@
           "url": "https://vi.wikiquote.org/wiki/Hoàng_Hữu_Phước"
         }
       ],
-      "name": "Hoàng Hữu Phước"
+      "name": "Hoàng Hữu Phước",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "ホアン・フュ・フォック",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-01-29",
