@@ -5896,6 +5896,10 @@
       ]
     },
     {
+      "id": "34396bd6-a5d8-4374-9056-4ab531c0e3bc",
+      "name": "Beauty Nomhle Dambuza"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -22418,34 +22422,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "bdambuza@parliament.gov.za"
-        }
-      ],
-      "email": "bdambuza@parliament.gov.za",
-      "honorific_prefix": "Mrs",
-      "id": "eed94d60-741e-4d58-ad8e-569d61b68a21",
-      "identifiers": [
-        {
-          "identifier": "587",
-          "scheme": "peoples_assembly"
-        },
-        {
-          "identifier": "Q47529972",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.pa.org.za/media_root/cache/cf/3d/cf3d559b20ce8582fa3442886cfd82b9.jpg",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/cf/3d/cf3d559b20ce8582fa3442886cfd82b9.jpg"
-        }
-      ],
-      "name": "Beauty Nomhle Dambuza"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "amadella@parliament.gov.za"
         }
       ],
@@ -26415,6 +26391,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -27219,6 +27196,15 @@
       "role": "member"
     },
     {
+      "area_id": "Q130840",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "34396bd6-a5d8-4374-9056-4ab531c0e3bc",
+      "role": "member",
+      "start_date": "2016-10-14"
+    },
+    {
       "area_id": "Q165956",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -27436,6 +27422,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q654444",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28115,6 +28102,7 @@
       "start_date": "2017-02-23"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28420,6 +28408,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28661,6 +28650,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28712,6 +28702,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29566,6 +29557,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29977,15 +29969,6 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "ee9d76bd-e481-41a8-b243-666d238f2ef8",
       "role": "member"
-    },
-    {
-      "area_id": "Q130840",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "eed94d60-741e-4d58-ad8e-569d61b68a21",
-      "role": "member",
-      "start_date": "2016-10-14"
     },
     {
       "area_id": "Q127167",
@@ -30682,6 +30665,11 @@
     {
       "id": "Q165956",
       "name": "North West",
+      "type": "constituency"
+    },
+    {
+      "id": "Q59654381",
+      "name": "National List members",
       "type": "constituency"
     },
     {
