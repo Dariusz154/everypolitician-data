@@ -2602,6 +2602,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Peter_O'Neill"
+        },
+        {
           "note": "Wikinews (sr)",
           "url": "https://sr.wikinews.org/wiki/Категорија:Питер_О'Нил"
         },
@@ -4679,6 +4683,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
