@@ -1668,6 +1668,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sl",
+          "name": "Hendrik Schmidt",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Hendrik Schmidt",
           "note": "multilingual"
@@ -5944,6 +5949,11 @@
           "lang": "nl",
           "name": "Hellen Kekana",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Hellen Kekana",
+          "note": "multilingual"
         }
       ]
     },
@@ -6823,6 +6833,24 @@
         }
       ],
       "name": "Fatima Chohan"
+    },
+    {
+      "gender": "female",
+      "id": "3d03112f-6881-4c33-b8bd-fe483d227d53",
+      "identifiers": [
+        {
+          "identifier": "Q16744388",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Beauty Nomhle Dambuza",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Beauty Dambuza",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -7901,6 +7929,11 @@
         },
         {
           "lang": "nn",
+          "name": "Natasha Michael",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Natasha Michael",
           "note": "multilingual"
         },
@@ -10128,6 +10161,10 @@
         {
           "note": "Wikipedia (af)",
           "url": "https://af.wikipedia.org/wiki/Bheki_Cele"
+        },
+        {
+          "note": "Wikipedia (azb)",
+          "url": "https://azb.wikipedia.org/wiki/بکی_کلی"
         },
         {
           "note": "Wikipedia (de)",
@@ -14374,6 +14411,11 @@
           "lang": "nl",
           "name": "Xitlhangoma Mabaso",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Xitlhangoma Mabaso",
+          "note": "multilingual"
         }
       ]
     },
@@ -15434,6 +15476,11 @@
       "other_names": [
         {
           "lang": "nl",
+          "name": "Kopeng Obed Bapela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Kopeng Obed Bapela",
           "note": "multilingual"
         }
@@ -22418,34 +22465,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "bdambuza@parliament.gov.za"
-        }
-      ],
-      "email": "bdambuza@parliament.gov.za",
-      "honorific_prefix": "Mrs",
-      "id": "eed94d60-741e-4d58-ad8e-569d61b68a21",
-      "identifiers": [
-        {
-          "identifier": "587",
-          "scheme": "peoples_assembly"
-        },
-        {
-          "identifier": "Q47529972",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.pa.org.za/media_root/cache/cf/3d/cf3d559b20ce8582fa3442886cfd82b9.jpg",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/cf/3d/cf3d559b20ce8582fa3442886cfd82b9.jpg"
-        }
-      ],
-      "name": "Beauty Nomhle Dambuza"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "amadella@parliament.gov.za"
         }
       ],
@@ -23209,6 +23228,11 @@
         {
           "lang": "ru",
           "name": "Винни Мандела",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Winnie Mandela",
           "note": "multilingual"
         },
         {
@@ -26415,6 +26439,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -27376,6 +27401,15 @@
       "role": "member"
     },
     {
+      "area_id": "Q130840",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "3d03112f-6881-4c33-b8bd-fe483d227d53",
+      "role": "member",
+      "start_date": "2016-10-14"
+    },
+    {
       "area_id": "Q134907",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -27436,6 +27470,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q654444",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28115,6 +28150,7 @@
       "start_date": "2017-02-23"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28420,6 +28456,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28661,6 +28698,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28712,6 +28750,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29566,6 +29605,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29977,15 +30017,6 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "ee9d76bd-e481-41a8-b243-666d238f2ef8",
       "role": "member"
-    },
-    {
-      "area_id": "Q130840",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "eed94d60-741e-4d58-ad8e-569d61b68a21",
-      "role": "member",
-      "start_date": "2016-10-14"
     },
     {
       "area_id": "Q127167",
@@ -30682,6 +30713,11 @@
     {
       "id": "Q165956",
       "name": "North West",
+      "type": "constituency"
+    },
+    {
+      "id": "Q59654381",
+      "name": "National List members",
       "type": "constituency"
     },
     {
