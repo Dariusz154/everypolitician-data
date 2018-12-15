@@ -679,7 +679,7 @@
           "url": "https://www.parliament.nz/media/4471/oconnor-greg.DqNr-Q.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Greg_O'Connor.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Greg_O'Connor_(crop).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/827656964964429825/gxiCGkIx.jpg"
@@ -7595,6 +7595,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Michael_Wood"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Michael_Wood_(New_Zealand_politician)"
         },
@@ -10789,7 +10793,7 @@
       "sort_name": "Swarbrick, Chlöe"
     },
     {
-      "birth_date": "1971",
+      "birth_date": "1971-05-19",
       "contact_details": [
         {
           "type": "email",
@@ -14547,6 +14551,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "jn20000700424",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "1006872",
           "scheme": "nlatrove"
         },
@@ -14906,6 +14914,13 @@
         }
       ],
       "name": "Mark Patterson",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "مارك باترسون",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Patterson, Mark"
     },
     {
@@ -17827,6 +17842,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -27455,7 +27476,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "New Zealand general election, 1949",
+      "name": "1949 New Zealand general election",
       "start_date": "1949"
     },
     {
