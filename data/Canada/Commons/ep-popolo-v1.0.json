@@ -69,6 +69,7 @@
       ],
       "email": "Chandra.Arya@parl.gc.ca",
       "gender": "male",
+      "given_name": "Chandra",
       "id": "0068ee69-6842-482c-9ffc-b7c67854ceef",
       "identifiers": [
         {
@@ -3020,10 +3021,14 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/DabrusinJulie_Lib.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Liberal_MP_Julie_Dabrusin_speaks_at_a_ceremony_at_the_Distillery_Loop,_2016_06_18_(1)_(27751926045).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Julie_Dabrusin_-_2018_CFC_Annual_Gala_&_Auction_(39592363104)_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Julie_Dabrusin"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Julie_Dabrusin"
@@ -3299,6 +3304,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Paul_Dewar"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Paul_Dewar"
         },
         {
           "note": "facebook",
@@ -5629,7 +5638,14 @@
           "url": "http://colinfrasermp.ca"
         }
       ],
-      "name": "Colin Fraser"
+      "name": "Colin Fraser",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "كولن فريزر",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-02-13",
@@ -6938,6 +6954,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Mélanie_Joly"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/趙美蘭"
         },
         {
           "note": "twitter",
@@ -12165,6 +12185,10 @@
           "url": "https://ru.wikipedia.org/wiki/Кенни,_Джейсон"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Джейсон_Т._Кенні"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/贾森·康尼"
         },
@@ -12203,6 +12227,11 @@
         {
           "lang": "ru",
           "name": "Кенни, Джейсон",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Джейсон Т. Кенні",
           "note": "multilingual"
         },
         {
@@ -14648,9 +14677,16 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/ViraniArif_Lib.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Arif_Virani_2.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Arif_Virani"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Arif_Virani"
@@ -14664,7 +14700,14 @@
           "url": "http://avirani.liberal.ca"
         }
       ],
-      "name": "Arif Virani"
+      "name": "Arif Virani",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Аріф Вірані",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-09-10",
@@ -16921,7 +16964,14 @@
           "url": "http://sheribenson.ndp.ca"
         }
       ],
-      "name": "Sheri Benson"
+      "name": "Sheri Benson",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "شريف بينسون",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-03-27",
@@ -20330,6 +20380,10 @@
           "url": "https://zh.wikipedia.org/wiki/方慧蘭"
         },
         {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/方慧蘭"
+        },
+        {
           "note": "Wikiquote (uk)",
           "url": "https://uk.wikiquote.org/wiki/Христя_Фріланд"
         },
@@ -23203,6 +23257,7 @@
       ],
       "email": "Kim.Rudd@parl.gc.ca",
       "gender": "female",
+      "given_name": "Kim",
       "id": "8bde2a14-fe49-47b1-9f30-3bc4465ce3ef",
       "identifiers": [
         {
@@ -23284,6 +23339,11 @@
         {
           "name": "Patricia (Pat) PERKINS",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "تربيتة بيركنز",
+          "note": "multilingual"
         },
         {
           "lang": "zh",
@@ -23838,6 +23898,7 @@
       ],
       "email": "Gagan.Sikand@parl.gc.ca",
       "gender": "male",
+      "given_name": "Gagan",
       "id": "91e9cdcc-6035-492f-87b9-c2c78d9a52d2",
       "identifiers": [
         {
@@ -24317,6 +24378,7 @@
       ],
       "email": "Pam.Damoff@parl.gc.ca",
       "gender": "female",
+      "given_name": "Pam",
       "id": "957ac7cf-dbf0-4873-b937-419b3b6b3787",
       "identifiers": [
         {
@@ -25388,6 +25450,10 @@
         {
           "identifier": "Q317842",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Layton-1132",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=44c45099-e6a0-4683-9f81-f10a562209ac",
@@ -25403,6 +25469,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Jack_Layton"
+        },
+        {
+          "note": "Wikipedia (azb)",
+          "url": "https://azb.wikipedia.org/wiki/جک_لایتون"
         },
         {
           "note": "Wikipedia (be)",
@@ -25783,6 +25853,7 @@
       ],
       "email": "Ruby.Sahota@parl.gc.ca",
       "gender": "female",
+      "given_name": "Ruby",
       "id": "9f42aedd-7abb-4883-a260-e8cfa4e167e8",
       "identifiers": [
         {
@@ -26353,6 +26424,7 @@
       ],
       "email": "Deb.Schulte@parl.gc.ca",
       "gender": "female",
+      "given_name": "Deb",
       "id": "a48e22ec-ed25-49fb-8840-5536ebccd097",
       "identifiers": [
         {
@@ -29198,6 +29270,7 @@
       "email": "Dane.Lloyd@parl.gc.ca",
       "family_name": "Lloyd",
       "gender": "male",
+      "given_name": "Dane",
       "id": "b44d4ac2-bb0b-4012-9950-d21ae79ced8c",
       "identifiers": [
         {
@@ -29514,6 +29587,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/石俊_(政治人物)"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/石俊"
         },
         {
           "note": "twitter",
@@ -30429,6 +30506,10 @@
           "url": "https://fa.wikipedia.org/wiki/اندرو_شیر"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Andrew_Scheer"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Andrew_Scheer"
         },
@@ -31131,6 +31212,7 @@
       ],
       "email": "Kamal.Khera@parl.gc.ca",
       "gender": "female",
+      "given_name": "Kamal",
       "id": "bfd6ee3c-f716-42e5-9dbc-38cc379d7893",
       "identifiers": [
         {
@@ -32672,6 +32754,7 @@
       "email": "Rheal.Fortin@parl.gc.ca",
       "family_name": "Fortin",
       "gender": "male",
+      "given_name": "Rhéal",
       "id": "cbf67124-9c28-4698-b4e6-970b48cee90c",
       "identifiers": [
         {
@@ -32734,6 +32817,7 @@
       "email": "Alistair.MacGregor@parl.gc.ca",
       "family_name": "MacGregor",
       "gender": "male",
+      "given_name": "Alistair",
       "id": "cc155c88-5225-4911-b482-31b1bb057c34",
       "identifiers": [
         {
@@ -33158,6 +33242,7 @@
       ],
       "email": "Todd.Doherty@parl.gc.ca",
       "gender": "male",
+      "given_name": "Todd",
       "id": "ceda6509-ed5c-4c40-a8d4-bf01107b3f23",
       "identifiers": [
         {
@@ -33581,6 +33666,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alain_Rayes"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Alain_Rayes"
@@ -34961,6 +35050,10 @@
           "url": "https://es.wikipedia.org/wiki/Irwin_Cotler"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/اروین_کاتلر"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Irwin_Cotler"
         },
@@ -36030,6 +36123,7 @@
       "email": "Mel.Arnold@parl.gc.ca",
       "family_name": "Arnold",
       "gender": "male",
+      "given_name": "Mel",
       "id": "daa2a687-37a2-487c-8552-14505d082bbd",
       "identifiers": [
         {
@@ -40648,6 +40742,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Mike_Sullivan_(Canadian_politician)"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mike_Sullivan_(Canadian_politician)"
         },
@@ -41411,6 +41509,12 @@
           "name": "كتلة الكيبيك",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "ro",
+          "name": "Blocul Québec",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -41789,6 +41893,12 @@
         {
           "lang": "da",
           "name": "Canadas konservative parti",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Kanadai Konzervatív Párt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42620,6 +42730,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -43729,6 +43845,12 @@
         {
           "lang": "be",
           "name": "Новая дэмакратычная партыя",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Új Demokratikus Párt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
