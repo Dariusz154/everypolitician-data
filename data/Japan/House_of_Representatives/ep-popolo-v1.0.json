@@ -2217,6 +2217,10 @@
         {
           "identifier": "Q459998",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "小澤-9",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/085.jpg/%24File/085.jpg",
@@ -6287,6 +6291,10 @@
       "given_name": "Seiichi",
       "id": "1d334508-0ad4-4bc7-8645-18c390007939",
       "identifiers": [
+        {
+          "identifier": "258987083",
+          "scheme": "viaf"
+        },
         {
           "identifier": "Q41770750",
           "scheme": "wikidata"
@@ -28360,6 +28368,11 @@
           "lang": "ru",
           "name": "Ямао, Сиори",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "山尾志櫻里",
+          "note": "multilingual"
         }
       ]
     },
@@ -33078,6 +33091,12 @@
         {
           "identifier": "Q472792",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Yoshiaki_Takaki.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Yoshiaki_Takaki.jpg"
         }
       ],
       "links": [
@@ -44661,6 +44680,10 @@
           "scheme": "ndl"
         },
         {
+          "identifier": "xx0198767",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "392101076",
           "scheme": "nta"
         },
@@ -48891,6 +48914,10 @@
           "url": "https://ja.wikipedia.org/wiki/柴山昌彦"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/柴山昌彦"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/549728848437286"
         },
@@ -48933,6 +48960,11 @@
         {
           "lang": "ru",
           "name": "Сибаяма, Масахико",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "柴山昌彦",
           "note": "multilingual"
         }
       ]
@@ -54536,6 +54568,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -55427,6 +55465,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
