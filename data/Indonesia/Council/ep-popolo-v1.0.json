@@ -2387,6 +2387,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sl",
+          "name": "Siti Hediati Hariyadi",
+          "note": "multilingual"
+        },
+        {
           "lang": "sr-el",
           "name": "Siti Hediati Hariyadi",
           "note": "multilingual"
@@ -9638,6 +9643,22 @@
           "scheme": "isni"
         },
         {
+          "identifier": "n90693669",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "35845923",
+          "scheme": "nla"
+        },
+        {
+          "identifier": "178928070",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "277019627",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q12473894",
           "scheme": "wikidata"
         }
@@ -9994,6 +10015,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "305834770",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q16164725",
           "scheme": "wikidata"
         }
@@ -10005,6 +10030,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ahmad_Sahroni"
+        },
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Ahmad_Sahroni"
@@ -13457,8 +13486,9 @@
       "name": "MASINTON PASARIBU, SH"
     },
     {
+      "birth_date": "1973-08-17",
       "gender": "male",
-      "given_name": "Mohamed",
+      "given_name": "Muhammed",
       "id": "d27dffab-7b91-4597-b9bf-c529bf676339",
       "identifiers": [
         {
@@ -16231,6 +16261,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Syamsul_Chaeruddin"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Syamsul_Chaeruddin"
         }
       ],
       "name": "H. SYAMSUL BACHRI",
@@ -16566,6 +16600,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "317164078",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q17410841",
           "scheme": "wikidata"
         }
@@ -16577,6 +16615,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dimyati_Natakusumah"
+        },
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Achmad_Dimyati_Natakusumah"
