@@ -698,7 +698,7 @@
     },
     {
       "gender": "male",
-      "given_name": "Alexandre",
+      "given_name": "Merouane",
       "id": "58cf8f43-6778-4b2f-ba56-7b8f73532078",
       "identifiers": [
         {
@@ -2112,6 +2112,12 @@
         {
           "lang": "ro",
           "name": "Renașterea (partid)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Rinascimento",
           "note": "multilingual",
           "source": "wikidata-label"
         }
