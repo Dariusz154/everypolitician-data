@@ -2697,6 +2697,10 @@
         {
           "note": "Wikiquote (uk)",
           "url": "https://uk.wikiquote.org/wiki/Семенченко_Семен_Ігорович"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/dostali.hvatit"
         }
       ],
       "name": "Семенченко Семен Ігорович",
@@ -5521,6 +5525,11 @@
       "name": "Вілкул Олександр Юрійович",
       "other_names": [
         {
+          "lang": "be",
+          "name": "Аляксандр Юр’евіч Вілкул",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Olexander Wilkul",
           "note": "multilingual"
@@ -5688,8 +5697,16 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Павлов,_Константин_Юрьевич"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Павлов_Костянтин_Юрійович"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Konstantin.Pavlov.main"
         }
       ],
       "name": "Павлов Костянтин Юрійович",
@@ -6260,12 +6277,20 @@
       ],
       "links": [
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Ирина_Фриз"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Iryna_Fris"
         },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Iryna_Friz"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Iryna_Friz"
         },
         {
           "note": "Wikipedia (ru)",
@@ -8722,6 +8747,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Нимченко,_Василий_Иванович"
+        },
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Німченко_Василь_Іванович"
@@ -12474,6 +12503,10 @@
           "url": "https://sk.wikipedia.org/wiki/Julija_Volodymyrivna_Tymošenková"
         },
         {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Julia_Timoshenko"
+        },
+        {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Јулија_Тимошенко"
         },
@@ -13386,6 +13419,11 @@
       "name": "Бойко Юрій Анатолійович",
       "other_names": [
         {
+          "lang": "be",
+          "name": "Юрый Анатольевіч Бойка",
+          "note": "multilingual"
+        },
+        {
           "lang": "cs",
           "name": "Jurij Anatolijovyč Bojko",
           "note": "multilingual"
@@ -13903,6 +13941,10 @@
         {
           "identifier": "15649",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1161811370",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0000 5441 0380",
@@ -14697,6 +14739,11 @@
       "name": "Мусій Олег Степанович",
       "other_names": [
         {
+          "lang": "azb",
+          "name": "اوله موسیی",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Oleh Musiy",
           "note": "multilingual"
@@ -14948,6 +14995,11 @@
       ],
       "name": "Льовочкіна Юлія Володимирівна",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Julija Wolodymyriwna Ljowotschkina",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Yuliya Liovochkina",
@@ -15796,6 +15848,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vasyl_Petiovka"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Wasyl_Petiowka"
         },
@@ -16636,6 +16692,9 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/bp61.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Климпуш-Цинцадзе_Иванна_Орестовна_0038_Чуприна_Вадим_А.jpg"
         }
       ],
       "links": [
@@ -18355,15 +18414,16 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/nf9.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Lilia_Hrynevich_1.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Liliya_Hrynevych"
+        },
+        {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Лилия_Гриневич"
         },
         {
           "note": "Wikipedia (ar)",
@@ -20090,9 +20150,6 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/ob11.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Новинский_Вадим_Владиславович.jpg"
         }
       ],
       "links": [
@@ -20131,6 +20188,11 @@
       ],
       "name": "Новинський Вадим Владиславович",
       "other_names": [
+        {
+          "lang": "be",
+          "name": "Вадзім Уладзіслававіч Навінскі",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Vadim Novinsky",
@@ -21086,9 +21148,6 @@
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/nf32.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Culture_and_life,_42-2014.pdf"
         }
       ],
       "links": [
@@ -21356,6 +21415,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Alyona_Babak"
         },
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Алёна_Бабак"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Aliona_Babak"
         },
@@ -21370,6 +21433,11 @@
       ],
       "name": "Бабак Альона Валеріївна",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Aljona Walerijiwna Babak",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Aliona Babak",
@@ -24427,6 +24495,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Iryna_Herashchenko"
         },
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Ирина_Геращенко_(1971)"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Iryna_Heraschtschenko_(Politikerin)"
         },
@@ -24479,7 +24551,7 @@
         },
         {
           "lang": "ru",
-          "name": "Геращенко, Ирина Владимировна",
+          "name": "Ирина Владимировна Геращенко",
           "note": "multilingual"
         }
       ],
@@ -24702,6 +24774,10 @@
         {
           "identifier": "nb2006017564",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "av2015896605",
+          "scheme": "nkc"
         },
         {
           "identifier": "2340",
@@ -26271,6 +26347,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Serhiy_Leshchenko"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sergueï_Lechtchenko"
         },
         {
           "note": "Wikipedia (oc)",
@@ -29096,6 +29176,11 @@
       "name": "Королевська Наталія Юріївна",
       "other_names": [
         {
+          "lang": "be",
+          "name": "Наталія Юр’еўна Каралеўская",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Natalija Korolewska",
           "note": "multilingual"
@@ -29385,6 +29470,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Olena_Kondratyuk"
+        },
+        {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Елена_Кондратюк"
         },
         {
           "note": "Wikipedia (ru)",
@@ -29968,6 +30057,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Светлана_Войцеховская"
+        },
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Войцеховська_Світлана_Михайлівна"
@@ -30710,6 +30803,16 @@
       "name": "Червакова Ольга Валеріївна",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Olha Walerijiwna Tscherwakowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Olha Chervakova",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Червакова, Ольга Валерьевна",
           "note": "multilingual"
@@ -31055,6 +31158,10 @@
           "url": "https://uk.wikipedia.org/wiki/Березенко_Сергій_Іванович"
         },
         {
+          "note": "Wikiquote (uk)",
+          "url": "https://uk.wikiquote.org/wiki/Березенко_Сергій_Іванович"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/sergiy.berezenko"
         },
@@ -31379,6 +31486,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Mariya_Ionova"
+        },
+        {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Мария_Ионова"
         },
         {
           "note": "Wikipedia (de)",
@@ -32662,6 +32773,11 @@
         {
           "lang": "ar",
           "name": "فاديم رابينوفيتش",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Вадзім Зіноўевіч Рабіновіч",
           "note": "multilingual"
         },
         {
@@ -33971,6 +34087,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -35066,7 +35188,7 @@
       "other_names": [
         {
           "lang": "uk",
-          "name": "Опозиційний блок (партія)",
+          "name": "Опозиційний блок",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -35078,7 +35200,7 @@
         },
         {
           "lang": "ru",
-          "name": "Оппозиционный блок (партия)",
+          "name": "Оппозиционный блок",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -35131,8 +35253,26 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "be",
+          "name": "Апазіцыйны блок",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "it",
           "name": "Opozycijnyn Blok",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ru",
+          "name": "Оппозиционный блок (партия)",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "uk",
+          "name": "Опозиційний блок (партія)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -35412,7 +35552,7 @@
         },
         {
           "lang": "hu",
-          "name": "Batykivscsina",
+          "name": "Haza Összukrán Tömörülés",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -35707,6 +35847,12 @@
         {
           "lang": "he",
           "name": "האיחוד הכול-אוקראיני\"מולדת\"",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hu",
+          "name": "Batykivscsina",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
