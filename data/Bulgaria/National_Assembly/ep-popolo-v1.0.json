@@ -524,6 +524,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Zezka Zatschewa",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "TSETSKA TSACHEVA DANGOVSKA",
           "note": "multilingual"
@@ -2987,6 +2992,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "xx0009768",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "n2013058099",
           "scheme": "nukat"
         },
@@ -3408,6 +3417,10 @@
         {
           "identifier": "232",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "69495",
+          "scheme": "fast"
         },
         {
           "identifier": "0000 0000 3011 0084",
@@ -7760,6 +7773,11 @@
         {
           "lang": "ru",
           "name": "Паси, Соломон Исак",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Solomon Pasi",
           "note": "multilingual"
         },
         {
@@ -21381,6 +21399,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "jn20010601678",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "151290911",
           "scheme": "nta"
         },
@@ -21450,7 +21472,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Мырков,_Георги"
+          "url": "https://ru.wikipedia.org/wiki/Марков,_Георги"
         },
         {
           "note": "Wikipedia (sv)",
@@ -29175,6 +29197,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "jx20050301001",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "291",
           "scheme": "parliament_bg"
         },
@@ -29272,6 +29298,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Ahmed_Dogan"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ahmed_Doğan"
         },
         {
           "note": "Wikipedia (ru)",
@@ -29931,6 +29961,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Wolen_Siderow"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Volen_Siderov"
         },
         {
           "note": "Wikipedia (ru)",
@@ -35895,6 +35929,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Kornelija_Ninowa"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Kornelia_Ninova"
         }
       ],
       "name": "КОРНЕЛИЯ ПЕТРОВА НИНОВА",
@@ -50519,6 +50557,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -51633,6 +51677,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -52524,6 +52574,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -53757,6 +53813,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
