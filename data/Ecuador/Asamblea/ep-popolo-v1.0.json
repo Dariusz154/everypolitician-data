@@ -3977,6 +3977,7 @@
       ]
     },
     {
+      "birth_date": "1987-11-01",
       "gender": "male",
       "given_name": "Angélica",
       "id": "a7e8a7fe-bb8d-4f37-a8fb-a3a041f2876f",
@@ -6772,6 +6773,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
