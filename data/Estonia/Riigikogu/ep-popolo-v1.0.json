@@ -3417,6 +3417,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "jo2002101541",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "204240352",
           "scheme": "nta"
         },
@@ -6002,7 +6006,14 @@
           "url": "https://twitter.com/MartNutt"
         }
       ],
-      "name": "Mart Nutt"
+      "name": "Mart Nutt",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "マルト・ヌット",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1944-02-29",
@@ -10743,6 +10754,11 @@
         {
           "lang": "ko",
           "name": "이비 엔마",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Иви Ээнмаа",
           "note": "multilingual"
         }
       ]
