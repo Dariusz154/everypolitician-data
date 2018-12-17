@@ -184,6 +184,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/لوفيك_غيرسون"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Lúðvík_Geirsson"
         },
@@ -196,7 +200,14 @@
           "url": "Lúðvík Geirsson"
         }
       ],
-      "name": "Lúðvík Geirsson"
+      "name": "Lúðvík Geirsson",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "لوفيك غيرسون",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-12-19",
@@ -263,6 +274,11 @@
         {
           "lang": "la",
           "name": "Guðlaugur Thorus Thori filius",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Гудлаугур Тор Тордарсон",
           "note": "multilingual"
         },
         {
@@ -3869,6 +3885,11 @@
           "lang": "nl",
           "name": "Sigríður Ásthildur Andersen",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Sigríður Ásthildur Andersen",
+          "note": "multilingual"
         }
       ]
     },
@@ -5476,6 +5497,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Katrín_Júlíusdóttir"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/كاترين_جوليوسدوتير"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Katrín_Júlíusdóttir"
         },
@@ -5510,6 +5535,11 @@
       ],
       "name": "Katrín Júlíusdóttir",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "كاترين جوليوسدوتير",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "凱瑟琳·朱麗多蒂",
@@ -8939,6 +8969,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Steingrímur_J._Sigfússon"
         },
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Steingrímur_J._Sigfússon"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Steingrímur_J._Sigfússon"
         },
@@ -11664,6 +11698,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bergþór_Ólason"
+        }
+      ],
       "name": "Bergþór Ólason"
     },
     {
@@ -13972,6 +14012,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
