@@ -4319,7 +4319,20 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44468"
         }
       ],
-      "name": "Andrija Mikulić"
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Андрія_Микулич"
+        }
+      ],
+      "name": "Andrija Mikulić",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Андрія Микулич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-06-13",
@@ -14514,6 +14527,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
