@@ -1208,6 +1208,11 @@
           "lang": "nl",
           "name": "Mofazzal Hossain Chowdhury",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Mofazzal Hossain Chowdhury",
+          "note": "multilingual"
         }
       ]
     },
@@ -2851,6 +2856,11 @@
           "lang": "nl",
           "name": "Mahjabeen Khaled MP",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Mahjabeen Khaled MP",
+          "note": "multilingual"
         }
       ]
     },
@@ -3189,7 +3199,7 @@
       "links": [
         {
           "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/মাহবুবউল_আলম_হানিফ"
+          "url": "https://bn.wikipedia.org/wiki/মাহবুবুল_আলম_হানিফ"
         },
         {
           "note": "Wikipedia (en)",
@@ -3934,6 +3944,11 @@
           "lang": "pt",
           "name": "Tajul Islam Choudhury",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Md. Tajul Islam Chowdhury",
+          "note": "multilingual"
         }
       ]
     },
@@ -4302,6 +4317,10 @@
           "url": "https://bn.wikipedia.org/wiki/মুহাম্মদ_ইমাজ_উদ্দিন_প্রামাণিক"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emaz_Uddin_Pramanik"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2020"
         }
@@ -4311,6 +4330,11 @@
         {
           "lang": "bn",
           "name": "মুহাম্মদ ইমাজ উদ্দিন প্রামাণিক",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Emaz Uddin Pramanik",
           "note": "multilingual"
         }
       ]
@@ -4602,6 +4626,11 @@
         },
         {
           "lang": "nl",
+          "name": "Junaid Pollock",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Junaid Pollock",
           "note": "multilingual"
         }
@@ -5262,6 +5291,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/কাজী_কেরামত_আলী"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kazi_Keramat_Ali"
         },
@@ -5270,7 +5303,19 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2109"
         }
       ],
-      "name": "Kazi Keramat Ali"
+      "name": "Kazi Keramat Ali",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "কাজী কেরামত আলী",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Kazi Keramot Ali",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1946-12-29",
@@ -5293,6 +5338,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/A._T._M._Abdul_Wahab"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=3005"
@@ -5900,6 +5949,11 @@
         },
         {
           "lang": "nl",
+          "name": "Abul Hasnat Abdullah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Abul Hasnat Abdullah",
           "note": "multilingual"
         }
@@ -6726,6 +6780,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/আশেক_উল্লাহ_রফিক"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Asheq_Ullah_Rafiq"
         },
@@ -6734,7 +6792,14 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2384"
         }
       ],
-      "name": "Asheq Ullah Rafiq"
+      "name": "Asheq Ullah Rafiq",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "আশেক উল্লাহ রফিক",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -7525,6 +7590,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Farhad_Hossain_(politician)"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2457"
         }
@@ -7581,6 +7650,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/আবুল_কালাম_আজাদ_(জামালপুরের_রাজনীতিবিদ)"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Abul_Kalam_Azad_(Jamalpur_politician)"
@@ -7639,17 +7712,12 @@
       ]
     },
     {
-      "birth_date": "1943-10-24",
       "gender": "male",
       "id": "710d4184-1ec1-4084-b395-e68bf3df853f",
       "identifiers": [
         {
           "identifier": "1099",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q50376472",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/1099.jpg",
@@ -7660,22 +7728,11 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Panchanan_Biswas"
-        },
-        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2485"
         }
       ],
-      "name": "Panchanan Biswas",
-      "other_names": [
-        {
-          "lang": "bn",
-          "name": "পঞ্চানন বিশ্বাস",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Panchanan Biswas"
     },
     {
       "gender": "male",
@@ -7957,17 +8014,12 @@
       ]
     },
     {
-      "birth_date": "1963-11-04",
       "gender": "male",
       "id": "734b288e-0e6e-4216-be3a-7554b5e1b727",
       "identifiers": [
         {
           "identifier": "10298",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q55694704",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10298.jpg",
@@ -7978,22 +8030,11 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/কুজেন্দ্র_লাল_ত্রিপুরা"
-        },
-        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2385"
         }
       ],
-      "name": "Kujendra Lal Tripura",
-      "other_names": [
-        {
-          "lang": "bn",
-          "name": "কুজেন্দ্র লাল ত্রিপুরা",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Kujendra Lal Tripura"
     },
     {
       "gender": "male",
@@ -8072,10 +8113,6 @@
         {
           "identifier": "10252",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q28839997",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10252.jpg",
@@ -8086,22 +8123,11 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Razee_Mohammad_Fakhrul"
-        },
-        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2364"
         }
       ],
-      "name": "Razee Mohammad Fakhrul",
-      "other_names": [
-        {
-          "lang": "bn",
-          "name": "রাজি মোহম্মদ ফখরুল",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Razee Mohammad Fakhrul"
     },
     {
       "birth_date": "1956-01-05",
@@ -9305,6 +9331,10 @@
           "url": "https://bn.wikipedia.org/wiki/সাইমুম_সরওয়ার_কমল"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Shaimum_Sarwar_Kamal"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2671"
         }
@@ -9395,6 +9425,11 @@
         },
         {
           "lang": "nl",
+          "name": "Narayan Chandra Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Narayan Chandra Chan",
           "note": "multilingual"
         }
@@ -9513,10 +9548,6 @@
         {
           "identifier": "10299",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q55694707",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10299.jpg",
@@ -9527,22 +9558,11 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/ঊষাতন_তালুকদার"
-        },
-        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2386"
         }
       ],
-      "name": "Ushatan Talukder",
-      "other_names": [
-        {
-          "lang": "bn",
-          "name": "ঊষাতন তালুকদার",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Ushatan Talukder"
     },
     {
       "birth_date": "1943-10-22",
@@ -9594,6 +9614,11 @@
           "lang": "nl",
           "name": "Tofael Ahmed",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Tofael Ahmed",
+          "note": "multilingual"
         }
       ]
     },
@@ -9627,7 +9652,7 @@
         },
         {
           "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/তাজুল_ইসলাম_(কুমিল্লার_রাজনীতিবিদ)"
+          "url": "https://bn.wikipedia.org/wiki/তাজুল_ইসলাম_(রাজনীতিবিদ)"
         },
         {
           "note": "Wikipedia (en)",
@@ -10228,6 +10253,11 @@
       "name": "A.H.M. Hamidur Rahman Azad",
       "other_names": [
         {
+          "lang": "bn",
+          "name": "হামিদুর রহমান আযাদ",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "A. H. M. Hamidur Rahman Azad",
           "note": "multilingual"
@@ -10235,22 +10265,12 @@
       ]
     },
     {
-      "birth_date": "1941",
-      "death_date": "2006-06-25",
       "gender": "male",
       "id": "8e6b6181-74f7-419b-a71e-961d16aaeea8",
       "identifiers": [
         {
           "identifier": "2136",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "60962435",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q4700414",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2136.jpg",
@@ -10261,27 +10281,11 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Akbar_Hossain"
-        },
-        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2064"
         }
       ],
-      "name": "Md. Akabbar Hossain",
-      "other_names": [
-        {
-          "lang": "bn",
-          "name": "আকবর হোসেন",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Akbar Hossain",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Md. Akabbar Hossain"
     },
     {
       "birth_date": "1956-01-02",
@@ -10680,6 +10684,11 @@
           "lang": "nl",
           "name": "Ismat Ara Sadek",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Ismat Ara Sadek",
+          "note": "multilingual"
         }
       ]
     },
@@ -10813,6 +10822,11 @@
         },
         {
           "lang": "nl",
+          "name": "Motahar Hossain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Motahar Hossain",
           "note": "multilingual"
         }
@@ -11235,6 +11249,10 @@
           "url": "https://bn.wikipedia.org/wiki/রণজিত_কুমার_রায়"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ranajit_Kumar_Roy"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2039"
         }
@@ -11542,6 +11560,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/আ._স._ম._ফিরোজ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/A._S._M._Feroz"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2049"
@@ -12409,6 +12435,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sl",
+          "name": "Hasina Wajed",
+          "note": "multilingual"
+        },
+        {
           "lang": "sr",
           "name": "Хасина Вазед",
           "note": "multilingual"
@@ -12595,6 +12626,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/শওকত_হাচানুর_রহমান_রিমন"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Showkat_Hasanur_Rahman_Rimon"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2442"
@@ -13073,6 +13112,11 @@
           "lang": "nl",
           "name": "Abul Hassan Mahmud Ali",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Abul Hassan Mahmud Ali",
+          "note": "multilingual"
         }
       ]
     },
@@ -13163,6 +13207,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/রহিম_উল্লাহ"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rahim_Ullah"
         },
@@ -13171,7 +13219,14 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2373"
         }
       ],
-      "name": "Rahim Ullah"
+      "name": "Rahim Ullah",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "রহিম উল্লাহ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1940-04-30",
@@ -13356,6 +13411,11 @@
         },
         {
           "lang": "nl",
+          "name": "Yeasin Ali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Yeasin Ali",
           "note": "multilingual"
         }
@@ -14045,7 +14105,7 @@
       "links": [
         {
           "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/মুজিবুল_হক"
+          "url": "https://bn.wikipedia.org/wiki/মুজিবুল_হক_মুজিব"
         },
         {
           "note": "Wikipedia (en)",
@@ -14130,7 +14190,7 @@
     },
     {
       "birth_date": "1938-03-28",
-      "death_date": "2016-02-26",
+      "death_date": "2016-02-25",
       "gender": "male",
       "id": "c0915e69-87f5-4889-a787-2ad33fb7de54",
       "identifiers": [
@@ -14156,7 +14216,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Enamul_Hoque_Mostofa_Shaheed"
+          "url": "https://en.wikipedia.org/wiki/Enamul_Haque_Mostafa_Shahid"
         },
         {
           "note": "website",
@@ -14171,7 +14231,12 @@
           "note": "multilingual"
         },
         {
-          "lang": "en",
+          "lang": "nl",
+          "name": "Enamul Hoque Mostofa Shaheed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Enamul Hoque Mostofa Shaheed",
           "note": "multilingual"
         }
@@ -15154,6 +15219,11 @@
           "lang": "nl",
           "name": "Shahriar Alam",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Shahriar Alam",
+          "note": "multilingual"
         }
       ]
     },
@@ -15932,7 +16002,7 @@
       "links": [
         {
           "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/এডভোকেট_আনিসুল_হক"
+          "url": "https://bn.wikipedia.org/wiki/আনিসুল_হক_(ব্রাহ্মণবাড়িয়ার_রাজনীতিবিদ)"
         },
         {
           "note": "Wikipedia (en)",
@@ -16053,6 +16123,10 @@
         {
           "note": "Wikipedia (bn)",
           "url": "https://bn.wikipedia.org/wiki/আব্দুর_রহমান_বদি"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abdur_Rahman_Bodi"
         },
         {
           "note": "website",
@@ -16363,7 +16437,11 @@
       "links": [
         {
           "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/ধীরেন্দ্র_দেবনাথ_শমভু"
+          "url": "https://bn.wikipedia.org/wiki/ধীরেন্দ্র_দেবনাথ_শম্ভু"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dhirendra_Debnath_Shambhu"
         },
         {
           "note": "website",
@@ -16482,6 +16560,11 @@
           "lang": "nl",
           "name": "Abdullah Al Islam Jacob",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Abdullah Al Islam Jacob",
+          "note": "multilingual"
         }
       ]
     },
@@ -16528,6 +16611,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/জাহিদ_মালেক"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Zahid_Maleque"
@@ -16608,7 +16695,7 @@
       "links": [
         {
           "note": "Wikipedia (bn)",
-          "url": "https://bn.wikipedia.org/wiki/মো:_আব্দুল_মালেক"
+          "url": "https://bn.wikipedia.org/wiki/আব্দুল_মালেক_(রাজনীতিবিদ)"
         },
         {
           "note": "website",
@@ -19047,12 +19134,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মোহাম্মদ_হাছান_ইমাম_খাঁন"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Hasan_Imam_Khan"
         }
       ],
       "name": "Md. Hasan Imam Khan",
       "other_names": [
+        {
+          "lang": "bn",
+          "name": "মোহাম্মদ হাছান ইমাম খাঁন",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Hasan Imam Khan",
@@ -19612,6 +19708,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hu",
+          "name": "Bangladesi Népi Szövetség",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Awami League",
           "note": "multilingual",
@@ -19644,6 +19746,12 @@
         {
           "lang": "bn",
           "name": "আওয়ামী লীগ",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hu",
+          "name": "Avami Liga",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -20113,6 +20221,12 @@
           "name": "Bangladesh Tarikat Federation",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "বাংলাদেশ তরিকত ফেডারেশন",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -20550,6 +20664,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
