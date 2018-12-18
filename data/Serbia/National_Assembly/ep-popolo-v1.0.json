@@ -1175,6 +1175,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "lv",
+          "name": "Ivica Dačičs",
+          "note": "multilingual"
+        },
+        {
           "lang": "mk",
           "name": "Ивица Дачиќ",
           "note": "multilingual"
@@ -7314,6 +7319,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "xx0156290",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "1392",
           "scheme": "port"
         },
@@ -9497,7 +9506,7 @@
         },
         {
           "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Славица_Ђукић-Дејановић"
+          "url": "https://sr.wikipedia.org/wiki/Славица_Ђукић_Дејановић"
         },
         {
           "note": "Wikipedia (tr)",
@@ -13351,31 +13360,21 @@
       "sort_name": "DANIJELA Dr STOJADINOVIC"
     },
     {
-      "birth_date": "1974-06-24",
+      "birth_date": "1974",
       "contact_details": [
         {
           "type": "twitter",
           "value": "marijatvkv"
         }
       ],
-      "gender": "female",
-      "given_name": "Marija",
       "id": "e40e9289-7559-4c64-9a4c-a532b421059f",
       "identifiers": [
         {
           "identifier": "608",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q52704291",
-          "scheme": "wikidata"
         }
       ],
       "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Marija_Obradović_(politician)"
-        },
         {
           "note": "facebook",
           "url": "https://facebook.com/marija.obradovicbgd"
@@ -13386,13 +13385,6 @@
         }
       ],
       "name": "MARIJA OBRADOVIC",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Marija Obradović",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "MARIJA OBRADOVIC"
     },
     {
@@ -16423,6 +16415,18 @@
           "name": "Сербская прагрэсіўная партыя",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Progresif Serbia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "SNS",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
