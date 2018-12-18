@@ -19,6 +19,13 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "0116bbda-304f-4a56-a9a7-7b3aef9b189f",
+      "name": "AGBO Kokou",
+      "sort_name": "AGBO Kokou"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "0248fb7f-f799-4bb8-bfd8-5ffc7a16ac2a",
       "identifiers": [
         {
@@ -28,6 +35,13 @@
       ],
       "name": "M. GNONGBO Tak Youssif",
       "sort_name": "GNONGBO Tak Youssif"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "07a970d4-b04a-47e3-99d0-e625039e855e",
+      "name": "NASSOU Alouadjou K.",
+      "sort_name": "NASSOU Alouadjou K."
     },
     {
       "gender": "male",
@@ -43,11 +57,32 @@
       "sort_name": "LABITOKO Kadjila"
     },
     {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "09bbc6d1-d826-4a4c-950f-c8a2393bc686",
+      "name": "AMETODJI Yawovi",
+      "sort_name": "AMETODJI Yawovi"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "0aaf42b9-88e0-4ed9-b73d-a1e9d90457e7",
+      "name": "APEKEY Assewouwokan",
+      "sort_name": "APEKEY Assewouwokan"
+    },
+    {
       "gender": "female",
       "honorific_prefix": "Mme",
       "id": "0ad8a456-ee30-415b-87e1-8c2d6ca441a2",
       "name": "Mme AMOUZOU DJAKE Kossiwa",
       "sort_name": "AMOUZOU DJAKE Kossiwa"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "0afb8fc6-7947-41ac-8a55-374dfaef9aab",
+      "name": "GNONGBO Tak Youssif",
+      "sort_name": "GNONGBO Tak Youssif"
     },
     {
       "gender": "male",
@@ -61,6 +96,13 @@
       ],
       "name": "M. DOBOU Kwadzo Sedem",
       "sort_name": "DOBOU Kwadzo Sedem"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "0cc8e0b3-79de-43b8-b77e-c72fa6a4befd",
+      "name": "AGBOKOU Kossiwa M. F.",
+      "sort_name": "AGBOKOU Kossiwa M. F."
     },
     {
       "gender": "male",
@@ -89,6 +131,13 @@
       "sort_name": "AMOUZOU Kodjovi"
     },
     {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "10482900-5cda-4b0c-859c-c000e58579af",
+      "name": "TIGNOKPA Ayawovi D.",
+      "sort_name": "TIGNOKPA Ayawovi D."
+    },
+    {
       "gender": "male",
       "honorific_prefix": "M",
       "id": "128bff8a-6062-44f1-b754-1381c793e9c8",
@@ -100,6 +149,20 @@
       ],
       "name": "M. AFO ALEDJOU Mawé",
       "sort_name": "AFO ALEDJOU Mawé"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "1293a34d-38c1-4667-b68e-d129617760b6",
+      "name": "APEZOUKE Jean-Marie",
+      "sort_name": "APEZOUKE Jean-Marie"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "1295d3f5-c6aa-4f55-a7e1-2797d89703ab",
+      "name": "GOGUE Tchaboure",
+      "sort_name": "GOGUE Tchaboure"
     },
     {
       "gender": "male",
@@ -167,6 +230,20 @@
       "sort_name": "KETOGLO Yao Victor"
     },
     {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "19348546-091d-4af8-90bb-3944e5f47098",
+      "name": "SENOU Komlan",
+      "sort_name": "SENOU Komlan"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "199a60f1-8b65-47d9-ab77-932151b89596",
+      "name": "AMEDJOGBE Akossiwa Olivia",
+      "sort_name": "AMEDJOGBE Akossiwa Olivia"
+    },
+    {
       "gender": "female",
       "given_name": "Isabelle",
       "honorific_prefix": "Mme",
@@ -215,6 +292,13 @@
       "sort_name": "AMEGANVI M.Isabelle D."
     },
     {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "1b01adec-e62a-4fa2-b32a-ca62f0ea516c",
+      "name": "KOFFI Kossiko Kalenyo",
+      "sort_name": "KOFFI Kossiko Kalenyo"
+    },
+    {
       "gender": "female",
       "honorific_prefix": "Mme",
       "id": "1dab4f34-7b73-4d7e-b516-c1a99e22552b",
@@ -226,6 +310,41 @@
       ],
       "name": "Mme. ADJAMAGBO Ayélo Okpé",
       "sort_name": "ADJAMAGBO Ayélo Okpé"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "1f068453-4e73-4311-8495-34c25ff260a5",
+      "name": "OGBLOMESSE Koku M.",
+      "sort_name": "OGBLOMESSE Koku M."
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "247dbea3-7ab8-4b2c-b444-cd284ab08fe4",
+      "name": "KPOGO Kodjo",
+      "sort_name": "KPOGO Kodjo"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "2614fa41-a3de-491b-a4df-f6d2237fc862",
+      "name": "YENTOUMI Kodjo Ikpaledou",
+      "sort_name": "YENTOUMI Kodjo Ikpaledou"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "28426534-68e5-4afc-ac79-d90dc06c47d8",
+      "name": "ARZOUMA Pomong Wuinekouma",
+      "sort_name": "ARZOUMA Pomong Wuinekouma"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "28c529b7-b512-41b9-b225-4a5d547d905f",
+      "name": "KPADENOU Amoussouvi",
+      "sort_name": "KPADENOU Amoussouvi"
     },
     {
       "gender": "female",
@@ -243,6 +362,13 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "29362dec-a572-479a-b415-0fdbf9022345",
+      "name": "MALLE Kayaba",
+      "sort_name": "MALLE Kayaba"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "2986fb08-912a-4570-aff3-6ea7e38246f6",
       "identifiers": [
         {
@@ -252,6 +378,20 @@
       ],
       "name": "M. VODIS Yawo",
       "sort_name": "VODIS Yawo"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "2c966de5-1230-4cc9-b5c0-570702b999b6",
+      "name": "PENN Lare Batouth",
+      "sort_name": "PENN Lare Batouth"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "2cb63464-fb2f-4606-81e9-1369acd2a656",
+      "name": "KOUKPOKPA Issolemo Epse BAGNA",
+      "sort_name": "KOUKPOKPA Issolemo Epse BAGNA"
     },
     {
       "gender": "female",
@@ -293,6 +433,13 @@
       "sort_name": "ADJOR Akofi"
     },
     {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "3605f975-2e7e-4a16-b229-501583d6700c",
+      "name": "DJOBO Nassara Epse OURO BANGANA",
+      "sort_name": "DJOBO Nassara Epse OURO BANGANA"
+    },
+    {
       "gender": "male",
       "honorific_prefix": "M",
       "id": "3838748b-5733-4dc8-8f50-7ef0f9c942c0",
@@ -306,6 +453,20 @@
       "sort_name": "AMETODJI Yawovi"
     },
     {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "39fe509e-2234-4704-91f3-2b9ddae9dfed",
+      "name": "IBRAHIMA Memounatou",
+      "sort_name": "IBRAHIMA Memounatou"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "3a42083a-8c1a-4c7e-8cb4-a0af1c97d9b3",
+      "name": "SEWOA Adjoa M. S.",
+      "sort_name": "SEWOA Adjoa M. S."
+    },
+    {
       "gender": "male",
       "honorific_prefix": "M",
       "id": "3c0d78f7-2902-44d5-aa0f-63157a341bea",
@@ -317,6 +478,27 @@
       ],
       "name": "M. NAYO Koffi Bessewu",
       "sort_name": "NAYO Koffi Bessewu"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "3c7f263f-ca9e-432f-b213-58718f1f63f6",
+      "name": "OURO-AKPO Tchagnaou",
+      "sort_name": "OURO-AKPO Tchagnaou"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "3e97a152-2d26-4a7c-8947-2e3dcf1c9ecc",
+      "name": "TOUSSA Komi Gameli",
+      "sort_name": "TOUSSA Komi Gameli"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "3fc81c48-7120-4217-9203-da75f01918c6",
+      "name": "DOBOU Kwadzo Sedem",
+      "sort_name": "DOBOU Kwadzo Sedem"
     },
     {
       "gender": "male",
@@ -425,6 +607,13 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "47f2f9b9-2739-4d5b-a0b3-bd9a11d25733",
+      "name": "TARGONE Sambiri N’wakin",
+      "sort_name": "TARGONE Sambiri N’wakin"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "48d96724-0829-462a-a9ff-e52cc9e98b55",
       "identifiers": [
         {
@@ -464,6 +653,27 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "4c63dc45-7e89-4f77-9674-eedf648f41cb",
+      "name": "KERTCHO Komina",
+      "sort_name": "KERTCHO Komina"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "4cc6b3a1-88cf-4f7e-bbde-73ad14c2cbd4",
+      "name": "KPATCHA Komi",
+      "sort_name": "KPATCHA Komi"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "4f7d0ccb-aa0d-4977-b198-96724954dca6",
+      "name": "YAKPO Kossi",
+      "sort_name": "YAKPO Kossi"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "50d12269-0fc1-46d4-8569-067596b72610",
       "identifiers": [
         {
@@ -477,9 +687,23 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "51131610-0f04-4a3d-a9a3-acc75b576048",
+      "name": "NAYO Koffi Bessewu",
+      "sort_name": "NAYO Koffi Bessewu"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "51dc5fb9-0bd2-423d-aff6-640669111f80",
       "name": "M.BOURAIMA-DIABACTE K. Hamadou Brim",
       "sort_name": "BOURAIMA-DIABACTE K. Hamadou Brim"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "521bbec4-a4f1-4416-b73a-5ae0e10e40c2",
+      "name": "ARZOUMA Natchadja",
+      "sort_name": "ARZOUMA Natchadja"
     },
     {
       "gender": "male",
@@ -497,6 +721,20 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "55f00382-69cb-4687-acea-ba69452a7823",
+      "name": "BOINI Taaka",
+      "sort_name": "BOINI Taaka"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "5a3a9a22-5ba5-4355-991b-d31452401c1a",
+      "name": "FABRE Jean-Pierre",
+      "sort_name": "FABRE Jean-Pierre"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "5c2f1a6e-6cbb-4d1e-b83a-db4de124fddb",
       "identifiers": [
         {
@@ -510,6 +748,20 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "5c5b83a8-692f-48e0-b43d-16010558b36b",
+      "name": "KAMPATIBE Nagbandja",
+      "sort_name": "KAMPATIBE Nagbandja"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "5ca3ea1d-ef79-41ff-9b87-41fc861454bb",
+      "name": "BOURAIMA-DIABACTE K. Hamadou Brim",
+      "sort_name": "BOURAIMA-DIABACTE K. Hamadou Brim"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "5d5f3203-3255-4067-afb6-e8b92b640de8",
       "identifiers": [
         {
@@ -519,6 +771,13 @@
       ],
       "name": "M. GNATCHO Komla Mawuena",
       "sort_name": "GNATCHO Komla Mawuena"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "5e30329f-a2a7-4f27-a3e5-8636ac78be73",
+      "name": "DOE-BRUCE Adama Koffi",
+      "sort_name": "DOE-BRUCE Adama Koffi"
     },
     {
       "gender": "male",
@@ -547,6 +806,13 @@
       "sort_name": "YENTOUMI Kodjo Ikpaledou"
     },
     {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "624acda7-f5f8-4207-9fea-3687deabd25d",
+      "name": "ATAKPAMEY Kodjo",
+      "sort_name": "ATAKPAMEY Kodjo"
+    },
+    {
       "gender": "female",
       "honorific_prefix": "Mme",
       "id": "62712dce-cf36-408f-b4c2-d6a63adc72d7",
@@ -558,6 +824,27 @@
       ],
       "name": "Mme. AGBOKOU Kossiwa M. F.",
       "sort_name": "AGBOKOU Kossiwa M. F."
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "65ff1054-51f1-4584-9614-02cfdd50bbe2",
+      "name": "AWATE Simala",
+      "sort_name": "AWATE Simala"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "66880498-de1d-4012-a626-5c09d77762d7",
+      "name": "BEGUEM Nakodja",
+      "sort_name": "BEGUEM Nakodja"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "67f33ec0-7deb-48a4-b073-8af8538e8294",
+      "name": "ALONOU Kokou",
+      "sort_name": "ALONOU Kokou"
     },
     {
       "gender": "male",
@@ -627,6 +914,13 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "73003013-b631-4c12-ac64-0cd568b8305a",
+      "name": "BARITSE Dametoti",
+      "sort_name": "BARITSE Dametoti"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "75020ea7-5b29-4ab2-a89e-4f8f72dfd66c",
       "identifiers": [
         {
@@ -649,6 +943,27 @@
       ],
       "name": "M. OSSEYI Yawovi",
       "sort_name": "OSSEYI Yawovi"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "755de759-1b66-4ec4-8472-e9961669af98",
+      "name": "GNAKOUAFRE A. S. Suhn-Badu",
+      "sort_name": "GNAKOUAFRE A. S. Suhn-Badu"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "759213cc-cfb9-490f-9e9d-71490c2b4b29",
+      "name": "LAWSON Latevi Calvin Georges",
+      "sort_name": "LAWSON Latevi Calvin Georges"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "761760c6-bcbf-436f-af12-866265e5513d",
+      "name": "ORE DJIMON",
+      "sort_name": "ORE DJIMON"
     },
     {
       "gender": "male",
@@ -675,6 +990,20 @@
       ],
       "name": "M. ATAKPAMEY Kodjo",
       "sort_name": "ATAKPAMEY Kodjo"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "7749b2e3-0405-43d8-ab6c-ccca0e6f5234",
+      "name": "AGBO KOMLAN",
+      "sort_name": "AGBO KOMLAN"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "791c5045-463d-463c-a889-ef89705d123f",
+      "name": "SEGO Etse Franck",
+      "sort_name": "SEGO Etse Franck"
     },
     {
       "gender": "male",
@@ -716,6 +1045,27 @@
       "sort_name": "ARZOUMA Natchadja"
     },
     {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "8789c484-f5af-4fc9-a14a-0b31e95f8234",
+      "name": "ADJAMAGBO Ayélo Okpé",
+      "sort_name": "ADJAMAGBO Ayélo Okpé"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "889735e1-4189-4e22-b51b-43c5b2099042",
+      "name": "GAGOU KOKOU",
+      "sort_name": "GAGOU KOKOU"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "88d9a419-def9-496c-b35e-ce5bb59b3f2f",
+      "name": "HOWANOU Edoh",
+      "sort_name": "HOWANOU Edoh"
+    },
+    {
       "gender": "male",
       "honorific_prefix": "M",
       "id": "8a9c4083-2194-4499-ab8b-ec8a1cbb8e3e",
@@ -727,6 +1077,20 @@
       ],
       "name": "M. NONON K. Diera-Bariga",
       "sort_name": "NONON K. Diera-Bariga"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "8b5fde24-3ca4-4127-a3ea-57ac6fd043c2",
+      "name": "ATCHI N’Bouké Yao",
+      "sort_name": "ATCHI N’Bouké Yao"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "8bbbc710-6b9b-4515-90de-d9cea5ecca54",
+      "name": "ASSOUMA Derman",
+      "sort_name": "ASSOUMA Derman"
     },
     {
       "gender": "male",
@@ -800,6 +1164,27 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "9648c8c6-4db9-4638-aa86-4b0d99392e0a",
+      "name": "SAMBIANI Yentema A.",
+      "sort_name": "SAMBIANI Yentema A."
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "9725452d-5181-46cf-ba91-d4033022c855",
+      "name": "SOGOYOU Bekeyi E.",
+      "sort_name": "SOGOYOU Bekeyi E."
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "97af9ba0-b8e0-4940-ad16-e0639d4309a7",
+      "name": "KATAGNA Essodina",
+      "sort_name": "KATAGNA Essodina"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "9a7b391f-ac27-442c-97ab-98f0f94ff04f",
       "identifiers": [
         {
@@ -809,6 +1194,13 @@
       ],
       "name": "M. BARITSE Dametoti",
       "sort_name": "BARITSE Dametoti"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "9b23b04f-a3b5-4a5e-8824-4c6f32dc9bf6",
+      "name": "NONON K. Diera-Bariga",
+      "sort_name": "NONON K. Diera-Bariga"
     },
     {
       "gender": "female",
@@ -837,6 +1229,13 @@
       "sort_name": "BANKATI Bolagbédé"
     },
     {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "9d8a1cd2-30ed-4c51-ab14-5b083df0c9b6",
+      "name": "AMOUZOU Kodjovi",
+      "sort_name": "AMOUZOU Kodjovi"
+    },
+    {
       "gender": "female",
       "honorific_prefix": "Mme",
       "id": "9f72d8ee-5013-4b0c-bbbe-ac85acc98ffb",
@@ -848,6 +1247,27 @@
       ],
       "name": "Mme AMEDJOGBE Akossiwa Olivia",
       "sort_name": "AMEDJOGBE Akossiwa Olivia"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "a22f03b7-7fb7-4935-a1be-9198d1cefdde",
+      "name": "KISSI Kofi Hotounou",
+      "sort_name": "KISSI Kofi Hotounou"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "a36ec908-a80a-4f71-9399-fd861e36fcf9",
+      "name": "VODIS Yawo",
+      "sort_name": "VODIS Yawo"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "a3cd4d11-828b-40c8-b585-283dc41af0d4",
+      "name": "TSEGAN Yawa Djigbodi",
+      "sort_name": "TSEGAN Yawa Djigbodi"
     },
     {
       "gender": "male",
@@ -865,6 +1285,20 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "a9779ce0-6245-4845-9750-4986c6de2b18",
+      "name": "APEVON Kokou Dodji",
+      "sort_name": "APEVON Kokou Dodji"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "aa561c80-a15e-420c-8a60-280d1b7784ab",
+      "name": "TELOU Mila – Belle",
+      "sort_name": "TELOU Mila – Belle"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "aaeb0389-9058-4385-878f-0eb9d4d5c323",
       "identifiers": [
         {
@@ -878,6 +1312,13 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "ab718eaa-2172-4992-848d-ab7b1761d661",
+      "name": "OSSEYI Yawovi",
+      "sort_name": "OSSEYI Yawovi"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "af7d2c5f-4301-4938-8371-0cc728c7713a",
       "identifiers": [
         {
@@ -887,6 +1328,13 @@
       ],
       "name": "M. PENN Lare Batouth",
       "sort_name": "PENN Lare Batouth"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "b1b9475e-4153-4d7c-822f-696f7549ea0b",
+      "name": "KOLANI Yobate",
+      "sort_name": "KOLANI Yobate"
     },
     {
       "gender": "male",
@@ -917,6 +1365,13 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "ba757515-e63e-455c-aa62-628fd1315d79",
+      "name": "LABITOKO Kadjila",
+      "sort_name": "LABITOKO Kadjila"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "bb67e2c1-97e2-40b2-9efb-8cb5456a11ba",
       "identifiers": [
         {
@@ -925,6 +1380,13 @@
         }
       ],
       "name": "M.KOSSIGAN Kodjogan M.",
+      "sort_name": "KOSSIGAN Kodjogan M."
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "bc425ced-f5c6-4315-a3f2-b3a4a0d21b39",
+      "name": "KOSSIGAN Kodjogan M.",
       "sort_name": "KOSSIGAN Kodjogan M."
     },
     {
@@ -952,6 +1414,27 @@
       ],
       "name": "M. APEKEY Assewouwokan",
       "sort_name": "APEKEY Assewouwokan"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "c143b959-b1a8-4726-9686-ce97f93ea702",
+      "name": "ADJOR Akofi",
+      "sort_name": "ADJOR Akofi"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "c30c7ebb-25d6-417a-b39e-da942cd2a42d",
+      "name": "JONDOH Comlavi Dzigbodi",
+      "sort_name": "JONDOH Comlavi Dzigbodi"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "c5d7579a-cd6d-4e5e-8076-2f271efbb0e2",
+      "name": "AMENYO Afi Ntifa",
+      "sort_name": "AMENYO Afi Ntifa"
     },
     {
       "gender": "male",
@@ -1012,6 +1495,20 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "c8816d70-8bcf-4c0f-b50f-a129c2d05ecf",
+      "name": "ABIGUIME Petik-Abalo",
+      "sort_name": "ABIGUIME Petik-Abalo"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "cb1f09d4-27e2-4ebd-966a-95b075db462a",
+      "name": "AMOUZOU DJAKE Kossiwa",
+      "sort_name": "AMOUZOU DJAKE Kossiwa"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "cc05069b-2742-477b-8c3b-28223fac1893",
       "identifiers": [
         {
@@ -1034,6 +1531,13 @@
       ],
       "name": "M. AGBO Kokou",
       "sort_name": "AGBO Kokou"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "ccd3b166-75b3-4d94-aed7-7f5e62dc6da4",
+      "name": "FOFANA Soffoh",
+      "sort_name": "FOFANA Soffoh"
     },
     {
       "gender": "male",
@@ -1075,6 +1579,13 @@
       "sort_name": "KATAGNA Essodina"
     },
     {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "d0123630-e069-41f7-8968-d6e095c78b7d",
+      "name": "AMEGANVI M.Isabelle D.",
+      "sort_name": "AMEGANVI M.Isabelle D."
+    },
+    {
       "gender": "male",
       "honorific_prefix": "M",
       "id": "d021204e-864d-497b-bb51-9df1594d84ba",
@@ -1086,6 +1597,20 @@
       ],
       "name": "M. LAWSON-Banku Boevi Patrick",
       "sort_name": "LAWSON-Banku Boevi Patrick"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "d0b73f89-2a93-4fd7-a6de-598b618b791a",
+      "name": "JIMONGOU Sambiani Kpandou",
+      "sort_name": "JIMONGOU Sambiani Kpandou"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "d30b1a71-99ab-46e1-9591-b9994da860f7",
+      "name": "DRA Kossi Seveamenou",
+      "sort_name": "DRA Kossi Seveamenou"
     },
     {
       "gender": "male",
@@ -1125,6 +1650,41 @@
       ],
       "name": "M. ABOLU Yawo Afelete",
       "sort_name": "ABOLU Yawo Afelete"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "d6294c76-25ec-4bc7-9a02-efc6132163a0",
+      "name": "TCHASSE Awedeou",
+      "sort_name": "TCHASSE Awedeou"
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Mme",
+      "id": "d6abb5f7-d534-40eb-8aa8-f40c6b027db9",
+      "name": "DAGBAN Ayawavi Djigbodi",
+      "sort_name": "DAGBAN Ayawavi Djigbodi"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "d7110f06-1744-4fd2-92ae-789b4b60cb7f",
+      "name": "DRAMANI Dama",
+      "sort_name": "DRAMANI Dama"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "dd28caca-7eea-4d4a-9b22-052592a50b26",
+      "name": "GNATCHO Komla Mawuena",
+      "sort_name": "GNATCHO Komla Mawuena"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "dd7a4957-1e3a-4336-8c4e-32a22fa6dd92",
+      "name": "BOUWASSI Kédessa Datcha",
+      "sort_name": "BOUWASSI Kédessa Datcha"
     },
     {
       "gender": "male",
@@ -1194,6 +1754,27 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "e20ef429-2fb4-40f8-8293-fc0175a8cf27",
+      "name": "KPOHOU Sim",
+      "sort_name": "KPOHOU Sim"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "e9722362-7956-400d-abb3-4fbf695f3608",
+      "name": "LAWSON-Banku Boevi Patrick",
+      "sort_name": "LAWSON-Banku Boevi Patrick"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "ea52c4bf-3497-423d-8781-6ddb4f6709d7",
+      "name": "AFO ALEDJOU Mawé",
+      "sort_name": "AFO ALEDJOU Mawé"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "ea64e669-982e-4aa6-8abf-415179e06171",
       "identifiers": [
         {
@@ -1216,6 +1797,20 @@
       ],
       "name": "M. APEVON Kokou Dodji",
       "sort_name": "APEVON Kokou Dodji"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "eb0ea4c5-5a30-4c02-b216-000bbe8f7a29",
+      "name": "KETOGLO Yao Victor",
+      "sort_name": "KETOGLO Yao Victor"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "edee6486-bd63-4a30-b49d-97b75cc25b00",
+      "name": "HODIN Eke Kokou",
+      "sort_name": "HODIN Eke Kokou"
     },
     {
       "gender": "male",
@@ -1264,6 +1859,27 @@
     {
       "gender": "male",
       "honorific_prefix": "M",
+      "id": "f23f2d24-56bb-4757-8cb8-fd218e950e43",
+      "name": "TCHAMON Abalea",
+      "sort_name": "TCHAMON Abalea"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "f5847228-d75c-4c09-99ff-97b6b485fcad",
+      "name": "ABOLU Yawo Afelete",
+      "sort_name": "ABOLU Yawo Afelete"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "f61a236b-3ca2-4bed-892c-5326f7b2b72a",
+      "name": "KATIN Djagre",
+      "sort_name": "KATIN Djagre"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
       "id": "f8076dd9-a328-4262-aba2-7dc8226d4817",
       "identifiers": [
         {
@@ -1273,6 +1889,13 @@
       ],
       "name": "M. KPADENOU Amoussouvi",
       "sort_name": "KPADENOU Amoussouvi"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "f85f0fa1-a03f-45ab-8405-5a138dfa38eb",
+      "name": "EWOVOR Kossi Messan W.",
+      "sort_name": "EWOVOR Kossi Messan W."
     },
     {
       "gender": "male",
@@ -1312,6 +1935,20 @@
       ],
       "name": "Mme DJOBO Nassara Epse OURO BANGANA",
       "sort_name": "DJOBO Nassara Epse OURO BANGANA"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "ff3a598f-0aa9-40c7-b557-a655065423b3",
+      "name": "BANKATI Bolagbédé",
+      "sort_name": "BANKATI Bolagbédé"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "M",
+      "id": "ffddce8d-596c-4002-8379-fc59b2edd01b",
+      "name": "TCHAO Padumhekou",
+      "sort_name": "TCHAO Padumhekou"
     }
   ],
   "organizations": [
@@ -2399,11 +3036,27 @@
       "role": "member"
     },
     {
+      "area_id": "yoto",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "arc-en-ciel",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "0116bbda-304f-4a56-a9a7-7b3aef9b189f",
+      "role": "member"
+    },
+    {
       "area_id": "assoli",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "0248fb7f-f799-4bb8-bfd8-5ffc7a16ac2a",
+      "role": "member"
+    },
+    {
+      "area_id": "keran",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "07a970d4-b04a-47e3-99d0-e625039e855e",
       "role": "member"
     },
     {
@@ -2415,6 +3068,22 @@
       "role": "member"
     },
     {
+      "area_id": "ogou-anie",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "09bbc6d1-d826-4a4c-950f-c8a2393bc686",
+      "role": "member"
+    },
+    {
+      "area_id": "vo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "0aaf42b9-88e0-4ed9-b73d-a1e9d90457e7",
+      "role": "member"
+    },
+    {
       "area_id": "haho",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
@@ -2423,11 +3092,27 @@
       "role": "member"
     },
     {
+      "area_id": "assoli",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "0afb8fc6-7947-41ac-8a55-374dfaef9aab",
+      "role": "member"
+    },
+    {
       "area_id": "agou",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "0b3d06f4-17ea-41a7-83b7-6b2ba1dfe72c",
+      "role": "member"
+    },
+    {
+      "area_id": "grand_lome",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "0cc8e0b3-79de-43b8-b77e-c72fa6a4befd",
       "role": "member"
     },
     {
@@ -2447,11 +3132,35 @@
       "role": "member"
     },
     {
+      "area_id": "bassar",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "10482900-5cda-4b0c-859c-c000e58579af",
+      "role": "member"
+    },
+    {
       "area_id": "tchamba",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "128bff8a-6062-44f1-b754-1381c793e9c8",
+      "role": "member"
+    },
+    {
+      "area_id": "vo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "1293a34d-38c1-4667-b68e-d129617760b6",
+      "role": "member"
+    },
+    {
+      "area_id": "tandjouare",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "addi",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "1295d3f5-c6aa-4f55-a7e1-2797d89703ab",
       "role": "member"
     },
     {
@@ -2495,11 +3204,35 @@
       "role": "member"
     },
     {
+      "area_id": "yoto",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "arc-en-ciel",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "19348546-091d-4af8-90bb-3944e5f47098",
+      "role": "member"
+    },
+    {
+      "area_id": "grand_lome",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "199a60f1-8b65-47d9-ab77-932151b89596",
+      "role": "member"
+    },
+    {
       "area_id": "kloto-kpele",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "anc",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "19ef806c-cdc4-420c-9204-f0bfc0e02721",
+      "role": "member"
+    },
+    {
+      "area_id": "yoto",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "arc-en-ciel",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "1b01adec-e62a-4fa2-b32a-ca62f0ea516c",
       "role": "member"
     },
     {
@@ -2511,6 +3244,46 @@
       "role": "member"
     },
     {
+      "area_id": "danyi",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "1f068453-4e73-4311-8495-34c25ff260a5",
+      "role": "member"
+    },
+    {
+      "area_id": "grand_lome",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "247dbea3-7ab8-4b2c-b444-cd284ab08fe4",
+      "role": "member"
+    },
+    {
+      "area_id": "wawa-akebou",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "2614fa41-a3de-491b-a4df-f6d2237fc862",
+      "role": "member"
+    },
+    {
+      "area_id": "tone-cinkasse",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "28426534-68e5-4afc-ac79-d90dc06c47d8",
+      "role": "member"
+    },
+    {
+      "area_id": "lacs-bas_mono",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "28c529b7-b512-41b9-b225-4a5d547d905f",
+      "role": "member"
+    },
+    {
       "area_id": "kloto-kpele",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
@@ -2519,11 +3292,35 @@
       "role": "member"
     },
     {
+      "area_id": "tone-cinkasse",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "29362dec-a572-479a-b415-0fdbf9022345",
+      "role": "member"
+    },
+    {
       "area_id": "zio",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "anc",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "2986fb08-912a-4570-aff3-6ea7e38246f6",
+      "role": "member"
+    },
+    {
+      "area_id": "oti",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "2c966de5-1230-4cc9-b5c0-570702b999b6",
+      "role": "member"
+    },
+    {
+      "area_id": "bassar",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "indépendant_sursaut_national",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "2cb63464-fb2f-4606-81e9-1369acd2a656",
       "role": "member"
     },
     {
@@ -2551,6 +3348,14 @@
       "role": "member"
     },
     {
+      "area_id": "tchaoudjo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "3605f975-2e7e-4a16-b229-501583d6700c",
+      "role": "member"
+    },
+    {
       "area_id": "ogou-anie",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
@@ -2559,11 +3364,51 @@
       "role": "member"
     },
     {
+      "area_id": "dankpen",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "39fe509e-2234-4704-91f3-2b9ddae9dfed",
+      "role": "member"
+    },
+    {
+      "area_id": "zio",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "3a42083a-8c1a-4c7e-8cb4-a0af1c97d9b3",
+      "role": "member"
+    },
+    {
       "area_id": "amou",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "3c0d78f7-2902-44d5-aa0f-63157a341bea",
+      "role": "member"
+    },
+    {
+      "area_id": "tchaoudjo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "3c7f263f-ca9e-432f-b213-58718f1f63f6",
+      "role": "member"
+    },
+    {
+      "area_id": "kloto-kpele",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "3e97a152-2d26-4a7c-8947-2e3dcf1c9ecc",
+      "role": "member"
+    },
+    {
+      "area_id": "agou",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "3fc81c48-7120-4217-9203-da75f01918c6",
       "role": "member"
     },
     {
@@ -2599,6 +3444,14 @@
       "role": "member"
     },
     {
+      "area_id": "dankpen",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "47f2f9b9-2739-4d5b-a0b3-bd9a11d25733",
+      "role": "member"
+    },
+    {
       "area_id": "grand_lome",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "anc",
@@ -2623,11 +3476,43 @@
       "role": "member"
     },
     {
+      "area_id": "wawa-akebou",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "4c63dc45-7e89-4f77-9674-eedf648f41cb",
+      "role": "member"
+    },
+    {
+      "area_id": "kozah",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "4cc6b3a1-88cf-4f7e-bbde-73ad14c2cbd4",
+      "role": "member"
+    },
+    {
+      "area_id": "wawa-akebou",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "4f7d0ccb-aa0d-4977-b198-96724954dca6",
+      "role": "member"
+    },
+    {
       "area_id": "keran",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "50d12269-0fc1-46d4-8569-067596b72610",
+      "role": "member"
+    },
+    {
+      "area_id": "amou",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "51131610-0f04-4a3d-a9a3-acc75b576048",
       "role": "member"
     },
     {
@@ -2639,11 +3524,35 @@
       "role": "member"
     },
     {
+      "area_id": "kpendjal",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "521bbec4-a4f1-4416-b73a-5ae0e10e40c2",
+      "role": "member"
+    },
+    {
       "area_id": "asssoli",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "anc",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "530805ca-f086-49c3-bc42-7fd44affd1ce",
+      "role": "member"
+    },
+    {
+      "area_id": "keran",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "55f00382-69cb-4687-acea-ba69452a7823",
+      "role": "member"
+    },
+    {
+      "area_id": "grand_lome",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "5a3a9a22-5ba5-4355-991b-d31452401c1a",
       "role": "member"
     },
     {
@@ -2655,11 +3564,35 @@
       "role": "member"
     },
     {
+      "area_id": "tone-cinkasse",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "addi",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "5c5b83a8-692f-48e0-b43d-16010558b36b",
+      "role": "member"
+    },
+    {
+      "area_id": "oti",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ufc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "5ca3ea1d-ef79-41ff-9b87-41fc861454bb",
+      "role": "member"
+    },
+    {
       "area_id": "amou",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "5d5f3203-3255-4067-afb6-e8b92b640de8",
+      "role": "member"
+    },
+    {
+      "area_id": "grand_lome",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "5e30329f-a2a7-4f27-a3e5-8636ac78be73",
       "role": "member"
     },
     {
@@ -2679,11 +3612,43 @@
       "role": "member"
     },
     {
+      "area_id": "ogou-anie",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "624acda7-f5f8-4207-9fea-3687deabd25d",
+      "role": "member"
+    },
+    {
       "area_id": "grand_lome",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "anc",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "62712dce-cf36-408f-b4c2-d6a63adc72d7",
+      "role": "member"
+    },
+    {
+      "area_id": "est-mono",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "65ff1054-51f1-4584-9614-02cfdd50bbe2",
+      "role": "member"
+    },
+    {
+      "area_id": "dankpen",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "66880498-de1d-4012-a626-5c09d77762d7",
+      "role": "member"
+    },
+    {
+      "area_id": "blitta",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "67f33ec0-7deb-48a4-b073-8af8538e8294",
       "role": "member"
     },
     {
@@ -2727,6 +3692,14 @@
       "role": "member"
     },
     {
+      "area_id": "kpendjal",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "73003013-b631-4c12-ac64-0cd568b8305a",
+      "role": "member"
+    },
+    {
       "area_id": "vo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
@@ -2743,6 +3716,30 @@
       "role": "member"
     },
     {
+      "area_id": "blitta",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "755de759-1b66-4ec4-8472-e9961669af98",
+      "role": "member"
+    },
+    {
+      "area_id": "grand_lome",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "759213cc-cfb9-490f-9e9d-71490c2b4b29",
+      "role": "member"
+    },
+    {
+      "area_id": "est-mono",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "independant",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "761760c6-bcbf-436f-af12-866265e5513d",
+      "role": "member"
+    },
+    {
       "area_id": "vo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "arc-en-ciel",
@@ -2756,6 +3753,22 @@
       "on_behalf_of_id": "anc",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "771133f1-035b-4c31-981e-9e4c8f2aa156",
+      "role": "member"
+    },
+    {
+      "area_id": "est-mono",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "7749b2e3-0405-43d8-ab6c-ccca0e6f5234",
+      "role": "member"
+    },
+    {
+      "area_id": "zio",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "791c5045-463d-463c-a889-ef89705d123f",
       "role": "member"
     },
     {
@@ -2783,11 +3796,51 @@
       "role": "member"
     },
     {
+      "area_id": "ogou-anie",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "8789c484-f5af-4fc9-a14a-0b31e95f8234",
+      "role": "member"
+    },
+    {
+      "area_id": "lacs-bas_mono",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "889735e1-4189-4e22-b51b-43c5b2099042",
+      "role": "member"
+    },
+    {
+      "area_id": "moyen-mono",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "88d9a419-def9-496c-b35e-ce5bb59b3f2f",
+      "role": "member"
+    },
+    {
       "area_id": "blitta",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "8a9c4083-2194-4499-ab8b-ec8a1cbb8e3e",
+      "role": "member"
+    },
+    {
+      "area_id": "moyen-mono",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "8b5fde24-3ca4-4127-a3ea-57ac6fd043c2",
+      "role": "member"
+    },
+    {
+      "area_id": "tchamba",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "8bbbc710-6b9b-4515-90de-d9cea5ecca54",
       "role": "member"
     },
     {
@@ -2827,7 +3880,39 @@
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "9648c8c6-4db9-4638-aa86-4b0d99392e0a",
+      "role": "member"
+    },
+    {
+      "area_id": "tchaoudjo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "9725452d-5181-46cf-ba91-d4033022c855",
+      "role": "member"
+    },
+    {
+      "area_id": "binah",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "97af9ba0-b8e0-4940-ad16-e0639d4309a7",
+      "role": "member"
+    },
+    {
+      "area_id": "kpendjal",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "9a7b391f-ac27-442c-97ab-98f0f94ff04f",
+      "role": "member"
+    },
+    {
+      "area_id": "blitta",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "9b23b04f-a3b5-4a5e-8824-4c6f32dc9bf6",
       "role": "member"
     },
     {
@@ -2847,11 +3932,43 @@
       "role": "member"
     },
     {
+      "area_id": "haho",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "9d8a1cd2-30ed-4c51-ab14-5b083df0c9b6",
+      "role": "member"
+    },
+    {
       "area_id": "grand_lome",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "9f72d8ee-5013-4b0c-bbbe-ac85acc98ffb",
+      "role": "member"
+    },
+    {
+      "area_id": "vo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "arc-en-ciel",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "a22f03b7-7fb7-4935-a1be-9198d1cefdde",
+      "role": "member"
+    },
+    {
+      "area_id": "zio",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "a36ec908-a80a-4f71-9399-fd861e36fcf9",
+      "role": "member"
+    },
+    {
+      "area_id": "kloto-kpele",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "a3cd4d11-828b-40c8-b585-283dc41af0d4",
       "role": "member"
     },
     {
@@ -2863,6 +3980,22 @@
       "role": "member"
     },
     {
+      "area_id": "grand_lome",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "arc-en-ciel",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "a9779ce0-6245-4845-9750-4986c6de2b18",
+      "role": "member"
+    },
+    {
+      "area_id": "kozah",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "aa561c80-a15e-420c-8a60-280d1b7784ab",
+      "role": "member"
+    },
+    {
       "area_id": "est-mono",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
@@ -2871,11 +4004,27 @@
       "role": "member"
     },
     {
+      "area_id": "amou",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "ab718eaa-2172-4992-848d-ab7b1761d661",
+      "role": "member"
+    },
+    {
       "area_id": "oti",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "af7d2c5f-4301-4938-8371-0cc728c7713a",
+      "role": "member"
+    },
+    {
+      "area_id": "tandjouare",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "b1b9475e-4153-4d7c-822f-696f7549ea0b",
       "role": "member"
     },
     {
@@ -2895,11 +4044,27 @@
       "role": "member"
     },
     {
+      "area_id": "doufelgou",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "ba757515-e63e-455c-aa62-628fd1315d79",
+      "role": "member"
+    },
+    {
       "area_id": "haho",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "bb67e2c1-97e2-40b2-9efb-8cb5456a11ba",
+      "role": "member"
+    },
+    {
+      "area_id": "haho",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "bc425ced-f5c6-4315-a3f2-b3a4a0d21b39",
       "role": "member"
     },
     {
@@ -2916,6 +4081,30 @@
       "on_behalf_of_id": "anc",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "bdf4c911-99ee-4133-a1ce-722165a32987",
+      "role": "member"
+    },
+    {
+      "area_id": "ave",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "c143b959-b1a8-4726-9686-ce97f93ea702",
+      "role": "member"
+    },
+    {
+      "area_id": "grand_lome",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "c30c7ebb-25d6-417a-b39e-da942cd2a42d",
+      "role": "member"
+    },
+    {
+      "area_id": "agou",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "c5d7579a-cd6d-4e5e-8076-2f271efbb0e2",
       "role": "member"
     },
     {
@@ -2943,6 +4132,22 @@
       "role": "member"
     },
     {
+      "area_id": "binah",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "c8816d70-8bcf-4c0f-b50f-a129c2d05ecf",
+      "role": "member"
+    },
+    {
+      "area_id": "haho",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "cb1f09d4-27e2-4ebd-966a-95b075db462a",
+      "role": "member"
+    },
+    {
       "area_id": "tchaoudjo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "unir",
@@ -2956,6 +4161,14 @@
       "on_behalf_of_id": "arc-en-ciel",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "cc828d68-466f-4c75-981c-ab2f4aed3293",
+      "role": "member"
+    },
+    {
+      "area_id": "asssoli",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "ccd3b166-75b3-4d94-aed7-7f5e62dc6da4",
       "role": "member"
     },
     {
@@ -2983,11 +4196,35 @@
       "role": "member"
     },
     {
+      "area_id": "kloto-kpele",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "d0123630-e069-41f7-8968-d6e095c78b7d",
+      "role": "member"
+    },
+    {
       "area_id": "lacs-bas_mono",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "anc",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "d021204e-864d-497b-bb51-9df1594d84ba",
+      "role": "member"
+    },
+    {
+      "area_id": "tone-cinkasse",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ufc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "d0b73f89-2a93-4fd7-a6de-598b618b791a",
+      "role": "member"
+    },
+    {
+      "area_id": "grand_lome",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "d30b1a71-99ab-46e1-9591-b9994da860f7",
       "role": "member"
     },
     {
@@ -3012,6 +4249,46 @@
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "d576bee9-848b-4d6c-8048-79def0dffbc2",
+      "role": "member"
+    },
+    {
+      "area_id": "sotouboua",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "d6294c76-25ec-4bc7-9a02-efc6132163a0",
+      "role": "member"
+    },
+    {
+      "area_id": "grand_lome",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "d6abb5f7-d534-40eb-8aa8-f40c6b027db9",
+      "role": "member"
+    },
+    {
+      "area_id": "tchamba",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "d7110f06-1744-4fd2-92ae-789b4b60cb7f",
+      "role": "member"
+    },
+    {
+      "area_id": "amou",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "dd28caca-7eea-4d4a-9b22-052592a50b26",
+      "role": "member"
+    },
+    {
+      "area_id": "kozah",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "dd7a4957-1e3a-4336-8c4e-32a22fa6dd92",
       "role": "member"
     },
     {
@@ -3055,6 +4332,30 @@
       "role": "member"
     },
     {
+      "area_id": "sotouboua",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "e20ef429-2fb4-40f8-8293-fc0175a8cf27",
+      "role": "member"
+    },
+    {
+      "area_id": "lacs-bas_mono",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "e9722362-7956-400d-abb3-4fbf695f3608",
+      "role": "member"
+    },
+    {
+      "area_id": "tchamba",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "ea52c4bf-3497-423d-8781-6ddb4f6709d7",
+      "role": "member"
+    },
+    {
       "area_id": "yoto",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "arc-en-ciel",
@@ -3068,6 +4369,22 @@
       "on_behalf_of_id": "arc-en-ciel",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "ea86e52d-9813-457c-af1d-b5aaeb07e066",
+      "role": "member"
+    },
+    {
+      "area_id": "zio",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "anc",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "eb0ea4c5-5a30-4c02-b216-000bbe8f7a29",
+      "role": "member"
+    },
+    {
+      "area_id": "ogou-anie",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "edee6486-bd63-4a30-b49d-97b75cc25b00",
       "role": "member"
     },
     {
@@ -3087,11 +4404,43 @@
       "role": "member"
     },
     {
+      "area_id": "doufelgou",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "f23f2d24-56bb-4757-8cb8-fd218e950e43",
+      "role": "member"
+    },
+    {
+      "area_id": "ave",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "f5847228-d75c-4c09-99ff-97b6b485fcad",
+      "role": "member"
+    },
+    {
+      "area_id": "bassar",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "f61a236b-3ca2-4bed-892c-5326f7b2b72a",
+      "role": "member"
+    },
+    {
       "area_id": "lacs-bas_mono",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "anc",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "f8076dd9-a328-4262-aba2-7dc8226d4817",
+      "role": "member"
+    },
+    {
+      "area_id": "danyi",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "f85f0fa1-a03f-45ab-8405-5a138dfa38eb",
       "role": "member"
     },
     {
@@ -3116,6 +4465,22 @@
       "on_behalf_of_id": "unir",
       "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
       "person_id": "fcfe3bf8-441c-4e33-a5cb-9046e282b32e",
+      "role": "member"
+    },
+    {
+      "area_id": "oti",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "ff3a598f-0aa9-40c7-b557-a655065423b3",
+      "role": "member"
+    },
+    {
+      "area_id": "sotouboua",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "unir",
+      "organization_id": "988ba314-0b40-461b-bbd8-8f23acd27099",
+      "person_id": "ffddce8d-596c-4002-8379-fc59b2edd01b",
       "role": "member"
     }
   ],
