@@ -1312,6 +1312,10 @@
           "url": "https://ko.wikipedia.org/wiki/함진규"
         },
         {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/咸珍圭"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/dreamham7"
         },
@@ -3136,6 +3140,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Mun Jae-in",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Мун Чжэ Ин",
           "note": "multilingual"
@@ -3951,7 +3960,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/이학재_(1964년)"
+          "url": "https://ko.wikipedia.org/wiki/이학재_(정치인)"
         },
         {
           "note": "facebook",
@@ -4239,6 +4248,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Kang_Chang-il_(homme_politique)"
+        },
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/姜昌一"
@@ -5720,6 +5733,11 @@
         {
           "lang": "cn",
           "name": "吳泳食",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "呉泳食",
           "note": "multilingual"
         },
         {
@@ -8678,7 +8696,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/신창현_(1953년)"
+          "url": "https://ko.wikipedia.org/wiki/신창현_(정치인)"
         },
         {
           "note": "website",
@@ -20591,7 +20609,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/김수민"
+          "url": "https://ko.wikipedia.org/wiki/김수민_(1986년)"
         },
         {
           "note": "website",
@@ -22755,6 +22773,11 @@
         {
           "lang": "en",
           "name": "Choi Yeon-hye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "崔然恵",
           "note": "multilingual"
         },
         {
@@ -37311,6 +37334,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
