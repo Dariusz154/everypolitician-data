@@ -1665,6 +1665,7 @@
     {
       "birth_date": "1972",
       "gender": "female",
+      "given_name": "Freda",
       "id": "c43c5454-d3f3-4cc6-94ca-2d23d6e66ecc",
       "identifiers": [
         {
@@ -2971,6 +2972,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
