@@ -11436,6 +11436,11 @@
       "name": "Liz McManus",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "ليز ماكمانوس",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Лиз Макманус",
           "note": "multilingual"
@@ -11573,6 +11578,10 @@
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Mary_Lou_McDonald"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Mary_Lou_McDonald"
         },
         {
           "note": "twitter",
@@ -12278,6 +12287,10 @@
       "id": "56d3105d-e281-4da8-a686-a2ba712161bd",
       "identifiers": [
         {
+          "identifier": "jo2013796678",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "George-Lee.D.2009-06-05",
           "scheme": "oireachtas"
         },
@@ -12787,6 +12800,11 @@
       "other_names": [
         {
           "lang": "nl",
+          "name": "Brid Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Brid Smith",
           "note": "multilingual"
         }
@@ -13488,6 +13506,10 @@
         {
           "note": "Wikipedia (mr)",
           "url": "https://mr.wikipedia.org/wiki/लिओ_वराडकर"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Leo_Varadkar"
         },
         {
           "note": "Wikipedia (nl)",
@@ -17938,6 +17960,11 @@
       ],
       "name": "Séamus Kirk",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "سيموس كيرك",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "Шимус Кёрк",
@@ -27163,7 +27190,7 @@
       ]
     },
     {
-      "birth_date": "1971-12-11",
+      "birth_date": "1971-12-28",
       "contact_details": [
         {
           "type": "twitter",
@@ -30245,6 +30272,10 @@
           "url": "https://fi.wikipedia.org/wiki/Síle_de_Valera"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Síle_de_Valera"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Síle_de_Valera"
         },
@@ -31026,7 +31057,14 @@
           "url": "https://en.wikipedia.org/wiki/Maurice_Manning"
         }
       ],
-      "name": "Maurice Manning"
+      "name": "Maurice Manning",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Морис Мэннинг",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-09-11",
@@ -31397,6 +31435,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:John_Halligan"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/John_Halligan_(politician)"
@@ -33422,7 +33464,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Dan_Wallace"
+          "url": "https://en.wikipedia.org/wiki/Dan_Wallace_(politician)"
         },
         {
           "note": "Wikipedia (sco)",
@@ -38161,6 +38203,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -38890,6 +38938,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hu",
+          "name": "Munkapárt",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "工黨",
           "note": "multilingual",
@@ -39434,6 +39488,12 @@
         {
           "lang": "ur",
           "name": "شن فین",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "wuu",
+          "name": "新芬党",
           "note": "multilingual",
           "source": "wikidata-label"
         },
