@@ -524,6 +524,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Zezka Zatschewa",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "TSETSKA TSACHEVA DANGOVSKA",
           "note": "multilingual"
@@ -2987,6 +2992,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "xx0009768",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "n2013058099",
           "scheme": "nukat"
         },
@@ -3355,6 +3364,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Nonka Matowa",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "NONKA DECHEVA MATOVA",
           "note": "multilingual"
@@ -3408,6 +3422,10 @@
         {
           "identifier": "232",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "69495",
+          "scheme": "fast"
         },
         {
           "identifier": "0000 0000 3011 0084",
@@ -7760,6 +7778,11 @@
         {
           "lang": "ru",
           "name": "Паси, Соломон Исак",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Solomon Pasi",
           "note": "multilingual"
         },
         {
@@ -14644,6 +14667,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Emilija Maslarowa",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "EMILIA RADKOVA MASLAROVA",
           "note": "multilingual"
@@ -19931,6 +19959,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Liljana Pawlowa",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "LILYANA PAVLOVA NIKOLOVA",
           "note": "multilingual"
@@ -21379,6 +21412,10 @@
         {
           "identifier": "n84155167",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "jn20010601678",
+          "scheme": "nkc"
         },
         {
           "identifier": "151290911",
@@ -24021,6 +24058,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Anastassija Dimitrowa-Moser",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "ANASTASIA GEORGIEVA DIMITROVA-MOZER",
           "note": "multilingual"
@@ -24748,6 +24790,11 @@
         {
           "lang": "bg",
           "name": "Весела Лечева",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Wessela Letschewa",
           "note": "multilingual"
         },
         {
@@ -29175,6 +29222,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "jx20050301001",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "291",
           "scheme": "parliament_bg"
         },
@@ -29274,6 +29325,10 @@
           "url": "https://pt.wikipedia.org/wiki/Ahmed_Dogan"
         },
         {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Ahmed_Doğan"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Доган,_Ахмед"
         },
@@ -29358,6 +29413,11 @@
         {
           "lang": "nn",
           "name": "Akhmed Dogan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Ahmed Doğan",
           "note": "multilingual"
         },
         {
@@ -29931,6 +29991,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Wolen_Siderow"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Volen_Siderov"
         },
         {
           "note": "Wikipedia (ru)",
@@ -35895,6 +35959,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Kornelija_Ninowa"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Kornelia_Ninova"
         }
       ],
       "name": "КОРНЕЛИЯ ПЕТРОВА НИНОВА",
@@ -35936,6 +36004,11 @@
         {
           "lang": "pl",
           "name": "Kornelija Ninowa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Kornelia Ninova",
           "note": "multilingual"
         }
       ]
@@ -40471,6 +40544,11 @@
         {
           "lang": "bg",
           "name": "Долорес Арсенова",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dolores Arsenowa",
           "note": "multilingual"
         },
         {
@@ -50519,6 +50597,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -51633,6 +51717,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -52524,6 +52614,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -53757,6 +53853,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
