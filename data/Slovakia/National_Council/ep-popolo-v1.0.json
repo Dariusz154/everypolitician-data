@@ -7890,6 +7890,11 @@
           "lang": "en",
           "name": "László Nagy",
           "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nagy László",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Nagy, László A."
@@ -11754,6 +11759,11 @@
       "name": "Vincent Lukáč",
       "national_identity": "slovenská",
       "other_names": [
+        {
+          "lang": "ru",
+          "name": "Лукач, Винцент",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Вінцент Лукач",
@@ -16916,6 +16926,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "kup20030000106056",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "309326164789526510130612441",
           "scheme": "nrsr"
         },
@@ -17068,6 +17082,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:József_Berényi"
+        },
         {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/József_Berényi"
@@ -19963,6 +19981,10 @@
         {
           "identifier": "0000 0000 5560 2958",
           "scheme": "isni"
+        },
+        {
+          "identifier": "jx20040720147",
+          "scheme": "nkc"
         },
         {
           "identifier": "83951011133247556128132133408475838695",
@@ -30331,6 +30353,10 @@
       "id": "fc05219a-a128-4473-90b3-0e033e266547",
       "identifiers": [
         {
+          "identifier": "2210678",
+          "scheme": "bigenc_ru"
+        },
+        {
           "identifier": "122809676",
           "scheme": "bnf"
         },
@@ -31712,6 +31738,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -34801,6 +34833,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
