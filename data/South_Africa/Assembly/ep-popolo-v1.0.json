@@ -26415,6 +26415,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -27436,6 +27437,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q654444",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28115,6 +28117,7 @@
       "start_date": "2017-02-23"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28420,6 +28423,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28661,6 +28665,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28712,6 +28717,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29566,6 +29572,7 @@
       "role": "member"
     },
     {
+      "area_id": "Q59654381",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -30682,6 +30689,11 @@
     {
       "id": "Q165956",
       "name": "North West",
+      "type": "constituency"
+    },
+    {
+      "id": "Q59654381",
+      "name": "National List members",
       "type": "constituency"
     },
     {
