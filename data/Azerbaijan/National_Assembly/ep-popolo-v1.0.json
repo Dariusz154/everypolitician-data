@@ -614,6 +614,10 @@
           "scheme": "lnb"
         },
         {
+          "identifier": "jo2017955800",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "n2005003918",
           "scheme": "nukat"
         },
@@ -730,6 +734,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Elman_Mammadov"
+        },
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Elman_Məmmədov"
@@ -1076,6 +1084,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Azar_Karimli"
+        },
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Azər_Kərimli"
@@ -2863,6 +2875,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ali_huseynov_rtr.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ali_huseynov_rtr.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikimedia Commons",
@@ -4318,7 +4336,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Фаталиева,_Севиндж_Хабиб_кызы"
+          "url": "https://ru.wikipedia.org/wiki/Фаталиева,_Севиндж_Габиб_кызы"
         }
       ],
       "name": "Sevinc Fətəliyeva",
@@ -4507,6 +4525,10 @@
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Vüsal_Hüseynov"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Vüsal_Hüseynov"
         },
         {
           "note": "Wikipedia (en)",
@@ -6289,6 +6311,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
