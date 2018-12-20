@@ -208,6 +208,11 @@
       "name": "Tom Benson",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "توم بينسون",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Том Бенсон",
           "note": "multilingual"
@@ -4083,6 +4088,10 @@
           "url": "https://en.wikipedia.org/wiki/Alex_Maskey"
         },
         {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Alex_Maskey"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Мэски,_Алекс"
         },
@@ -6330,7 +6339,14 @@
           "url": "https://en.wikipedia.org/wiki/Alastair_Patterson"
         }
       ],
-      "name": "Alastair Patterson"
+      "name": "Alastair Patterson",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "ألاستير باترسون",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-08-29",
@@ -8876,6 +8892,7 @@
       ]
     },
     {
+      "birth_date": "1991-07-19",
       "family_name": "Buckley",
       "gender": "male",
       "given_name": "Jonathan",
@@ -12533,6 +12550,11 @@
       "name": "George Dawson",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "جورج داوسون",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Джордж Доусон",
           "note": "multilingual"
@@ -12823,6 +12845,10 @@
         {
           "identifier": "0000 0000 8177 9386",
           "scheme": "isni"
+        },
+        {
+          "identifier": "xx0011002",
+          "scheme": "nkc"
         },
         {
           "identifier": "126863849",
@@ -18066,6 +18092,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -18930,6 +18962,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "wuu",
+          "name": "新芬党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "新芬党",
           "note": "multilingual",
@@ -19564,6 +19602,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ast",
+          "name": "presidente del parllamentu",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "ja",
           "name": "県議会議長",
           "note": "multilingual",
@@ -19636,6 +19680,30 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "en",
+          "name": "speaker of the parliament",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "speaker of the house",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "parliamentary speaker",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "legislative speaker",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "or",
           "name": "ଅଧ୍ୟକ୍ଷ",
           "note": "multilingual",
@@ -19704,6 +19772,12 @@
         {
           "lang": "eo",
           "name": "prezidanto de parlamento",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ast",
+          "name": "presidente del parlamentu",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -19844,7 +19918,7 @@
         },
         {
           "lang": "et",
-          "name": "Suurbritannia Iseseisvuspartei",
+          "name": "Ühendkuningriigi Iseseisvuspartei",
           "note": "multilingual",
           "source": "wikidata-label"
         },
