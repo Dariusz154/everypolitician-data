@@ -1171,6 +1171,10 @@
           "scheme": "fast"
         },
         {
+          "identifier": "135056",
+          "scheme": "gtaa"
+        },
+        {
           "identifier": "0000 0000 2142 353X",
           "scheme": "isni"
         },
@@ -2587,6 +2591,10 @@
         {
           "note": "Wikipedia (ms)",
           "url": "https://ms.wikipedia.org/wiki/Fatimah_Hashim"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Фатима_Хашим"
         },
         {
           "note": "Wikipedia (sv)",
@@ -6504,7 +6512,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/罗纳"
+          "url": "https://zh.wikipedia.org/wiki/罗纳·建迪"
         },
         {
           "note": "wikipedia",
@@ -10095,6 +10103,7 @@
       "name": "Fatimah Abdul Majid"
     },
     {
+      "birth_date": "1963-07-07",
       "gender": "male",
       "given_name": "Othman",
       "id": "458bd56f-4428-4122-91ae-7338040fa8da",
@@ -23410,6 +23419,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "מוחין יאסין",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "ムヒディン・ヤシン",
           "note": "multilingual"
@@ -27909,6 +27923,10 @@
           "url": "https://ms.wikipedia.org/wiki/Zainuddin_bin_Maidin"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Зайнуддин_Майдин"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Zainuddin_Maidin"
         }
@@ -32199,6 +32217,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Mahathir_Mohamad"
         },
         {
+          "note": "Wikinews (en)",
+          "url": "https://en.wikinews.org/wiki/Category:Mahathir_Mohamad"
+        },
+        {
           "note": "Wikinews (ru)",
           "url": "https://ru.wikinews.org/wiki/Категория:Махатхир_Мохамад"
         },
@@ -35266,7 +35288,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/阿都拉欣巴克里"
+          "url": "https://zh.wikipedia.org/wiki/阿都拉欣·巴克里"
         },
         {
           "note": "wikipedia",
@@ -36948,6 +36970,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
