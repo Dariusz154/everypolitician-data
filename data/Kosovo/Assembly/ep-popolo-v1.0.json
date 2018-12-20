@@ -4836,6 +4836,10 @@
           "url": "https://de.wikipedia.org/wiki/Bujar_Bukoshi"
         },
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μπουγιάρ_Μπουκόσι"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bujar_Bukoshi"
         },
@@ -4870,6 +4874,11 @@
       ],
       "name": "Bujar Bukoshi",
       "other_names": [
+        {
+          "lang": "el",
+          "name": "Μπουγιάρ Μπουκόσι",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "ブヤル・ブコシ",
