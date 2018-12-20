@@ -41,6 +41,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Igor_Divinsky"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Дивинский,_Игорь_Борисович"
         }
@@ -543,6 +547,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vasily_Vlasov"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Vasily_Vlasov"
@@ -1640,6 +1648,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Andrey_Baryshev"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Барышев,_Андрей_Викторович"
         }
@@ -1798,6 +1810,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Ivan_Loor"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Лоор,_Иван_Иванович"
         }
@@ -1844,6 +1860,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sergey_Esyakov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Есяков,_Сергей_Яковлевич"
@@ -1906,6 +1926,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexey_Didenko"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Alexei_Didenko"
@@ -2215,7 +2239,7 @@
           "url": "http://www.duma.gov.ru/upload/iblock/2bc/2bcdd949ea1063534bd5e89466e72f9a.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Vladimir_Bortko.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Vladimir_Bortko_2018.jpg"
         }
       ],
       "links": [
@@ -2444,6 +2468,10 @@
         {
           "identifier": "0000 0000 5875 2740",
           "scheme": "isni"
+        },
+        {
+          "identifier": "jx20060905002",
+          "scheme": "nkc"
         },
         {
           "identifier": "80900415",
@@ -3936,6 +3964,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vladimir_Pozdnyakov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Поздняков,_Владимир_Георгиевич"
         },
@@ -4530,7 +4562,7 @@
         },
         {
           "note": "Wikipedia (ky)",
-          "url": "https://ky.wikipedia.org/wiki/Иосиф_Кобзон"
+          "url": "https://ky.wikipedia.org/wiki/Кобзон_Иосиф_Давыдович"
         },
         {
           "note": "Wikipedia (la)",
@@ -4923,6 +4955,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Andrey_Golushko"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Голушко,_Андрей_Иванович"
@@ -5942,7 +5978,7 @@
         },
         {
           "lang": "de",
-          "name": "Irina Jarovaja",
+          "name": "Irina Jarowaja",
           "note": "multilingual"
         },
         {
@@ -6528,6 +6564,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Arkady_Ponomarev"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Пономарёв,_Аркадий_Николаевич"
@@ -7234,6 +7274,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Boris_Gromov"
         },
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Борис_Громов"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/بوريس_غروموف"
         },
@@ -7811,6 +7855,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alikhan_Kharsiev"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Харсиев,_Алихан_Анатольевич"
         }
@@ -7924,6 +7972,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sergey_Chepikov"
+        },
         {
           "note": "Wikinews (ru)",
           "url": "https://ru.wikinews.org/wiki/Категория:Сергей_Чепиков"
@@ -8480,9 +8532,16 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/5f3/5f3346dda3231f877594800c794cfca7.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Езубов_Алексей_Петрович.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexey_Ezubov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Езубов,_Алексей_Петрович"
@@ -8539,6 +8598,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vladimir_Mikhailovich_Novikov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Новиков,_Владимир_Михайлович_(политик)"
         }
@@ -8576,9 +8639,16 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/ce9/ce98fc31e8963698bb1fd140ac75f083.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Боева_Н.Д.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Natalya_Boeva"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Боева,_Наталья_Дмитриевна"
@@ -8627,6 +8697,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Aleksandr_Vasilenko"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Василенко,_Александр_Борисович"
@@ -8803,6 +8877,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sergey_Gavrilov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Гаврилов,_Сергей_Анатольевич"
@@ -9063,6 +9141,7 @@
       "birth_date": "1972-05-05",
       "family_name": "Yurkov",
       "gender": "male",
+      "given_name": "Dmitry",
       "id": "2d8d6763-7bc6-4c64-bc22-9d0c7c8dd82e",
       "identifiers": [
         {
@@ -9080,6 +9159,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Dmitry_Yurkov_(politician)"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Юрков,_Дмитрий_Васильевич"
@@ -9230,6 +9313,11 @@
         {
           "name": "Хованская, Галина Петровна",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Galina Petrowna Chowanskaja",
+          "note": "multilingual"
         },
         {
           "lang": "en",
@@ -9481,6 +9569,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Nikolay_Bortsov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Борцов,_Николай_Иванович"
         }
@@ -9666,6 +9758,10 @@
         {
           "identifier": "zjores-alfjorov",
           "scheme": "ne_se"
+        },
+        {
+          "identifier": "jx20060918002",
+          "scheme": "nkc"
         },
         {
           "identifier": "039/000027955",
@@ -10694,6 +10790,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sergey_Petrov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Петров,_Сергей_Валериевич"
         }
@@ -10757,6 +10857,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Yelena_Yampolskaya"
+        },
         {
           "note": "Wikipedia (hy)",
           "url": "https://hy.wikipedia.org/wiki/Ելենա_Յամպոլսկայա"
@@ -11682,6 +11786,7 @@
     {
       "birth_date": "1962-01-25",
       "gender": "male",
+      "given_name": "Aleksandr",
       "id": "3af3a379-d669-4ea9-bf2a-7a5d167c8052",
       "identifiers": [
         {
@@ -11771,6 +11876,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Marina_Bespalova"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Беспалова,_Марина_Павловна"
@@ -12063,6 +12172,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Fedot_Tumusov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Тумусов,_Федот_Семёнович"
         },
@@ -12310,6 +12423,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Anton_Gorelkin"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Горелкин,_Антон_Вадимович"
         },
@@ -12472,7 +12589,7 @@
         },
         {
           "note": "Wikipedia (ca)",
-          "url": "https://ca.wikipedia.org/wiki/Natalia_Poklónskaya"
+          "url": "https://ca.wikipedia.org/wiki/Natàlia_Poklónskaia"
         },
         {
           "note": "Wikipedia (cs)",
@@ -13393,7 +13510,7 @@
         },
         {
           "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Valeri_Raşkin"
+          "url": "https://tr.wikipedia.org/wiki/Valeriy_Raşkin"
         },
         {
           "note": "Wikiquote (uk)",
@@ -13881,6 +13998,16 @@
         {
           "name": "Инга Альбертовна Юмашева",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Inga Albertowna Jumaschewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Inga Ioumacheva",
+          "note": "multilingual"
         },
         {
           "lang": "ru",
@@ -14419,6 +14546,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Denis_Parfenov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Парфёнов,_Денис_Андреевич"
@@ -15486,6 +15617,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Pavel_Dorokhin"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Дорохин,_Павел_Сергеевич"
         }
@@ -15542,6 +15677,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Панов,_Владимир_Александрович"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Володимир_Панов"
         }
       ],
       "name": "Панов Владимир Александрович",
@@ -15558,6 +15697,16 @@
         {
           "lang": "ru",
           "name": "Владимир Александрович Панов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Владимир Панов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Володимир Панов",
           "note": "multilingual"
         }
       ]
@@ -15682,6 +15831,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vladimir_Sysoev"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Сысоев,_Владимир_Владимирович"
@@ -15811,6 +15964,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexey_Weller"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Веллер,_Алексей_Борисович"
         }
@@ -15867,6 +16024,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Il'dar_Bikbaev"
+        },
         {
           "note": "Wikipedia (ba)",
           "url": "https://ba.wikipedia.org/wiki/Бикбаев_Илдар_Зиннур_улы"
@@ -16167,6 +16328,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Nikolay_Gonchar"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Гончар,_Николай_Николаевич"
         }
@@ -16382,6 +16547,7 @@
       "birth_date": "1955-04-30",
       "death_date": "2018-08-10",
       "gender": "male",
+      "given_name": "Alexander",
       "id": "521139a8-49f1-46ac-add4-ea7cf2a5e5e2",
       "identifiers": [
         {
@@ -16399,6 +16565,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexander_Venidiktovich_Korovnikov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Коровников,_Александр_Венидиктович"
@@ -17706,6 +17876,10 @@
           "scheme": "lnb"
         },
         {
+          "identifier": "jo2015869215",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "290501059",
           "scheme": "nta"
         },
@@ -18438,6 +18612,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Dmitry_Islamov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Исламов,_Дмитрий_Викторович"
         }
@@ -18695,7 +18873,7 @@
       "name": "Фетисов Вячеслав Александрович",
       "other_names": [
         {
-          "name": "Фетисов, Вячеслав Александрович",
+          "name": "Вячеслав Александрович Фетисов",
           "note": "alternate"
         },
         {
@@ -18765,7 +18943,7 @@
         },
         {
           "lang": "ru",
-          "name": "Фетисов, Вячеслав Александрович",
+          "name": "Вячеслав Александрович Фетисов",
           "note": "multilingual"
         },
         {
@@ -18994,6 +19172,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexander_Remezkov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Ремезков,_Александр_Александрович"
         },
@@ -19181,6 +19363,7 @@
       "birth_date": "1960-10-02",
       "family_name": "Belousov",
       "gender": "male",
+      "given_name": "Vadim",
       "id": "647d0fd4-f6ba-4be3-babf-aa1ab31a3a02",
       "identifiers": [
         {
@@ -19202,6 +19385,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vadim_Belousov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Белоусов,_Вадим_Владимирович"
@@ -19247,6 +19434,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/927/927cbcfa934a568263bb5c7ddbbe1675.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ivan_D._Grachev.jpg"
         }
       ],
       "links": [
@@ -19398,6 +19588,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Marat_Bariev"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Бариев,_Марат_Мансурович"
@@ -19648,6 +19842,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexey_Balyberdin"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Балыбердин,_Алексей_Владимирович"
         }
@@ -19869,6 +20067,10 @@
         {
           "identifier": "shargunov",
           "scheme": "livejournal"
+        },
+        {
+          "identifier": "mzk2016933384",
+          "scheme": "nkc"
         },
         {
           "identifier": "395544",
@@ -20406,6 +20608,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexander_Babakov"
+        },
+        {
           "note": "Wikinews (ru)",
           "url": "https://ru.wikinews.org/wiki/Категория:Александр_Бабаков"
         },
@@ -20708,6 +20914,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sergey_Panteleev"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Пантелеев,_Сергей_Михайлович"
@@ -21092,8 +21302,8 @@
           "url": "https://it.wikiquote.org/wiki/Marat_Safin"
         },
         {
-          "note": "website",
-          "url": "http://www.maratsafin.com/"
+          "note": "instagram",
+          "url": "flymonkeyrus"
         }
       ],
       "name": "Сафин Марат Мубинович",
@@ -21488,6 +21698,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Oxana Genrichowna Dmitrijewa",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Oksana Dmitrijeva",
           "note": "multilingual"
@@ -21587,6 +21802,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexey_Kropachev"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Кропачёв,_Александр_Сергеевич"
@@ -21940,6 +22159,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Rima Akberdinowna Batalowa",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Rima Batalova",
           "note": "multilingual"
@@ -21988,6 +22212,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexander_Pyatikop"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Пятикоп,_Александр_Иванович"
@@ -22123,6 +22351,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Grigory_Balykhin"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Балыхин,_Григорий_Артёмович"
@@ -22784,6 +23016,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexey_Tkachyov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Ткачёв,_Алексей_Николаевич"
         }
@@ -23161,6 +23397,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alfia_Kogogina"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Когогина,_Альфия_Гумаровна"
         },
@@ -23212,6 +23452,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexander_Avdeev"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Авдеев,_Александр_Александрович"
@@ -23582,6 +23826,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexander_Nekrasov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Некрасов,_Александр_Николаевич"
@@ -23999,6 +24247,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Yuriy_Berezutsky"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Березуцкий,_Юрий_Николаевич"
         }
@@ -24178,6 +24430,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vadim_Bulavinov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Булавинов,_Вадим_Евгеньевич"
@@ -24361,6 +24617,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vitaliy_Bakhmetiev"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Бахметьев,_Виталий_Викторович"
@@ -24629,6 +24889,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Igor_Stankevich"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Станкевич,_Игорь_Валентинович"
         }
@@ -24664,6 +24928,7 @@
     {
       "birth_date": "1951-01-09",
       "gender": "female",
+      "given_name": "Raisa",
       "id": "84ca8393-0335-4122-9498-62e63fef5a87",
       "identifiers": [
         {
@@ -24679,6 +24944,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/17f/17f178fa67d618961e83c6ce339bff2e.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Кармазина_Р.В.jpg"
         }
       ],
       "links": [
@@ -25111,6 +25379,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Valery_Yazev"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Язев,_Валерий_Афонасьевич"
@@ -25881,6 +26153,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Andrey_Kozenko"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Козенко,_Андрей_Дмитриевич"
         },
@@ -26403,6 +26679,11 @@
           "lang": "vi",
           "name": "Yevgeny Alekseyevich Fedorov",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "叶夫根尼·阿列克塞耶维奇·费多罗夫",
+          "note": "multilingual"
         }
       ]
     },
@@ -26820,7 +27101,7 @@
           "url": "http://www.duma.gov.ru/upload/iblock/312/31263208c2d4370b3a7bed15707a0c11.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Mikhail_Terentiev.png"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Mikhail_Terentiev_2018.jpg"
         }
       ],
       "links": [
@@ -26899,6 +27180,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Mikhail_Gulevskyi"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Гулевский,_Михаил_Владимирович"
@@ -28756,6 +29041,11 @@
           "note": "alternate"
         },
         {
+          "lang": "de",
+          "name": "Tamara Wassiljewna Pletnjowa",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Tamara Pletnyova",
           "note": "multilingual"
@@ -29001,6 +29291,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Robert_Schlegel"
+        },
+        {
           "note": "Wikinews (ru)",
           "url": "https://ru.wikinews.org/wiki/Категория:Роберт_Шлегель"
         },
@@ -29156,6 +29450,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sergey_Obuhov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Обухов,_Сергей_Павлович"
@@ -29514,6 +29812,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Boris_Chernyshov"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Boris_Chernyshov"
         },
@@ -29566,6 +29868,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Oleg_Kolesnikov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Колесников,_Олег_Алексеевич"
@@ -29765,6 +30071,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Galina_Danchikova"
+        },
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Galina_Dantšikova"
@@ -30290,7 +30600,7 @@
         },
         {
           "lang": "hu",
-          "name": "Vladímir Zhirinovski",
+          "name": "Vlagyimir Volfovics Zsirinovszkij",
           "note": "multilingual"
         },
         {
@@ -30870,6 +31180,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/260/260394d9a3ac075455e6d5e94a724a3c.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Svetlana_Solntseva.jpg"
         }
       ],
       "links": [
@@ -30951,6 +31264,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Anna_Kuvychko"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Кувычко,_Анна_Александровна"
@@ -31134,9 +31451,16 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/9e6/9e601d52bbb0c65e39f76e855b2d6c1e.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Германова_Ольга_Михайловна.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Olga_Germanova"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Германова,_Ольга_Михайловна"
@@ -31990,6 +32314,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Ruslan_Gostev"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Гостев,_Руслан_Георгиевич"
         },
@@ -32260,6 +32588,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/c6a/c6adfe5d5b27398c06b54ecba1da7c96.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Алексеева_Т.О.jpg"
         }
       ],
       "links": [
@@ -33082,9 +33413,16 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/72b/72b98b043b68d349f5604c18d8d72c2b.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Alexander_Skorobogatko.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexander_Skorobogatko"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Aleksandr_Skorobogatko"
@@ -33531,6 +33869,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/7ab/7abddd98e5511f76d81f47cd197f5f29.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Артём_Кавинов.jpg"
         }
       ],
       "links": [
@@ -33581,6 +33922,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Grigory_Anikeev"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Grigory_Anikeyev"
@@ -33722,9 +34067,16 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/cde/cde0e1eadc12b30726142f313788c702.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Gennady_Kulik.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Gennady_Kulik"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Кулик,_Геннадий_Васильевич"
@@ -33993,6 +34345,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Artem_Turov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Туров,_Артём_Викторович"
         },
@@ -34049,6 +34405,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vladimir_Blotzkiy"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Блоцкий,_Владимир_Николаевич"
@@ -35108,6 +35468,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Olga_Alimova"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Алимова,_Ольга_Николаевна"
         },
@@ -35983,6 +36347,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vladimir_Bogodukhov"
+        },
+        {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/Vladimiras_Bogoduchovas"
         },
@@ -36180,6 +36548,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Mikhail_Sheremet"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Шеремет,_Михаил_Сергеевич"
@@ -36476,6 +36848,11 @@
         {
           "name": "Елена Григорьевна Драпеко",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Jelena Grigorjewna Drapeko",
+          "note": "multilingual"
         },
         {
           "lang": "en",
@@ -37654,6 +38031,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexander_Bryksin"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Брыксин,_Александр_Юрьевич"
         }
@@ -38566,6 +38947,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alexey_Chepa"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Чепа,_Алексей_Васильевич"
         }
@@ -38778,6 +39163,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vladimir_Bokk"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Бокк,_Владимир_Владимирович"
@@ -39605,6 +39994,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Nikolay_Ryabov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Рябов,_Николай_Фёдорович"
         },
@@ -39676,6 +40069,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Mikhail_Yemelyanov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Емельянов,_Михаил_Васильевич"
@@ -40053,7 +40450,7 @@
         },
         {
           "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Anatoly_Karpov"
+          "url": "https://af.wikipedia.org/wiki/Anatoli_Karpof"
         },
         {
           "note": "Wikipedia (ar)",
@@ -41703,6 +42100,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Boris_Zubitskiy"
+        },
+        {
           "note": "Wikinews (ru)",
           "url": "https://ru.wikinews.org/wiki/Категория:Борис_Зубицкий"
         },
@@ -42404,7 +42805,9 @@
     },
     {
       "birth_date": "1971-05-05",
+      "family_name": "Morozov",
       "gender": "male",
+      "given_name": "Dmitry",
       "id": "e6d06056-e7d0-48dc-a5e9-74d6a17c827c",
       "identifiers": [
         {
@@ -42422,6 +42825,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Dmitry_Anatolyevich_Morozov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Морозов,_Дмитрий_Анатольевич"
@@ -42469,6 +42876,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Victor_Schrader"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Wiktor_Filippowitsch_Schreider"
@@ -42562,6 +42973,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Nikolay_Gerasimenko"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Герасименко,_Николай_Фёдорович"
@@ -43753,6 +44168,12 @@
     },
     {
       "birth_date": "1962-05-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Nilov_Oleg"
+        }
+      ],
       "gender": "male",
       "given_name": "Oleg",
       "id": "f2d79e8d-9cd0-409b-90b3-d14c11c64c1c",
@@ -43766,8 +44187,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "club125229728",
+          "scheme": "vkontakte"
+        },
+        {
           "identifier": "Q4321346",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UC3LNbjX3S5E0j0xMHuAbzRw",
+          "scheme": "youtube"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/696/696dff6fa2372ca902c4587a4f322899.jpg",
@@ -43783,6 +44212,14 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Нилов,_Олег_Анатольевич"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Олег-Нилов-355229364554764"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Nilov_Oleg"
         }
       ],
       "name": "Нилов Олег Анатольевич",
@@ -44183,6 +44620,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Andrey_Skoch"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Andrei_Wladimirowitsch_Skotsch"
         },
@@ -44241,6 +44682,11 @@
         {
           "lang": "ru",
           "name": "Скоч, Андрей Владимирович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Andrej Skotj",
           "note": "multilingual"
         },
         {
@@ -44326,6 +44772,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vaha_Agaev"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Агаев,_Ваха_Абуевич"
@@ -44506,6 +44956,11 @@
           "lang": "ru",
           "name": "Исаев, Михаил Александрович",
           "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Михаил Исаев",
+          "note": "multilingual"
         }
       ]
     },
@@ -44565,6 +45020,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Daniil_Bessarabov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Бессарабов,_Даниил_Владимирович"
@@ -44863,6 +45322,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Adalbi_Shhagoshev"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Шхагошев,_Адальби_Люлевич"
         }
@@ -44944,6 +45407,10 @@
         {
           "identifier": "00459072",
           "scheme": "ndl"
+        },
+        {
+          "identifier": "ola2003196351",
+          "scheme": "nkc"
         },
         {
           "identifier": "1055076",
@@ -45110,7 +45577,7 @@
         },
         {
           "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Vladislav_Tretiak"
+          "url": "https://tr.wikipedia.org/wiki/Vladislav_Tretyak"
         },
         {
           "note": "Wikipedia (uk)",
@@ -45711,6 +46178,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sergey_Katasonov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Катасонов,_Сергей_Михайлович"
         },
@@ -45814,6 +46285,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Vitaly_Efimov"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Ефимов,_Виталий_Борисович"
@@ -48606,6 +49081,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "cv",
+          "name": "Раççей Федерацин коммунизм партийĕ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "俄罗斯共产党",
           "note": "multilingual",
@@ -49180,6 +49661,12 @@
         {
           "lang": "et",
           "name": "Venemaa Liberaaldemokraatlik Partei",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cv",
+          "name": "РЛДП",
           "note": "multilingual",
           "source": "wikidata-label"
         },
