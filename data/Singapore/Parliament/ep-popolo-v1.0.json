@@ -2686,6 +2686,10 @@
           "url": "https://es.wikipedia.org/wiki/Heng_Swee_Keat"
         },
         {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Heng_Swee_Keat"
+        },
+        {
           "note": "Wikipedia (vi)",
           "url": "https://vi.wikipedia.org/wiki/Heng_Swee_Keat"
         },
@@ -9643,6 +9647,10 @@
         {
           "identifier": "00000017765",
           "scheme": "munzinger"
+        },
+        {
+          "identifier": "jx20101111002",
+          "scheme": "nkc"
         },
         {
           "identifier": "091/000111755",
@@ -17479,6 +17487,12 @@
         {
           "lang": "ur",
           "name": "پیپلز ایکشن پارٹی",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Népi Akciópárt",
           "note": "multilingual",
           "source": "wikidata-label"
         },
