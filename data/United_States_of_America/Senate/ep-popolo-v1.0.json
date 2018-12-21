@@ -3833,6 +3833,11 @@
       "name": "Mark Kirk",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "مارك كيرك",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "مارک کرک",
           "note": "multilingual"
@@ -4758,6 +4763,10 @@
           "url": "https://ast.wikipedia.org/wiki/Fred_Thompson"
         },
         {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Fred_Tomson"
+        },
+        {
           "note": "Wikipedia (azb)",
           "url": "https://azb.wikipedia.org/wiki/فرد_تامپسون"
         },
@@ -4907,6 +4916,11 @@
         {
           "lang": "ar",
           "name": "فريد تومبسون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Fred Tomson",
           "note": "multilingual"
         },
         {
@@ -9010,6 +9024,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "143953",
+          "scheme": "fast"
+        },
+        {
           "identifier": "/m/02dcc4",
           "scheme": "freebase"
         },
@@ -9886,7 +9904,7 @@
           "url": "https://theunitedstates.io/images/congress/original/A000360.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/LamarAlexander.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lamar_Alexander_official_photo.jpg"
         }
       ],
       "links": [
@@ -13958,6 +13976,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hi",
+          "name": "जेफ सेशंस",
+          "note": "multilingual"
+        },
+        {
           "lang": "hy",
           "name": "Ջեֆ Սեշնս",
           "note": "multilingual"
@@ -15696,6 +15719,10 @@
           "scheme": "selibr"
         },
         {
+          "identifier": "w6xp7sxc",
+          "scheme": "snac"
+        },
+        {
           "identifier": "034037381",
           "scheme": "sudoc"
         },
@@ -16874,6 +16901,10 @@
         {
           "identifier": "S235",
           "scheme": "lis"
+        },
+        {
+          "identifier": "mzk2005279222",
+          "scheme": "nkc"
         },
         {
           "identifier": "269/000032173",
@@ -20759,6 +20790,10 @@
           "scheme": "britannica"
         },
         {
+          "identifier": "292601443",
+          "scheme": "conor"
+        },
+        {
           "identifier": "B000063",
           "scheme": "everypolitician_legacy"
         },
@@ -20847,9 +20882,6 @@
       "images": [
         {
           "url": "https://theunitedstates.io/images/congress/original/B000063.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Howard_baker_jr.jpg"
         }
       ],
       "links": [
@@ -22650,6 +22682,10 @@
           "scheme": "ne_se"
         },
         {
+          "identifier": "vse2006327330",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "983590",
           "scheme": "nlatrove"
         },
@@ -24106,6 +24142,10 @@
         {
           "identifier": "00000019266",
           "scheme": "munzinger"
+        },
+        {
+          "identifier": "uk2007335544",
+          "scheme": "nkc"
         },
         {
           "identifier": "922150",
@@ -30546,6 +30586,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:John_Cornyn"
         },
         {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/John_Cornyn"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/John_Cornyn"
         },
@@ -31860,6 +31904,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "টম কার্পার",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Thomas Carper",
           "note": "multilingual"
@@ -32057,6 +32106,10 @@
         {
           "identifier": "edward-kennedy",
           "scheme": "ne_se"
+        },
+        {
+          "identifier": "skuk0000669",
+          "scheme": "nkc"
         },
         {
           "identifier": "35266010",
@@ -33933,6 +33986,10 @@
         {
           "identifier": "Dale Bumpers",
           "scheme": "wikipedia"
+        },
+        {
+          "identifier": "Bumpers-1",
+          "scheme": "wikitree"
         }
       ],
       "image": "https://theunitedstates.io/images/congress/original/B001057.jpg",
@@ -36244,6 +36301,10 @@
           "scheme": "lis"
         },
         {
+          "identifier": "mzk2005279445",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "065/000049915",
           "scheme": "nndb"
         },
@@ -37469,6 +37530,10 @@
         {
           "identifier": "2051",
           "scheme": "maplight"
+        },
+        {
+          "identifier": "mzk2016934740",
+          "scheme": "nkc"
         },
         {
           "identifier": "040/000136629",
@@ -38755,6 +38820,10 @@
         {
           "identifier": "S245",
           "scheme": "lis"
+        },
+        {
+          "identifier": "mzk2005279218",
+          "scheme": "nkc"
         },
         {
           "identifier": "298/000032202",
@@ -41948,6 +42017,10 @@
         {
           "note": "Wikipedia (azb)",
           "url": "https://azb.wikipedia.org/wiki/چاک_هیقل"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Чак_Хэйгел"
         },
         {
           "note": "Wikipedia (cs)",
@@ -47718,10 +47791,6 @@
           "url": "https://ta.wikipedia.org/wiki/ஜான்_மெக்கெய்ன்"
         },
         {
-          "note": "Wikipedia (te)",
-          "url": "https://te.wikipedia.org/wiki/జాన్_మెక్కెయిన"
-        },
-        {
           "note": "Wikipedia (th)",
           "url": "https://th.wikipedia.org/wiki/จอห์น_แมคเคน"
         },
@@ -47992,6 +48061,11 @@
         {
           "lang": "ta",
           "name": "ஜான் மெக்கெய்ன்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "జాన్ మెక్కెయిన",
           "note": "multilingual"
         },
         {
@@ -50816,6 +50890,10 @@
         {
           "identifier": "/m/023xsb",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "171711629",
+          "scheme": "gnd"
         },
         {
           "identifier": "kg:/m/023xsb",
@@ -55364,6 +55442,11 @@
       "name": "Tammy Baldwin",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "تامي بالدوين",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "تیمی بلدوین",
           "note": "multilingual"
@@ -55484,6 +55567,10 @@
         {
           "identifier": "596",
           "scheme": "maplight"
+        },
+        {
+          "identifier": "mzk2005279219",
+          "scheme": "nkc"
         },
         {
           "identifier": "284/000032188",
@@ -56216,6 +56303,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Harris_Wofford"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Harris_Wofford"
         },
         {
           "note": "Wikipedia (fa)",
@@ -58126,6 +58217,10 @@
         {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Mark_Udall"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Mark_Udall"
         },
         {
           "note": "Wikipedia (sv)",
@@ -67627,6 +67722,10 @@
           "scheme": "maplight"
         },
         {
+          "identifier": "mzk2005279217",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "210/000032114",
           "scheme": "nndb"
         },
@@ -67692,6 +67791,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Susan_Collins"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/سوزان_كولينز_(سياسي)"
         },
         {
           "note": "Wikipedia (da)",
@@ -68064,6 +68167,11 @@
         {
           "lang": "ja",
           "name": "ナンシー・カセバウム",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кассебаум, Нэнси",
           "note": "multilingual"
         },
         {
@@ -71511,6 +71619,10 @@
           "scheme": "lis"
         },
         {
+          "identifier": "kup19970000022204",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "A35862932",
           "scheme": "nlp"
         },
@@ -71582,10 +71694,6 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (ace)",
-          "url": "https://ace.wikipedia.org/wiki/Bob_Dole"
-        },
-        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/بوب_دول"
         },
@@ -71612,6 +71720,10 @@
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Bob_Dole"
+        },
+        {
+          "note": "Wikipedia (eml)",
+          "url": "https://eml.wikipedia.org/wiki/Bob_Dole"
         },
         {
           "note": "Wikipedia (en)",
@@ -71646,6 +71758,10 @@
           "url": "https://hu.wikipedia.org/wiki/Bob_Dole"
         },
         {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Բոբ_Դոուլ"
+        },
+        {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Bob_Dole"
         },
@@ -71664,6 +71780,10 @@
         {
           "note": "Wikipedia (mr)",
           "url": "https://mr.wikipedia.org/wiki/बॉब_डोल"
+        },
+        {
+          "note": "Wikipedia (nap)",
+          "url": "https://nap.wikipedia.org/wiki/Bob_Dole"
         },
         {
           "note": "Wikipedia (nl)",
@@ -71706,12 +71826,20 @@
           "url": "https://sw.wikipedia.org/wiki/Bob_Dole"
         },
         {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Bob_Dole"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Боб_Доул"
         },
         {
           "note": "Wikipedia (ur)",
           "url": "https://ur.wikipedia.org/wiki/باب_ڈول"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/Bob_Dole"
         },
         {
           "note": "Wikipedia (yi)",
@@ -71771,6 +71899,11 @@
         {
           "lang": "he",
           "name": "בוב דול",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Բոբ Դոուլ",
           "note": "multilingual"
         },
         {
@@ -72232,6 +72365,10 @@
         {
           "identifier": "gary-hart",
           "scheme": "ne_se"
+        },
+        {
+          "identifier": "jx20080807007",
+          "scheme": "nkc"
         },
         {
           "identifier": "417/000022351",
@@ -74551,6 +74688,10 @@
         {
           "identifier": "S150",
           "scheme": "lis"
+        },
+        {
+          "identifier": "jo2002103183",
+          "scheme": "nkc"
         },
         {
           "identifier": "233/000032137",
@@ -85725,6 +85866,10 @@
           "scheme": "lis"
         },
         {
+          "identifier": "jo20181005949",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "306/000032210",
           "scheme": "nndb"
         },
@@ -87001,6 +87146,10 @@
           "url": "https://it.wikipedia.org/wiki/Cindy_Hyde-Smith"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/신디_하이드스미스"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Хайд-Смит,_Синди"
         },
@@ -87047,6 +87196,16 @@
         {
           "lang": "he",
           "name": "סינדי הייד-סמית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "シンディ・ハイド・スミス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "신디 하이드스미스",
           "note": "multilingual"
         },
         {
@@ -88624,6 +88783,10 @@
         {
           "identifier": "300082",
           "scheme": "govtrack"
+        },
+        {
+          "identifier": "223523",
+          "scheme": "gtaa"
         },
         {
           "identifier": "20266",
@@ -91143,6 +91306,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
