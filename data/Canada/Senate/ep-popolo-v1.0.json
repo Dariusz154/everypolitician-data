@@ -4324,6 +4324,13 @@
         }
       ],
       "name": "Dennis Dawson",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "دينيس داوسون",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Dawson, Dennis"
     },
     {
@@ -4525,6 +4532,13 @@
         }
       ],
       "name": "Joan Fraser",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "جوان فريزر",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Fraser, Joan"
     },
     {
@@ -5228,6 +5242,13 @@
         }
       ],
       "name": "Betty Unger",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "بيتي أنجر",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Unger, Betty"
     },
     {
@@ -6599,6 +6620,7 @@
       "sort_name": "Marshall, Elizabeth"
     },
     {
+      "birth_date": "1947-03-18",
       "contact_details": [
         {
           "type": "email",
@@ -7513,6 +7535,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hu",
+          "name": "Kanadai Konzervatív Párt",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "加拿大改革黨",
           "note": "multilingual",
@@ -8220,6 +8248,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
