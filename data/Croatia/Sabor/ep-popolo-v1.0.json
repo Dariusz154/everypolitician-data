@@ -976,6 +976,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "js2015876101",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "266906757",
           "scheme": "viaf"
         },
@@ -4319,7 +4323,20 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44468"
         }
       ],
-      "name": "Andrija Mikulić"
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Андрія_Микулич"
+        }
+      ],
+      "name": "Andrija Mikulić",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Андрія Микулич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-06-13",
@@ -7975,6 +7992,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (azb)",
+          "url": "https://azb.wikipedia.org/wiki/برونا_اسیح"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bruna_Esih"
@@ -14514,6 +14535,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
