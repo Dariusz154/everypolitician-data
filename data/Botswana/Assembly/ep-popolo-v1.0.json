@@ -1639,6 +1639,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "4070152331605703260009",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q18618891",
           "scheme": "wikidata"
         }
@@ -1681,6 +1685,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Mokgweetsi_Masisi"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Mokgweetsi_Masisi"
         },
         {
           "note": "Wikipedia (fr)",
