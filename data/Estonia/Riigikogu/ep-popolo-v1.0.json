@@ -1243,13 +1243,17 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Barbi_Pilvre_.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/268_Barbi_volikogu_esindus_2016.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Barbi_Pilvre_.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/268_Barbi_volikogu_esindus_2016.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Barbi_Pilvre"
+        },
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Barbi_Pilvre"
@@ -3415,6 +3419,10 @@
         {
           "identifier": "0000 0000 7693 8311",
           "scheme": "isni"
+        },
+        {
+          "identifier": "jo2002101541",
+          "scheme": "nkc"
         },
         {
           "identifier": "204240352",
@@ -6002,7 +6010,14 @@
           "url": "https://twitter.com/MartNutt"
         }
       ],
-      "name": "Mart Nutt"
+      "name": "Mart Nutt",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "マルト・ヌット",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1944-02-29",
@@ -10743,6 +10758,11 @@
         {
           "lang": "ko",
           "name": "이비 엔마",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Иви Ээнмаа",
           "note": "multilingual"
         }
       ]
