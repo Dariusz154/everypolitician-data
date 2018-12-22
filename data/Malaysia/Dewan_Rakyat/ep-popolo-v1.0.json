@@ -1171,6 +1171,10 @@
           "scheme": "fast"
         },
         {
+          "identifier": "135056",
+          "scheme": "gtaa"
+        },
+        {
           "identifier": "0000 0000 2142 353X",
           "scheme": "isni"
         },
@@ -2589,6 +2593,10 @@
           "url": "https://ms.wikipedia.org/wiki/Fatimah_Hashim"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Фатима_Хашим"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Fatimah_Hashim"
         },
@@ -2720,7 +2728,7 @@
       "name": "Tengku Putera Tengku Awang"
     },
     {
-      "birth_date": "1970",
+      "birth_date": "1970-03-08",
       "gender": "male",
       "id": "122a9d8f-6509-4f5b-b6d2-d7d33f2636d6",
       "identifiers": [
@@ -6265,7 +6273,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/哥巴拉克里斯南"
+          "url": "https://zh.wikipedia.org/wiki/哥巴拉克里斯南·纳加班"
         },
         {
           "note": "wikipedia",
@@ -6504,7 +6512,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/罗纳"
+          "url": "https://zh.wikipedia.org/wiki/罗纳·建迪"
         },
         {
           "note": "wikipedia",
@@ -10095,6 +10103,7 @@
       "name": "Fatimah Abdul Majid"
     },
     {
+      "birth_date": "1963-07-07",
       "gender": "male",
       "given_name": "Othman",
       "id": "458bd56f-4428-4122-91ae-7338040fa8da",
@@ -14021,7 +14030,7 @@
       "name": "Seah Teng Ngiab"
     },
     {
-      "birth_date": "1972",
+      "birth_date": "1972-02-21",
       "gender": "male",
       "given_name": "Tan",
       "id": "60ee90e9-274e-4859-9349-36cc0fc6ef21",
@@ -15026,22 +15035,40 @@
       "id": "69c0af68-ab2d-498a-8362-ec71a44c5e7a",
       "identifiers": [
         {
+          "identifier": "90679447",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "abdullah_md_zin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "110550364X",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0000 3786 0646",
           "scheme": "isni"
         },
         {
+          "identifier": "00430871",
+          "scheme": "ndl"
+        },
+        {
+          "identifier": "074832964",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "183451600",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "26369546",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q4666035",
           "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/AB_April_2008.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/AB_April_2008.jpg"
         }
       ],
       "links": [
@@ -15857,6 +15884,7 @@
       ]
     },
     {
+      "birth_date": "1941-10-01",
       "gender": "male",
       "given_name": "Leo",
       "id": "715f6533-6afe-45af-ba4c-10ce04bc8876",
@@ -23300,6 +23328,10 @@
       "id": "aa6cc641-ffa0-4747-8c23-931768e02062",
       "identifiers": [
         {
+          "identifier": "DA17685413",
+          "scheme": "cinii"
+        },
+        {
           "identifier": "muhyiddin_yassin",
           "scheme": "everypolitician_legacy"
         },
@@ -23322,6 +23354,10 @@
         {
           "identifier": "n89219864",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "355604051",
+          "scheme": "nta"
         },
         {
           "identifier": "person/muhyiddin-yassin",
@@ -23407,6 +23443,11 @@
         {
           "lang": "fa",
           "name": "موحیددین یاسین",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מוחין יאסין",
           "note": "multilingual"
         },
         {
@@ -27909,6 +27950,10 @@
           "url": "https://ms.wikipedia.org/wiki/Zainuddin_bin_Maidin"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Зайнуддин_Майдин"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Zainuddin_Maidin"
         }
@@ -31080,7 +31125,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/马诺哈兰"
+          "url": "https://zh.wikipedia.org/wiki/马诺加兰"
         },
         {
           "note": "wikipedia",
@@ -32197,6 +32242,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Mahathir_Mohamad"
+        },
+        {
+          "note": "Wikinews (en)",
+          "url": "https://en.wikinews.org/wiki/Category:Mahathir_Mohamad"
         },
         {
           "note": "Wikinews (ru)",
@@ -35266,7 +35315,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/阿都拉欣巴克里"
+          "url": "https://zh.wikipedia.org/wiki/阿都拉欣·巴克里"
         },
         {
           "note": "wikipedia",
@@ -35516,7 +35565,7 @@
       "name": "Ting Ming Kiong"
     },
     {
-      "birth_date": "1914",
+      "birth_date": "1914-08-21",
       "death_date": "1977-01-14",
       "gender": "male",
       "given_name": "Syed",
@@ -36948,6 +36997,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
