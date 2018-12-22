@@ -1417,6 +1417,28 @@
       "sort_name": "Maltais, Ghislain"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Rosemary.Moodie@sen.parl.gc.ca"
+        },
+        {
+          "type": "phone",
+          "value": "613-944-3453"
+        }
+      ],
+      "email": "Rosemary.Moodie@sen.parl.gc.ca",
+      "id": "4c559a70-ffd6-4a3b-9908-850a58379c96",
+      "image": "https://sencanada.ca/media/363781/sen_large.jpg",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/363781/sen_large.jpg"
+        }
+      ],
+      "name": "Rosemary Moodie",
+      "sort_name": "Moodie, Rosemary"
+    },
+    {
       "birth_date": "1948-05-12",
       "contact_details": [
         {
@@ -2519,6 +2541,28 @@
       ],
       "name": "Mary Coyle",
       "sort_name": "Coyle, Mary"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "MargaretDawn.Anderson@sen.parl.gc.ca"
+        },
+        {
+          "type": "phone",
+          "value": "613-944-3453"
+        }
+      ],
+      "email": "MargaretDawn.Anderson@sen.parl.gc.ca",
+      "id": "6ded91a9-ef73-458d-85c4-9c90f063a503",
+      "image": "https://sencanada.ca/media/363751/sen_large.jpg",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/363751/sen_large.jpg"
+        }
+      ],
+      "name": "Margaret Dawn Anderson",
+      "sort_name": "Anderson, Margaret Dawn"
     },
     {
       "birth_date": "1952-04-06",
@@ -3826,6 +3870,28 @@
       "sort_name": "Tardif, Claudette"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Stanley.Kutcher@sen.parl.gc.ca"
+        },
+        {
+          "type": "phone",
+          "value": "613-944-3453"
+        }
+      ],
+      "email": "Stanley.Kutcher@sen.parl.gc.ca",
+      "id": "8f20ebda-b495-4690-8348-0639b72cdb6a",
+      "image": "https://sencanada.ca/media/363771/sen_large.jpg",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/363771/sen_large.jpg"
+        }
+      ],
+      "name": "Stanley Paul Kutcher",
+      "sort_name": "Kutcher, Stanley Paul"
+    },
+    {
       "birth_date": "1959-02-21",
       "contact_details": [
         {
@@ -3981,6 +4047,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/senatorboyer"
+        },
+        {
+          "note": "website",
+          "url": "http://senatorboyer.ca/"
         }
       ],
       "name": "Yvonne Boyer",
@@ -4327,6 +4397,28 @@
       "sort_name": "Dawson, Dennis"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Pat.Duncan@sen.parl.gc.ca"
+        },
+        {
+          "type": "phone",
+          "value": "613-944-3453"
+        }
+      ],
+      "email": "Pat.Duncan@sen.parl.gc.ca",
+      "id": "a06d0258-2139-46d1-8afa-2b53e7ac6233",
+      "image": "https://sencanada.ca/media/363761/sen_large.jpg",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/363761/sen_large.jpg"
+        }
+      ],
+      "name": "Patricia Jane Duncan",
+      "sort_name": "Duncan, Patricia Jane"
+    },
+    {
       "birth_date": "1951-08-23",
       "contact_details": [
         {
@@ -4335,11 +4427,11 @@
         },
         {
           "type": "fax",
-          "value": "613-992-7959"
+          "value": "613-943-7657"
         },
         {
           "type": "phone",
-          "value": "613-944-3453"
+          "value": "613-943-7930"
         }
       ],
       "email": "Bev.Busson@sen.parl.gc.ca",
@@ -5049,11 +5141,11 @@
         },
         {
           "type": "fax",
-          "value": "613-992-7959"
+          "value": "613-943-8267"
         },
         {
           "type": "phone",
-          "value": "613-944-3453"
+          "value": "613-943-8242"
         }
       ],
       "email": "Paula.Simons@sen.parl.gc.ca",
@@ -5564,6 +5656,10 @@
         {
           "type": "phone",
           "value": "613-943-3688"
+        },
+        {
+          "type": "twitter",
+          "value": "DalphondPierre"
         }
       ],
       "email": "PierreJ.Dalphond@sen.parl.gc.ca",
@@ -5584,6 +5680,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Pierre_Dalphond"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DalphondPierre"
         }
       ],
       "name": "Pierre J. Dalphond",
@@ -9036,6 +9136,19 @@
       ]
     },
     {
+      "area_id": "ontario_(ontario)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+      "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
+      "person_id": "4c559a70-ffd6-4a3b-9908-850a58379c96",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://sencanada.ca/en/senators/moodie-rosemary/"
+        }
+      ]
+    },
+    {
       "area_id": "newfoundland_and_labrador_(newfoundland_and_labrador)",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
@@ -9267,6 +9380,19 @@
       "sources": [
         {
           "url": "https://sencanada.ca/en/senators/coyle-mary/"
+        }
+      ]
+    },
+    {
+      "area_id": "northwest_territories_(northwest_territories)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+      "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
+      "person_id": "6ded91a9-ef73-458d-85c4-9c90f063a503",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://sencanada.ca/en/senators/anderson-margaret/"
         }
       ]
     },
@@ -9507,6 +9633,19 @@
       ]
     },
     {
+      "area_id": "nova_scotia_(nova_scotia)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+      "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
+      "person_id": "8f20ebda-b495-4690-8348-0639b72cdb6a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://sencanada.ca/en/senators/kutcher-stanley/"
+        }
+      ]
+    },
+    {
       "area_id": "ontario_(ontario)",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "f0c19e49-d83b-4296-9c1f-93c27b079073",
@@ -9607,6 +9746,19 @@
       "sources": [
         {
           "url": "https://sencanada.ca/en/senators/dawson-dennis/"
+        }
+      ]
+    },
+    {
+      "area_id": "yukon_(yukon)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+      "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
+      "person_id": "a06d0258-2139-46d1-8afa-2b53e7ac6233",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://sencanada.ca/en/senators/duncan-patricia/"
         }
       ]
     },
@@ -10141,7 +10293,7 @@
     {
       "area_id": "british_columbia_(british_columbia)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "31c6ca10-22a1-4157-b33e-5b80bc8fa15b",
+      "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "ec27bc66-3d98-4577-8b7e-33828e6cf553",
       "role": "member",
