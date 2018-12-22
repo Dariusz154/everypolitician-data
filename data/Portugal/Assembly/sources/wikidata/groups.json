@@ -792,24 +792,6 @@
       },
       {
         "lang": "pt",
-        "name": "Cds",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "pt",
-        "name": "Cds-pp",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "pt",
-        "name": "Cds/pp",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "pt",
         "name": "Centro democrático social",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -2425,24 +2407,6 @@
       },
       {
         "lang": "pt",
-        "name": "Cds",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "pt",
-        "name": "Cds-pp",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "pt",
-        "name": "Cds/pp",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "pt",
         "name": "Centro democrático social",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -3313,6 +3277,12 @@
       {
         "lang": "vec",
         "name": "Poidego independente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bn",
+        "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
