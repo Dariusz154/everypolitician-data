@@ -273,6 +273,11 @@
           "lang": "nl",
           "name": "Micheal Zondani Katambo",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Micheal Zondani Katambo",
+          "note": "multilingual"
         }
       ]
     },
@@ -4003,6 +4008,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Guy_Scott"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/غاي_سكوت"
+        },
+        {
           "note": "Wikipedia (ast)",
           "url": "https://ast.wikipedia.org/wiki/Guy_Scott"
         },
@@ -5549,6 +5558,11 @@
         },
         {
           "lang": "nl",
+          "name": "Ronald Kaoma Chitotela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Ronald Kaoma Chitotela",
           "note": "multilingual"
         }
@@ -7387,6 +7401,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -8025,12 +8045,6 @@
           "source": "wikidata-label"
         },
         {
-          "lang": "de",
-          "name": "Patriotic Front (Sambia)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
           "lang": "ja",
           "name": "愛国戦線 (ザンビア)",
           "note": "multilingual",
@@ -8075,6 +8089,12 @@
         {
           "lang": "tr",
           "name": "Yurtsever Cephe",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte Patriottico (Zambia)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
