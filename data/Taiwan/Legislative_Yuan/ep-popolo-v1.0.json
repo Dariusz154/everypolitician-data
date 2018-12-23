@@ -668,6 +668,9 @@
       "images": [
         {
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90117.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/立法委員邱泰源.jpg"
         }
       ],
       "links": [
@@ -1505,7 +1508,7 @@
       "links": [
         {
           "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Johnny_Chi-Chen_Chiang"
+          "url": "https://commons.wikimedia.org/wiki/Category:Johnny_Chiang_Chi-chen"
         },
         {
           "note": "Wikipedia (en)",
@@ -1862,7 +1865,7 @@
       "links": [
         {
           "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Su_Chia-chyuan"
+          "url": "https://commons.wikimedia.org/wiki/Category:Su_Jia-chyuan"
         },
         {
           "note": "Wikipedia (de)",
@@ -1870,7 +1873,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Su_Chia-chyuan"
+          "url": "https://en.wikipedia.org/wiki/Su_Jia-chyuan"
         },
         {
           "note": "Wikipedia (ja)",
@@ -1904,13 +1907,8 @@
           "note": "alternate"
         },
         {
-          "lang": "de",
-          "name": "Su Jia-chyuan",
-          "note": "multilingual"
-        },
-        {
           "lang": "en",
-          "name": "Su Chia-chyuan",
+          "name": "Su Jia-chyuan",
           "note": "multilingual"
         },
         {
@@ -7755,6 +7753,10 @@
           "url": "https://zh_min_nan.wikipedia.org/wiki/Tân_Kî-māi"
         },
         {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/陳其邁"
+        },
+        {
           "note": "Wikiquote (zh)",
           "url": "https://zh.wikiquote.org/wiki/陳其邁"
         }
@@ -8497,7 +8499,7 @@
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90054.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/立委张丽善.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/張委員麗善_(第九屆).jpg"
         }
       ],
       "links": [
@@ -8631,7 +8633,7 @@
           "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90047.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/立法委員徐榛蔚.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/徐委員榛蔚_(第九屆).jpg"
         }
       ],
       "links": [
@@ -10427,6 +10429,10 @@
           "url": "https://ja.wikipedia.org/wiki/黄国昌"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/황궈창"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/黃國昌"
         },
@@ -10453,6 +10459,11 @@
         {
           "lang": "ja",
           "name": "黄国昌",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "황궈창",
           "note": "multilingual"
         },
         {
@@ -13732,6 +13743,12 @@
         {
           "lang": "ms",
           "name": "Parti Dekat dengan Rakyat",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Primero el Pueblo",
           "note": "multilingual",
           "source": "wikidata-label"
         },
