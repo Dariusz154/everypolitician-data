@@ -8009,6 +8009,25 @@
       "patronymic_name": "Олегович"
     },
     {
+      "family_name": "Куренной",
+      "given_name": "Володимир",
+      "id": "46f9858b-14bd-4918-900e-b1fbeb4082df",
+      "identifiers": [
+        {
+          "identifier": "8802",
+          "scheme": "verkhovna_rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/bp86.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp86.jpg"
+        }
+      ],
+      "name": "Куренной Володимир Костянтинович",
+      "patronymic_name": "Костянтинович"
+    },
+    {
       "birth_date": "1980-10-24",
       "family_name": "Македон",
       "gender": "male",
@@ -36761,6 +36780,7 @@
     },
     {
       "area_id": "Загальнодержавному_багатомандатному_округу",
+      "end_date": "2018-11-22",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2613",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
@@ -37081,6 +37101,15 @@
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "469c86c0-ca63-48ee-9f38-2439dc430a83",
       "role": "member"
+    },
+    {
+      "area_id": "Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "46f9858b-14bd-4918-900e-b1fbeb4082df",
+      "role": "member",
+      "start_date": "2018-12-04"
     },
     {
       "area_id": "16",
