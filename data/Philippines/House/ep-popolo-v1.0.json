@@ -464,6 +464,11 @@
           "lang": "nl",
           "name": "Jose Atienza jr.",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Jose Atienza mlajši",
+          "note": "multilingual"
         }
       ]
     },
@@ -1552,6 +1557,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sl",
+          "name": "Prospero Pichay mlajši",
+          "note": "multilingual"
+        },
+        {
           "lang": "tl",
           "name": "Prospero Pichay Jr.",
           "note": "multilingual"
@@ -1569,6 +1579,7 @@
       "name": "Austria Barzaga, Jennifer"
     },
     {
+      "birth_date": "1976-09-03",
       "contact_details": [
         {
           "type": "twitter",
@@ -3262,6 +3273,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sl",
+          "name": "Vincent \"Bingbong\" Crisologo",
+          "note": "multilingual"
+        },
+        {
           "lang": "tl",
           "name": "Vincent Crisologo",
           "note": "multilingual"
@@ -3621,6 +3637,10 @@
           "url": "https://kk.wikipedia.org/wiki/Глория_Макапагал-Арройо"
         },
         {
+          "note": "Wikipedia (kn)",
+          "url": "https://kn.wikipedia.org/wiki/ಗ್ಲೋರಿಯ_ಮಾಕಪಾಗಲ್-ಅರ್ರೋಯೊ"
+        },
+        {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/글로리아_마카파갈아로요"
         },
@@ -3851,6 +3871,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "kn",
+          "name": "ಗ್ಲೋರಿಯ ಮಾಕಪಾಗಲ್-ಅರ್ರೋಯೊ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "글로리아 마카파갈아로요",
           "note": "multilingual"
@@ -4034,6 +4059,11 @@
         {
           "lang": "en",
           "name": "Samuel Pagdilao, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Samuel Pagdilao mlajši",
           "note": "multilingual"
         }
       ]
@@ -4256,6 +4286,11 @@
         {
           "lang": "en",
           "name": "Niel Tupas, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Niel Tupas mlajši",
           "note": "multilingual"
         },
         {
@@ -4498,7 +4533,7 @@
     {
       "birth_date": "1975-02-05",
       "gender": "male",
-      "given_name": "Felix",
+      "given_name": "Felix William",
       "id": "550f3e33-0ee9-4e78-b94c-57d911796540",
       "identifiers": [
         {
@@ -5668,6 +5703,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sl",
+          "name": "Martin Romualdez",
+          "note": "multilingual"
+        },
+        {
           "lang": "th",
           "name": "มาร์ติน โรมวัลเดซ",
           "note": "multilingual"
@@ -5692,6 +5732,7 @@
       "name": "Señeres, Roy Sr. V."
     },
     {
+      "birth_date": "1949-07-21",
       "gender": "male",
       "given_name": "Ramon",
       "id": "73528348-43f7-476b-af25-0330fe10d3eb",
@@ -5875,6 +5916,16 @@
         {
           "lang": "nl",
           "name": "Bella Angara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Bella Angara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Белла Ангара",
           "note": "multilingual"
         }
       ]
@@ -6242,6 +6293,11 @@
         {
           "lang": "en",
           "name": "Elpidio Barzaga, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Elpidio Barzaga mlajši",
           "note": "multilingual"
         },
         {
@@ -6732,6 +6788,11 @@
         {
           "lang": "nl",
           "name": "Teddy Baguilat jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Teddy Baguilat mlajši",
           "note": "multilingual"
         }
       ]
@@ -7408,6 +7469,11 @@
           "lang": "nl",
           "name": "Raul A. Daza",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Raul A. Daza",
+          "note": "multilingual"
         }
       ]
     },
@@ -7770,6 +7836,11 @@
         },
         {
           "lang": "nl",
+          "name": "Ace Durano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Ace Durano",
           "note": "multilingual"
         }
@@ -8775,6 +8846,10 @@
           "url": "https://ms.wikipedia.org/wiki/Imelda_Marcos"
         },
         {
+          "note": "Wikipedia (mzn)",
+          "url": "https://mzn.wikipedia.org/wiki/ایملدا_مارکوس"
+        },
+        {
           "note": "Wikipedia (nds)",
           "url": "https://nds.wikipedia.org/wiki/Imelda_Marcos"
         },
@@ -9604,6 +9679,11 @@
           "lang": "pag",
           "name": "Amado Espino",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Amado Espino mlajši",
+          "note": "multilingual"
         }
       ]
     },
@@ -10108,6 +10188,11 @@
         {
           "lang": "en",
           "name": "Jun Chipeco, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Jun Chipeco mlajši",
           "note": "multilingual"
         }
       ]
@@ -10875,6 +10960,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sl",
+          "name": "Rolando Andaya mlajši",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Rolando Andaya Jr.",
           "note": "multilingual"
@@ -11087,7 +11177,7 @@
           "url": "http://www.congress.gov.ph/members/images/16th/belmonte-f.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Philippine_House_Speaker_Feliciano_Belmonte.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Feliciano_Belmonte_Jr_-_2016_(cropped).jpg"
         }
       ],
       "links": [
@@ -11140,6 +11230,11 @@
         {
           "lang": "nl",
           "name": "Feliciano Belmonte jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Feliciano Belmonte mlajši",
           "note": "multilingual"
         },
         {
