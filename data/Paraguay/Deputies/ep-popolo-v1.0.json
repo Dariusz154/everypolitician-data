@@ -1389,7 +1389,7 @@
     {
       "family_name": "Alliana Rodríguez",
       "gender": "male",
-      "given_name": "Pedro",
+      "given_name": "Peyuco",
       "id": "985f1e6c-6937-465e-b7d6-2532385948fd",
       "identifiers": [
         {
@@ -2454,6 +2454,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "mk",
+          "name": "Колорадо (Парагвај)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "ru",
           "name": "Колорадо",
           "note": "multilingual",
@@ -2680,6 +2686,12 @@
         {
           "lang": "el",
           "name": "Κόμμα Κολοράδο",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "mk",
+          "name": "Колорадо (Парагвај)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -3267,6 +3279,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
