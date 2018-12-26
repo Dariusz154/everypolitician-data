@@ -22294,6 +22294,21 @@
       "sort_name": "Schüle, Kurt"
     },
     {
+      "birth_date": "1992-08-02",
+      "family_name": "Egger",
+      "gender": "male",
+      "given_name": "Mike",
+      "id": "68eed765-79b6-40d2-b99a-66d092eb6d32",
+      "identifiers": [
+        {
+          "identifier": "4229",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Mike Egger",
+      "sort_name": "Egger, Mike"
+    },
+    {
       "birth_date": "1960-07-19",
       "family_name": "Friedl",
       "gender": "female",
@@ -49414,6 +49429,21 @@
       "sort_name": "Menétrey-Savary, Anne-Catherine"
     },
     {
+      "birth_date": "1994-01-23",
+      "family_name": "Marti",
+      "gender": "female",
+      "given_name": "Samira",
+      "id": "e3f8ec8f-af82-4a34-aa28-fd2d2da1e211",
+      "identifiers": [
+        {
+          "identifier": "4228",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Samira Marti",
+      "sort_name": "Marti, Samira"
+    },
+    {
       "birth_date": "1914-06-26",
       "family_name": "Frick",
       "gender": "male",
@@ -71880,6 +71910,20 @@
     },
     {
       "area_id": "SG",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "4",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "68eed765-79b6-40d2-b99a-66d092eb6d32",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4229"
+        }
+      ],
+      "start_date": "2019-03-04"
+    },
+    {
+      "area_id": "SG",
       "legislative_period_id": "term/49",
       "on_behalf_of_id": "2",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -76505,6 +76549,7 @@
     },
     {
       "area_id": "SG",
+      "end_date": "2018-12-31",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "4",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -91854,6 +91899,20 @@
       "start_date": "2005-11-19"
     },
     {
+      "area_id": "BL",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "2",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "e3f8ec8f-af82-4a34-aa28-fd2d2da1e211",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4228"
+        }
+      ],
+      "start_date": "2018-12-10"
+    },
+    {
       "area_id": "SG",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "1",
@@ -96406,6 +96465,7 @@
     },
     {
       "area_id": "VS",
+      "end_date": "2018-12-31",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "3",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
