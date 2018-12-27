@@ -846,7 +846,7 @@
       "email": "richard.ronan@gov.im",
       "family_name": "Ronan",
       "gender": "male",
-      "given_name": "Richard",
+      "given_name": "Roberto pvtito",
       "id": "a16f6590-349c-4014-b547-b3df1876c95c",
       "identifiers": [
         {
@@ -1638,6 +1638,12 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
