@@ -900,7 +900,7 @@
     {
       "birth_date": "1949-06-14",
       "gender": "male",
-      "given_name": "Richard",
+      "given_name": "Roberto pvtito",
       "id": "97493742-d770-410c-a1ca-91fe8f171ca2",
       "identifiers": [
         {
@@ -1800,6 +1800,12 @@
         {
           "lang": "sk",
           "name": "Gabonská demokratická strana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Democràtic Gabonès",
           "note": "multilingual",
           "source": "wikidata-label"
         },
